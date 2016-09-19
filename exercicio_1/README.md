@@ -1,6 +1,6 @@
 # Exercício 1
 
-** Data de entrega: ** 26/9, as 7:00 (da manha). 
+**Data de entrega:** 26/9, as 7:00 (da manha). 
 
 Leia os dados do arquivo [data1.csv](http://www.ic.unicamp.br/~wainer/cursos/2s2016/ml/data1.csv) A classe de cada dado é o valor da última coluna (0 ou 1).
 
