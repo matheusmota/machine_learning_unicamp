@@ -14,6 +14,7 @@ import pandas as pd
 
 from sklearn.decomposition import PCA
 from sklearn.linear_model import LogisticRegression
+from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 
 # input_file = "./Documents/machine_learning_unicamp/exercicio_1/data.csv"
 
@@ -91,7 +92,7 @@ df_training_set_reduced = pca.transform(df_training_set) # Array != Data Frame
 
 
 
-# ---------------- Logistic Regression over the training set -----------------
+# ------------------------- Logistic Regression ------------------------------
 
 # Getting the 'clase' result for the training data
 results_training_set = df.iloc[0:ntraining_rows,ncolumns_without_class:ncolumns]
@@ -114,3 +115,18 @@ df_test_set_reduced = pca.transform(df_test_set)
 
 model_with_pca.score(df_test_set_reduced, results_test_set) # 0.80072
 model_without_pca.score(df_test_set, results_test_set) # 0.79710
+
+
+
+# ---------------------- Linear Discriminant Analysis ------------------------
+
+
+lda_model_with_pca = LinearDiscriminantAnalysis()
+lda_model_with_pca.fit(df_training_set_reduced, results_training_set)
+
+lda_model_without_pca = LinearDiscriminantAnalysis()
+lda_model_without_pca.fit(df_training_set, results_training_set)
+
+# Testing the LDA model accuracy with the test dataset
+lda_model_with_pca.score(df_test_set_reduced, results_test_set) # 0.77898
+lda_model_without_pca.score(df_test_set, results_test_set) # 0.67753
