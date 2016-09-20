@@ -102,9 +102,9 @@ model_with_pca = LogisticRegression().fit(df_training_set_reduced, results_train
 model_without_pca = LogisticRegression().fit(df_training_set, results_training_set)
 
 # Getting the test data frame
-df_test_set = df.iloc[(ntraining_rows + 1): (ntest_rows + ntraining_rows), 0:ncolumns_without_class]
+df_test_set = df.iloc[ntraining_rows: (ntest_rows + ntraining_rows), 0:ncolumns_without_class]
 
-results_test_set = df.iloc[(ntraining_rows + 1): (ntest_rows + ntraining_rows),ncolumns_without_class:ncolumns]
+results_test_set = df.iloc[ntraining_rows: (ntest_rows + ntraining_rows),ncolumns_without_class:ncolumns]
 results_test_set = np.ravel(results_test_set) # convert column vector to vector
 
 # Getting the model accuracy in the test data
@@ -112,5 +112,5 @@ pca = PCA(n_components= ncomp)
 pca.fit(df_training_set)
 df_test_set_reduced = pca.transform(df_test_set)
 
-model_with_pca.score(df_test_set_reduced, results_test_set) # 0.8000
-model_without_pca.score(df_test_set, results_test_set) # 0.7963
+model_with_pca.score(df_test_set_reduced, results_test_set) # 0.80072
+model_without_pca.score(df_test_set, results_test_set) # 0.79710
