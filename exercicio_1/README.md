@@ -22,7 +22,7 @@ Regressão logística em R é feito pela função [glm](http://www.rdocumentatio
 
 LDA é feito pela função [lda](http://www.rdocumentation.org/packages/MASS/versions/7.3-45/topics/lda) do pacote MASS. [predict.lda](http://www.rdocumentation.org/packages/MASS/versions/7.3-45/topics/predict.lda) para obter o resultado do modelo em dados novos.
 
-Note que povavelmente a forma de chamada do glm e do lda não é a mesma, e acho que uma delas espera o atributo de saida numérico (0 e 1), e a outra espera um atributo categorico (chamado de factor em R.
+Note que povavelmente a forma de chamada do glm e do lda não é a mesma, e acho que uma delas espera o atributo de saida numérico (0 e 1), e a outra espera um atributo categorico (chamado de factor em R).
 
 ## Detalhes em Python
 
