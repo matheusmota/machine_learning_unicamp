@@ -45,6 +45,8 @@ df = pd.read_csv('http://www.ic.unicamp.br/~wainer/cursos/2s2016/ml/data1.csv')
 
 
 
+# ----------------------Transforming the data --------------------------------
+
 # Getting the dataframe sizes
 
 # In numpy
@@ -53,11 +55,6 @@ df = pd.read_csv('http://www.ic.unicamp.br/~wainer/cursos/2s2016/ml/data1.csv')
 
 # In pandas
 ncolumns = len(df.columns) # 167 columns
-
-
-
-# ------------------ Getting the PCA in the training set ---------------------
-
 ncolumns_without_class = ncolumns - 1 # 166 columns
 ntraining_rows = 200
 ntest_rows = 276
@@ -67,6 +64,22 @@ df_without_class = df.iloc[:, 0:ncolumns_without_class]
 
 # Getting the training set from the first 200 lines
 df_training_set = df_without_class[0:ntraining_rows]
+
+# Getting the test set from the last 276 lines
+df_test_set = df.iloc[ntraining_rows: (ntest_rows + ntraining_rows), 0:ncolumns_without_class]
+
+# Getting the 'clase' result for the training data
+results_training_set = df.iloc[0:ntraining_rows,ncolumns_without_class:ncolumns]
+results_training_set = np.ravel(results_training_set) # convert column vector to vector
+
+# Getting the 'clase' result for the test data
+results_test_set = df.iloc[ntraining_rows: (ntest_rows + ntraining_rows),ncolumns_without_class:ncolumns]
+results_test_set = np.ravel(results_test_set) # convert column vector to vector
+
+
+
+
+# ------------------ Getting the PCA in the training set ---------------------
 
 # Applying the PCA
 pca = PCA(n_components= ncolumns_without_class)
@@ -84,35 +97,27 @@ for i in range(0, ncolumns_without_class):
     if(variance_acum[i] >= var_max):
         ncomp = i + 1 # For this training data set ncomp = 12
         break
-    
-# Applying the dimensionality reduction based on the variance
+
+# Applying the dimensionality reduction based on the variance for the training data
 pca = PCA(n_components= ncomp)
 pca.fit(df_training_set)
 df_training_set_reduced = pca.transform(df_training_set) # Array != Data Frame
+    
+# Applying the dimensionality reduction based on the variance for the test data
+pca = PCA(n_components= ncomp)
+pca.fit(df_training_set)
+df_test_set_reduced = pca.transform(df_test_set) # Array != Data Frame
 
 
 
 # ------------------------- Logistic Regression ------------------------------
 
-# Getting the 'clase' result for the training data
-results_training_set = df.iloc[0:ntraining_rows,ncolumns_without_class:ncolumns]
-results_training_set = np.ravel(results_training_set) # convert column vector to vector
-
 # setting up the regression models with and without PCA
 model_with_pca = LogisticRegression().fit(df_training_set_reduced, results_training_set)
 model_without_pca = LogisticRegression().fit(df_training_set, results_training_set)
 
-# Getting the test data frame
-df_test_set = df.iloc[ntraining_rows: (ntest_rows + ntraining_rows), 0:ncolumns_without_class]
 
-results_test_set = df.iloc[ntraining_rows: (ntest_rows + ntraining_rows),ncolumns_without_class:ncolumns]
-results_test_set = np.ravel(results_test_set) # convert column vector to vector
-
-# Getting the model accuracy in the test data
-pca = PCA(n_components= ncomp)
-pca.fit(df_training_set)
-df_test_set_reduced = pca.transform(df_test_set)
-
+# Testing
 model_with_pca.score(df_test_set_reduced, results_test_set) # 0.80072
 model_without_pca.score(df_test_set, results_test_set) # 0.79710
 
@@ -120,7 +125,7 @@ model_without_pca.score(df_test_set, results_test_set) # 0.79710
 
 # ---------------------- Linear Discriminant Analysis ------------------------
 
-
+# Setting up the LDA with and without PCA
 lda_model_with_pca = LinearDiscriminantAnalysis()
 lda_model_with_pca.fit(df_training_set_reduced, results_training_set)
 
