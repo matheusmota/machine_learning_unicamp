@@ -22,7 +22,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 ```
 
-Existem muitas maneiras de abrir o arquivo csv com os dados, mas neste caso vamos usar pandas para obter of dataframe diretamente desde a URL.
+Existem muitas maneiras de abrir o arquivo csv com os dados, mas neste caso vamos usar pandas para obter o dataframe diretamente desde a URL.
 
 
 ```python
@@ -83,6 +83,7 @@ for i in range(0, ncolumns_without_class):
         ncomp = i + 1 # For this training data set ncomp = 12
         break
 
+print('Número de componentes no PCA: ', ncomp)
     
 # Applying the dimensionality reduction based on the variance for the training data
 pca = PCA(n_components= ncomp)
@@ -95,8 +96,11 @@ pca.fit(df_training_set)
 df_test_set_reduced = pca.transform(df_test_set)
 ```
 
+    Número de componentes no PCA:  12
+
+
 ## Regressão Logística
-Um método de classificação executado sobre o conjunto de dados com o PCA e sobre os dados sem PCA.
+Um método de classificação executado sobre o conjunto de dados com o PCA e sobre os dados sem o PCA.
 
 
 ```python
@@ -110,16 +114,16 @@ score_rl_pca = model_with_pca.score(df_test_set_reduced, results_test_set) # 0.8
 score_rl_no_pca = model_without_pca.score(df_test_set, results_test_set) # 0.79710
 
 # Print
-print ('Acurácia Regresão Logística com PCA: ', score_rl_pca)
-print ('Acurácia Regresão Logística sem PCA: ', score_rl_no_pca)
+print ('Acurácia Regressão Logística com PCA: ', score_rl_pca)
+print ('Acurácia Regressão Logística sem PCA: ', score_rl_no_pca)
 ```
 
-    Acurácia Regresão Logística com PCA:  0.800724637681
-    Acurácia Regresão Logística sem PCA:  0.797101449275
+    Acurácia Regressão Logística com PCA:  0.800724637681
+    Acurácia Regressão Logística sem PCA:  0.797101449275
 
 
 ## Linear Discriminant Analysis (LDA)
-Outro método de classificação executado sobre o conjunto de dados com o PCA e sobre os dados sem PCA.
+Outro método de classificação executado sobre o conjunto de dados com o PCA e sobre os dados sem o PCA.
 
 
 ```python
