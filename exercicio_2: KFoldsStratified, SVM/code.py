@@ -51,37 +51,37 @@ optimal_c = 0
 final_accuracy = 0
 
 # Define the external K-Fold Stratified
-external_skf = StratifiedKFold(n_splits = n_external_folds)
+external_skf = StratifiedKFold(df_result, n_folds = n_external_folds)
 
 # Iterate over several folds to find a good accuracy in the SVM 
-for external_train_index, external_test_index in external_skf.split(df_without_class, df_class):
+for external_train_index, external_test_index in external_skf:
     
     # Declare external variables
     fold_accuracy = 0
     
     # Split the external training set and the external test set
-    external_params_train = df_without_class[external_train_index] 
-    external_results_train = df_class[external_train_index] 
-    external_params_test = df_without_class[external_test_index] 
-    external_results_test = df_class[external_test_index]
+    external_params_train = df_params.iloc[external_train_index, :] 
+    external_results_train = df_result[external_train_index] 
+    external_params_test = df_params.iloc[external_test_index, :]
+    external_results_test = df_result[external_test_index]
     
     # Define the internal K-Fold Stratified 
-    internal_skf = StratifiedKFold(n_splits = n_internal_folds)
+    internal_skf = StratifiedKFold(external_results_train, n_folds = n_internal_folds)
     
     # Iterate over several internal folds
-    for internal_train_index, internal_test_index in internal_skf.split(external_params_train, external_results_train):
+    for internal_train_index, internal_test_index in internal_skf:
         
         # Declare internal variables
         internal_accuracy = 0
         
         # Split the internal training set and the internal test set 
-        internal_params_train = external_params_train[internal_train_index]
+        internal_params_train = external_params_train.iloc[internal_train_index, :]
         internal_results_train = external_results_train[internal_train_index]
-        internal_params_test = external_params_train[internal_test_index]
+        internal_params_test = external_params_train.iloc[internal_test_index, :]
         internal_results_test = external_results_train[internal_test_index]
         
         # Iterate over gamma and C values to get best results in internal folds
-        for gamma_value in grid_values_set:
+        for gamma_value in gamma_values_set:
             for c_value in c_values_set:
                 
                 # Set up the internal classifier
