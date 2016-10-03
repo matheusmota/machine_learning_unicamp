@@ -49,6 +49,7 @@ optimal_gamma = 0
 optimal_c = 0
 
 final_accuracy = 0
+best_accuracy = 0
 
 # Define the external K-Fold Stratified
 external_skf = StratifiedKFold(df_result, n_folds = n_external_folds)
@@ -57,7 +58,9 @@ external_skf = StratifiedKFold(df_result, n_folds = n_external_folds)
 for external_train_index, external_test_index in external_skf:
     
     # Declare external variables
-    fold_accuracy = 0
+    external_accuracy = 0
+    external_gamma_value = 0
+    external_c_value = 0
     
     # Split the external training set and the external test set
     external_params_train = df_params.iloc[external_train_index, :] 
@@ -73,6 +76,8 @@ for external_train_index, external_test_index in external_skf:
         
         # Declare internal variables
         internal_accuracy = 0
+        internal_gamma_value = 0
+        internal_c_value = 0
         
         # Split the internal training set and the internal test set 
         internal_params_train = external_params_train.iloc[internal_train_index, :]
@@ -92,21 +97,39 @@ for external_train_index, external_test_index in external_skf:
                 # values for gamma and C= 1/alpha
                 temporal_accuracy = internal_classifier.score(internal_params_test, internal_results_test)
         
-                # Looking for the best combination of gamma and C for 
-                # internal folds
-                if(temporal_accuracy > internal_accuracy):
+                # Looking for the best internal accuracy
+                if temporal_accuracy > internal_accuracy:
                     internal_accuracy = temporal_accuracy
+                    internal_gamma_value = gamma_value
+                    internal_c_value = c_value
                     
-                    # TO DO: Change the logic to accept better hiperparameters
+                    
+                # Looking for the best gamma and C values
+                if temporal_accuracy > best_accuracy:
+                    best_accuracy = temporal_accuracy
                     optimal_gamma = gamma_value
                     optimal_c = c_value
         
         # Compare and update the fold accuracy
-        if(internal_accuracy > fold_accuracy):
-            fold_accuracy = internal_accuracy
+        if(internal_accuracy > external_accuracy):
+            external_accuracy = internal_accuracy
+            external_gamma_value = internal_gamma_value
+            external_c_value = internal_c_value
+            
+            
+    # Calculate the fold accuracy
+    external_classifier = SVC(C = external_c_value, kernel = 'rbf', gamma = external_gamma_value)
+    external_classifier.fit(external_params_train, external_results_train)
+    
+    fold_accuracy = external_classifier.score(external_params_test, external_results_test)
     
     # Perform a sum over the fold accuracy
     final_accuracy = final_accuracy + fold_accuracy
                 
 # Divide the final_accuracy over the number of folds to get the mean accuracy
 final_accuracy = final_accuracy/n_external_folds
+
+# Print results
+print('Acurácia média do SVM: ', final_accuracy)
+print('Melhor valor do gamma: ', optimal_gamma)
+print('Melhor valor do C: ', optimal_c)
