@@ -15,8 +15,8 @@ coluna (imputação pela média). Finalmente padronize as colunas para media 0 e
 desvio padrao 1.
 2. Para o kNN, faça um PCA que mantem 80% da variancia. Busque os valores do k
 entre os valores 1, 5, 11, 15, 21, 25..
-3. Para o SVM RBF teste para C=2**(-5), 2**(0), 2**(5), 2**(10) e 
-gamma= 2**(-15) 2**(-10) 2**(-5) 2**(0) 2**(5).
+3. Para o SVM RBF teste para C=2^(-5), 2^(0), 2^(5), 2^(10) e 
+gamma= 2^(-15) 2^(-10) 2^(-5) 2^(0) 2^(5).
 4. Para a rede neural, teste com 10, 20, 30 e 40 neuronios na camada escondida.
 5. Para o RF, teste com mtry ou n_featrues = 10, 15, 20, 25 e ntrees = 100, 200, 300 e 400..
 6. Para o GBM (ou XGB) teste para numero de arvores = 30, 70, e 100, com learning 
