@@ -14,18 +14,21 @@ Created on Fri Sep 23 13:51:31 2016
 import numpy as np
 import pandas as pd
 
-from sklearn.cross_validation import StratifiedKFold
+from sklearn.model_selection import StratifiedKFold
 from sklearn.decomposition import PCA
 from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import GridSearchCV
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.neural_network import MLPClassifier
+from sklearn.preprocessing import Imputer
+from sklearn.preprocessing import scale
 from sklearn.svm import SVC
 
 
 # ------------------------ Getting and Cleaning Data -------------------------
 
-# Defining the URIs with raw data'
+# Defining the URIs with raw data
 url_parameters = 'https://archive.ics.uci.edu/ml/machine-learning-databases/secom/secom.data'
 url_results = 'https://archive.ics.uci.edu/ml/machine-learning-databases/secom/secom_labels.data'
 
@@ -35,6 +38,7 @@ df_results = pd.read_csv(url_results, header = 0, delimiter = " ")
 
 # Getting classes from result
 df_classes = df_results.iloc[:, 0:1]
+df_classes = np.ravel(df_classes)
 
 
 # ------------------------- Parameter declaration ----------------------------
@@ -42,6 +46,17 @@ df_classes = df_results.iloc[:, 0:1]
 # Number of columns and rows in the raw data
 n_columns = df_parameters.shape[1]
 n_rows = df_parameters.shape[0]
+
+# Precision mean for all models
+knn_precision = 0 
+svm_precision = 0
+neural_net_precision = 0
+random_forest_precision = 0
+gbm_precision = 0
+
+# Folds variables
+n_external_folds = 5
+n_internal_folds = 3
 
 # 80% of variance in the PCA
 variance_percentage_pca = 0.8
@@ -65,10 +80,56 @@ gbm_parameters ={'learning_rate':[0.1, 0.05], 'max_depth':[5], 'n_estimators':[3
 
 # ----------------------------- Imputing data --------------------------------
 
+imp = Imputer(missing_values='NaN', strategy='mean', axis=0)
+imputed_data = imp.fit_transform(df_parameters)
+data_scaled = scale(imputed_data)
 
+# -------------------------- Here goes the magic -----------------------------
 
-# ----------------- Principal Component Analysis( ~ Gambiarra) ---------------
+# Define the external K-Fold Stratified
+external_skf = StratifiedKFold(n_splits = n_external_folds)
+external_skf.get_n_splits(df_parameters, df_classes)
 
-# Applying the PCA
-pca = PCA(n_components = variance_percentage_pca)
-pca.fit(df_parameters)
+# Iterate over external data
+for external_train_index, external_test_index in external_skf.split(df_parameters, df_classes):
+    
+    # imp = Imputer(missing_values='NaN', strategy='mean', axis=0)
+    # subset_parameters = df_parameters[external_train_index, :]
+    # imputed_data = imp.fit_transform(df_parameters)
+    # df_params_processed = scale(imputed_data)
+    
+     # Split the external training set and the external test set
+    external_params_train = data_scaled[external_train_index, :] 
+    external_classes_train = df_classes[external_train_index] 
+    external_params_test = data_scaled[external_test_index, :]
+    external_classes_test = df_classes[external_test_index]
+    
+    # ********** Defining kNN with 80% of the variance **********    
+    
+    # Applying the PCA keeping the variance over 80%
+    pca = PCA(n_components = variance_percentage_pca)
+    pca.fit(external_params_train)
+    external_params_reduced_train = pca.transform(external_params_train)
+    external_params_reduced_test = pca.transform(external_params_test)
+        
+    # GridSearch over the kNN parameters using a 3 KFold
+    # The cv parameter is for Cross-validation
+    # We find the hyperparameters here
+    knn_external = KNeighborsClassifier()
+    clf_knn_external = GridSearchCV(knn_external, knn_parameters, cv=n_internal_folds)
+    clf_knn_external.fit(external_params_reduced_train, external_classes_train)
+    
+    # Getting the best hyperparameters
+    knn_best_hyperparams = clf_knn_external.best_params_
+    
+    # Create the best kNN model
+    knn_tuned = KNeighborsClassifier(n_neighbors=knn_best_hyperparams['n_neighbors'])
+    knn_tuned.fit(external_params_reduced_train, external_classes_train)
+    knn_tuned_score = knn_tuned.score(external_params_reduced_test, external_classes_test)
+    
+    # Stacking the precision
+    knn_precision = knn_precision + knn_tuned_score
+ 
+knn_precision = knn_precision/n_external_folds
+print('Accuracy kNN: ', knn_precision)       
+        
