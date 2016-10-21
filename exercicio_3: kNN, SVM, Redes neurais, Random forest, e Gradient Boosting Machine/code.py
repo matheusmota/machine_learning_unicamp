@@ -158,7 +158,7 @@ def get_precision_neural_nets(parameters, train_params, test_params, train_class
     return nn_tuned_score
     
 
-# -------------------------- Neural Nets  -----------------------------------
+# -------------------------- Random Forest  ----------------------------------
 
 
 def get_precision_random_forest(parameters, train_params, test_params, train_classes, test_classes, n_folds):
@@ -183,7 +183,7 @@ def get_precision_random_forest(parameters, train_params, test_params, train_cla
     return rf_tuned_score
 
 
-# -------------------------- Neural Nets  -----------------------------------
+# -------------------------- Gradient Boosting  ------------------------------
 
 
 def get_precision_gbm(parameters, train_params, test_params, train_classes, test_classes, n_folds):
@@ -267,18 +267,18 @@ for external_train_index, external_test_index in external_skf.split(df_parameter
     neural_net_precision = neural_net_precision + neural_net_score
     random_forest_precision = random_forest_precision + random_forest_score
     gbm_precision = gbm_precision + gbm_score
- 
+
+# Getting the mean of precision values
 knn_precision = knn_precision/n_external_folds
 svm_precision = svm_precision/n_external_folds
 neural_net_precision = neural_net_precision/n_external_folds
 random_forest_precision = random_forest_precision/n_external_folds
 gbm_precision = gbm_precision/n_external_folds
 
+# Seeing the results
 print('Accuracy kNN: ', knn_precision)
 print('Accuracy SVM: ', svm_precision)
 print('Accuracy Neural Networks: ', neural_net_precision)
 print('Accuracy Random Forest: ', random_forest_precision)
 print('Accuracy Gradient Boosting: ', gbm_precision)
-
-
-        
+    
