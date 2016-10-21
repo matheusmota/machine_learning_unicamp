@@ -22,7 +22,7 @@ from sklearn.model_selection import GridSearchCV
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.neural_network import MLPClassifier
 from sklearn.preprocessing import Imputer
-from sklearn.preprocessing import scale
+from sklearn.preprocessing import StandardScaler
 from sklearn.svm import SVC
 
 
@@ -78,12 +78,6 @@ random_forest_parameters = {'max_features':[10, 15, 20, 25], 'n_estimators':[100
 gbm_parameters ={'learning_rate':[0.1, 0.05], 'max_depth':[5], 'n_estimators':[30, 70, 100]}
 
 
-# ----------------------------- Imputing data --------------------------------
-
-imp = Imputer(missing_values='NaN', strategy='mean', axis=0)
-imputed_data = imp.fit_transform(df_parameters)
-data_scaled = scale(imputed_data)
-
 # -------------------------- Here goes the magic -----------------------------
 
 # Define the external K-Fold Stratified
@@ -93,24 +87,36 @@ external_skf.get_n_splits(df_parameters, df_classes)
 # Iterate over external data
 for external_train_index, external_test_index in external_skf.split(df_parameters, df_classes):
     
-    # imp = Imputer(missing_values='NaN', strategy='mean', axis=0)
-    # subset_parameters = df_parameters[external_train_index, :]
-    # imputed_data = imp.fit_transform(df_parameters)
-    # df_params_processed = scale(imputed_data)
-    
-     # Split the external training set and the external test set
-    external_params_train = data_scaled[external_train_index, :] 
+    # Split the external training set and the external test set
+    external_params_train = df_parameters.iloc[external_train_index, :] 
     external_classes_train = df_classes[external_train_index] 
-    external_params_test = data_scaled[external_test_index, :]
+    external_params_test = df_parameters.iloc[external_test_index, :]
     external_classes_test = df_classes[external_test_index]
     
-    # ********** Defining kNN with 80% of the variance **********    
+    # *********************** Imputation of data ****************************
+    imp = Imputer(missing_values='NaN', strategy='mean', axis=0)
+    imp.fit(external_params_train)
+
+    # Appling the imputation    
+    imp_external_params_train = imp.transform(external_params_train)
+    imp_external_params_test = imp.transform(external_params_test)
+    
+    # Scaling the data
+    scaler = StandardScaler().fit(imp_external_params_train)
+    scaled_external_params_train = scaler.transform(imp_external_params_train)
+    scaled_external_params_test = scaler.transform(imp_external_params_test)
+    
+    # Cleaning NaN for bad scaling
+    # clean_external_params_train = np.nan_to_num(scaled_external_params_train)
+    # clean_external_params_test = np.nan_to_num(scaled_external_params_test)
+    
+    # ************** Defining kNN with 80% of the variance ******************    
     
     # Applying the PCA keeping the variance over 80%
     pca = PCA(n_components = variance_percentage_pca)
-    pca.fit(external_params_train)
-    external_params_reduced_train = pca.transform(external_params_train)
-    external_params_reduced_test = pca.transform(external_params_test)
+    pca.fit(scaled_external_params_train)
+    external_params_reduced_train = pca.transform(scaled_external_params_train)
+    external_params_reduced_test = pca.transform(scaled_external_params_test)
         
     # GridSearch over the kNN parameters using a 3 KFold
     # The cv parameter is for Cross-validation
