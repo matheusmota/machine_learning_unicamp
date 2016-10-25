@@ -12,6 +12,7 @@ Created on Mon Oct 24 15:41:08 2016
 # Loading the libraries
 import numpy as np
 import pandas as pd
+import matplotlib.pyplot as plt
 
 from sklearn.cluster import KMeans
 from sklearn import metrics
@@ -38,11 +39,17 @@ k_parameters = range(2, 11)
 # Number of restarts
 n_restarts = 5
 
-best_internal_score = -1 # This is the minimum value for silhouette score
+best_internal_score = 0 # This is for Calinski Harabaz score
 best_internal_k = 2
 
 best_external_score = -1 # This is the minimum value for adjusted rand score
 best_external_k = 2
+
+# Matrix for external and internal metrics
+# First line is for k values
+# Second line is for internal metrics
+# Third line is for external metrics
+matrix_plot = [[0]*9 for i in range(3)]
 
 # --------------------------- Here goes the magic ----------------------------
 
@@ -55,9 +62,9 @@ for k in k_parameters:
     
     # Internal metric
     predicted_labels = k_means_model.labels_
-    internal_score = metrics.silhouette_score(df_parameters, predicted_labels, metric='euclidean')
+    internal_score = metrics.calinski_harabaz_score(df_parameters, predicted_labels)
     
-    print('Internal score: ', k,' - ',internal_score)
+    #print('Internal score: ', k,' - ',internal_score)
     if internal_score > best_internal_score:
         best_internal_score = internal_score
         best_internal_k = k
@@ -66,10 +73,33 @@ for k in k_parameters:
     # External metric
     true_labels = np.ravel(df_classes)
     external_score = metrics.adjusted_rand_score(true_labels, predicted_labels)
-    print('External score: ',k,' - ',external_score) 
+    #print('External score: ',k,' - ',external_score) 
     if external_score > best_external_score:
         best_external_score = external_score
         best_external_k = k
         
-print('K for internal metric (Silhouette Index): ', best_internal_k)
-print('K for external metric (Adjusted Rand): ', best_external_k)  
+    
+    # Filling the matrix with metrics
+    matrix_plot[0][k-2] = k
+    matrix_plot[1][k-2] = internal_score
+    matrix_plot[2][k-2] = external_score
+        
+
+# Showing the k values for different metrics
+print('K for internal metric (Calinski Harabaz Index): ', best_internal_k)
+print('K for external metric (Adjusted Rand): ', best_external_k)
+
+# Plotting charts with internal and external metrics
+fig_width = 512
+fig_height = 380
+plt.figure(figsize=(fig_width, fig_height))
+plt.subplot(121)
+plt.plot(matrix_plot[0], matrix_plot[1], '#ff5722', marker='o', linestyle='-')
+plt.xlabel('Number of clusters')
+plt.ylabel('Calinski Harabaz Index')
+
+plt.subplot(122)
+plt.plot(matrix_plot[0], matrix_plot[2], '#009688', marker='o', linestyle='-')
+plt.xlabel('Number of clusters')
+plt.ylabel('Adjusted Rand Index')
+plt.show()
