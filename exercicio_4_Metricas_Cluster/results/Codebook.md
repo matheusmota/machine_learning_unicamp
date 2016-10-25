@@ -134,5 +134,5 @@ plt.show()
 ```
 
 
-![png](https://github.com/jbeleno/machine_learning_unicamp/tree/master/exercicio_4_Metricas_Cluster/assets/fig_1.png)
+![fig_1](https://raw.githubusercontent.com/jbeleno/machine_learning_unicamp/master/exercicio_4_Metricas_Cluster/assets/fig_1.png)
 
