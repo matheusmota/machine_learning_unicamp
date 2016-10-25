@@ -108,7 +108,7 @@ print('K for external metric (Adjusted Rand): ', best_external_k)
 ```
 
     K for internal metric (Calinski Harabaz Index):  3
-    K for external metric (Adjusted Rand):  4
+    K for external metric (Adjusted Rand Index):  4
 
 
 ## Gráficas das métricas internas e externas segundo o K
