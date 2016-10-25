@@ -104,7 +104,7 @@ for k in k_parameters:
 ```python
 # Showing the k values for different metrics
 print('K for internal metric (Calinski Harabaz Index): ', best_internal_k)
-print('K for external metric (Adjusted Rand): ', best_external_k)
+print('K for external metric (Adjusted Rand Index): ', best_external_k)
 ```
 
     K for internal metric (Calinski Harabaz Index):  3
