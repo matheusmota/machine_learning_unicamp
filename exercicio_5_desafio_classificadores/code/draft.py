@@ -12,6 +12,7 @@ Created on Wed Oct 26 14:01:24 2016
 # Loading the libraries
 import numpy as np
 import pandas as pd
+import matplotlib.pyplot as plt
 
 from sklearn import preprocessing
 from sklearn.model_selection import RandomizedSearchCV
@@ -42,6 +43,7 @@ n_rows = df_train.shape[0]    # 9000
 # df_train.describe() - Summary
 # df_train.iloc[:,0:10].describe() - partial summary
 
+
 # Creating a label encoders to handle categorical data
 categorical_attributes = [4,5,6,7,8,9,11,12,15,16,17,20,22,28,29,30]
 general_le = []
@@ -55,6 +57,9 @@ for i in categorical_attributes:
 train_params = df_train.iloc[:, 1:33]
 train_classes = np.ravel(df_train.iloc[:, 1:2])
 
+# plt.hist(train_classes)
+# plt.show() the dataset is balanced
+
 # I decided to avoid scaling and PCA data because I'm handling categorical data
 # I did not find columns with the same value
     
@@ -66,7 +71,7 @@ n_external_folds = 3
 
 n_jobs = 4
               
-# ----------------------  Classification Models ------------------------------
+# ---------------------- Random Classification Models ------------------------
 
 # I'm going to use an SVM to iterate and find the best hyperparameters
 # I'm just to use a simple 3-Fold Cross-Validation    
@@ -74,8 +79,7 @@ def get_precision_svm(train_params, test_params, train_classes, test_classes):
     
     svm_params = {'C': expon(scale=100), 
                   'gamma': expon(scale=.1),
-                  'kernel': ['rbf'], 
-                  'class_weight':['balanced', None]}
+                  'kernel': ['rbf']}
     
     
     svm_model = SVC()
@@ -90,13 +94,15 @@ def get_precision_svm(train_params, test_params, train_classes, test_classes):
 
     # Getting the best hyperparameters
     svm_best_hyperparams = clf_svm.best_params_
-    print(svm_best_hyperparams)
+    print('C:', svm_best_hyperparams['C'])
+    print('kernel:', svm_best_hyperparams['kernel'])
+    print('gamma:', svm_best_hyperparams['gamma'])
+    
     
     # Create the best SVM model
     svm_tuned = SVC(C = svm_best_hyperparams['C'], 
                     kernel = svm_best_hyperparams['kernel'], 
-                    gamma = svm_best_hyperparams['gamma'],
-                    class_weight = svm_best_hyperparams['class_weight'])
+                    gamma = svm_best_hyperparams['gamma'])
     svm_tuned.fit(train_params, train_classes)
 
     # Getting the model precision
@@ -126,6 +132,6 @@ for external_train_index, external_test_index in external_skf.split(train_params
                                   external_classes_train, 
                                   external_classes_test)
     
-    print(svm_score)
+    print('precision:', svm_score)
 
     
