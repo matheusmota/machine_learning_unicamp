@@ -12,4 +12,4 @@ O relatório com pelo menos 2 das tecnicas tentadas (mais o presprocessamento, s
 
 Rode o seu melhor regressor [nestes dados](http://www.ic.unicamp.br/~wainer/cursos/2s2016/ml/test.csv), e submita também o resultado no formato do valor previsto, um por linha na mesma ordem dos dados. Note que a primeira coluna dos dados de teste corresponde a 2a coluna dos dados de treino.
 
-Eu avaliarei o MAE do seu regressor nos resultados corretos. 40% restante da nota sera competitiva: as submissoes no topo 10% com menos MAE receberão o 10 nessa parte e as submissões nos ultimos 10% (maiores MAE) receberão 0. 
+Eu avaliarei o MAE do seu regressor nos resultados corretos. 40% restante da nota sera competitiva: as submissoes no topo 10% com menos MAE receberão o 10 nessa parte e as submissões nos ultimos 10% (maiores MAE) receberão 0.
