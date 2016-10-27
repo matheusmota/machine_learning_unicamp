@@ -15,6 +15,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 from sklearn import preprocessing
+from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import RandomizedSearchCV
 from sklearn.model_selection import StratifiedKFold
 from sklearn.svm import SVC
@@ -66,9 +67,11 @@ train_classes = np.ravel(df_train.iloc[:, 1:2])
 # ---------------------------- Parameters ------------------------------------
 n_iter_search = 20
 
-n_internal_folds = 3
+n_internal_folds = 5
 n_external_folds = 3
 
+# WARNING: I work with an i5 with 4 cores 3.3.GHz, please adjust this parameter
+# to the number of cores your processor have
 n_jobs = 4
               
 # ---------------------- Random Classification Models ------------------------
@@ -107,8 +110,45 @@ def get_precision_svm(train_params, test_params, train_classes, test_classes):
 
     # Getting the model precision
     svm_tuned_score = svm_tuned.score(test_params, test_classes)
+    print('precision:', svm_tuned_score)
 
     return svm_tuned_score
+    
+# Just playing with Random Forest to find the best set of hyperparameters
+def get_precision_rf(train_params, test_params, train_classes, test_classes):
+    
+    # Based on [1] we can find a good number of trees in the range of 63< nt <129.
+    # Btw the work in [2] uses less than 9< nt < 201
+    rf_parameters = {'n_estimators':range(9, 201),
+                     'max_depth': [None],
+                     "criterion": ["gini"]}
+                                
+    rf_model = RandomForestClassifier()
+     # Parallelizing to get more speed
+    clf_rf = RandomizedSearchCV( rf_model, 
+                                 param_distributions = rf_parameters,
+                                 n_iter = n_iter_search, 
+                                 cv = n_internal_folds, 
+                                 n_jobs = n_jobs)
+    clf_rf.fit(train_params, train_classes)
+
+    # Getting the best hyperparameters
+    rf_best_hyperparams = clf_rf.best_params_
+    print('n_estimators:', rf_best_hyperparams['n_estimators'])
+    print('max_depth:', rf_best_hyperparams['max_depth'])
+    print('criterion:', rf_best_hyperparams['criterion'])
+    
+    # Create the best Random Forest model
+    rf_tuned = RandomForestClassifier(n_estimators = rf_best_hyperparams['n_estimators'],
+                                      max_depth = rf_best_hyperparams['max_depth'],
+                                      criterion = rf_best_hyperparams['criterion'])
+    rf_tuned.fit(train_params, train_classes)
+
+    # Getting the model precision
+    rf_tuned_score = rf_tuned.score(test_params, test_classes)
+    print('precision:', rf_tuned_score)
+
+    return rf_tuned_score
     
 
 # ------------------------ Here Goes the Magic -------------------------------
@@ -127,11 +167,22 @@ for external_train_index, external_test_index in external_skf.split(train_params
     external_classes_test = train_classes[external_test_index]
     
     # Getting the precision of SVM with kernel RBF using a 3-Fold internal CV
-    svm_score = get_precision_svm(external_params_train, 
-                                  external_params_test, 
-                                  external_classes_train, 
-                                  external_classes_test)
+    #svm_score = get_precision_svm(external_params_train, 
+    #                              external_params_test, 
+    #                              external_classes_train, 
+    #                              external_classes_test)
     
-    print('precision:', svm_score)
+    # Getting the precision of Random Forest with random hyperparameters
+    rf_score = get_precision_rf(external_params_train, 
+                                 external_params_test, 
+                                 external_classes_train, 
+                                 external_classes_test)
 
     
+# [1] Oshiro, Thais Mayumi, Pedro Santoro Perez, and José Augusto Baranauskas. 
+#    "How many trees in a random forest?." International Workshop on Machine 
+#    Learning and Data Mining in Pattern Recognition. Springer Berlin Heidelberg, 2012.
+    
+# [2] Latinne, Patrice, Olivier Debeir, and Christine Decaestecker. 
+#    "Limiting the number of trees in random forests." 
+#    International Workshop on Multiple Classifier Systems. Springer Berlin Heidelberg, 2001.
