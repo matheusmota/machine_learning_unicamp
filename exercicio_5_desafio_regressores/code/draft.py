@@ -15,10 +15,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 from sklearn import preprocessing
-from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import RandomizedSearchCV
 from sklearn.model_selection import StratifiedKFold
-from sklearn.svm import SVC
+from sklearn.svm import SVR
 from scipy.stats import expon
 
 
@@ -50,13 +50,16 @@ categorical_attributes = [4,5,6,7,8,9,11,12,15,16,17,20,22,28,29,30]
 general_le = []
 invert_index_le = 0
 
+train_params = df_train.iloc[:, 1:33]
+train_classes = np.ravel(df_train.iloc[:, 1:2])
+
 for i in categorical_attributes:
     general_le.append(preprocessing.LabelEncoder())
     df_train[i] = general_le[invert_index_le].fit_transform(df_train[i])
     invert_index_le = invert_index_le + 1
     
-train_params = df_train.iloc[:, 1:33]
-train_classes = np.ravel(df_train.iloc[:, 1:2])
+train_params_numbers = df_train.iloc[:, 1:33]
+
 
 # plt.hist(train_classes)
 # plt.show() the dataset is balanced
@@ -82,30 +85,32 @@ def get_precision_svm(train_params, test_params, train_classes, test_classes):
     
     svm_params = {'C': expon(scale=100), 
                   'gamma': expon(scale=.1),
-                  'kernel': ['rbf']}
+                  'epsilon':[0.1],
+                  'kernel': ['rbf', 'linear', 'poly', 'sigmoid']}
     
     
-    svm_model = SVC()
+    svm_model = SVR()
 
     # Parallelizing to get more speed
-    clf_svm = RandomizedSearchCV(svm_model, 
+    reg_svm = RandomizedSearchCV(svm_model, 
                                  param_distributions = svm_params,
                                  n_iter = n_iter_search, 
                                  cv = n_internal_folds, 
                                  n_jobs = n_jobs)
-    clf_svm.fit(train_params, train_classes)
+    reg_svm.fit(train_params, train_classes)
 
     # Getting the best hyperparameters
-    svm_best_hyperparams = clf_svm.best_params_
+    svm_best_hyperparams = reg_svm.best_params_
     print('C:', svm_best_hyperparams['C'])
     print('kernel:', svm_best_hyperparams['kernel'])
     print('gamma:', svm_best_hyperparams['gamma'])
-    
+    print('epsilon:', svm_best_hyperparams['epsilon'])
     
     # Create the best SVM model
-    svm_tuned = SVC(C = svm_best_hyperparams['C'], 
+    svm_tuned = SVR(C = svm_best_hyperparams['C'], 
                     kernel = svm_best_hyperparams['kernel'], 
-                    gamma = svm_best_hyperparams['gamma'])
+                    gamma = svm_best_hyperparams['gamma'],
+                    epsilon = svm_best_hyperparams['epsilon'])
     svm_tuned.fit(train_params, train_classes)
 
     # Getting the model precision
@@ -121,25 +126,25 @@ def get_precision_rf(train_params, test_params, train_classes, test_classes):
     # Btw the work in [2] uses less than 9< nt < 201
     rf_parameters = {'n_estimators':range(9, 201),
                      'max_depth': [None],
-                     "criterion": ["gini"]}
+                     "criterion": ["mae"]}
                                 
-    rf_model = RandomForestClassifier()
+    rf_model = RandomForestRegressor()
      # Parallelizing to get more speed
-    clf_rf = RandomizedSearchCV( rf_model, 
+    reg_rf = RandomizedSearchCV( rf_model, 
                                  param_distributions = rf_parameters,
                                  n_iter = n_iter_search, 
                                  cv = n_internal_folds, 
                                  n_jobs = n_jobs)
-    clf_rf.fit(train_params, train_classes)
+    reg_rf.fit(train_params, train_classes)
 
     # Getting the best hyperparameters
-    rf_best_hyperparams = clf_rf.best_params_
+    rf_best_hyperparams = reg_rf.best_params_
     print('n_estimators:', rf_best_hyperparams['n_estimators'])
     print('max_depth:', rf_best_hyperparams['max_depth'])
     print('criterion:', rf_best_hyperparams['criterion'])
     
     # Create the best Random Forest model
-    rf_tuned = RandomForestClassifier(n_estimators = rf_best_hyperparams['n_estimators'],
+    rf_tuned = RandomForestRegressor(n_estimators = rf_best_hyperparams['n_estimators'],
                                       max_depth = rf_best_hyperparams['max_depth'],
                                       criterion = rf_best_hyperparams['criterion'])
     rf_tuned.fit(train_params, train_classes)
@@ -161,22 +166,24 @@ external_skf.get_n_splits(train_params, train_classes)
 for external_train_index, external_test_index in external_skf.split(train_params, train_classes):
     
     # Split the external training set and the external test set
-    external_params_train = train_params.iloc[external_train_index, :] 
+    external_params_train = train_params.iloc[external_train_index, :]
+    external_params_train_numbers = train_params_numbers.iloc[external_train_index, :]
     external_classes_train = train_classes[external_train_index] 
     external_params_test = train_params.iloc[external_test_index, :]
+    external_params_test_numbers = train_params_numbers.iloc[external_test_index, :]
     external_classes_test = train_classes[external_test_index]
     
     # Getting the precision of SVM with kernel RBF using a 3-Fold internal CV
-    #svm_score = get_precision_svm(external_params_train, 
-    #                              external_params_test, 
-    #                              external_classes_train, 
-    #                              external_classes_test)
+    svm_score = get_precision_svm(external_params_train_numbers, 
+                                  external_params_test_numbers, 
+                                  external_classes_train, 
+                                  external_classes_test)
     
     # Getting the precision of Random Forest with random hyperparameters
-    rf_score = get_precision_rf(external_params_train, 
-                                 external_params_test, 
-                                 external_classes_train, 
-                                 external_classes_test)
+    #rf_score = get_precision_rf( external_params_train_numbers, 
+    #                             external_params_test_numbers, 
+    #                             external_classes_train, 
+    #                             external_classes_test)
 
     
 # [1] Oshiro, Thais Mayumi, Pedro Santoro Perez, and José Augusto Baranauskas. 
