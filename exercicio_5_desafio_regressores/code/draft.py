@@ -16,10 +16,12 @@ import matplotlib.pyplot as plt
 
 from sklearn import preprocessing
 from sklearn.ensemble import RandomForestRegressor
-from sklearn.model_selection import RandomizedSearchCV
+from sklearn.ensemble import GradientBoostingRegressor
+from sklearn.model_selection import GridSearchCV
 from sklearn.model_selection import StratifiedKFold
-from sklearn.svm import SVR
 from scipy.stats import expon
+from sklearn.svm import SVR
+from sklearn.metrics import mean_absolute_error
 
 
 # ------------------------------- Getting Data -------------------------------
@@ -68,8 +70,6 @@ train_params_numbers = df_train.iloc[:, 1:33]
 # I did not find columns with the same value
     
 # ---------------------------- Parameters ------------------------------------
-n_iter_search = 20
-
 n_internal_folds = 5
 n_external_folds = 3
 
@@ -83,20 +83,18 @@ n_jobs = 4
 # I'm just to use a simple 3-Fold Cross-Validation    
 def get_precision_svm(train_params, test_params, train_classes, test_classes):
     
-    svm_params = {'C': expon(scale=100), 
-                  'gamma': expon(scale=.1),
-                  'epsilon':[0.1],
+    svm_params = {'C': [2**0, 2**4, 2**8, 2**16], 
+                  'gamma': [2**(-15), 2**(-10), 2**(-5)],
+                  'epsilon':[2**(-15), 2**(-10), 2**(-5)],
                   'kernel': ['rbf', 'linear', 'poly', 'sigmoid']}
-    
     
     svm_model = SVR()
 
     # Parallelizing to get more speed
-    reg_svm = RandomizedSearchCV(svm_model, 
-                                 param_distributions = svm_params,
-                                 n_iter = n_iter_search, 
-                                 cv = n_internal_folds, 
-                                 n_jobs = n_jobs)
+    reg_svm = GridSearchCV( svm_model, 
+                            param_grid = svm_params,
+                            cv = n_internal_folds, 
+                            n_jobs = n_jobs)
     reg_svm.fit(train_params, train_classes)
 
     # Getting the best hyperparameters
@@ -130,11 +128,10 @@ def get_precision_rf(train_params, test_params, train_classes, test_classes):
                                 
     rf_model = RandomForestRegressor()
      # Parallelizing to get more speed
-    reg_rf = RandomizedSearchCV( rf_model, 
-                                 param_distributions = rf_parameters,
-                                 n_iter = n_iter_search, 
-                                 cv = n_internal_folds, 
-                                 n_jobs = n_jobs)
+    reg_rf = GridSearchCV(  rf_model, 
+                            param_grid = rf_parameters,
+                            cv = n_internal_folds, 
+                            n_jobs = n_jobs)
     reg_rf.fit(train_params, train_classes)
 
     # Getting the best hyperparameters
@@ -155,6 +152,40 @@ def get_precision_rf(train_params, test_params, train_classes, test_classes):
 
     return rf_tuned_score
     
+# ----------------------------- Regressors -----------------------------------
+
+def gbm_model(train_params, test_params, train_classes, test_classes):
+    
+    reg_gbm = GradientBoostingRegressor()
+    reg_gbm.fit(train_params, train_classes)
+    
+    predicted_values = reg_gbm.predict(test_params)
+    score = mean_absolute_error(test_classes, predicted_values)
+    print('precision GBM:', score)
+    
+    return score
+
+def rf_model(train_params, test_params, train_classes, test_classes):
+    
+    reg_rf = RandomForestRegressor()
+    reg_rf.fit(train_params, train_classes)
+    
+    predicted_values = reg_rf.predict(test_params)
+    score = mean_absolute_error(test_classes, predicted_values)
+    print('precision RF:', score)
+    
+    return score
+
+def svm_model(train_params, test_params, train_classes, test_classes):
+    
+    reg_svm = SVR()
+    reg_svm.fit(train_params, train_classes)
+    
+    predicted_values = reg_svm.predict(test_params)
+    score = mean_absolute_error(test_classes, predicted_values)
+    print('precision SVM:', score)
+    
+    return score
 
 # ------------------------ Here Goes the Magic -------------------------------
 
@@ -174,16 +205,22 @@ for external_train_index, external_test_index in external_skf.split(train_params
     external_classes_test = train_classes[external_test_index]
     
     # Getting the precision of SVM with kernel RBF using a 3-Fold internal CV
-    svm_score = get_precision_svm(external_params_train_numbers, 
-                                  external_params_test_numbers, 
-                                  external_classes_train, 
-                                  external_classes_test)
+    svm_score = svm_model(external_params_train_numbers, 
+                          external_params_test_numbers, 
+                          external_classes_train, 
+                          external_classes_test)
     
     # Getting the precision of Random Forest with random hyperparameters
-    #rf_score = get_precision_rf( external_params_train_numbers, 
-    #                             external_params_test_numbers, 
-    #                             external_classes_train, 
-    #                             external_classes_test)
+    rf_score = rf_model( external_params_train_numbers, 
+                         external_params_test_numbers, 
+                         external_classes_train, 
+                         external_classes_test)
+                         
+    # Getting precision from Gradient Boosting Model
+    gbm_score = gbm_model( external_params_train_numbers, 
+                         external_params_test_numbers, 
+                         external_classes_train, 
+                         external_classes_test)
 
     
 # [1] Oshiro, Thais Mayumi, Pedro Santoro Perez, and José Augusto Baranauskas. 
