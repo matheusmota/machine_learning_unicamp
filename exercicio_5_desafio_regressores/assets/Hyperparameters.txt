@@ -1,0 +1,9 @@
+Random Forest
+# of estimators:  64
+MAE:  0.0
+---------------------------------
+Gradient Boosting Descent
+# of estimators:  150
+Learning rate:  0.1
+MAE:  7.37482231535e-05
+---------------------------------

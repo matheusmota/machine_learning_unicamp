@@ -179,16 +179,16 @@ for external_train_index, external_test_index in external_skf.split(train_params
         best_external_n_estimators = rf_array[1]
         
     # Gradient  Boosting Descent
-    #gbm_array = gbm_model(external_params_train_with_numbers, 
-    #                      external_params_test_with_numbers, 
-    #                      external_classes_train, 
-    #                      external_classes_test)
+    gbm_array = gbm_model(external_params_train_with_numbers, 
+                          external_params_test_with_numbers, 
+                          external_classes_train, 
+                          external_classes_test)
                           
     # Using external cross-validation to fin best hyperparameters for GBM
-    #if gbm_array[0] < best_external_mae_gbm:
-    #    best_external_mae_gbm = gbm_array[0]
-    #    best_external_n_trees = gbm_array[1]
-    #    best_learning_rate = gbm_array[2]
+    if gbm_array[0] < best_external_mae_gbm:
+        best_external_mae_gbm = gbm_array[0]
+        best_external_n_trees = gbm_array[1]
+        best_learning_rate = gbm_array[2]
 
         
 
@@ -196,11 +196,11 @@ print('Random Forest')
 print('# of estimators: ', best_external_n_estimators)
 print('MAE: ', best_external_mae_rf)
 print("---------------------------------")
-#print('Gradient Boosting Descent')
-#print('# of estimators: ', best_external_n_trees)
-#print('Learning rate: ', best_learning_rate)
-#print('MAE: ', best_external_mae_gbm)
-#print("---------------------------------")
+print('Gradient Boosting Descent')
+print('# of estimators: ', best_external_n_trees)
+print('Learning rate: ', best_learning_rate)
+print('MAE: ', best_external_mae_gbm)
+print("---------------------------------")
 
 # ---------- Using the Random Forest Regressor on the test data -------------
 
@@ -211,4 +211,4 @@ regressor.fit(train_params_with_numbers, train_values)
 value_predictions = regressor.predict(test_params_with_numbers)
 
 df_predictions = pd.DataFrame(value_predictions)
-df_predictions.to_csv(output_file, sep=',', encoding='utf-8')
+df_predictions.to_csv(output_file, sep=',', encoding='utf-8', header = False, index=False)
