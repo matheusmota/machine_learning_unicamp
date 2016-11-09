@@ -1,0 +1,5 @@
+Dropbox’s new strategy is to be boring on purpose. That is, its top priority is filling holes in its security and permissions systems so it can convince big companies it’s not some consumer toy. So today it announced view-only shared folders that let anyone on a rigid, hierarchical team look at Word, PowerPoint and other files, but only allow “editors” to modify the files. Dropbox needs to get the boring stuff locked down so enterprises will take it seriously.
+The feature can now be turned on for both web and mobile by admins of Dropbox For Business accounts through the admin console, and it will roll out automatically to all Business customers soon.
+
+With each little improvement like this, Dropbox gets a little better at battling competitors like Box for lucrative enterprise subscriptions.
+Dropbox’s “invite friends to get extra storage” viral model quickly let it surge to popularity and infiltrate big companies. Now it has to grow into its own dress shoes.

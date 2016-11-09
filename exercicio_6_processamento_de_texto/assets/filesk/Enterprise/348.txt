@@ -1,0 +1,13 @@
+An Altanta-based startup called Florence Healthcare has raised $1.7 million in seed funding to help drug companies and researchers at hospitals or other trial sites to exchange information about clinical trials in the cloud.
+Ultimately, helping these groups share information with each other, and with the U.S. Food and Drug Administration, could speed up the time it takes to get much-needed treatments to the sick people who need them, said Florence Healthcare CEO and founder Ryan Jones.
+Changing what has been a whiteboard and paper process into a digital one could also save the pharma industry time and money.
+“Every year, the pharmaceuticals industry spends about $10 billion on just visiting trial sites, bundling up paper documents and scanning them to prepare them for the F.D.A.,” Jones said.
+Florence Healthcare built its software to feel natural for researchers accustomed to jotting things down, circling things on paper, and generating medical records and lab reports as they treat their patients offline.
+In recent years, the CEO also noted, breakthroughs in biotech have led to a spike in the workload at research institutions, or “trial sites,” that conduct clinical trials to understand a new drug’s efficacy and safety.
+Prior to starting the company in 2014, Jones was President of a content search venture called Pubget, acquired by the Copyright Clearance Center Inc. in 2012. The company helped huge pharma companies access published, scientific papers from more than 600 medical centers, among other things.
+Bee Partners led the seed investment in Florence Healthcare, joined by Bessemer Venture Partners, Dartmouth alumni’s Green D fund, and Fitbit’s Vice President of Engineering, Will Crawford.
+Founding Partner and Managing Director at Bee, Michael Berolzheimer, noted that Florence Healthcare has timed its entrance in the market well.
+By May 2017, the F.D.A. will require companies to keep and submit data about their clinical trials digitally, not on paper.
+The investor said Florence Healthcare should use its seed funding to increase adoption of its “vertical workflow software,” called the Florence eBinder Suite, and to continue to make sure that everyone from administrators to the leaders of clinical investigations find it easy to use.
+Berolzheimer also said, “Longer term, Florence Healthcare could identify new ways to provide data and services to everyone in this value chain. They could potentially support the FDA, and drug discovery further upstream.”
+Florence’s users already include institutions sought after by drug and device developers including UCSF Mt. Sinai, and Sloan Kettering’s PCCTC Cancer Research Center.

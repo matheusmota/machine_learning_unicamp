@@ -1,0 +1,13 @@
+Apple just released the fourth beta for the next iteration of iOS, tvOS, macOS and watchOS. In particular, there’s a groundbreaking addition in this release. The company has updated or redesigned over a hundred emojis.
+Update: here are all the new emojis coming with iOS 10.
+Apple has shared a few of them on its website, and there are many different changes. First, some existing emojis will receive more gender options. For instance, you’ll find new female athletes:
+
+Some existing emojis have been redesigned. And, yes, the gun is gone. Apple replaced it with a cute water pistol:
+
+Finally, a new flag is joining the flag family — this time, it isn’t a new country. It’s a beautiful rainbow flag:
+
+In iOS 10, Apple is going all in when it comes to emojis. In the upcoming version of iOS that should be released this fall, the QuickType word suggestion bar will suggest an emoji based on the word you’re typing. In Messages, emoji will be three times bigger if you’re just sending an emoji. But my personal favorite is the emojify feature. If you switch to the emoji keyboard, iOS will highlight words so that you can tap on them to automagically replace them with an emoji.
+If you’re currently testing iOS or macOS through the public beta program, you won’t see an update today. Apple likes to stage its updates. The new versions first hit the developer servers so that only people paying $99 a year for a developer account can test it out. If there’s no major bug, the public betas of iOS 10 and macOS Sierra should receive updates in just a few days.
+So you might be wondering what else is new in iOS 10? iOS is receiving a massive update with a much more powerful Siri, a brand new Messages app and many, many little improvements. I already wrote a preview about what to expect.
+But let’s be honest. New emojis are the best way to make everyone upgrade to iOS 10 in September. Nobody wants to miss out on the new emoji bandwagon.
+If you’re a developer, head over to the Mac App Store, the iOS and tvOS Settings apps and the Watch app on your phone to find today’s beta updates.

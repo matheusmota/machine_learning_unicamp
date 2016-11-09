@@ -1,0 +1,19 @@
+Telehealth and telemedicine companies have the power to help patients get the care they need from home, and often more quickly and at a lower cost than what they’d pay out of pocket at a clinic or office in person.
+Investors have backed scores of these companies, including the now publicly traded Teladoc and MDLIVE, as well as Doctor on Demand, Talkspace, Joyable, Curology and myriad others.
+In a sign of the validity and mainstream acceptance of telehealth technology, online retailer 1-800-CONTACTS has partnered with a Chicago-based startup called Opternative to allow patients to update their prescriptions from the comfort of their own homes.
+According to data from the Centers for Disease Control, three-quarters of the U.S. adult population requires corrective lenses, and more than 30 million Americans wear contacts today, representing a huge market for Opternative and 1-800-CONTACTS.
+Their new service is called InstaRx, powered by Opternative.
+According to CEO and cofounder Aaron Dallek, here’s how Opternative’s technology works: the company’s mobile app and website collect data about the user’s vision in a brief exam that they’re guided through at home.
+The data is sent to a licensed, local ophthalmologist for evaluation. The eye doctors then write a new prescription for the patient’s corrective lenses, contacts or glasses, within 24 hours. The contacts-only exam costs users about $40.
+According to 1-800-CONTACTS director of business development, Kellen Fowler, the two companies ran a pilot test before rolling out InstaRx to the retailer’s customers broadly.
+During that test, 5,500 patients used the service and 1-800-CONTACTS surveyed them to make sure their prescriptions were accurate and all customers were satisfied.
+1-800-CONTACTS also ran internal quality checks over the past year to make sure Opternative worked to their standards, he said.
+Today, the service is available to patients between the ages of 18 and 50, and in the 36 states where telehealth services like Opternative are legally permitted to operate.
+It provides prescriptions for people who were previously fitted for contacts, and who are updating not getting a totally new prescription. And it only works for people wearing standard lenses, not bifocals, for example.
+The startup is investing in research and development to eventually use telemedicine to help eye doctors diagnose and treat other eye health problems, and younger and older patients who need corrective lenses.
+A lobbying organization called the American Optometric Association, has been attempting to block Opternative for some time now, claiming that Opternative is running afoul of the U.S. Food and Drug Administration’s rules, among other things.
+However, at this point, state laws regulate the conduct of telemedicine companies more than the FDA. The FDA regulates the nationwide marketing of both medical devices and products like drugs.
+Opternative, as a company, and its technology, which is categorized as a class 1 medical device, are registered with the U.S. Food and Drug Administration, Dallek confirmed.
+The company sent a statement to TechCrunch via email further explaining:
+“Even though Opternative’s technology is not independently marketed as a medical device and is only used by Opternative’s licensed ophthalmologists, [we are] directly engaged with the FDA to ensure that [we are] operating in compliance with FDA guidance and applicable federal regulations.”
+Opternative has raised $9.5 million in venture capital to-date.

@@ -1,0 +1,13 @@
+Facebook-owned messaging giant WhatsApp appears to have started deliberately blocking links to rival messaging app Telegram so users can’t share clickable Telegram-associated URLs in their chats. The URLs just appear as unlinked text.
+Mobile messaging customer service startup orat.io noticed the issue earlier today, and has blogged about it here.
+Currently links only appear to be blocked within the Android app, with no unlinking going on in the iOS app. Even in the latest version of the iOS app, which was updated as of November 30 — we checked.
+So it’s possible this is a bug rather than a deliberate attempt by WhatsApp to discourage its users from easily tapping into a rival service.
+That said, Android developer Jernej Virag claims to have found evidence in WhatsApp’s code that suggests it is indeed specifically targeting Telegram…
+We’ve reached out to WhatsApp to ask ‘bug or feature’ — and will update this post with any response.
+In a note on its website Telegram also claims its Facebook page has vanished — “for no apparent reason”.
+In an email exchange with TechCrunch, Telegram founder Pavel Durov described WhatsApp blocking links to its service as “short-sighted”.
+Of the Facebook page deletion Durov was less concerned, adding: ‘We didn’t use it, so we didn’t even notice it.”
+The messaging app, which launched in mid 2013, has seen some impressive engagement growth this year — with the volume of messages sent daily via Telegram rising from around 1 billion this February to 12 billion by September. Although its monthly active users remained at around the 60 million mark between May and September.
+Telegram is still very much dwarfed by WhatsApp’s massive user-base, of course. The Facebook-owned giant claimed to have passed the 900 million monthly user mark as of this September, so it can’t be far off hitting the magic 1BN MAUs mark.
+Perhaps that milestone prospect is encouraging WhatsApp to throw its weight around against upstart messaging rivals.
+Whatever the truth, it’s a not-so-gentle reminder that when it comes to dominant commercial platforms the content we the users are allowed to see and access is perennially at the whim of the platform owner and their commercial interests. And no, that’s not cool.

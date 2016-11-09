@@ -1,0 +1,7 @@
+VLC, the venerable and widely used multi-platform video player, received a major update on Android today, adding a number of highly requested features while managing to actually reduce the number of permissions it needs. That seems like an infallible sign of a trustworthy developer right there.
+With version 2.0, compatibility now stretches all the way from Android 2.2 (that was “Froyo,” remember?) to N, whether that will end up meaning nougat, nilla wafer, or something terrible.
+One of VLC’s original standout features (we’re talking a decade and more ago — some of you surely remember) has always been network playback — and with 2.0, that’s “mostly done ,” says the VideoLAN blog post.
+
+DLNA/UPnP, Windows network sharing, FTP, SFTP, and NFS protocols are supported. The app will also now automatically find subtitles via the network, either your own or via OpenSubtitles, and there’s better support for right-to-left and complex-layout subtitles.
+Video playlists, multi-window support, and a playback history (don’t worry, you can turn it off) also made it into this major release. VLC is also now a unified package across phones, tablets, and Android TV devices, so you can swap between interfaces at will.
+This release will surely be a welcome one to old-school VLC users like myself, offering more options for Android-based TV playback and, really, just the satisfaction that one of the most solid pieces of software out there is still going strong. And it’s still free, of course.

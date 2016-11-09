@@ -1,0 +1,9 @@
+Some positive legal news for Box, the cloud services company that is preparing for an IPO. A judge has denied a motion for a preliminary injunction of one of its products — originally requested by the Luxembourg-based subsidiary of Canada’s OpenText, one part of a larger, $268 million patent infringement suit covering 12 patents.
+The decision, from Judge Edward J. Davila in the U.S. District Court for the Northern District of California, concerned Box’s “Box Edit” feature. Open Text had sought to halt any sales or usage of the feature among business customers with more than 100 users.
+To be clear, this is just one part of the bigger case brought by OpenText and covers an injunction on one feature. The full case covers some 200 claims. But it’s still a step forward for Box. 
+“We are pleased with this outcome,” a Box spokesperson told TechCrunch.
+OpenText “has not demonstrated a reasonable likelihood of success on the merits,” Judge Davila wrote in his decision this week. In what might be a good sign for Box for later stages of the suit, he gave the opinion that OpenText “has not succeeded in showing it is likely to succeed at trial on the merits of the validity issue.” Box is fighting the suit by questioning the validity of some of Open Text’s patents in synchronisation and groupware, among other things.
+OpenText originally filed its 12-patent infringement complaint against Box and another company, Carahsoft Technology Corporation, in the Eastern District of Virginia on June 3, 2013. Then, in November, Box successfully got its case transferred to Northern California. It’s being represented by John Bovich, IP partner at Reed Smith. 
+Box’s IPO is seeking $250 million. When it filed its S-1, it reported full-year revenue of $124 million to January 2014, up from $58.8 million the year prior, but also a net loss of $168 million for the same period.
+We are reaching out to OpenText for comment.
+Updated with Box response.

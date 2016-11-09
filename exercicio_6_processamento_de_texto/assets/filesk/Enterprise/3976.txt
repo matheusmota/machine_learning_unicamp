@@ -1,0 +1,7 @@
+Microsoft is expected to release a technical preview of Windows 9 on September 30. So if you were looking forward to getting your paws on the code, you have only four weeks left to wait. That is, if you are not a key Microsoft partner.
+According to NeoWin’s Brad Sams, Microsoft is currently providing some partners with access to the operating system ahead of the public. That’s not too surprising, but it does lend credibility to current expectations that the operating system should touch down — in one form or another — later this month.
+Sams doesn’t think that the currently disbursed code will leak from the partners themselves, and that may be true.
+Hope is an eternal spring, not a flat circle. Microsoft declined to comment.
+I’m somewhat excited about Windows 9. This is due in no small part to a vague notion that I have long had that much of what Windows 8 brought to the table wasn’t bad at all, but merely poorly organized, and disjointed. It felt, as it were, something like a bundle of features hung together with string and bits of chewing gum. If Microsoft can distill the best parts of the Metro interface and fuse it to a top-tier desktop experience, I’ll file a corporate request with AOL for a copy to run on my daily driver Macbook Air.
+But we are a long way from anything close to that. It’s quite likely that the first preview will contain only a partial feature set, if we can use the Windows 8 preview rollout as guidance. So even when the first official code is released, we won’t have the full picture.
+Start menu or bust.

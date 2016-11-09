@@ -1,0 +1,27 @@
+Poke failed. Slingshot failed. But Facebook is still trying to mimic Snapchat with a new Stories-style feature it’s been testing called “Quick Updates”. These 24-hour ephemeral updates are buried in a special part of the app, and won’t show up in News Feed or on your profile.
+We received these screenshots from our reader Tiffany Zhong of Binary Capital who is one of the users in the test group.
+[Update: Facebook confirms that this was a product that it was testing with some users. The purpose was giving people tools to share with whom they want, as opposed to wider News Feed broadcasting. However, a spokesperson tells me Facebook doesn’t plan to launch or move forward with Quick Updates. So Quick Updates is basically a stillborn feature you won’t see more of.]
+Facebook has made recent several attempts to win some of the casual sharing found on Snapchat. It tested a Facebook Messenger feature for 1-hour self-destructing messages. And last month it tried letting people share News Feed-only content, with these posts not appearing on people’s profiles.
+Facebook may have been looking for a way to get people to share more personal content from their lives, as it’s reportedly seen a drop in this “original sharing”. A lot of that sharing has moved to Facebook-owned Instagram, but also to Snapchat as the Facebook News Feed has become overrun with impersonal news articles.
+First, if you have the feature, you’ll see a Smiley icon in the top right of the app.
+
+ 
+Tap that and you’ll get a little tutorial teaching you how you can share old media, shoot something new, or add text to a Quick Update
+
+ 
+Quick Updates can be old content you’ve uploaded, and they aren’t encumbered by any signal that they aren’t new the way Snapchat’s new Memories feature surrounds old media with a white border.
+
+ 
+You also have the option to overlay text on media, similar to Snapchat and Facebook previous social app experiment Slingshot.
+
+ 
+A privacy tool lets you select exactly who can see your Quick Updates.
+
+ 
+If someone sends a reply, you’ll be able to view it in the Activity tab.
+
+ 
+Facebook’s been slow to adapt to the way people share content today. Its video uploader is hopelessly outdated, lacking any significant update in almost three years. You can’t stitch together multiple clips, add overlaid text or drawing, or do much of what’s become available in Snapchat, Vine, and YouTube. Facebook has only just begun to provide overlaid doodling and filters for Facebook Live, but uploaded videos still lack creative expression tools.
+Ephemerality can also encourage sharing by making people feel less self-conscious. If you share something permanent, you have to accept that you’ll be judged by it. But if it disappears as with Quick Updates, you might impulsively share more silly, unpolished, and authentic content.
+Facebook apparently couldn’t hammer out an interface people enjoyed, so Quick Updates won’t be rolled out to more users, though it could be reborn as a more central part of the traditional status update composer.
+Personal sharing is critical because it’s not nearly as generic or widely available as link sharing. There are plenty of ways to discover news articles to read. Facebook wants your irreplaceable photos and life updates that will draw your friends back to the app every day.

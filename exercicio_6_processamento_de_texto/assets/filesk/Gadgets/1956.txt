@@ -1,0 +1,12 @@
+Having spent a good deal of time flying UAVs like DJI’s Inspire 1 and Phantom 4, I like to consider myself experienced with drones. So when I came across Horizon Hobby’s Vortex 250 Pro racing drone, I didn’t think twice that it was labeled for “the experienced pilot”. I thought I’d take off, hover around my house, maybe snap some photos or videos.
+Boy was I wrong.
+Flying the Vortex after learning to fly on self-stabilizing drones is what I imagine it feels like to jump in a Lamborghini after learning to drive in a Prius. Hold the left stick down for a second too long? Into the trees you go. A little too much throttle? The Vortex will literally flip, mid-air.
+Don’t get what I’m talking about? Take a look at the footage below of someone (much more experienced than me) really stretching the Vortex’s legs.
+
+But, as I soon learned, this crazy sensitivity and ability to rapidly change direction is what differentiates a multi-purpose quadcopter and a legitimate racing drone.
+And this is definitely a legitimate racing drone. The quad weights a little over a pound, has four custom 2300Kv brushless motors, and can fly at a maximum speed of 60 MPH.
+It has an integrated FatShark FPV flight cam which can transmit live to any 5.8 GHz headset, but also has room to mound a second video recorder (like a GoPro).
+Software-wise, the drone comes preloaded with different tuning configurations so you can maximize performance. This is one of the main things that differentiates the Vortex from a ready-to-fly drone like the Phantom. Each movement requires fine tuning, meaning you really need to know what you’re doing before you fly this thing.
+And it’s tough – which is a good thing, considering how likely it is that you’ll smash it into the ground until you really get the hang of things. It has a 2mm thick top and bottom plate both made of carbon fiber, and 4mm thick carbon fiber motor arms.
+The quad will set you back $499 (but you’ll also need to buy your choice of controller, battery, charger and FPV goggles separately), and is available now.
+Ultimately, the Vortex is probably not the best choice if you are looking for a drone that will automatically avoid trees, capture 4K video, and generally just impress your friends. But if you’re trying to get into drone racing or are already involved in the sport, you should definitely check out the Vortex.

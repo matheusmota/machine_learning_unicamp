@@ -1,0 +1,20 @@
+Did you take a shower this morning? That’s 30 gallons of water down the drain. Flush the toilet a couple of times? That’s another four or five gallons. Run the dishwasher, too? Add another six gallons, at least.
+The average American consumes 80 to 100 gallons of water each day — the equivalent of around 700 half-liter water bottles. And that number doesn’t include outdoor water consumption by sprinklers or hoses.
+In California, snow accumulation levels have plunged to a 500-year low. We’re aware of the severity of the drought, but monitoring and reducing personal water usage is a thankless task.
+You want me to count how many seconds I’m in the shower for? Yeah, okay. Bet my neighbors aren’t doing that.
+This is exactly the behavior that FLUID wants to change. Launched yesterday on Kickstarter, FLUID is a smart water meter that helps you understand exactly when, where and how much water you’re consuming in your home on a daily basis.
+“Right now consumers get a water bill every month and it’s in units, not gallons, so you have to flip the sheet over and do some math to find out how many gallons you’re using,” says FLUID co-founder Josh Becerra. “FLUID is really about empowering consumers to take more control over their water usage.”
+FLUID simply snaps around the main water pipe in your home. You plug it in, connect it to your Wi-Fi, and download the FLUID app to access real-time reports on your iPhone or Android.
+Using ultrasonic technology — essentially sending pulses from one ultrasonic transducer to another — the device is able to measure the rate of water flow without cutting into the pipe.
+What’s even cooler is how FLUID knows exactly where the water is coming from.
+Each appliance in your house, whether it be the kitchen faucet, the bedroom toilet, or the washing machine, has a signature run rate, or the rate and the duration of water flow through the pipe while that machine is running.
+Teaching FLUID what this run rate is, exactly, takes a bit of work. In the app, you can instruct FLUID to “listen” while you run each appliance for its typical duration, whether that’s a 30-minute washing machine cycle or a flush of the toilet. Once FLUID captures and memorizes these signatures, it’s able to differentiate between multiple appliance or fixtures running at the same time.
+“We want people to have a much more direct relationship with their water consumption,” says FLUID co-founder Colin Hirdman. “Hopefully the end result is using less water — and spending less money on water — but we want them to be able to identify how, where and when they’re using water themselves.”
+So instead of leaving the sink running while I’m brushing my teeth, maybe I’ll remember to turn it off when I realize exactly how many gallons of water are going down the drain. Or instead of running the dishwasher when it’s barely half full, maybe I’ll take out the bowl I need and wash it by hand — especially since I spent hours trying to teach my water meter what every appliance in my house sounds like.
+
+In the case of a leak, FLUID serves as a disaster prevention tool, alerting you immediately before your basement floods and your water bill spikes to all new heights.
+With a price tag of $239, or $179 for early bird Kickstarter backers, FLUID will pay for itself in under an hour if you have a burst pipe and in five days if your toilet is running.
+After the Kickstarter wraps up in October, the device will retail for $299 on FLUID’s site. The first devices are slated to ship in May 2016.
+In the future, FLUID will integrate with existing smart home hubs, such as Nest or SmartThings, and provide a REST API so developers can build their own integrations.
+“Once people start to become aware of how much water they use, they’ll be able to start saving water,” says Hirdman. “And once they start saving, they’ll want to save more, and they’ll become even more creative about how they do that.”
+It’s a rather optimistic view of human behavior, especially in regards to natural resource consumption, but let’s hope he’s onto something.

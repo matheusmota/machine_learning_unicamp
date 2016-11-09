@@ -1,0 +1,7 @@
+The only thing that I really worry about when I drop my phone into a tub of water is if I’ve backed everything up. More specifically, did I back my messages up. There is so much important information that flows through my text messages, it’s scary.
+Today, Google Drive announced adoption of a feature that’ll be rolling out over the next couple of months that will let you back up your WhatsApp messages, and their contents, regularly on Android, if that’s your chat app and mobile platform of choice:
+
+
+It would be nice to see more apps integrate with Drive in this way, because who knows where I have important clips of video, photos, addresses and numbers stored. I’d venture to guess in about 10-12 apps.
+It sucks that this is Anrdoid-only and that your photos and videos aren’t routed to Google Photos automatically. Maybe the functionality will get smarter over time, or the developer will be able to control what goes where. Regarding not being able to do this on iOS, the quick fix would be to grab an old Android device from a friend, log in and handle your business.
+The team shared specifics on how developers can best integrate Google Drive back up into their apps in a separate post.

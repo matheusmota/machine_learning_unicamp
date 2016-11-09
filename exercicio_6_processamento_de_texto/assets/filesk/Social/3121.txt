@@ -1,0 +1,5 @@
+Twitter just released a new dashboard to help users keep an eye out on how their data is being accessed by third-party apps and other services.
+The dashboard, available in settings, allows users to review their log-in history and see devices that they are currently connected on. Users are also able to see the activity of apps that they have allowed access to their account.
+In a post on the company blog, product manager Mollie Vandor said:
+The data dashboard is a little bit more interesting than one might expect. By Twitter making it easier for users to check out how approved apps are harnessing their data, users may be more inclined to move to disallow access to apps that they approved long ago. Something that Twitter obviously anticipated as it links directly to the Apps page to allow users to revoke access to these applications.
+For its part, Twitter says that the move marks a continued dedications to protecting users and that “privacy and account security remain a priority.”

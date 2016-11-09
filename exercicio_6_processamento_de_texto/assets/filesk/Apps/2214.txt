@@ -1,0 +1,6 @@
+Dropbox has acquired Clementine, an enterprise communication service, today according to a blog post on the company’s page.
+Clementine focuses on internal communication, such as conference calls and chat services that aren’t connected to a personal phone number. It’s an important area for the workplace, given that more and more people are connecting their work software to personal devices.
+“We’re now excited to announce the next stage of our journey — we’re joining Dropbox,” the company said. “Our mission and passion for workplace collaboration remains the same. Our stage will grow dramatically as Dropbox builds on our technology to engage with its over 400 million users and 100,000 businesses.”
+
+Most recently, Dropbox said it has more than 400 million registered users, and it redesigned its Android application. It also launched a tool that lets Dropbox users request files from people who aren’t using Dropbox.
+Clementine’s services will be shutting down as part of the acquisition, according to the company. It launched in September 2014.

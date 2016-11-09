@@ -1,0 +1,9 @@
+IBM announced today it intends to buy Silverpop, a cloud marketing platform that gives marketers insight into customer activity online.
+Silverpop gives IBM a cloud-based marketing personalization tool that promises to provide users with a way to understand their customers better and offer more personalized experiences based on what they know.
+For instance, if you know that your customer is an early adopter or a person who holds back, you can tailor your messages accordingly, rather than trying to fashion the same generic message to everyone in a one-size-fits-all approach.
+Today, the goal is increasingly to find the perfect content for the “audience of one,” and deliver that to whatever device the customer happens to be using at the time
+From IBM’s perspective, it gives them the ability to add this type of personalization to their portfolio of more than 100 SaaS offerings and it gives their customers that personalization tool so many are demanding today.
+In a statement on the company website, Silverpop CEO Bill Nussey gave a typical argument for this type of deal, stating that he has been looking for a way to “accelerate the company’s incredible success.” And certainly being part of a company the size of IBM gives Silverpop access to a much bigger pool of resources.
+Silverpop is just the latest in a series of marketing purchases by IBM. As is often the case with these types of purchases, it not only allows IBM to add Silverpop to its growing marketing services portfolio, it also gives them access to Silverpop’s client portfolio which includes Mazda, Advanced Micro Devices and Stonyfield Farm.
+Analyst R Ray Wang, founder of Constellation Research, wrote on Twitter: “@Silverpop addresses the need for mass personalization at scale, identity, and improved targeting.”
+The deal still has to pass regulatory muster and, according to IBM, is expected to close some time during the second quarter of 2014.

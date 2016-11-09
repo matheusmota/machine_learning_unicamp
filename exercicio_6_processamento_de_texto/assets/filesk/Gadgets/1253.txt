@@ -1,0 +1,8 @@
+One of the striking things about the Juno probe, I remarked to one of its creators, is its simple and streamlined design — compared to other spacecraft, at least. The engineers had a hell of a time packing everything in there, but it helps when critical sensors have shrunk in size from “breadbox” to “soup cracker.”
+Nikolaos Paschalidis, now at NASA’s Goddard Flight Center, has been working on miniaturizing those chips for years.
+“Before my work, you had electronics that were very big – over two pounds,” he said in a NASA news release. More size means fewer instruments fit on the craft, and more weight means they take up more of the payload — both restrictions that surely chafed the designers of early probes like Voyager and Galileo.
+These Application Specific Integrated Circuits, or ASICs, are purpose built (as you might guess from the name) and, in Juno’s case, designed to be highly resistant to radiation, of which it will get a major dose in its travels around Jupiter.
+With Juno, thanks to the work of Paschalidis and others, designers had more freedom. Although even at Saltine size it was no joke getting everything in there, Principal Investigator Scott Bolton told TechCrunch in an interview just before the craft entered Jupiter’s orbit.
+“I can’t tell you how long it took,” he said. “We had teams of engineers and scientists all trying to solve this jigsaw puzzle. And then when we got the boxes in, we realized we had to put the cables in.”
+
+Juno is in the faraway part of its wide elliptical orbit around Jupiter right now, but the science instruments are warmed up and ready to do some science towards the end of the month when the probe makes its first real pass at the planet.

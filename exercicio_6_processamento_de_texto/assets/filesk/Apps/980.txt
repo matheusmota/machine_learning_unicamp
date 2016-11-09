@@ -1,0 +1,9 @@
+Apple has reportedly acquired health data startup Gliimpse, a company that collects and combines disparate threads of personal health info.
+Fast Company reports that the acquisition went down earlier this year, but there has yet to be any confirmation on the part of Gliimpse. However, FC says that Apple confirmed the acquisition, saying: “Apple buys smaller technology companies from time to time, and we generally do not discuss our purpose or plans.”
+We’ve reached out to Apple, and will update if they (uncharacteristically) say anything more on the matter.
+Gliimpse was founded back in 2013 by seasoned entrepreneur Anil Sethi, who used to work as a systems engineer for Apple back in the 80s. He went on to sell Sequoia Software in 2001 to Citrix Systems in a cash transaction worth more than $180 million.
+He went on to start a number of health tech startups, including Xlipstream and Pinch Bio, before founding Gliimpse.
+Gliimpse works by letting users pull their own medical info into a single virtual space, with the ability to add documents and pictures to fill out the profile. From there, users can share that data (as a comprehensive picture) to whomever they wish.
+It’s unclear from the report what will happen to the Gliimpse team as part of the acquisition. However, Apple’s integration of Gliimpse into its existing products seems more obvious, as the company has been working on health-related software for the past few years.
+It’s easy to see how Gliimpse, and its organized data around individuals, would come in handy in products like HealthKit, ResearchKit, and CareKit.
+That said, we’ll have to wait to find out just what Apple has in store for Gliimpse.

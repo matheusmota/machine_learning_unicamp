@@ -1,0 +1,55 @@
+Two years ago when the international 3D printing industry was still a much-contended space a small Polish company called Zortrax made waves – and raised capital – on the news that it had signed a contract with Dell for 5,000 3D printers.
+I reported the news in 2014 and researched the implications more deeply later that year and found little that might concern an investor or fan: the company had a deal in place to supply printers to an Asian Dell R&D subsidiary but questions to that subsidiary were left unanswered and the co-founder of the company, Rafał Tomasiak, consistently defended the news with me personally. In April 2014 I approached him regarding the rumors that the order was false and he continued to lie. But by May I dropped the story and in many ways dropped the ball. For that I’m regretful and I’d like to follow the thread a little more deeply today.
+First, let’s understand the mentality of a small startup thrust on the international stage. The company, formed by a few friends in Olsztyn, Poland, grew in prominence after a successful Kickstarter. Their printer, which I found solid and usable, was a good one and they had a everything a small startup needed in the heady investment years between 2010 and 2015 – a charismatic front woman named Karolina Boladz, a heads-down CTO, the aforementioned Tomasiak, a good product, and a good story.
+Now they had a big contract.
+But they were still a startup. Their technique was to accentuate the positive and bury the negative. They ignored questioning about their methods and the contract itself and instead crowded about the deal in investment materials for months after the announcement. So if the contract wasn’t a lie it was a careful and optimistic elision. Startups are keen to paint every letter of intent and every curt nod of approval as a signed contract and clearly that was the case here.
+I was also willing to accept a certain amount of leeway. Things are done differently in Europe where valuations were (and still are) small and investments are often minuscule in comparison to the Valley. Good news from Europe was often tinged with a bit of hyperbole. Getting an acquisition or investment price for any round in Europe is like pulling teeth and when you do the math you quickly find that the reason is obvious: the numbers, in light of massive rounds in the US, were embarrassing.
+When I first heard about the contract in January I wrote a basic story addressing the potential sale. Tomasiak sent a quote – “Frankly speaking, we were surprised that any company, even a company like Dell, wants to place such an order! But after a while we realized how many printers we use in our own office… For a designer who prints a large number of prototypes it is much more useful to use 10 smaller printers on one desk, which operate simultaneously, rather than one with a larger build volume” – and the news percolated out into other sites, even appearing in a March 2014 piece inReuters.
+A month after the Reuters piece ran I received information that no one at Dell knew about a contract with Zortrax. I asked a PR person in the company who replied on April 4, 2014:
+I approached Tomasiak with the news who told me his contact at Dell couldn’t comment to the press. A few excerpts from the discussion follow.
+John Biggs
+4/4, 9:57am
+if it’s a misunderstanding you can have your guy solve it in a second
+i’m not arguing this anymore
+go ahead on your vacation
+Rafał Tomasiak
+4/4, 9:58am
+working not travelling
+Nobody from Dell us send us anything
+So if you say they have a deny so our guy will confirm them
+John Biggs
+4/4, 9:59am
+he can confirm to me
+and it doesn’t matter anymore
+Rafał Tomasiak
+4/4, 9:59am
+You’re pr not Dell
+John Biggs
+4/4, 9:59am
+i’m not PR
+Rafał Tomasiak
+4/4, 9:59am
+Rafał Tomasiak
+:)
+John Biggs
+4/4, 9:59am
+i’m press
+Rafał Tomasiak
+4/4, 9:59am
+You’re press not Dell :)
+I pressed him further:
+
+
+
+I sent Tomasiak the note from Dell and asked for comment and he continued to evade the question. It is a frustrating experience, to be sure, but par for the course with Tomasiak who, as recently as 2015 was still pitching their new printers and news to the press.
+
+At the same time the contract with Dell became a major point in their investment brochure even as Tomasiak carefully walked back the importance of the news. In March, Tomasiak toldStockwatch.pl: “The contract with Dell is one of contracts we are working on, but the key to our success is gaining as many customers as possible, including individuals. That’s our goal and because of this our order portfolio is very diversified – from the entire world and different industries.”
+He did say, however, that the deal would be very lucrative and that there was a markup associated with the sale to Dell implying, of course, that the deal would go through.
+Unable to confirm or deny the story in April I dropped it. In the end, it seems, so did Dell. The contract never reemerged after the initial buzz and Tomasiak didn’t comment further.
+Does it matter that this contract never materialized? In the end the latest anyone has been able to find mention of the contract was late 2014 and the company did not reflect the sale of 5,000 printers in its 2014 balance sheets. In short, the contract appeared and quickly disappeared, a blip on the news radar about a small Polish company that might have had a contract with Dell but, in the end, probably didn’t have on in any formal sense.
+But in Europe the rumored Dell contract was a big deal. It built the reputation of the company as a powerhouse in the region and gained them enough notoriety to sell 10,000 unsecured bonds worth 1000PLN ($329) each through Invista Brokerage House to raise a total of $3.5 million. The investment sale went off without a hitch and the company continued to grow and the good news continued unabated. In February, noted 3DPrint’s Michael Molitch-Hou, “Zortrax CEO Rafał Tomasiak received an honorary red-and-white flag from Andrzej Duda, the President of the Republic of Poland, for the contributions his company has made to the country.”
+So the failed Dell contract was a bit of good news for a small but growing company. While this is hardly a crime worthy of a Balzac quote, it’s clear that a lie built a small fortune.
+What is the moral of this story? That startups shouldn’t crow success? That Zortrax lied about the contract for personal gain? None of this may be true but all of it can be implied. By hiding the truth for two years the company ran unchallenged over smaller Polish rivals and raised money on good news.
+For its part Zotrax offered this explanation to3DPrint.com. My own email to them went unanswered.
+Zortrax has closed ranks for now and is not talking about the contract. Wrote onePolish reporter, Rafał Badowski, “Zotrax first promised an answer regarding this matter on the August 5 but then Zotrax PR lead Marcin Niedzielski told me that the company is analyzing their confidentiality agreements [with Dell] after which time they can comment further, probably in the first half of next week.”
+“Tak czy inaczej, niesmak pozostaje,” he wrote. “Regardless, it still stinks.”

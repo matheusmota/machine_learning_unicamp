@@ -1,0 +1,16 @@
+Redwood City-based Glint has raised $27 million in a Series C round of venture funding for software that helps companies figure out how their teams are experiencing problems, or why and when solid employees may leave, undesirably.
+Glint replaces the traditional 360-review tools used by corporate HR teams and executives with short, anonymous surveys sent out once in a while to specific groups or company-wide to gather feedback.
+Then, Glint’s software-as-a-service uses machine learning, natural language processing and predictive analytics to identify key areas for improvement.
+Understanding what employees want more or less of, and how employees are feeling about management, perks or benefits, their industry and more helps businesses avoid internal problems and attrition.
+Meritech Capital Partners and Bessemer Venture Partners co-led the round joined by returning investors Norwest Venture Partners, and Shasta Ventures, and bringing Glint’s total equity funding raised to $50 million.
+Glint CEO and co-founder Jim Barnett explained that Glint protects confidentiality, in part, by only allowing employers to slice and dice data down to a group of 5 or more people, and only giving certain people permission to read employees’ comments.
+“Only the right people see the right survey data, and employees can choose to fill those out or not. We do get get average response rates of 85% though,” he said.
+Companies can customize surveys to be longer or shorter, more or less frequently issued.
+Clients of Glint include Verizon-owned AOL (the parent company of TechCrunch), E-bay, Cognizant and Sky Broadcasting, among others.
+Medium to large enterprises are drawn to Glint’s software and analytics platform, the CEO said, because it helps them avoid attrition and performance issues, and allows them to take all employees’ comments into consideration efficiently, unlike a traditional process that involved manual reviews and reading of suggestions or complaints.
+The platform supports companies in 30 different languages, so far.
+Glint also helps companies understand how employees’ satisfaction with their work and their employers may be effecting their business. For example, a health care company may find that patient outcomes are highly correlated with happy employees, or employees who feel happy with the flexibility of their schedules, he said.
+Bessemer Ventures’ Kristina Shen said she believes Glint has the potential to get to an initial public offering, eventually. But the HR-tech market is one of many mergers and acquisitions, historically.
+She believes that Glint’s technology is tapping into major trends reshaping the workplace, namely that millennial workers want to be heard, and that employers have woken up to the fact that losing good employees is very costly.
+Shen said, “For every employee you lose, you spend a lot of money on recruiting, hiring and onboarding . It just feels better and costs you less to figure out what employees really want, then bring it to them, versus losing a good employee.”
+Glint intends to use its funding for hiring, product development and to move into new market segments, after early customer traction in Silicon Valley and with tech companies.

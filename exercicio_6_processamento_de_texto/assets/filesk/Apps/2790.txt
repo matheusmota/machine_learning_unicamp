@@ -1,0 +1,26 @@
+Facebook says it’s testing a way for users to receive, read and respond to their SMS-based conversations in its Messenger application for mobile devices. The feature, which would be optional if broadly rolled out, could help to shift users away from their default texting application and see them increasing their time spent Facebook Messenger instead.
+Also new is added support for using Messenger with multiple accounts – a feature designed for those who shared devices.
+The social network confirmed the SMS tests were underway following reports of what appeared to be the return of SMS support in Messenger.
+As the blog Android Police noted, some users were seeing a new SMS Settings pane that allowed them to use Messenger as an SMS client.
+When texting a friend in Messenger with the option enabled, the prompt in the text input box would read “Write an SMS message.” The messages sent as SMS texts would then appear as purple bubbles, instead of Messenger’s usual blue, the blog also said.
+
+
+Though many of today’s younger users may not remember, Facebook Messenger originally operated as an SMS replacement app as well as a way to quickly chat with Facebook friends. However, in late 2013, the company overhauled its application and added a way for users to message non-friends by their phone number. Those messages were delivered inside the recipient’s Messenger app.
+At the same time, Facebook pulled the option to actually send out SMS messages, saying that the feature had seen “low traction.” In reality, the company likely wanted to force Messenger adoption – something it did very well, also by pulling the functionality from the default Facebook app in 2014.
+The fact that Facebook may now be considering bringing SMS support back to Messenger lines up with the company’s previously announced vision statement for 2016, which included plans to make the phone number disappear, the company had said.
+As TechCrunch’s Josh Constine pointed out at the time, Messenger is so far ahead of other messaging apps in the U.S. that its only real competition is SMS and iMessage.
+To date, the company has already made several big strides to help transition people away from using their phone’s native texting app, including the launch of a feature that let anyone send a message request to anyone on Facebook, which eliminated the need to know someone’s phone number.
+“Message requests,” as the feature is known, brings privacy to the mobile messaging experience, too – while you can view these requests along with more information about the sender in your Filtered Requests folder, the message’s sender never knows if you looked at their message.
+The feature also allows for a different type of social connection on Facebook – people who can message you, but aren’t your Facebook “friend.”
+However, to truly kill off SMS, it seems that Facebook may have realized that it will (once again) have to allow people to use Messenger as their SMS client. All the bells and whistles – including GIFs, photo and video support, voice calling, hidden chess games!, etc. – are not enough if your friend doesn’t have the app installed. You’ll probably still just text them.
+Turning a mobile messaging app into the default SMS client is something that Google has also done on Android, of course. However, it’s been backtracking on its implementation in recent days. The company’s SMS-integrated Hangouts app has been asking users to switch back to Google’s regular SMS app instead, users have noticed.
+Facebook, clearly, is taking the opposite approach.
+A company spokesperson confirmed the SMS test, saying:
+We understand that the tests are currently live only with a small number of Android users in the U.S.
+Unfortunately, because of the deeper OS integration required to make this feature work, it’s unlikely that iOS users will ever have the option to use Messenger for SMS messages.
+SMS support is not the only change coming to Messenger – Facebook also announced support for multiple accounts in the app.
+
+Until today, Messenger hasn’t yet offered an easy way for users to switch accounts, which meant those sharing a device would often install, then uninstall Messenger in order to use the app privately.
+Now Messenger for Android has a new section called “Accounts,” which lets you add and remove accounts on the app. These can also be password-protected so only the account holder can read their messages. Others will only see notifications that a message has been received – not its content.
+A spokesperson confirmed this addition, as well, saying, “millions of people share phones with their family and friends. Until now, there hasn’t been an easy way for people to access their individual Messenger accounts from shared devices. To address this, we’ve launched a feature on Android to enable multiple people to log in and use Messenger from a single phone.”
+This feature, unlike the SMS option, is available worldwide.

@@ -1,0 +1,5 @@
+Today at Apple’s WWDC 2016 conference, Apple SVP Craig Federighi announced a major update to Apple’s Internet of Things platform, HomeKit. The big news is Apple built a dedicated app to control all the devices in a person’s home.
+This will let homeowners use one app to control lights, view doorbell cams, open garage doors and more. This is big.
+Apple launched HomeKit along with iOS 8 in 2014. Since then, the Internet of Things marketplace has exploded with apps and devices and there are very many solutions that ties everything together. HomeKit’s Home seems like a good first step towards this goal.
+Now, with Home, all HomeKit-enabled devices from lights to thermostats to garage doors can be controlled from a single app. The app supports mass actions allowing the user to hit a single button to activate a series of devices. Hit, say, “I’m Leaving”, and the Home app will turn off the lights, turn down the thermostat and set the alarm.
+The new app will hit the iPad and Apple Watch, too.

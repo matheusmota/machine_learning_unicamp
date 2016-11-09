@@ -1,0 +1,12 @@
+Remember ThingMaker? Mattel’s $300 3D printer that would let kids print out their own toys? Its ship date – which was supposed to be this month – just got pushed back another year, according to a report from Engadget. The toy maker says it needs the extra time to “enhance the digital functionality” in order to deliver the “most engaging” experience for its customers.
+The 3D printer was first unveiled earlier this year at New York’s toy fair, and immediately drew a lot of interest. The relatively low-cost device works alongside an app that offers a simple interface for designing items – like dolls, robots and dinosaurs – that could then come to life through the 3D printing process.
+After using the software to customize the toys with different colors and textures, kids would then export the STL print files to Mattel’s printer. Mattel had said the ThingMaker 3D would use a hard PLA filament in printing, and it was shown at the toy fair with toys made using some two dozen colors.
+
+The device would actually print out the parts in batches, then the individual pieces would be assembled through ball-and-socket joints that snap together. This process was said to take anywhere from 30 minutes for a small item, up to overnight (e.g. 6 to 8 hours) for a larger toy.
+The launch was meant to connect the toy company with consumers’ newer interest in the maker movement. It name references Mattel’s original at-home maker device from the 1960’s, which let kids build toys like flowers or “Creepy Crawlers” by pouring a liquid, plastic-like material called Plastigoop into molds. ThingMaker was meant to take that concept of kids making their own toys to the modern era of 3D printing and mobile applications.
+Unfortunately, home toy-making will have to wait.
+A Mattel spokesperson gave us the following statement on the delay:
+This makes it sound like the software, not hardware, is to blame for the delay. Asked for more details, a spokesperson would only say that the team is “improving the software for a better user experience, and ensuring that the platform will grow with user and technology needs down the road.”
+Amazon began taking pre-orders for the printer back in February. Those who had jumped to place their order were promised ship dates of late October.
+However, it’s worth noting that you may not immediately see this delay reflected on your Amazon order page, which still shows the shipment is pending:
+

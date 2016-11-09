@@ -1,0 +1,8 @@
+If you are part of the Windows Insider program, Microsoft’s tool to get new code into the hands of its hardcore users ahead of the general public, you get a treat today: Windows 10 build 10532.
+Yes, another Windows 10 build. So, what’s new? Core to the new build are improved menus, which should provide a bit more harmonic fit. Also up is the ability to share notes from the Windows Feedback app with others.
+On the negative side, the following:
+
+Most importantly, this is not a mobile build. If you were hoping to get your Lumia onto something fresh, hang tight. Microsoft’s missive shipper Gabe Aul has some notes on when to expect a new mobile build of Windows 10:
+As you certainly noted, that paragraph lacks a time stamp. I’d presume that we are no more than a week or so from new mobile code.
+Microsoft recently announced that there are 75 million devices running Windows 10. That’s a start.
+Let’s make a pact, shall we? I will stop pointing out that it’s interesting that Microsoft is rolling out new builds, and you promise to forgive me. I’ve felt like it has been my job to point out that the scale and pace of change that Windows 10 has undergone since its launch is a meaningful shift from its iterative predecessors, on a version basis. But you can only wave the same flag for so long.

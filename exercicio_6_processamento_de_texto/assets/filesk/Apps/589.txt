@@ -1,0 +1,8 @@
+Confide, the confidential messaging app that launched back in 2013, has today announced an integration with iMessage in iOS 10.
+As part of iOS 10’s new iMessage features, which incorporates apps right within the iMessage application, Confide users will be able to send self-destructing messages direct from their texts.
+Confide for iMessage will support text and pictures, using Confide’s familiar wand functionality, where users can only see the text over which they drag their finger.
+Confide for iMessage requires that both users already have the app.
+The company has grown quite a bit in the past few years, raising a total of $3.6 million in funding from investors like Google Ventures, CrunchFund, and First Round Capital.
+The native Confide app goes beyond iMessage functionality to support docs and voice chat, and the team is currently working on video support.
+Along with Confide for iMessage, the company is also launching Siri support, letting users ask to send a Confide to a friend with only their voice.
+If you want to learn more about Confide, hit up the website here.

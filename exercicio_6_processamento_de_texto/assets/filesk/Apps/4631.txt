@@ -1,0 +1,10 @@
+Rebtel, Sweden’s smaller answer to Skype, has just infused $12 million into a new spun out company called Sinch, aimed at making communications tools accessible to mobile developers for any app.
+Not unlike Layer or Twilio, Sinch offers developers tools to add in messaging and voice calls inside their iOS or Android app for what the company describes as “a fraction of the cost of competitors.”
+Because Sinch can leverage the licensing deals and partnerships already in place through Rebtel, the company can lower pricing on things that are traditionally more expensive, such as call termination.
+For app to app calling and instant messaging, pricing is based on the number of active users and the number of minutes or messages used. For app to phone calling and SMS, the price is based on a per-minute or per-SMS cost. In either case, it’s lower than Twilio’s price and offers features that competitors like Layer don’t have.
+Developers using Sinch can implement free calling, messaging, group messaging, SMS and call termination all within their own app.
+Rebtel itself has previously offered an SDK that allowed users to make app-to-app calls and send messages, but the business presents such an opportunity that the company felt it would be better executed as its own company.
+It’s also worth noting that Rebtel’s SDK was free, and that Sinch’s services (while inexpensive) are not.
+Sinch has 40 employees with offices in Stockholm and in San Francisco, as well as investors like Index Ventures and Balderton Capital through their investments in Rebtel.
+According to Sinch CEO Andreas Bernström, developers only spend a few minutes getting started with Sinch and then they’re ready to roll.
+The developer tool revolution is well underway, as more and more companies sprout up to foster the business of building apps. Perhaps, even, developer tools are the new enterprise tools.

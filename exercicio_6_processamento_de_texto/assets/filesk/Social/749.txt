@@ -1,0 +1,14 @@
+Today at VidCon Facebook pre-announced three new big product updates for Facebook Live, their live-streaming platform built into Facebook. The platform will soon let you do two-person remote broadcasts, pre-schedule your streams and create a virtual waiting room for viewers and broadcast with MSQRD’s face masks.
+Broadcast with a friend
+The first upcoming update is the ability to stream a broadcast with two people in different locations — sort of like a remote interview.
+Essentially, you can invite a friend to “drop in” on your broadcast and join the conversation. Mark Zuckerberg hinted at this during his Live Q&A last week, noting that it would be cool if he could have different guests and celebrities participate remotely in his Live videos.
+The ability to stream with a friend will let content creators incorporate things like remote interviews and duets into their live videos, which will greatly expand the creative possibilities offered by the platform. This feature will go live later this summer, starting with Verified Pages, then roll out to other users.
+Waiting rooms and pre-scheduled broadcasts
+The company is also introducing waiting rooms, letting users hang out and wait for a broadcast to start. Content creators can pre-schedule the time they are going live, which will allow Facebook to send users a notification before the stream starts so they can be waiting when you go live.
+This solves an issue we’ve previously covered, which is that broadcasters don’t want to actually start their broadcast until a lot of people have tuned in, but early viewers leave because they get bored with watching the broadcaster wait for new users. It’s essentially a chicken and egg problem, and was a major issue for content creators on the Live platform.
+Now, Facebook can get users excited and assemble them before the actual live-steam starts, so broadcasters have a full audience the second they go live.
+Go live with a mask on
+Lastly, and on a more fun note, Facebook is adding the ability for users of the MSQRD app to go live on Facebook directly from the app.
+MSQRD is the video filter app (similar to Snapchat’s lenses product) that Facebook acquired in March. Once the update launches, users will be able to try on different masks and effects from within MSQRD, all while the footage is being broadcasted live to your friends.
+
+Broadcasting live to your friends can take a lot of guts, especially if you don’t have any interesting content to show them. Letting users broadcast live from MSQRD will arm them with funny content that should encourage them to go live more often.

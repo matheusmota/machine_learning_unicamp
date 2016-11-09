@@ -1,0 +1,13 @@
+Uber has today announced new safety features for drivers within the driver-side app, including reminders to take a break when the drivers have been working for too long.
+These features are meant to fight against the four D’s of dangerous driving: drunk, drugged, distracted and drowsy.
+Across 11 pilot cities, Uber will be sending out reminders for drivers to take a break if they’ve been driving non-stop for too long, ensuring alert and well-rested hands on the wheel. In 2016, Uber finally began enforcing shift limits on NYC drivers, allowing them to use the app continuously for no more than 12 hours at a time.
+Before this, some drivers claimed driving up to 17 hours at a time (or more, with breaks), which is obviously quite dangerous. The reminder feature will complement the 12-hour limit for driver shifts.
+Uber drivers will also receive daily reports on their driving as it relates to other drivers in their area. This might include information about accelerating through turns too fast or slamming on their brakes.
+Beyond that, the company has added a speed display right within the app to show drivers how fast their car is going, all measured with the GPS on the phone. Plus, the phone’s gyroscope will measure if a driver is holding/using their phone and remind them that a dash-mounted display is safer than holding the phone.
+Ahead of July 4th weekend, a big holiday for drunk driving, the company has also released some information about how Uber has decreased drunk driving violations and accidents through its ride-sharing service.
+This is all part of a larger effort to bake safety into Uber’s brand, with more than a few obstacles standing in their way. Combining a massive 1099-based workforce with generally faulty background check technology means that end-users are often not under the umbrella of Uber’s ‘brand safety’ while they’re in an actual Uber.
+Though plenty of rides go off without a hitch, the small number of rides with accidents, violence, etc. is enough to affect the way the public thinks about Uber as a safe service.
+And because drivers are 1099 contractors, essentially working freelance, the company has long argued that it shouldn’t be held responsible for accidents or attacks.
+According to Uber, the driver is responsible for the safety and well-being of the rider, whether hailed through logistics company Uber or not.
+And in many ways, the driver is just as much an end-user of the service as the rider is. Because of this, Uber exercises limited amount of control over the actual experience and interaction between driver and rider.
+It’s yet another problem for technology to solve, and luckily for Uber, technology is where the company shines.

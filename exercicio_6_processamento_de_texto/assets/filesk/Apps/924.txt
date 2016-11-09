@@ -1,0 +1,217 @@
+The world’s most prestigious startup school launched 48 companies today at part 2 of its Summer 2016 Demo Day. Nanoparticle analytics and delivery robots were amongst the products revealed in the B2B, biotech, enterprise, edtech, fintech, and hardware verticals. You can check out our write-ups of all 44 startups that launched yesterday, and TechCrunch’s picks for the top 7 from the first half of the batch. Here are our picks for the top 8 from today’s set, with all of them below.
+Trying to distill trends from the hodgepodge of startups at Demo day can be futile, because the real winners are the ones ahead of the trends. For example, TechCrunch thought Airware’s drone operating system was a little too early in 2013. It turned out to be smartly ahead of the curve. Now you see lots of drone startups in YC, but many are chasing Airware which has gone on to raise $70 million.
+Y Combinator president Sam Altman explains “The best company at any given Demo Day is not the one that fits the theme of that Demo Day. it’s the one that fits the theme of 2019.” Altman cites the Alan Kay quote that “the best way to predict the future is to invent it”, adding “I think short of that, the future is basically unknowable. What I like about YC is the companies get to invent the future. They don’t have to guess.”
+One important development is that 30% of this batch’s companies were founded outside the US, a bigger portion than in the past.
+YC partner Justin Kan credits that to the program being around long enough that it’s funded successful companies from tons of countries. He says founders used to ask “Would YC even fund a company from Indonesia or Thailand?” but now there are role models they can look to.
+“The startup mindset has seeped out of the Silicon Valley” Altman tells us. “One of the things that will surprise people is how much of a world-wide phenomenon startups will become.” Altman notes that while tech has led to four of the five most valuable companies in the world being based on the west coast of the US, he doesn’t expect that to persist, so YC has to fund international startups.
+And now, here are all 48 companies that launched at YC Summer 2016 Demo Day 2:
+ApolloShield – A system to safely land threatening drones 
+Drones present a serious threat to security. Every year, there are thousands of security incidents with drones that can include contraband delivery and near collisions with aircraft. ApolloShield is selling a device that can take control of unwanted drones, disconnect operators, and safely land the crafts. To date, the hardware can defend against about half the drones on the market. The company said that law enforcement clients need an average of five devices that cost $30,000 per device per year.
+Read more about ApolloShield on TechCrunch. 
+
+Ohmygreen – B2B wellness solutions
+Who knew there’s already a billion dollar-plus market for office snacks? That’s what Ohmygreen — a provider of healthy office snacks — is going after. The company already serves larger companies like Lyft and Amazon, and boasts a 55 percent gross margin. The company has an $800,000 monthly recurring revenue, too. Ohmygreen does 700 deliveries every month, but at its core, it’s a logistics company, CEO Michael Heinrich said. That makes plenty sense — it allows Ohmygreen to optimize its delivery network and supply chains for its specific kinds of snacks. “This allows us to get those gross margins, 55 percent is 3-5X that of industry leaders,” he said. “That’s the same as Twilio.”
+
+ 
+Emote – Student behavioral analysis
+Student outcomes are as much a product of learning as they are a product of wellness. Emote wants to put powerful behavioral information in the hands of teachers before students even walk into the classroom. The company recognizes that 300,000 students are pushed out of class every single day and wants to do something about it by helping teachers recognize and plan for student interactions so that disruptions don’t occur. Emote will be in 33 schools by the end of September and another 135 by January. This represents 1.3 million in potential revenue and the company cites sales cycles of just three weeks.
+
+ 
+Flutterwave – Payment processing in Africa
+Payments processing is stratified across Africa. The continent is host to over 276 wallets, 500 banks, and 7 card networks. Flutterwave is producing an API for payment processing that can organize this market and create efficiencies. The company has already processed $20 million in payments over the last three months and stands to gain a lot from a 0.3 percent processing fee. In the last month, Flutterwave doubled its payment volume in an African market of over $360 billion yearly mobile payments. Services are available in Nigeria and Ghana and will be expanding to nine more countries by the end of the year.
+
+ 
+Instrumentl – Making scientific grants easy
+For scientists, applying to grants is a drag. It just doesn’t make sense for some of the most educated people on the planet to spend their time filling out forms and searching for funding sources. Instrumentl offers universities and research institutions access to a database of federal, state, and corporate money — for a monthly fee of $35 per seat. But Instrumentl isn’t just a database, it leverages machine learning algorithms to identify and push relevant grants towards applicable research. Scientists simply use the platform to build a project description and the platform takes care of the rest. Harvard, Yale, and Texas A&M are already using the platform and the company is generating 200,000 in annual recurring revenue.
+
+ 
+People.ai – Sales team analytics  
+Oleg Rogynskyy and his team at People.ai want to help companies understand what sales teams are doing on a daily basis. People.ai integrates with calendars, phones, and emails and logs sales activity that leads to closing deals. The idea is that sales teams can track best practices from top performers and close more deals. Over 100 companies have partnered with people.ai over the last four months at a price of $50 per seat per month.
+Read more about People.ai on TechCrunch.
+
+ 
+ 
+Revlo – Audience management for gamers that live stream
+Live streaming video gaming sessions may seem like a dream job, but it can be a lot of work to engage with interested viewers. Revlo is an audience management platform for streamers. Early users have seen a 40 percent increase in viewership time and a 2X increase in new viewer retention. Today there are 16,000 active streamers on the platform, paying $10 per month, to use its chatbots, leaderboards, and virtual currency to increase engagement.
+
+ 
+Quero Education – Filling open seats at Brazilian colleges
+Quero Education is an ed-tech startup out of Brazil that is promising to help solve under-enrollment issues at Brazilian universities. Contrary to what most of us would think, coming from schools challenged daily by a lack of professors and dormitories, enrollment at Brazilian schools would need to double to just match the number of available seats. The company’s platform offers information across colleges in additions to discounts at over a third of schools in Brazil. Quero takes a 12 percent cut of tuition which averages $3,000 per year in the country and has generated $7 million in revenue at a 5X yearly growth rate.
+Read more about Quero Education on TechCrunch. 
+
+ 
+Fellow – An API for working capital 
+Many companies struggle to find working capital when it is most needed — the end of the month when employees and contracts need to be paid. Fellow is an API for invoice financing that removes friction for companies. The API auto-underwrites and finances invoices. In three weeks, four companies have started using Fellow, financing approximately $120,000 in working capital. In the past, companies had to either have huge revenue streams, or deal with months of bureaucracy to get credit lines from banks.
+
+ 
+HiOperator – Customer service as a service
+HiOperator wants to help companies get access to customer service, no matter their size. The company scales phone, email and chat support services with easy integrations and a pay-as-you-go model that contrasts with other services that have large on-boarding fees. Ten companies are already using HiOperator, resulting in $11,000 in monthly recurring revenue. HiOperator’s services can integrate into key customer service platforms and centralize all information into a single platform.
+
+ 
+ 
+ 
+Innov8 – Coworking spaces for India
+Innov8 wants to bring coworking to India in a big way. They group has already built two centers in the country with 100 percent occupancy and a 200 person waitlist. The spaces utilize differentiating design to convince a growing number entrepreneurs in India to pay the monthly fee. Coworking is burgeoning in India because of it offers reliable infrastructure while at the same time reducing costs. Innov8 charges occupants $150 a month, which represents an average of about a 50 percent reduction of office costs.
+
+ 
+Vidcode – Teaching CS with fun student projects  
+Online services like CodeAcademy have been growing for a few years, but Vidcode wants to target students directly in their schools by providing projects adapted for a younger audience. Vidcode partnered with Snapchat to let students build and implement filters. Students can also use Java to build Pokemon and memes from scratch. The company is currently working to expand a high-profile contract with New York City Schools. Since launching, Vidcode is growing at 40 percent monthly by charging districts and schools $50 per student using the platform.
+Read more about Vidcode on TechCrunch.
+
+ 
+Polymail – Office mail without plugins 
+Today, our email productivity is more dependent on plugins then the mail client itself. We use them for read receipts, for scheduling, and for contact management.  Polymail wants to integrate all of these features into a core email service. The company is focusing its efforts on businesses that predominately use email services like Outlook to manage their communication. The well designed service already has 7,300 daily active users and 2,000 companies putting it through the paces. Taking a page from Slack, the service is free to teams for now and will be monetized with upgrades, including additional CRM features.
+
+ 
+Vetcove – Supplies for veterinary clinics 
+Every week, veterinary hospitals have to purchase supplies from dozens of vendors. Amazon has been aggregating products online for over 20 years, but Vetcove wants to make sure that the veterinary supplies market is not ignored. By forging partnerships with vendors, Vetcove hopes to increase its returns. Having spent their lives working in the space, the team has leveraged connections to bring 1600 veterinary hospitals onto the platform in the last year, representing 7 percent of all the veterinary hospitals in the entire United States. From this large customer base, Vetcove saw $860,000 in purchases last week.
+
+ 
+Whyd – Voice controlled speakers
+Music technology today is highly compartmentalized. We have Spotify to play our music, phones and computers to store it, bluetooth to stream it, and Alexia to talk to it. Companies like Sonos have brought audio technology forward to the doorstep of the streaming generation, but Whyd wants to go even further by integrating voice control into the speaker itself. The company is working with companies that make products for audio mainstays like JBL and Harman Kardon. This week alone, consumers have purchased 50,000 worth of the speakers.
+Read more about Whyd on TechCrunch.
+
+ 
+Meesho – Helping Indian businesses sell with social 
+Commerce in India is largely driven by mobile interactions over platforms like WeChat. Over 50 million small businesses sell over WeChat in the country. Meesho is an e-commerce platform for small businesses in India adapted for platforms like WeChat. Shop owners can interact directly with potential buyers. Businesses that use Meesho have seen a 30 percent increase in sales within a month of starting use. The company not only wants to jump on trends of mobile communication in commerce, but the overall trend of small businesses in India moving to digital platforms to manage sales. India is expected to see 10X growth over the next four years in this space.
+Read more about Meesho on TechCrunch. 
+
+ 
+RoseRocket – Collaborative trucking platform
+RoseRocket is helping trucking companies work with other trucking companies. The team recognized that most technology platforms servicing the trucking industry created tools under the assumption that trucking companies were in competition with other carriers. In reality, companies collaborate daily and most shipments spend time on other carriers trucks. At any given time, three million trucks are on the road, and 50 percent of orders are outsourced at some point during their transportation. The software costs trucking companies $10,000 per month. In addition to subscription revenue, RoseRocket also makes approximately $50,000 in commissions from each trucking company for facilitating connections.
+
+ 
+Proxy – Enabling phones to become access cards
+Mobile payments and even coupons have come to our smartphones, yet we still carry building access cards with us to work. Proxy is working to replace RFID cards with smartphones. They have created a sensor for doors that connects to phones. The readers work seamlessly with smartphones and do not require any application to be open when entering a building. Besides being convenient for workers, the readers collect valuable data on the number of workers in an office at any given time and the amount of time they spend there.
+Read more about Proxy on TechCrunch.
+
+ 
+Seneca Systems – Local government software
+Local governments use outdated phones, spreadsheets, and email to organize spending of over $1.1 trillion per year in the US on trash pickup, police dispatch, traffic lights, and more. Seneca System offers a software system that ties all departments of a local government together so they can sensibly respond to requests from citizens and each other. Seneca Systems already has big cities like Houston, Chicago, San Jose, and Boston paying for its $60 per employee SaaS, with 100 percent month over month growth in monthly recurring revenue. There are 10.5 million total local gov employees in the US, and 47 west coast cities in Seneca Systems’ pipeline already, meaning Seneca Systems is chasing an enormous market. If it can lock down the foundation of management infrastructure for local govs, it could expand into more IT services.
+
+ 
+Legalist — Algorithmic litigation financing
+There’s a new asset class for investors — and it’s actually in litigation, where investors help cover the cost of litigation in exchange for a share of the outcome. By 2016, it’s become a $3 billion market, Legalist CEO Eva Sheng said. That’s where Legalist, an algorithmic risk assessment startup, enters. Legalist gathers data from cases dating back to 1989 to figure out the risk and case duration for a specific case, gauging 58 variable correlated with case outcome. It’s basically quantitative analysis for case outcomes, though it’s “not Peter Thiel funding Hulk Hogan,” Sheng said. The firm has already invested in one case for $75,00, with an expected outcome of $1 million, Sheng said.
+Read more of our coverage of Legalist on TechCrunch
+
+ 
+CoinTent – Recover revenue lost to ad blockers
+Web publishers lost $22 million last year from having their ads blocked. 22 percent of US users have ad blockers, and usage is growing 50 percent per year. CoinTent helps publishers detect users with ad blockers, and either deny them access or let them pay $1 for ad-free access. CoinTent recovers an average of 25 percent of lost revenue, and takes a 30 percent cut of what it recovers. Eventually it wants to build a cross-web subscription service for ad-free browsing. With ad blocking rapidly growing, publishers need a solution, and CoinTent could build it for them.
+
+ 
+Amberbox — Safety sensors for  shooter detection
+Fire alarms are everywhere, but there’s a lot of opportunity to go beyond that, James Popper says. That’s the goal of Amberbox, which is to not only detect fires, but also active shooters with gunshot detection. Going after just the existing market alone, it’s a $26 billion market, but Amberbox is going for a new subscription-style model. The devices network with each other in order to create a large system that can notify authorities and managers quickly and help them lock down entire campuses. The devices cost $50 per month, or around $1,250 per three-story building, Popper said, and the devices break even after around 3 months of revenue.
+
+ 
+Robby – Self-driving delivery robots
+There 12 billion food and package delivers in the US every year. But the on-demand meal and grocery industries are being held back by the high costs of human deliverers. Robby makes self-driving delivery robots that can autonomously navigate sidewalks to your door. Robby can reduce costs of deliveries from $5 to $10, to $1 to $2 each. Its MIT PhD-built bots have already made 50 deliveries, and Robby about to start a pilot program with Instacart. If Robby can make deliveries cheaper for the consumer, it could unlock enormous growth for the on-demand economy.
+
+ 
+Eventgeek — ROI and logistics tracking for events
+Nearly every company is going to throw an event at some point. Whether it’s for employees in order to increase retention to throwing conferences in order to attract new customers, it’s a huge expense for companies. And the outcome isn’t always obvious, because there hasn’t been a strong set of tools to manage the direct outcome of those events. That’s what Eventgeek is hoping to do, plugging into multiple channels like Salesforce or Twitter to track new followers ro sales leads. The company charges around $10,000 per year, which with a market of around 250,000 companies represents a $2.5B opportunity, CEO Alex Patriquin said. The company is growing 48 percent month-over-month.
+
+ 
+RocketLit – Adaptive learning platform
+66 percent of US 8th graders have a reading difficulty level below their grade level. That means they can’t read their textbooks to study, so they fall behind. RocketLit re-writes textbooks at seven different reading levels and serves students the appropriate version. In a pilot, low performing students scored 90 percent on their science exams and every student went up two reading levels in a single year. RocketLit has $1 million in pilots set up, and is hoping to disrupt the $14 billion textbook market. If everything online adapts to the user, so should education.
+
+ 
+Jumpcut — Online courses that look and feel like movies
+Last year, LinkedIn spent $1.5 billion on Lynda.com, an online learning platform. Online education itself has become a huge market. But the course completion rates and retention is far too low, according to Jumpcut CEO Kong Pham — because the lectures are simply too boring. He’s hoping that his team can build a company based around “Spielberg-like” online courses, starting with professional networking videos like learning how to network and become better at social media. The company has $85,000 in monthly recurring revenue and is doubling month-over-month with a $17-per-month subscription model. It’s going to be challenging for sure: it’s going to be hard to figure out how to make highly cinematic videos that go into tough subjects like computer science and mathematics. But Pham and his team — which have previously built a company in viral video — hope they can crack that market.
+
+ 
+CrowdAI – Smarter image recognition 
+Companies send CrowdAI photos, and the startup tells clients exactly what’s in them. It can recognize farm land, factories, oil rigs, and much more. One company uses it to detect the number of shipping containers in satellite photos of ports, and sells that data to hedge funds. Big companies pay a fortune for accurate human tagging, while small companies rely on computers that can be inaccurate. CrowdAI blends humans and machine image scanning to accurately and cheaply provide image recognition. It’s already working with Planet Labs and self-driving car company Cruise. With a team of technical co-founders, CrowdAI could grow to help industries like medical imaging and the military too.
+
+ 
+OneChronos — Next generation financial exchange
+Trading on the stock market has become an arms race to build the fastest smartest algorithms. OneChronos hopes to level that playing field by bringing new trading mechanisms to online trading that reduce that arms race down to a more sane transaction system. The company syncs up atomic clocks to eliminate the need to race over a network, and building tools to help traders move more volume at a fair price. And it’s also letting customers run code directly inside the exchange in an additional effort to reduce cost for financial firms. CEO Kelly Littlepage says that it has signed 6 letters of intent — a $7 million revenue potential — but it has quite a few hurdles before launching next year, including filing with the SEC. But the hope is that, if all goes well, OneChronos will be a new, next-generation NASDAQ exchange.
+
+ 
+Validere – Handheld industrial testing equipment 
+Oil, gas, and chemical companies have to send samples to a slow, expensive lab to test their materials. Validere makes a handheld device that can give results cheaper, faster, and without trained technicians. At $50 per test, Validere is 5x cheaper than labs because it uses liquid property indicators combined with computer vision algorithms and public databases of chemical properties. Validere already has $750,000 in paid pilot programs, and it’s aiming at a $22 billion industry. The startup’s team PhDs from Havard and other elite schools is solving the problem not just by shrinking lab equipment, but making it easy enough for any truck driver to use.
+
+ 
+OOHLALA — mobile OS for colleges
+It can be hard to keep track of everything that’s going on at a campus, whether that’s messaging between new student acquaintances that might have each others phone numbers or paying for school resources. OOHLALA is hoping to build a complete resource for all those tools for students with what Daniel Jameel, CEO of the company, says is a “mobile OS for the school.” That may sound pretty broad, but it sounds like colleges are starting to apply it: the company has around $1.5 million in annual recurring revenue and tripled in size year over year. The company charges $50,000 across a total addressable market of 60,000 schools — or a $3B potential market. The company has 150 paying colleges in 7 countries, Jameel said.
+
+ 
+Opsolutely – Automated deployments for software teams 
+Developers use GitHub for writing code, AWS for servers, and New Relic for monitoring, but they need something to manage how their code is deployed. Opsolutely lets them granularly push code to their infrastructure with dedicated software, instead of using expensive, custom, error-prone in-house scripts or Heroku. Opsolutely already counts GitHub and Eero as paying customers for its $100 per web service per month tier. With some companies running hundreds or thousands of internal web services, Opsolutely is entering a $3 billion market
+
+ 
+Livement — Tickets and concessions for sports stadiums
+In Latin America, the ticketing process is even more of a pain than dealing with Ticketmaster and other ticketing services. In fact, customers sometimes even have to go to stores to pick up paper tickets that they purchase through Ticketmaster, Livement CEO Roberto Novelo said. Livement hopes to fix that by allowing people to not only purchase tickets online, but also purchase concessions within stadiums through an app. The company charges a 7 percent transaction fee plus a 25 cent charge for tickets, and Novelo said the company booked $500,000 in gross ticket sales in a month. Right now the company has signed with 6 teams, and is starting off in Latin America to start off given the pain points that exist there.
+
+ 
+SmartPath – Financial advisor for main street families
+While the wealthy top 15 percent have traditional and robo advisors to help them with finances, 100 million main street US families go unserved. SmartPath helps families track their expenses, complete online training, and earn rewards. Right now, they could score gift cards for getting smarter about money, but eventually Smartpath wants to get them lower interest rates on their loans. Though it sounds boring, 67 percent of users keep at it, and it’s growing 30 percent month over month. SmartPath charges employers $1 to $5 per employee per month. It targets them because companies already spend $800 million on financial wellness since it makes employees more stable and productive.
+Read more about SmartPath on TechCrunch
+ 
+PatientBank — Platform for gathering and sharing medical data
+Would you pay $30 to get your medical records before your next doctor visit? That’s what PatientBank is hoping, given that the traditional process of getting records might involve actually physically visiting an office or ordering them over the phone. With that model, PatientBank has already gathered more than 10,000 records from 2,300 hospitals to date, and generates around $4,000 in weekly revenue in its two months of operations. Given that there are more than a billion doctor visits every year, it’s increasingly important to have an all-in-one place for medical records, but it’s been a huge challenge to move records from one health professional to another. PatientBank seems to take a more patient-centric approach, and we’ll have to see if that model pans out to be a good financial model.
+ 
+Saleswhale – Coaching bot for sales teams in Asia
+Sales reps are bad at personalizing emails or contacting the right decision maker, leading to an average email response rate of under 3 percent. Saleswhale analyzes a company’s emails and makes actionable recommendations about how to improve. One pilot saw it raise a company’s response rates from 6 percent to 31 percent. Saleswhale is already working with huge companies in Asia like Grab, charging $75 per rep per month. For now it’s focusing on Asia, where it says sales tech is five years behind the US. There are legions of sales people out there, and Saleswhale could make them smarter instantly.
+Read more about Saleswhale on TechCrunch
+
+ 
+Selfycart — Mobile app for self-checkout
+Checking out is one of the most complicated parts of the shopping experience. Self-checkout kiosks can be painful to work with, and the alternative is hiring someone just to handle the process — and that’s all there’s ever been. Selfycart is launching in order to add a third one: checking out on your phone. It’s basically just an app where users scan products and pay for them through the app. Selfycart charges 2 percent to retailers per transaction, instead of the retailers having to pay for large checkout operations. Instead of kiosks, retailers only need a sales associate to validate transactions. Selfycart customers can use Apple Pay, credit cards and PayPal for their transactions.
+Read more of our coverage of Selfycart on TechCrunch
+
+ 
+Lendsnap – Automating mortgage paperwork for lenders
+It can take up to 500 pages of documents to apply for a loan, leading 80 percent of people to go with the first lender they find so they don’t get the best price. Lendsnap helps compile the 30 different documents from a loan buyer’s online accounts, from bank statements to W2s. By charging $100 per loan, Lendsnap can chase a $1.8 billion opportunity. Eventually, it wants to pre-compile people’s documents to create a loan marketplace. Loans are already scary enough, Lendsnap could at least make them easy.
+
+ 
+BulldozAIR — Task management software for construction projects
+Tracking construction issues can be difficult across a large number of construction sites. BulldozAIR wants to build a whole suite of tools that use mobile devices to keep track of all the tasks construction workers complete visually. Workers take photos of things like wiring issues, for example, and explain the technical components in the app. That information is then shared across the entire network, which BulldozAIR charges $290 per worker per year. That’s enabled BulldozAIR to generate $20,000 in recurring revenue this month, and targeting $36,000 monthly recurring revenue next month. The company is targeting Europe for now, but that alone represents a $3.7B market, CEO Ali El Hariri said.
+
+ 
+Nova Credit — Global credit reports
+One of the most important parts of economic health is the ability to make purchases with credit and debt. But for immigrants in the U.S., they might not have access to credit because they simply have no credit history in the States. Nova Credit is looking to bridge the gap between the credit history immigrants have internationally with creditors in the U.S., giving them a set of data to make a call as to whether to issue a line of credit. Those scores are equally important when it comes to renting apartments or taking out loans, too. Each credit pull costs lenders $30, and with 10 million immigrants in the U.S., that already addresses a multi-billion dollar market, CEO Misha Esipov said. In the next two months, the company will link to firms in India, Canada and Germany, and expects to cover 90 percent of the immigrant base in the U.S. in a year.
+Read more of our coverage of Nova Credit on TechCrunch
+
+ 
+NeoWize – Personalization for ecommerce
+Most e-commerce sites just show the newest, cheapest, or best selling items first. NeoWize analyzes browsing behavior like clicks, hovers, and scroll-bys to instantly personalize the items people see. Pilot customers saw a 10 percent to 30 percent increase in store revenue. Now NeoWize is built into AbanteCart and is targeting other ecommerce platforms instead of individual stores to quickly scale out. It’s growing 70 percent week over week, and is now in 1300 active stores. If you don’t personalize your site, people will bounce, so NeoWize shows them what they’ll actually want.
+
+ 
+YesGraph — Social graph API that helps apps grow
+When you’re inviting a friend to try out a new product, the process is probably pretty clunky — you have to dig up the right contact, and for the app makers, it’s not as likely that they’ll get a high quality user. Ivan Kirigin, who ran growth at Dropbox for two years, is hoping to apply machine learning to a person’s private social graph (including their contacts and emails) in order to recommend the best people to invite to a new app or product. Starting off with business-to-business customers, YesGraph will rank invites by company email domain, job titles, location, and a number of other data points. And the more data about a person’s social graph and behavior YesGraph collects (privately), the better the targeting gets across all kinds of data points, making the results more and more accurate for other companies’ invite flows.
+Read more of our coverage of YesGraph on TechCrunch
+
+ 
+TL Biolabs — Genomic predictions for better livestock management.
+If farmers have an opportunity to predict what’s going to happen to cattle as soon as they’re born — whether they’ll be susceptible to disease or need less feed — they can plan accordingly. But testing for those kinds of parameters can cost up to $100, TL Biolabs CEO Fred Turner said, coming from companies like illumina and eating up potential profits. TL Biolabs is trying to build a cheaper test — it costs $15 — using proprietary technology to get those kinds of predictions. By doing that, Farmers can optimize their operations in order to get the best possible outcome from their cattle. The company is currently running a pilot with the Scottish government to test 20 percent of the cattle born this year, which is a $1 million pilot, Turner said.
+
+Sway – Automated bookkeeping
+Companies spend $61 billion a year on human bookkeeping, but computers can do it better, faster, and cheaper. Sway has built an automated bookkeeping tool that connect to online accounts like Stripe, PayPal, and other infrastructure to pull the data it needs. Instead of a person spending 10 hours punching that data into spreadsheets manually, Sway can do it in 10 minutes. At $99 per month, Sway wants to replace bookkeeping for 500,000 businesses. This job won’t exist in 10 years, and Sway wants to accelerate the change.
+
+ 
+Elemeno Health – Checklists for hospitals
+Medical errors are the third leading cause of death in the US, and that’s partly due to inconsistency of care. Doctors and nurses forgot to check everything. Elemeno Health compiles best practices for hospitals into a checklist tool that ensures caregivers aren’t missing anything. Its pilot with UCSF saved three lives, over 300 hospital days of work, and $1.1 million. Elemeno’s co-founder worked on the frontlines of hospitals to gather the knowledge, and now he wants to bring those surefire processes to every doctor and nurse.
+
+ 
+UtilityScore — API for Utility Data
+When shopping for a home, there’s always going to be a huge cost that goes along with the mortgage: the utility bill. But that might be hard to estimate, especially when digging through potential homes on Zillow or other sites. UtilityScore is building a back-end tool that allows those companies to call up estimates for all 82 million single family homes for utility costs, giving potential home buyers more information when deciding whether or not to make a purchase. That information comes from a collection of more than 7,000 different sources, founder Brian Gitt said. That same data can also help companies like solar panel providers demonstrate to potential customers how much money they would save, making it easier to sway them. The same can be true to other home improvement providers and the like that might make recommendations on how to reduce those costs. All this leads to a total potential market of $1.5 billion, in which UtilityScore would charge around $95,000 in licensing on average per year.
+
+ 
+ 
+ 
+WorkRamp — Training software for the enterprise
+Recruiting can be expensive, but finding the best talent for your company is absolutely critical to success. But what often gets overlooked is that the people a company hires also have an opportunity to keep learning and become more valuable to the company over time. WorkRamp is building training software for companies like PayPal and Square that helps further train those employees, increasing the impact they have at a company over time. Sales representatives, for example, can come on to WorkRamp and record a pitch that their peers and mentors can view and send feedback in order to get better at their jobs. That’s one example of the exercises, which are designed to be more personalized. The company has booked $120,000 in annual recurring revenue from those companies already.
+
+ 
+RigPlenish – Reduce ambulance paperwork
+One third of ambulance time is spent filling out paperwork. RigPlenish says it can reduce 40 minutes of paperwork per ambulance run to just 4 minutes. It charges $2,000 a month to automate checklists and compliance while improving communication between ambulance hubs and hospitals. It already has a paid customer and letters of intent from two more big players that together amount for 4.4 million ambulance runs per year. With 55,000 ambulances in the US, RigPlenish is addressing a $1.3 billion market. Next, it wants to improve the backend software for fire trucks and police. Responders should be saving lives, not doing busy work.
+
+ 
+GTrack Technologies – Nanoparticle oil well analytics
+By pumping nanoparticles into fracking wells and detecting what comes back up, GTrack can quantify the amount of oil and gas available to suck up. It allows oil and gas companies to learn more about where and where not to drill. In one pilot, a company spent $20,000 on GTrack, but soon learned it didn’t need to undertake a $500,000 cleanup operation. Its team has spent seven years working with nanomaterials and has three patents. Oil and gas companies spend $12.5 billion a year on production analytics already, and next GTrack wants to get into industries like geothermal, mining and groundwater remediation, and power plant runoff. Anytime fluid flow needs to be traced, GTrack’s nanoparticles could show what’s happening underground.
+
+—
+All 44 startups that launched on Demo Day 1
+Our picks for the top 7 startups from Demo Day 1
+Our picks for the top 8 startups from Demo Day 2
+

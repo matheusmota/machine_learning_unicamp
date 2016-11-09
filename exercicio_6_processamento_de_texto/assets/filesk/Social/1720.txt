@@ -1,0 +1,6 @@
+
+Today, Facebook announced that Audience Network would be expanding to include support for mobile web, a move that will undoubtedly open up the platform to scads of new publishers. The company also noted that today’s expansions allows the 2.5 million existing Facebook advertisers to “reach more of the people they care about on mobile devices”
+This is a major move for the company that is undoubtedly going to bring a major quantity of new customers, all looking to see the power of Facebook’s highly notable ad platform make advertising suck less on their site.
+In a blog post, Facebook detailed just how essential the Audience Network had grown to be in terms of advertising spend on the platform:
+In addition to being more personalized, a major selling point of Audience Network-powered ads is that they are far less obtrusive and can offer a more customizable native ad format.
+Audience Network for mobile web is currently in beta and interested parties can sign up here to join.

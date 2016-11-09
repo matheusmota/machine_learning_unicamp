@@ -1,0 +1,20 @@
+Snapchat is debuting its first in-app purchase. It’s a new way for it to make money by letting users purchase three extra Replays of Snaps they just watched for $0.99. The company is also adding a new feature called lenses that lets users add animated effects to their face. When in Selfie mode, Snapchat will detect their faces, and users can then tap and swipe to add little overlaid graphics that let them puke rainbows, turn into monsters, and more.
+[Update: TechCrunch has just received the first official confirmation that Snapchat acquired facial recognition startup Looksery to power its new animated selfie lenses. Read more on that here.]
+Until now, Snapchat had only monetized through advertisements. By offering in-app purchases it could better squeeze cash out of its die-hard fans who might not want to sit through commercials, but would love to see that last ephemeral message again, or jazz up their Snaps.
+Back in 2013, Snapchat CEO Evan Spiegel told TechCrunch that “We think we can build really cool stuff people want to pay for. The app is now a part of everyone’s day-to-day lives. That means that they will — I at least would — pay for a more unique experience.”
+Snapchat acknowledges the replays are a bit expensive in their blog post:
+In late 2013, Snapchat launched Replays as an optional feature. After you watch a Snap someone sends you, before you close the app or navigate away, you can tap to Replay it and watch it one more time. Normally you only get one per day, but now you’ll be able to pay for more. $0.99 for 3, $2.99 for 10, and $4.99 for 20.
+In one respect, this is a smart approach to in-app purchases because it doesn’t prevent people from using a feature if they don’t pay, it just limits the use. That way those who can’t afford Replays don’t feel totally left out.  The strategy with Replays is similar to how Tinder recently limited right swipes and let users pay to get more.
+But at the same time, the Replay feature sacrifices some of the ephemerality of the app. People feel comfortable sharing off their cuff photos and videos because they know they’re private and won’t last. The Replays endanger this because they give someone the opportunity to gather friends around or grab another phone to take a picture of the Snap without setting off the screenshot detector that notifies the sender. This could discourage people from sending racier shots.
+With Lenses , Snapchat is hoping to keep its app from getting stale with the same unembellished selfies.
+Here’s how it works. When you’re looking at your screen in Selfie mode, tap and hold on your face. A facial recognition pattern will appear, mapping your mug, and the Lens buttons appear. Tap one, and you’ll get instructions on what to do to trigger the animation. Right now, the lenses include:
+
+
+
+
+
+
+
+Snapchat says it plans to add one Lens and remove one each day so there’ll always be something new to play with.
+It’s hard to believe Snapchat is four years old now. Staying cool is essential to keeping its young demographic addicted. With any luck, the new Lenses will give people a reason to check back every day, and prevent you from getting bored looking at your friends’ same faces over and over. [Update: It’s the same reason Snapchat just added new slow-motion, fast-foward, and rewind video filters.]
+And cunningly, if those Lenses are fun enough to watch, people will pay for the Replays to see them again.

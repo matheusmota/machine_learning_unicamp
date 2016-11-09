@@ -1,0 +1,8 @@
+If you’re looking for an easier way to turn the content in your head into a beautiful presentation, Slidebean has launched to give users presentation tools right on the web.
+Of course, such tools have been around for years and years, but Slidebean is different in that it’s one of the only presentation builders that separates the content from the format.
+Here’s how it works:
+Once you’ve signed up, you’re asked to simply input content slide-by-slide. At the bottom of the page, there are a handful of slide types, like Title Only, Bullet Points, Imagery, Video, or just Text. Every time you add a new slide, you have a choice in which type of slide that will be.
+When you add an image, you are not only offered a way to upload from URL and from the computer, but you also have your own little search window inside the web app itself to find good imagery for your presentation.
+After inputting all the content you’re using, you can click into the Design tab and start making changes to the format and color palette. There are five different color combinations, and five different design options, all of which come complete with animations.
+Once you’re finished, SlideBean generates a link for you to share with viewers so they can click through at their leisure, or you can hook up the device to a projector and proceed as usual.
+The web version of the service is free, but users who wish to export their presentations to PDF will need a $4.99 monthly subscription.

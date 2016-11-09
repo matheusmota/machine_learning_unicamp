@@ -1,0 +1,7 @@
+When Microsoft signaled that it would move to a more rapid release cycle for Windows code, it meant it. The coming technical preview of Windows 9 — the operating system codenamed ‘Threshold’ — could contain a rapid-upgrade feature to keep users who are stress testing the software up to date.
+According to NeoWin’s Brad Sams, current internal testers of Windows 9 can update their build with the click of a single button.
+It is not clear that the feature will make it into the wild. If it does, however, it could allow Microsoft more agility to pass out the latest patches and upgrades to users, potentially boosting the usefulness of the coming release in spotting bugs.
+Windows 9’s release cadence is generally understood to kick off in late September with a technical preview, followed by a number of succeeding previews, leading up to an early calendar 2015 release. That means that Windows 9 will not touch down before the holiday sales cycle.
+For PC makers, OEM providers, and Microsoft, then, Christmas will be a Windows 8.1 affair.
+The cycle of leaks surrounding Windows 9 is accelerating, which is in itself not surprising. Given that its public unveiling is imminent, it will be harder for Microsoft to keep a lid on things.
+I’ve started to mentally compile a list of things that I personally want to come in Windows 9. If you have a particularly burning want or wont, the comments are yours.

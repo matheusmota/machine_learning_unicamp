@@ -1,0 +1,12 @@
+According to IDC, sales growth of smartphones running Microsoft’s operating system will remain sluggish for the foreseeable future.
+New figures from the group, released yesterday, are stark. The group predicts that Microsoft will shift a total of 31.3 million phones in calendar 2015, giving the software giant an effective global market share of 2.2 percent.
+In 2019 — a far-off time, to be sure — IDC predicts that Microsoft will move 43.6 million smartphones. Now, while 50 percent growth is certainly movement in the right direction, IDC calculates that, in 2019, that higher unit volume will only grant Microsoft 0.1 percent more market share. That’s not a lot.
+Here’s their take:
+ 
+A Dramatic Turn Of Subtweet
+Believing that device volume of the larger Windows Phone family is about to hit a growth vector has, to date, been nearly a fool’s errand. I don’t mean to be unkind, but Microsoft’s mobile effort has been an expensive endeavor that has failed so far to attract material market penetration.
+Looking into the past, however, is not always the best way to know what may happen in the future. By that I mean it was quite easy to dismiss the company’s Surface efforts, which largely failed to connect with consumers until the Surface Pro 3 came along.
+It is still a bit early to tell whether Microsoft will manage to grow its smartphone market share. It may not, I do not know. But with the launch of Windows 10 for mobile devices, and perhaps a rumored new smartphone that may prove to be more attractive than prior offerings, the company could be approaching something akin to a mobile reset.
+And with a reset, you have to largely throw out the past and start again.
+So I am hesitant to completely agree with IDC, but understand where it’s coming from; being optimistic in this area has been quixotic for Microsoft’s fans and users.
+A smartphone platform is the fusion of hardware and firmware that supports third-party apps and services. Microsoft has reconstituted the parts of that it can control. So now we wait so that we can see.

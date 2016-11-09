@@ -1,0 +1,13 @@
+Started over a year ago by the ex-CEO of Beats Music, Chosen is a video creation app with a competitive element. Users create short clips on their phones, and can view others while swiping left or right to up vote or down vote the clip.
+Originally, the videos were designed to be short clips of users showcasing their musical abilities – playing the guitar, singing, or even yodeling. The voting system would surface stars while hiding amateurs, acting like a crowdsourced American Idol.
+But, as with most app startups, it didn’t quite take off – at least not in the way the company envisioned.
+Instead of becoming a virtual music talent show, the app morphed into a generalized video platform to create and share videos with your friends.
+The app also benefited from a investment by Ellen DeGeneres and partnership with The Ellen Show, which consisted of multiple challenges where users would submit videos to show off that they were a better dancer than Ellen or had the cutest pet. This was a great way to generate content in the app, and to date the challenges represent the bulk of video content inside Chosen.
+But at the same time, a new app called Musical.ly was gaining traction among the highly sought-after teenage demographic. The music video lip-sync platform quickly turned short music videos into the most popular type of video content among teens.
+Chosen saw a similar trend – while they didn’t offer the ability to dub videos with songs, music videos became one of the most popular types of content on the platform.
+
+So today the app is launching an update that includes the ability to create music videos with samples of more than 20 million different songs.
+According to the Chosen CEO David Hyman, the move reflects a larger trend – young people don’t watch music videos any more. They watch short homemade lip-sync clips on platforms like Musical.ly, Vine and Instagram.
+While older users consume music in a passive way (like Pandora), this generation discovers music by interacting with it and creating content. So while the short-term goal is for this update to support the creativity of users who want to create music videos, Hyman notes that eventually Chosen could become a destination for users to actually discover new music.
+Plus, to further aid user’s creative endeavors, the company is also launching a feature that lets creators use facial recognition technology to impose imagery and clothing on top of their video – sort of like a simplified Snapchat Lenses feature.
+The update launched today and is available in the iOS App Store and Google Play Store now.

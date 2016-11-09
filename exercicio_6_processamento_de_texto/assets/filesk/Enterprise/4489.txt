@@ -1,0 +1,11 @@
+Egnyte, a company that sells a hybrid storage solution that includes a cloud-based component, is turning to another provider to help house its growing set of customer data: Google.
+Why might a cloud company turn to another cloud provider to host its data? Google, through its Google Ventures arm, is an investor in Egnyte, making the union reasonable. Egnyte does not intend to move its extant dataset — around 40 petabytes — to Google’s cloud, but will begin to store the preponderance of new customer data on Google’s iron.
+There is a certain irony here. Egnyte’s storage play is aimed at companies that want to keep some of their data on-premises, in part because existing data can be massive, and thus hard to put into the cloud en masse. Thus to see Egnyte not move its current data to Google’s cloud, and instead only new data is to see Egnyte have a hybrid approach, to delivering a hybrid service.
+I spoke to Egnyte’s CEO, Vineet Jain about the decision. Google approached Egnyte, leading to the eventual choice by the smaller firm to use its investor’s technology platform, Jain said.
+Egnyte recently raised a $29.5 million Series D round of capital, and has revenues in the $25 million to $35 million run-rate range, according to the company.
+Aside from the relationship with Google Ventures, Egnyte didn’t find Microsoft’s Azure too appealing given its focus on products from Microsoft itself, according to Jain. Google also offered pricing on storage that Jain referred to as “astonishingly low,” which couldn’t have hurt. (Egnyte is not alone in leaning on other clouds to host its own cloud-based service. Dropbox, for example, uses Amazon’s cloud tech to power parts of its own.)
+Egnyte keeps some data out of the U.S. where the government has stronger legal authority to request access to information. Some customers don’t want their information stored on U.S. soil, given the aggressiveness of the country’s surveillance arms.
+Egnyte has a European data center, and through Google will be able to keep data segregated. The company recently opened an office in Europe.
+Egnyte is currently storing data at a rate of around 20 petabytes per half-year, meaning Google just picked up a big customer for its cloud services.
+On burn the Platform Wars.
+IMAGE BY FLICKR USER Honeyhouse Films UNDER CC BY-SA 2.0 LICENSE (IMAGE HAS BEEN CROPPED) 

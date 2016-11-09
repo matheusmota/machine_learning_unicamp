@@ -1,0 +1,15 @@
+ThoughtSpot, a startup that hopes to modernize the way companies do business intelligence, announced $30 million in Series B funding today led by Khosla Ventures with help from existing investor Lightspeed Venture Partners.
+The funding brings its total to $40.7 million to date. As part of the deal, Keith Rabois, who is a partner at Khosla Ventures, will join the ThoughtSpot board of directors.
+The product uses a consumer-like search front end to help find data.
+While Thoughtspot is not generally available yet, they report having several early stage customers and want to use the investment to build out their customer support, marketing and sales before releasing their first official product later this year.
+They have an impressive team that includes the former head of AdSense analytics at Google, the former head of search at Yahoo and the former lead for Oracle’s BI in the cloud effort, to name just a few.
+When asked why they were attacking business intelligence, which has been around since the 1980s, co-founder and CEO Ajeet Singh told me he identified BI as an area that was ripe for change. The focus until now, he says, has been centered too much on the needs of IT and not enough on users getting at the data they need.
+The product lets you search a structured database and find the answers to particular problems, then create custom dashboards on the fly. As an example, he searched CrunchBase for the most funded areas in 2014 and found that it was mobile apps. He isolated the data point in a graph and pinned it to a custom dashboard on Silicon Valley investment.
+The whole focus of the product is on the user experience, he says, trying to make it as easy as possible to identify and display structured data.
+When most people think of BI today, they probably think of companies that were popular in the 1980s and1990s like Business Objects and Cognos. These companies were scooped up by larger players when SAP bought Business Objects in 2007 and IBM snagged Cognos in 2008. Other big players include Microsoft and Oracle.
+Smaller competitors include SAS, Pentaho, Qlikview, Tableau and Jaspersoft (which itself was purchased by Tibco earlier this year) to name a few.
+But  Singh is unimpressed with the current state of the market. He likened it to how publishing has changed since it moved online. “Business intelligence is still using the [print] magazine or newspaper model. IT guys have to curate content and build applications for hundreds of business users.” He added that these solutions tend to be delivered in a cookie-cutter manner and there is a limited number of kinds of cookies.
+R Ray Wang, co-founder at Constellation Research says that data search is one approach to BI, but it might not be the whole answer. “What we ultimately want to get to is the ability to surface up insights, recognize patterns, and then make the best decisions,” he told me.
+He adds, “There will be many techniques required, but this will be a good entry point, which sets them apart.”
+Singh says the company has plans to open offices in New York and Washington and hope to open a UK office by the end of the year.
+PHOTO CREDIT: (c) Can Stock Photo

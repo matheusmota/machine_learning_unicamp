@@ -1,0 +1,9 @@
+“Identity-as-a-service” startup Auth0 (pronounced “auth zero”) has raised $15 million in Series B funding.
+CEO Jon Gelsey said that for many website and mobile app developers, integrating with different login systems can turn into a big headache — and also create security risks. So the company helps those developers manage identity and authentication, whether that’s through social logins like Facebook and Twitter or through enterprise authentication systems.
+“At the end of the day, we want to make the Internet safer,” Gelsey said. “The wonderful and terrible thing about identity is that it’s a very complex, heterogenous and corner-case-ridden area.”
+Auth0 has now raised a total of $24 million. The new round was led by Trinity Ventures, with participation from previous investors Bessemer Venture Partners, K9 Ventures and Silicon Valley Bank.
+“If you believe Marc Andreessen that software is eating the world — and I do — then authentication is the lynchpin,” said Trinity’s Karan Mehandru, who’s joining Auth0’s board of directors.
+Mehandru also said that while other companies in the market focus on “silos” like social logins or two-factor authentication, Auth0 has “taken a very asymmetric approach with a very elegant solution, a single platform that’s intersecting with the developer even before they’ve delineated this problem into different areas.”
+
+Gelsey added that an Auth0 customer might start out with a simple authentication system, then add more sophisticated security features over time.
+And speaking of security features, Auth0 is announcing a new one — breached password detection, which allows businesses to notify their users when their password has been compromised on another website. Gelsey explained since people generally reuse their passwords across multiple sites, breached password detection allows developers to “mitigate [their] risk without forcing users to change their behavior.”

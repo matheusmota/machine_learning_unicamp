@@ -1,0 +1,14 @@
+BlueData, a company that helps customers generate virtualized big data clusters, announced a $20 million Series C round and a partnership with Intel today.
+Intel Capital led the round. Also participating were Amplify Partners, Atlantic Bridge, Ignition Partners, as well as a strategic investor who chose to remain anonymous. As part of the deal, Doug Fisher, senior vice president of Intel and general manager of its Software and Services Group, will join BlueData’s board of directors. 
+BlueData’s founders have their roots in VMware. The goal with BlueData has been to make it as easy to spin up a Hadoop cluster as it is a virtual machine, company founder and CEO Kumar Sreekanti told TechCrunch.
+“Enterprises require efficient and agile implementations for their on-premises big data solutions. Speed and innovation are essential in big data analytics, and the infrastructure can’t slow this down.” Sreekanti wrote in a blog post.
+The product is essentially Hadoop- or Spark-as-a Service, but instead of living in the cloud, it resides on-premises on customer hardware. It combines the agility, speed and multi-tenancy of the cloud with the performance of running on bare metal in the data center.
+What’s more, it works with any version of Hadoop or Apache Spark. The company is also planning on supporting Docker containers in an upcoming release.
+The deal with Intel will involve several levels including engineers from both companies working together. BlueData will also have early access to new hardware releases. The idea is that BlueData will work to optimize its products on Intel architecture, particularly Intel Xeon chips.
+The two companies will also work together on joint marketing and sales projects, and Intel will provide BlueData with the entree at the large enterprise customers it craves.
+The partnership has the potential to be a huge boost to a small company like BlueData, which currently has 35 employees. The agreement is part of Intel’s ongoing effort to support big data companies, and comes on the heels of a similar deal with Cloudera, a BlueData partner, last year.
+This isn’t the first time, Intel has shown interest in BlueData. It also contributed to the company’s Series A and B round.
+Intel has been spreading the wealth this week. Just yesterday, it announced a big cloud push to go with its big data initiative. As part of that, it invested significant money and resources in Mirantis , an OpenStack company.
+Since it launched in 2012 BlueData has raised a fairly modest $39 million across three rounds including today’s announcement — and it wasn’t looking for a big score this time.
+“We weren’t looking for a huge amount of money. It’s too early for that,” Sreekanti said.
+Sreekanti wouldn’t say exactly how many customers it has, but it lists several on the company website including Comcast, Orange and Symantec.

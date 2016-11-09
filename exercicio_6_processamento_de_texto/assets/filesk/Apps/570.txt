@@ -1,0 +1,11 @@
+ 
+DIRTT wants to help architects, developers, facility managers and interior designers create eco-friendly work spaces that are stylish and fit their needs.
+Their process starts with creating a digital blueprint, of sorts, within DIRTT’s cloud-based design and planning software, ICE. That’s where ICEreality comes in. The feature, which will be broadly available this fall, is now accessible to a very small number of invited beta users.
+ICEreality allows designers, or really any building occupants, to see a real-time video of an existing space that they want to remodel, overlaid with a three-dimensional illustration of elements and objects they want to install.
+They can see how a counter, a custom-cut door or new walls, windows, blinds and furniture will look in the space this way.
+There’s a video of the demo here, where DIRTT “builds” cabinets and counters on an empty stage. (Skip to about 2:20)
+ICEreality translates the digital components of a room so they appear precisely built-to-scale in the video. This gives users a much better sense of how their office will feel once all the new prefabricated components come in, and are installed.
+According to DIRTT co-founder and Chief Technology Officer Barrie Loberg, ICEreality can be used with VR headsets like the Oculus Rift or HTC Vive for a more immersive experience, but it also works on smartphones and tablets.
+Because it’s not entirely illustrated or rendered, but isn’t just text and information overlaid on a video, DIRTT insists on calling their technology neither VR nor AR but “mixed reality.”
+“We built this to go beyond the 3D walk-through and let people make tweaks to a design in real time. Once they get the environment designed exactly as they want it, they can also place orders for everything they need to get it built, here,” he said.
+Better design tools, Loberg hopes, will help the construction industry avoid costly mistakes and change orders that occur when a built environment requires tweaks after materials have already been ordered and installed.

@@ -1,0 +1,16 @@
+Los Angeles startup GOAT (incorporated as 1661 Inc.) has raised $5 million in new venture funding to grow its mobile-only marketplace for used and collectible sneakers.
+The GOAT app features everything from Adidas’ Yeezys to Nike’s Jordans and Flyknits, in men’s or women’s sizes, new and used condition.
+Instead of operating like an open marketplace such as E-bay, letgo or Craigslist, GOAT is a managed marketplace. And it’s mobile-only, not a website adapting to mobile trends.
+For starters, GOAT verifies the authenticity and condition of every pair of shoes a seller wants to list via its app. The review of the sneakers includes an initial, online assessment of photos of every pair, using a mix of human reviewers, computer vision and machine learning.
+If the company’s online review finds that the sneakers are likely authentic, with higher than 90% certainty, GOAT prompts the seller to send their kicks to the GOAT warehouse in Culver City, where the shoes are further inspected by hand, and cleaned up (if necessary) then priced, packaged and sent to the final buyer.
+With about 20 full-time employees today, CEO Eddy Lu said GOAT intends to use some of its new capital to further automate its reviews process, and otherwise bolster operations with new hires, software and potentially even robotics in its warehouses.
+The company will also use the funding to continue raising the brand profile for its GOAT app among the burgeoning sneakerhead community.
+As TechCrunch previously reported, sales of used footwear in this category reached an estimated $1 billion annually in 2015. The sneaker buying and collecting trend is growing among millennials, and other demographic groups.
+Lu said, “Sneakers are a very unique part of the culture and fashion landscape today. As we become more casual dressers, especially for men, sneakers are a way to differentiate yourself.”
+Matrix Partners led the investment in GOAT, and was joined by the startup’s earlier backers Upfront Ventures and Webb Investment Network.
+With his firm’s investment, Matrix Partners General Partner Josh Hannah has joined the board of GOAT.
+The new funding round, classified as a Series A-7, brings GOAT’s total capital raised to $12.6 million. The team behind GOAT originally started a company in food tech, GrubWithUs, now shuttered. GOAT is not the startup’s first but their second pivot.
+Upfront Ventures’ Greg Bettinelli wrote more about GOAT’s evolution here. 
+Bettinelli said now that GOAT has found product market fit, and given its funding, he expects the startup to invest in operational improvements and marketing online, while also expanding internationally.
+The GOAT app has been getting traction beyond the U.S. naturally, he said, with orders shipping as far as Kuwait and Egypt.
+But GOAT, which already processes tens of thousands of sneakers per month at its warehouses, wants to allow international users to sell their kicks via the marketplace in the near future.

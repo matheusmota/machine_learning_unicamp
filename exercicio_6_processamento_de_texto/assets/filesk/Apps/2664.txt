@@ -1,0 +1,10 @@
+The Hollywood Reporter has reported that Twitter is the target of a class action lawsuit having to do with how private direct messages are treated on the service.
+While it’s quite obvious that there aren’t humans that work at Twitter reading your direct messages, an algorithm is sweeping over them, to swap out links with shortened T.co (the shortening service owned by Twitter) ones for tracking purposes, presumably. The lawsuit claims that Twitter should collect consent to do such things within the private messages:
+The lawsuit was filed on behalf of all Americans who have sent or received a direct message and seeks damages that would amount to about “$100 per day for each Twitter user whose privacy was violated.” It sounds like a familiar scenario, as companies like Google scan Gmail for content for things like ad matching. In that case, Google settled with users who were under 18.
+There are a lot of questions that come up with a case like this. Is algorithmic skimming really stomping on our privacy? If a company is pouring over data blindly to give us a better experience, does that count as malice?
+In this particular case, Twitter doesn’t have to shorten DM links anymore, since it lifted its 140-character limit within them. Therefore, the only reason that they do it is for tracking purposes. That’s where things are going to get interesting. Some would argue that the contents of “private” direct messages shouldn’t be touched, massaged, reviewed or changed by another person or a machine no matter what.
+To be fair, Twitter’s privacy policy makes no obvious statements on how private your direct messages are, only describing them as “more private” as opposed to public. Remember, these are called “direct” messages, not “private.” In fact, these passages in the terms of service is super broad, but sounds like “altering” is acceptable. DM or not:
+Seems like Twitter might have its bases covered, but we’re not lawyers.
+We reached out to Twitter and a spokesperson refused to issue a comment on the record.
+UPDATE: A Twitter spokesperson has provided us with the following statement:
+Here is the court document in its entirety:

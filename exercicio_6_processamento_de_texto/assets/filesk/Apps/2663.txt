@@ -1,0 +1,20 @@
+The Dislike button has long been the most requested feature from Facebook users. So when Mark Zuckerberg today said in a public Q&A that the company was working on a way to show empathy for victims of tragedies and other things that are inappropriate to Like, news outlets around the world sprung into action saying the masses would soon get their wish.
+But don’t hold your breath for a button called “Dislike”. Zuck explicitly said that’s not what Facebook is building.
+Here’s the video of his response to requests for a Dislike button. At the bottom of this post you’ll find the full transcript of this answer.
+ 
+What exactly did Zuck say?
+“I think people have asked about the Dislike button for many years…today is the day where I actually get to say that we’re working on it, and are very close to shipping a test of it.”
+“We didn’t want to just build a Dislike button because we don’t want to turn Facebook into a forum where people are voting up or down on people’s posts. That doesn’t seem like the kind of community we want to create.”
+
+“People aren’t looking for an ability to downvote other people’s posts. What they really want is to be able to express empathy. Not every moment is a good moment, right? And if you are sharing something that is sad, whether it’s something in current events like the refugee crisis that touches you or if a family member passed away, then it might not feel comfortable to Like that post.”
+“But your friends and people want to be able to express that they understand and that they relate to you.”
+Really, this makes total sense. If Facebook built a Dislike button, it would just cause confusion. If I share a post about victims of a natural disaster, and you Dislike it, does that mean you Dislike that the tragedy happened? That you Dislike the victims? That you Dislike that I posted it? It’s extraordinarily ambiguous in a way that directly conflicts with how Facebook builds products.
+What makes much more sense is a button that conveys that you empathize or sympathize with a post’s author and/or those affected by the tough situation.
+In fact, Facebook already has a version of this called “Recommend”. Websites can use it instead of the Like button to help people share stories that are tragic. But now Facebook is building something new to express condolences.
+Whatever wording Facebook picks, it has to be widely understandable, translateable across languages, succinct and unambiguous.
+
+One possibility for the name of the button could be “Sorry” or something of that nature. A word that when you read it, you know the sender understands the sadness of a story and feels for you and the victims.
+To implement this, Facebook might give people posting stories the option to replace the Like button with this empathy button, or add one beside it. Facebook could potentially recommend the presence of the empathy button depending on the content of your post. For example, if it detected that what you’re saying is sad because you included the terms “died,” “passed away,” “hurt,” “fired” or “broke up,” or that you’re linking to a news story flagged as tragic.
+This way, if you share something sad, people don’t have to be apprehensive about Liking it because they might give the wrong impression. This apprehension can fool Facebook’s News Feed sorting algorithm into thinking a post isn’t interesting. An empathy button will clue the algorithm in to when a post isn’t Likeable, but it’s still important for people to see.
+
+Here’s Mark Zuckerberg’s full response to the request for a dislike button:

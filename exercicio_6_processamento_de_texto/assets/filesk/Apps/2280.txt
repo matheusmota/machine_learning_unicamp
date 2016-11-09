@@ -1,0 +1,8 @@
+Porch, one of the many companies positioning themselves to be the go-to place for “home services,” has laid off 90 members of its staff according to Geekwire. We’ve reached out to Porch for a statement (See the update below). 
+The company has raised $98.85M to date in 3 rounds. Their competitors include Amazon, Angie’s List, Pro.com and HomeAdvisor, just to name a few.
+We just covered their acquisition of mobile advice platform, Fountain, and nary a word was mentioned about any trouble or pivots. I find it highly unlikely that there was any specific tech or talent that could allow for letting 90 people go, but…what do I know.
+Geekwire described the moves of the Seattle startup with tons-o-funding as part of a “broader reshuffling and strategy shift” which includes the departures of a few key executives. The company is also currently trying to recruit and hire a CTO, which sounds like a pretty vulnerable position for a company with that much money raised.
+Geekwire reports on the executive exodus:
+Naturally, Porch’s CEO, Matt Ehrlichman, is painting a happy face on the layoffs and changeups, telling Geekwire:
+The last time we heard about headcount was around their last funding found (a massive $65M), and it was pegged at 300 or so. So yeah, 90 is no small number. A source told us a bit more about the situation, saying there were about fifty others in a room together being told of their imminent layoff. Multiple departments were affected, we’re told, with people being let go after joining only months ago.
+UPDATE: Craig Cincotta, SVP & Head of Communications at Porch, provided us with the following statement:

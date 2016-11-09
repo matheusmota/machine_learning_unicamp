@@ -1,0 +1,5 @@
+Kwikset, makers of the Kevo smart lock, have just unveiled the second-generation of the device with a fresh design and added security features.
+The second-gen Kevo still comes with the same touch-to-unlock feature that made it popular back in 2013, letting users simply touch the lock to gain entry to their home. Users of the second-gen smart lock can also remotely manage access to their home from their phone, get lock notifications, and view the activity history of the door.
+Plus, the new Kevo can connect to various compatible wearables and smart home devices, including Nest and Honeywell smart thermostats, the Ring and Skybell video doorbells, and Android Wear.
+A recent investigation at DEFCON showed that most smart locks are easy to hack into, but Kwikset’s Kevo was one of few locks that only succumbed to a few hard blows from a screwdriver, as opposed to a software hack.
+The new Kevo comes in three colors, Nickel, Brass and Bronze, and is available now for $229.

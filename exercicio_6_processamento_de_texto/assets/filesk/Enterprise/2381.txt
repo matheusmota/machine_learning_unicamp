@@ -1,0 +1,12 @@
+HackerOne, makers of a bug bounty platform where companies pay hackers to find vulnerabilities in their products, announced a $25 million Series B round today.
+The round was led by NEA. Benchmark, its lead Series A investor, also participated along with several prominent individual investors including Salesforce.com CEO Marc Benioff, Digital Sky Technologies Partner Yuri Milner, Dropbox CEO Drew Houston, Yelp CEO Jeremy Stoppelman, Zenefits COO David Sacks, Riot Games CEO Brandon Beck and Berggruen Holdings founder Nicolas Berggruen, among others.
+Today’s investment brings the total across the two rounds to $34 million.
+The company’s platform mixes elements of social and gamification to find exploits and share reports about them with other platform users. Companies offer hackers rewards to find holes that black hat hackers could exploit. The platform provides an avenue for sharing information about all the parties involved including the companies paying the bounties, the hackers and their skills and details about the vulnerabilities found. Each participant builds a rating and reputation as they engage in platform activities.
+So far the platform is responsible for uncovering almost 10,000 vulnerabilities and paying hackers over $3 million, according to company CTO Alex Rice. The company has 250 customers including Twitter, Slack, Adobe, Yahoo and Airbnb.
+HackerOne is a company in the right place at the right time. There is a growing feeling that if we share information, we are going to be far safer together as part of a herd, then by trying to go it alone.
+“The world is opening up to the idea that traditional technology solutions have absolutely been falling us. Even large organizations with big security teams are feeling it. You can’t solve it in isolation” Rice explained.
+He admits that this is not a silver bullet, but a way to find gaps and loopholes that developers might have missed. It takes advantage of the notion that if you put enough eyeballs on a problem, you are going to expose those issues.
+“Try to hack [them]. If you’re successful, they’ll pay you fairly for the information,” Rice said.
+As Rice told TechCrunch last year, the community can be powerful:
+When the president signed an executive order earlier this year promoting private sector information sharing, companies like HackerOne must have done a little happy dance. That’s because the three-year-old company has been trying to encourage this type of behavior for some time now.
+It seems the world is finally catching up and HackerOne has $25M to keep growing.

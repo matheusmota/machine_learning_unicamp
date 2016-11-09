@@ -1,0 +1,8 @@
+Blockai is supposed to help photographers and artists defend their intellectual property. Now it’s launching a new feature to make that process easier — or at least better-integrated with Twitter.
+Previously, Blockai users would go to the startup’s website to upload their work, creating a record in a public database (namely, the blockchain) stating that they’re the creator.
+However, CEO Nathan Lands said, “We don’t imagine artists are sitting on Blockai all day,” so it’s also trying to integrate with other tools, starting with Twitter. Just tweet the image that you want to register and include the hashtag #blockai; the image will automatically be registered (assuming you’ve already got a Blockai account — otherwise it’ll ask you to set one up).
+
+As Lands explained when the service first launched, the idea is to offer users a way to create proof of their copyright without going through the trouble of registering with the Library of Congress.
+
+The service is free for artists to use. The plan, eventually, is to charge other customers, such as media companies.
+The ultimate goal, Lands added, is “to answer, for every file on the web: Who owns the copyright?”

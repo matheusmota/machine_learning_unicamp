@@ -1,0 +1,9 @@
+Around two weeks out from the purported release date of the technical preview of Windows 9, videos of the upcoming operating system have hit the Internet. German site WinFuture has released a mess of screenshots and videos of the upcoming code over the past few days, to our benefit.
+A number of clips are up for watching, detailing how Windows 9 will handle multiple desktops, the return of the Start Menu, and more. Presuming that you have missed at least one, I’ve included each in this post.
+The videos are worth considering as they demonstrate what Microsoft views as a proper remediation — and fusion — of its tablet-facing efforts included in Windows 8, and support of desktop features that echo the popular Windows 7.
+Microsoft declined to comment on the video showing off the new Start Menu. I haven’t seen pushback from the external media that the clips are fake. Of course, we can’t know for sure, but it seems that Windows 9 — what is called Threshold inside of Microsoft — is dripping into the public eye as its formal release is prepped for the general market.
+Given that the below videos are of a pre-preview build, keep in mind that much could still change. The user interface elements could be updated, functionality stripped, or added, and so forth.
+Still, here’s where we are:
+
+
+

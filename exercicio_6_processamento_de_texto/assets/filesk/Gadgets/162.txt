@@ -1,0 +1,32 @@
+Confirming earlier leaks, Roku this morning unveiled a refreshed and rebranded line of streaming media players, with the intent of plugging every hole in the market. Instead of numbering the Roku devices as before, the new streamers use names like “Express” for the entry-level devices up to “Ultra” for the high-end player, and focus on consumers’ particular interests when buying, whether that’s price point, portability, better picture quality, port availability, and more.
+According to Roku CMO Matthew Anderson, the decision to move away from the numerical scheme was because it implied that the higher numbers were the newer players. “If the latest is the highest number, that works. But if you’re doing something disruptive at the bottom, it’s hard to call it ‘1’ again,” he says.
+
+Roku Express & Express+
+At the low-end, the new Roku Express will replace the Roku 1, but will offer an upgraded experience. The new device is 75% smaller than the earlier model, supports 1080p HD streaming, and Roku has doubled the processing power in the chip. This boost means the player software will respond more quickly than before, and generally feel snappier.
+It’s priced aggressively, too, at $29.99, which makes it a compelling choice for those considering shopping for a stick like Chromecast or Amazon Fire TV Stick, simply because of price point.
+
+An Express+ model ($39.99) also ships with a composite cable in addition to the HDMI cable, as it’s designed to work with older TVs you want to upgrade to a smart TV. Roku felt this was need currently being overlooked in today’s streaming player landscape, noting there are 40 to 50 million TVs that don’t have HDMI ports here in the U.S.
+Meanwhile, both Express models also ship with an IR remote, but it doesn’t support private listening through the headphone jack. However, the Roku iOS and Android app offers private listening and voice search for Express owners.
+Roku Stick
+The Roku Stick ($49.99) is also still available for those who want to be able to move their Roku between TVs – helpful for those traveling, or who occasionally watch in different rooms. It includes dual-band MIMO wireless, an included remote, supporting for casting video from Netflix and YouTube apps to the TV, and is the only stick with a quad-core processor. That means it’s 8 times more powerful than the prior model.
+Premiere and Premiere+ 
+In the mid-tier, the former Roku 2 will become the Roku Premiere and Premiere+ instead, priced at $79.99 and $99.99, respectively. These two devices will focus on meeting the needs of consumers who are most interested in better picture quality.
+
+Roku says 55 million 4K TVs will be sold this year, and that number will grow to 120 million by 2020.
+The Premiere is the device aimed at this segment of the market, by offering with 4K support at 60fps. The increased speed means a smoother image when watching video with action, like sports. It’s also meant to rival other 4K players, like Amazon’s Fire TV which offers 4K at 30fps, for example. (Apple TV’s latest model doesn’t support 4K video either, but it looks like the next model might.)
+The Premiere+ will add HDR support in addition to 4K, and ship with a high-end, “point anywhere” remote with a headphone jack versus the Premiere’s standard IR remote. HDR improves the picture quality further, by bringing more detail to the brightest and darkest areas of scenes by expanding the range of color and contrast of the images.
+The Premiere line can also upscale 720p to 1080p on HDTVs, and 720p or 1080p to 4K up to 60fps on 4K UHD TVs.
+The Premiere+ also adds a few ports, like Ethernet and a microSD slot, while both devices include a quad-core processor and support for 802.11ac MIMO dual-band wireless.
+Ultra
+Finally, at the top of the lineup is the Roku Ultra. This player has everything, including 4K and HDR support, the ability to upscale videos like the Premiere,a quad-core processor, 802.11ac dual-band wireless, and Dolby Digital/Dolby Digital Plus for surround sound in home theaters.
+It also offers Ethernet, microSD, optical digital audio out port for receivers and soundbars, and a USB port.
+Its high-end remote has the headphone jack for private listening, voice search support, the lost remote finder feature, and gaming buttons.
+
+Night Listening Mode & Better Search
+The Roku software is also getting an upgrade at this time as well.
+Premiere and Ultra owners, will have access to a new “night listening mode,” which will address that annoying problem where you’re constantly turning the volume up and down on action films because the dialog is quiet, but the action scenes and explosions are loud. This is something parents stress over quite a bit, as they’re trying to watch movies after their little ones are in bed, but also would be ideal for any other situation where you don’t want to blast your TV for all your housemates to hear.
+With night listening mode, Roku will bring the two audio tracks closer together, so you don’t have to keep fiddling with the volume.
+
+In addition, Roku can now search across over 100 channels, and has been tweaked to help you better find content in specific genres like comedy, cooking, sports, and music. For example, if you searched for a comedian’s name, you wouldn’t just find the movies he starred in, but also things like a guest appearance on SNL, stand-up specials, if he’s credited with narrating a movie, and more.
+Search is available across all models and is backwards-compatible.
+The new devices are available for pre-order on Roku.com, and will ship in October. They’ll hit the major retailers, like Amazon, Best Buy, Walmart, Target and others, in October as well.

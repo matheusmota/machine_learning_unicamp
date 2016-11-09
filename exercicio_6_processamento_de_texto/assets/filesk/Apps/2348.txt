@@ -1,0 +1,12 @@
+Uber has today announced the public launch of its UberRUSH API, letting any developer offer delivery of their products through Uber.
+UberRush launched back in October of 2015, offering same-day delivery of items through the app. It was a basic courier service, with deliveries via both Uber cars and bike messengers.
+In January, the company took it a step further with the launch of a private API, letting retailers bake same-day delivery right into their apps and websites.
+These partners included Nordstroms, 1800Flowers, Google Express and others.
+Today, however, Uber can power same-day delivery for almost anything thanks to the UberRUSH open API.
+From Uber’s blog post:
+To kick off the launch of the API, Uber is holding workshops the week of June 27 in Chicago, San Francisco, and New York.
+Uber has been working on this for quite some time.
+In April of 2015, we reported on leaked documents that showed plans for a wide-scale merchant delivery program. This program would allow an Uber driver to pick up an item at a store and tuck it in the trunk, pick up a person and complete a fare, and drop off the original item at its final destination in a single trip. Two birds, one Uber driver.
+Though Uber has been putting this plan into motion over the past year, it’s only now that it is finally being unleashed on the public.
+Of course, this puts Uber even more squarely in the ring with Postmates, which has integrated directly with a number of retailers like Starbucks, Chipotle, and Apple. Plus, Postmates has been getting more aggressive with non-food retail deliveries.
+Still, Uber’s network of driver partners and its powerful logistics platform could take the on-demand economy to a whole new level.

@@ -1,0 +1,18 @@
+U.K. startup Wranx is applying a learning technique called spaced repetition to the b2b space to help businesses train their staff more effectively.
+This technique will be familiar to users of language learning apps such as Duolingo or indeed Memrise’s Cat Spanish. It basically refers to spacing out learning in order to help the brain remember better. And while this technique is increasingly common in the consumer apps space, Wranx reckons its spotted an opportunity to apply it to an underserved b2b space.
+Businesses have been slow to catch on to mobile learning generally, it argues, let alone to adopt more sophisticated learning techniques that make the most of mobile devices.
+“Most of the competition are extensions of existing learning management systems — the mobile bit is just bolted on,” says CEO and co-founder Jon Davies. “Everyone — Cornerstone on demand, Moodle, Litmos — they all have mobile functionality. It’s no big deal.”
+It’s the spaced repetition that Davies believes will separate Wranx from the crowd here. The startup, which was founded only last month, will be launching its mobile apps shortly, having beta tested its software with a small group of users thus far.
+It’s competing with the likes of Looop, another b2b learning startup that’s also targeting the U.K. market and which last month raised a $2 million seed round.
+“In real terms, every mid/large enterprise has tonnes of e-learning content that is only consumed in the classroom and when some compliance event comes around (mandatory security training, health and safety, that kind of thing ). This content traditionally costs a fortune. Wranx takes that existing content, converts it and then delivers it on a daily basis via the app,” says Davies,
+“By intelligently adapting the duration between questions, Wranx helps your brain to move knowledge from your short-term memory into your long-term memory more efficiently.”
+That’s the theory. In practice the app asks users questions, then gets them to a hit a button to reveal the answer. They are then asked to rate how well (or otherwise) they knew the answer.
+That self-assessment feeds the learning algorithm, which in turn tweaks the spacing of the learning repetition so it’s personalised to each learner. It also allows Wranx to continually assess learners’ progress and provide analytics back to the business — provided, of course, that the learners are self-reporting truthfully.
+
+The learning content is provided by each business customer, with Wranx converting it into a format that can be delivered to the business’ staff, across multiple devices.
+It’s also using a sprinkling of gamification to drive learner engagement, including a total score (and a workplace leaderboard), and the ability to unlock various ‘achievements’.
+The main use-cases Davies envisages for the software are product knowledge training for sales teams and customer service departments; compliance related topics such as financial services compliance and health and safety; and continual professional development in fields such as law and architecture.
+Wranx has been bootstrapping development thus far. Comfortably so, says Davies, thanks to the exit of a prior SaaS startup, Qivox (Davies was Qivox’s CTO; his fellow co-founder Phil Simmonds was founder).
+Like Qivox, Wranx has a SaaS business model, with per user monthly billing and volume discounts for large enterprise users.
+“Wranx makes employee advancement a daily, cultural process,” adds Davies. “Employers get to measure employee advancement on a daily basis, not just every six months when employees are scheduled to do some e-learning.
+ 

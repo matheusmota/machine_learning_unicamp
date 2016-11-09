@@ -1,0 +1,32 @@
+Yesterday in San Francisco, AngelPad held its 10th Demo Day, a graduation of sorts for the enterprise startups admitted into and backed by the accelerator.
+The accelerator, run by husband and wife team Thomas Korte and Carine Magescas, has realized at least one solid exit already in the adtech startup MoPub, which sold to Twitter for $350 million in stock in the fall of 2013.
+Companies that have raised significant rounds of venture funding after completing the AngelPad bootcamp include: Postmates, the delivery service; Apteligent (formerly known as Crittercism), which provides app analytics, including crash reports, to developers and brands; and Vungle, which lets app makers put video ads in their apps to monetize them.
+Although AngelPad is known for funding notable marketing and adtech startups, companies in its latest batch ranged widely, including hardware makers, pure guts-of-the-internet tech companies and marketplaces that serve both consumers and corporations.
+Six-year-old AngelPad is smaller than peer accelerators and seed funds like 500 Startups, TechStars or Y Combinator, making it something like the elite, small college versus their large state schools and universities.
+It only admits 12 companies per batch. The program takes place in New York, but startups travel to San Francisco for a Demo Day and networking with Silicon Valley investors.
+AngelPad typically invests $60,000 in seed funding into each company in its program for 7 percent of common stock. Korte said, “We are always changing our funding formula.” Every company in a cohort has exactly the same terms, however.
+Here’s a list of all the startups in the newest batch, listed in the order that they presented before investors at the Demo Day.
+KeyReply – Uses natural language analysis to extract insights from unstructured data, specifically to help customer support and customer service teams work more efficiently.
+ 
+Outwork – Software-as-a-service to help businesses manage their partnerships with integrators, API providers or users, resellers, brands, co-marketers and others. Outwork includes social network-like features to help businesses discover and connect with new, potential partners.
+ 
+HypeLabs – Creators of a software development kit that lets consumer electronics, or any hardware, connect and communicate even where Wi-Fi and cellular networks aren’t working.
+ 
+Equire – A marketplace that connects small businesses with aspiring entrepreneurs who want to acquire them.
+ 
+ 
+Polybit – Provides open source tools to help developers build, distribute and manage APIs automatically, so they can focus more on coding their own products.
+ 
+Oco – Makers of internet-connected surveillance cameras, including a new one designed for stores and small businesses vulnerable to crime.
+ 
+ 
+Moved – An app that helps people prepare for a move and set up all the services they need in their new home.
+ 
+Lanebeacon – Software-as-a-service that helps guide new users through an app’s various free features, and then convert them into paying customers.
+ 
+NexGenT – Trains students online and in-person, to help them become IT engineers in networking, cybersecurity, automation, and cloud technology.
+ 
+UnStock – A mobile marketplace where users can buy or upload and sell videos captured by the newest cameras, from iPhones to 360 cameras or drones.
+Mobile Bigfoot – Optimizes wireless connectivity for telecomm operators, so people have a good internet experience, even at crowded sporting events or on a crowded subway platform.
+ 
+LoftSmart – A reviews site and online marketplace that connects college students or their families with providers of mostly non-dormitory student housing in major college towns.

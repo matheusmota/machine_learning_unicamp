@@ -1,0 +1,26 @@
+Art photo filter app sensation Prisma, which only launched this summer but racked up more than 55 million downloads in a matter of weeks, has sparked a rush of other photo-processing apps all promising to transform your selfies into art fit to hang on the wall.
+But can a Prisma smartphone snap actually make the leap from the screen to your wall? Or is the splurge of colorful, pixelated virality only good for virtual appreciation?
+Veteran print-your-own photos-on-canvas player CanvasPop has spotted what it hopes will be a lucrative opportunity to monetize the sudden glut of arty selfies appearing on Instagram et al — and says it’s been working with Prisma to help users turn their snaps into canvases they can really hang on the wall.
+It does already offer a service for printing Instagram and Facebook photos. But is evidently hoping Prisma’s trendy art filters spark a run of new orders — with co-founder Adrian Salamunovic telling TechCrunch this summer it begun seeing “hundreds” of orders coming in with a painterly effect that it was quickly able to attribute to the Prisma app.
+He says it’s now in discussions with Prisma about integrating CanvasPop’s API with their iOS and Android apps.
+For now Prisma users wanting to convert their digital works of art into bona fide wall art need to visit the CavasPop website themselves where it has added a dedicated Prisma section.
+CanvasPop offered to let TechCrunch try out the Prisma printing service. And try we did.
+Here’s the Prisma photo we sent to test out the canvas print quality:
+
+And here’s the resulting CanvasPop print, propped up artfully against a wall…
+
+You can see shots of the print detail in the gallery below, plus a few photos of the unboxing.
+CanvasPop offered us two print sizes to test the service: 12″ x 12″ or 20″ x 20″ — although its website has far more options (including custom sizes).
+We opted for the larger of the two sample sizes to see how well the service handled a bigger blow-up. The result was a print of fairly decent quality.
+The canvas does have a slight sheen to it, a finish which may or may not be to your liking (but likely makes the print more durable), and there was one teeny printing imperfection on the brunette’s black hair, but nothing you couldn’t easily fix with a sharpie.
+The color reproduction looks slightly off to my eye — with tones coming out a bit more saturated and therefore garish than the photo appears (at least when viewed on iPhone or Mac screens). Color fidelity isn’t substantially skewed though, just expect tones to pop a bit more than you might think.
+Salamunovic says smaller print sizes generally result in a “cleaner” looking print but he also touts the company’s “very deep knowledge” in working with low res images, due to its early involvement with Instagram filter photos, so argues it can certainly handle larger sizes too.
+The largest fixed size print the website offers for Prisma prints is 61cm x 61cm, but presumably you can request larger still via a custom order (although going much bigger than that is probably not a great idea if you want a reasonable looking result).
+“We specialize in printing low resolution images in large format,” says Salamunovic. “We’ve been doing it since 2009, the early days of iPhone 3 images and then Instagram. We were the first company to print Instagram images large format.”
+Whether a Prisma photo works as wall art is another matter. Really, that’s a matter of personal taste. If you’re the sort of person who’s happy to hang an Ikea print of a stack of pebbles in the middle of your living room then printing your own Prismas at least means you’re going to end up with something a lot more original.
+“Tens of millions of Prisma images have been generated — we want to take the best images and print them as art,” adds Salamunovic. “There’s a huge market for what we’re calling ‘self-generated art’ and Prisma is one of the leaders in the space.”
+On the cost front, CanvasPop’s pricing varies depending on size and whether you opt for just a rolled print in a tube or full on fancy framing options such as wooden edges to a stretched canvas. It’s also offering framed paper prints.
+The 20″ x 20″ canvas size that CanvasPop printed for TechCrunch is priced at $114.
+While a 12″ x 12″ canvas without a frame, so arriving rolled up in a tube, would be a far more affordable $35. (But of course you’d also need to frame it and affix a hanger yourself.)
+At the other end of the scale, the largest fixed size options with the fanciest frames can push the per print price past $250.
+You can try out CanvasPop’s Prisma printing service for yourself here.

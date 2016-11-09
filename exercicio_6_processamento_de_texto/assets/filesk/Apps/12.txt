@@ -1,0 +1,15 @@
+Tucked away inside Pandora’s rebranded app, launched yesterday, the company was hiding its first iMessage app, too. In fact, it’s the first third-party party streaming music service to launch its own iMessage extension, the company says.
+That’s not to say it’s the only music-focused iMessage app, of course.
+Apple Music already lets you share your favorite songs within iMessage, and Shazam recently launched a similar tool to both detect and send songs directly in iMessage.
+However, Pandora’s app works a little differently.
+
+Shazam and Apple Music’s iMessage extensions both point users to Apple Music and iTunes after a track preview is shared with the friend.
+Meanwhile, Pandora’s app also lets you send a 30-second sample within a chat thread, but if the recipient likes the track, they can tap it to start a Pandora artist station based on that shared track instead.
+The experience works better if both parties have the Pandora app installed, though the recipient doesn’t need to be logged in to hear the track (just start the station.)  And if the person you’re sharing with doesn’t have Pandora installed, they’ll be prompted to download it, the company notes.
+
+Obviously, kicking of artist radio stations via a shared music clip isn’t as useful as being able to go directly to that artist and listen to their entire song, album, or catalog, as with an on-demand service. However, given that Pandora’s install base tops 78 million users, it’s more likely that your friends have Pandora on their phone rather than any other third-party music service, including Spotify, which has 40 million subscribers as of September, or even Apple Music, which announced at its iPhone 7 event that it had grown to 17 million subscribers.
+In order to share songs, you simply launch the iMessage app while playing a Pandora station on your phone.
+The current track will immediately pop up under “Now Playing” in the iMessage extension. Pandora’s curators will also handpick tracks that are good for sharing, including the current top hits and those that are trending.
+As a bonus, the app includes a dozen stickers you can use to annotate your message. These are fairly basic – a thumbs up and thumbs down, a heart, lips, sad and happy emojis, and a few that say things like “Fire” or “Jam Alert,” among others.
+There are also a couple of versions of the new Pandora logo included in the sticker pack. Why? Uh…because branding?
+The iMessage extension arrived in yesterday’s app update, but like all iMessage apps, it only works if you’re running iOS 10.

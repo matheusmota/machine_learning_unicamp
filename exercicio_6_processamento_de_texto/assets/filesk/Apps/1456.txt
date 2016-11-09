@@ -1,0 +1,14 @@
+An Oculus update posted today quietly removes a feature that blocked Oculus software from being played on other headsets — something that the community has been up in arms about for a month.
+The update, Runtime 1.5, doesn’t include the feature retraction in the release notes. The news came from the creator of Revive, a tool that allowed Oculus software to be played on Valve and HTC’s Vive headset — and which was seen as the target for the hardware lockdown in the first place.
+	
+		
+		
+	
+“I’ve only just tested this and I’m still in disbelief, but it looks like Oculus removed the headset check from the DRM in Oculus Runtime 1.5,” wrote the developer, LibreVR, in patch notes for version 0.6.2 of Revive, released early this morning.
+The removal is essentially a mea culpa from Oculus, which over the last few weeks has faced hard questions from press and users about its strategy in locking down content to its own platform. Restricting games to its own hardware was seen by many as a move that benefited no one but Oculus, and harmed the VR community at large.
+A statement from Oculus issued to TechCrunch explained the company’s actions, or at least this most recent one:
+TechCrunch spoke with Oculus co-founders Palmer Luckey and Nate Mitchell last week at E3 in Los Angeles, and the topic came up then as well.
+
+Luckey explained the strategy of bringing developers into the Oculus fold as a move to advance VR at large by producing the best possible content — even if that content is only available for one system and not others.
+
+The removal of the hardware check, however, indicates a soft boundary to the strategies Oculus is willing to use to effect exclusivity. At the very least, it suggests the company is willing to listen to the concerns of its community — provided they’re loud enough.

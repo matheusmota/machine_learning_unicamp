@@ -1,0 +1,13 @@
+Two important things happened this week in Windows: It became more evident that the Windows Phone branding that Microsoft has pressed for years is likely set to fade, and Windows 9 was detailed in greater focus thanks to a large leak.
+The two events are linked, given that Microsoft is widely expected to better unite Windows, Windows RT, and Windows Phone. There won’t be three operating systems, the company has said. To see Microsoft start to call Windows Phone just Windows is further evidence of the company’s strategy to bring Phone into the larger Windows world.
+Separately, the Threshold leaks are nearly precisely what you would expect of them: The fusion of some Metro elements into a bolstered desktop. In the new images of what we presume will be called Windows 9, it’s evident that much of what has been discussed and rumored will make it into the operating system.
+The decline of phone, evinced by internal material, was also recently telegraphed by HTC branding material. Windows Phone is being brought under the auspices of just ‘Windows.’ This is reasonable, given that if Microsoft intended to bring Windows RT — its tablet operating system — in unity with its Phone operating system, it couldn’t well call the thing Windows Phone in any capacity, as it would run on non-phone devices. QED, basically.
+Fair enough, but what will the new Windows look like? The irony is that the recent leaks of the next Windows build focus on its desktop capabilities, which is precisely what the forthcoming touch-focused version of Windows that RT and Phone will become may not include at all.
+But still, two images, for flavor (Images via WinFuture):
+
+And:
+
+What you see in the images above is the return of the Start Menu, and the inclusion of virtual desktops.
+All together we can infer a few things that matter: Microsoft continues to blend its operating systems, and that the coming technical preview that should touch down in just a few weeks includes enough desktop tools for power users that it could undue some of the damage that Windows 8 did to the larger Windows brand.
+Can it ignite PC sales? That’s for the market to decide.
+IMAGE BY FLICKR USER DELL INC. UNDER CC BY 2.0 LICENSE (IMAGE HAS BEEN CROPPED)

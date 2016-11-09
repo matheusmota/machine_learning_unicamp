@@ -1,0 +1,12 @@
+Comparably, the site that originally launched as a compensation data and culture platform, is officially getting into Glassdoor’s territory with the launch of a company employee reviews feature. Ultimately, Comparably’s goal is to provide more transparency around what it’s actually like to work at certain companies.
+Currently, Comparably has tens of thousands of anonymous ratings for hundreds of companies. Although what appears on the platform is anonymous, Comparably requires email verification for each review to ensure that real people — not spammers — are leaving the reviews. What makes Comparably’s platform for employee reviews unique is the ability to sort reviews by things like race, gender and years worked at the company.
+If you take a look at Google, for example, you’ll see that 92% of white people report the company having a positive work environment, compared to 88% of Asian people, 75% of black people, 75% of Hispanic people and a whopping zero percent of Native American people. Meanwhile, 89% of men report a positive work environment at Google compared to just 70% of women.
+In the last couple of years, we’ve heard story after story about tech companies not being inclusive of people from underrepresented minorities. It would be great if your gender or race didn’t affect your experience at a company, but since it does, being able to see what it’s like to work somewhere for someone of a certain race, gender, sexuality and disability status is important. With Comparably, job applicants don’t have unlimited sorting capabilities, but they can at least filter by race and gender, which is more than what Glassdoor has to offer.
+I asked Jason Nazar, the founder of Comparably, if it’s safe to call Comparably a direct Glassdoor competitor. This is what he said:
+That said, Glassdoor has a lot more money and resources than Comparably. Glassdoor has raised $161.5 million, with its most recent round of $70 million led by Google Capital in January 2015. Comparably, which launched in March, has just $6.5 million in funding from Crosslink Capital, Upfront Ventures, 500 Startups and others.
+Here’s a quick look at the employee review platform that launched today:
+The company directory page lets you search for companies to rate or browse by most rated.
+Company pages give you an overview of the executive rating, quality of co-workers, future outlook, etc.
+Here, you can see how ratings change based on department, gender and ethnicity.
+In sixty seconds, you can rate your experience at a company.
+

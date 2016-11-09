@@ -1,0 +1,8 @@
+If you’re a Tumblr user who happens to have an iPhone 6s or 6s Plus, today is your lucky day. The Tumblr team dropped an update that includes support for both 3D Touch and Live Photo.
+
+The Live Photo bit is super interesting because Tumblr is a place where GIFs and animated images tend to get shared and re-shared at pretty rapid rates. The best part is that you can view them even if you don’t have an iPhone 6s or 6s Plus. If Twitter starts supporting this format, watch the heck out — adoption of Live Photos will explode. Since Apple doesn’t have its own network to share the media on, we wondered if they’d ever see their way outside of your Camera Roll. Welp. They’re here!
+Go give it a try yourself with our own Panzer’s London Live Photo (it’ll only work in-app):
+
+Look for the icon below, which Tumblr describes as a “concentric-circle supernova icon,” in the top left of the photo. If it’s there, touch away.
+
+As far as 3D Touch itself, you can press the Tumblr icon now and get a shortcut for search, which is quite handy. On someone’s Tumblr name or avatar, you can get a preview of their Tumblr by pressing it. This goes along with the other updates Tumblr for iOS got today, which includes general availability for messaging and the ability to message posts to your friends.

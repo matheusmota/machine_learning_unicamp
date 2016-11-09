@@ -1,0 +1,14 @@
+The internet is a wonderful thing. It’s a place for new and fresh ideas, forums for people to discuss them. And well, ways to find ones that had been dropped. One idea that was dropped was Google’s attempt to start what sounds a whole lot like Lyft and Uber.
+The project was called “Google Ride Finder” and it was announced on May 31st, 2005. It got a little bit of coverage, too.
+Here’s what the announcement said about the service, which was a part of Google Labs:
+
+And yes, Google knew that the key to this business would be bringing on a massive fleet, so here was their pitch to drivers:
+In fact, they promised to get back to you within a week! That’s speedy. A lot of the language discusses limos and taxis, so it would be interesting to learn how deeply Google thought about deploying say, your car, as a part of the fleet.
+
+Google Ride Finder never took off, and disappeared around 2009. Here’s it’s tiny entry in Wikipedia (under Google Maps):
+The project’s FAQ section is a real hoot in retrospect, as it patched together some of the issues that modern companies have solved with technology and mobile GPS advancements:
+
+I’d personally like to see the return of Google Ride Finder…especially if it doesn’t have a human driver. That’s a discussion for another day, because one look at this data from NPR might scare the crap out of anyone who drives for a living:
+
+Imagine if Google had stuck to this business. I mean, Uber has raised $8.21B, with one of its investors being a friendly Mountain View neighbor, GV (Google Ventures).
+Now pardon me, I feel old.

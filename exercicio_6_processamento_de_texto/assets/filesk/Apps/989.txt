@@ -1,0 +1,20 @@
+GoldieBlox, the educational toy, book and game maker best known for its line of engineering toys aimed at young girls, is expanding its digital footprint today with the launch of its first paid application: GoldieBlox: Adventures in Coding. As the name implies, the new app’s goal is to teach children, ages four and up, the fundamentals of coding through a puzzle-filled game.
+The the gameplay involves the company’s flagship character, a young engineer called Goldie, who is trying to deliver cupcakes to everyone in town.
+But along the way, players will have to execute a sequence of commands in order for Goldie to pick up ingredients and cupcakes, then deliver them to Bloxtown. The map also gets trickier as players progress through the game.
+
+In the game, several coding concepts are introduced, including sequential execution, mental modeling, debugging, clean code, and tuning procedural generation. But the app tries to present these in a way that feels more like play than a school assignment, of course.
+Essentially, the app uses storytelling as the hook that pulls in kids and gets them to learn about these coding concepts, which they put into practice as a means of progressing through the game world.
+To what extent apps like these actually encourage new users to pick up coding later in life is still something of an unproven concept, however. There has been no real research on whether exposure to coding apps and toys actually build enthusiasm or motivate young players to fully immerse themselves in computer science as they grow older.
+
+At best, research has proven that classroom exposure can help build CS skills later on, or early exposure can help women stay in the field in college. That’s not the same as saying apps like this can actually get kids to learn to code, though.
+But while getting a young girl into coding won’t as simple as plopping them down in front of a game, it certainly can’t hurt. And the exposure alone could help remove the fear factor around coding and computer science in general, which could also benefit them in the long-term.
+
+For GoldieBlox, expanding its product line further into digital is something that’s critical for the company, in terms of its bottom line.
+According to founder and CEO Debbie Sterling, the company has sold over 1 million toys and is available in over 6,000 retailers, like Barnes & Noble and Toys R’ Us. She says physical goods are still the largest percentage of the company’s revenue currently, (which the company declined to disclose.)
+“We recognize that kids are spending increasingly more time playing on devices,” says Sterling. “While we believe that hands-on, tactical play is incredibly important, especially in the development of fine motor and spatial skills, we are also really excited about the educational opportunities that digital play can provide, especially in the fields of coding and robotics.”
+“Our product development team is now 50/50 digital/physical, so you can expect to see increasingly more digital experiences from GoldieBlox in the months and years to come,” she adds.
+Specifically, GoldieBlox is now moving to bring in new revenue streams through mobile, licensing, and entertainment. It recently did a deal with Random House for an orginal book series launching next year, for example.
+Meanwhile, the company’s first mobile application, GoldieBlox and the Movie Machine, focused on animation basics, did fairly well with over 880,000 downloads and over 2 million movies made by kids in the app. However, it was launched a couple of years ago and has long since stagnated in the App Store charts. (It’s #551 in the “Education” category on iOS, and unranked in the “Kids” category.)
+The new game, whose full name is GoldieBlox: Adventures in Coding – The Rocket Cupcake Co., may be even more challenged to acquire installations and users, because it’s a paid download.
+The app is a one-time fee of $2.99 but then will provide “infinite puzzles,” the company says.
+Adventures in Coding is available here on the iTunes App Store. 

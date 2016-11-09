@@ -1,0 +1,7 @@
+Box, an enterprise-focused cloud storage and productivity company, announced this morning that it has acquired Y Combinator-backed MedXT, a firm that provides a cloud-based file storage system for medical imaging. Terms of the deal were not disclosed.
+The acquisition fits into Box’s recently announced strategy to pursue a number of industry verticals, which it calls Box for Industries. Healthcare was mentioned specifically at its recent BoxWorks conference.
+According to Box CEO Aaron Levie, the acquisition helps Box deal with “interoperability” between sources of healthcare information. Balkanization of that data, according to the executive, “has long hampered [the nation’s] ability to deliver efficient, high-quality care.”
+Box’s work to drill into specific industries may give it an edge within market niches — as the larger cloud storage market becomes commoditized, Box, Dropbox and other providers of storage are racing to build value-added services to their technology stacks in hopes of standing out. For Box, which announced new medical customers in recent months, healthcare could be a rich vein.
+For more on MedXT, TechCrunch has a write up here. A surprising passage from that post:
+It will be interesting to see if MedXT’s technology is shifted to Box’s servers and off of Amazon’s popular storage platform.
+Box is currently enduring an interregnum period between the filing of its S-1 document and pulling the trigger on its initial public offering. The company, if it decides to, will release updated financials in the coming weeks.

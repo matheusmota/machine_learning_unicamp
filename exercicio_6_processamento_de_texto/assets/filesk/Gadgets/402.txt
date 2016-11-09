@@ -1,0 +1,11 @@
+What do you do if you want to peek inside a book, but you’re pretty sure it’ll crumble into dust if you even crack the cover a little bit? Well, nothing: Opening a book is a critical step in finding out what’s inside. Or at least it was until someone at MIT decided that shouldn’t be the case.
+The researchers combined a couple of powerful techniques to make this possible. Terahertz imaging passes through paper and cover but the radiation is also reflected differently by paper and ink, unlike longer wavelengths like x-rays.
+Then there’s femtophotography, a clever way of capturing certain types of imagery just trillionths of a second apart. This lets extremely fine distinctions be made, such as whether a reflected image comes from one page or the next one a fraction of a millimeter down.
+
+The result is terahertz femtophotography, and the researchers were able to make it determine the distance to the first 20 pages of a book, and it could pick out individual letters printed on the first 9. There was only one letter per page, but still, how well can you read through the cover?
+“The Metropolitan Museum in New York showed a lot of interest in this, because they want to, for example, look into some antique books that they don’t even want to touch,” said Barmak Heshmat, one of the authors of the paper, in an MIT news release.
+
+
+The tech could also be used on things other than books: layers of paint, for example, in a famous piece of art, or materials stacked tightly in archaeological samples.
+It’s all out of MIT’s Camera Culture group. A more technical breakdown of the process can be found in this video or in the paper published today in Nature Communications.
+(Note: In my defense, I thought of the judge a book through its cover thing before I saw MIT’s headline. It’s just too apt not to use!)

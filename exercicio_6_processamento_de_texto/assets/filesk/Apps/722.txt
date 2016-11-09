@@ -1,0 +1,18 @@
+Technology has made it simple to record and archive our digital memories through posts, snapshots, videos and more, but it can sometimes be a struggle to surface our past – our memories, activities and other experiences – in an easily accessible way. A new mobile application called Fabric, built by two former Facebook engineers, aims to solve that problem.
+Co-founders Arun Vijayvergiya and Nikolay Valtchanov spent several years at Facebook working on many of the products that connect the social networks’ well over a billion users with their past. Vijayvergiya built the first version of the Facebook Timeline at a hackathon, which was then called Facebook Memories. (It was accidentally released, as TechCrunch covered at the time, before becoming Timeline.)
+In addition to being the first engineer on Timeline, Arun also worked on projects like Friendship Pages, Year in Review and On This Day. Meanwhile, Nikolay was focused on Facebook’s integrations with running and biking mobile applications.
+After leaving Facebook, both worked on various projects together, but returned to this idea of an automated journal for your life.
+
+Arun, in particular, was inspired to create a project in this space after receiving a printed book about his dad that was filled with stories friends had written about him in college. The book had details about trips he had taken and people he had known – things that Arun didn’t know about before.
+“When I leave this world, I want to leave with a story I can tell about myself – not for everyone, but the people who care about it,” Arun says. A book like his dad’s perhaps, but digital.
+Fabric, which is available now on iOS, works to build that story for you automatically as soon as you first sign up. It pulls in your photos from Facebook, Instagram and your Camera Roll, then plots them out in a map view. On the side, a timeline appears, showing you when you took those photos.
+
+When the import is complete, you can then swipe up to see your daily journal. The app tracks things like the people you saw, the places you visited, and the recorded moments from that day, which are displayed as colorful circles you can tap on when in the journal view.
+Fabric has a social component, as well. If you add a friend to the app, it will begin tracking whenever you two hang out together.
+
+In the future, the goal is to allow users the ability to record anything they want to remember – whether that’s a note, a song, or anything else. And they’re working on different ways to help you surface your past that’s different from the way Timehop or Facebook lets you look back on the same day a year ago, or several years ago.
+Instead, Fabric will be able to answer questions like “when is the last time I saw mom?,” for example.
+“In the really long-term, we want to be an augmented memory solution. You want to be able to search through your brain at some point – we think that will exist. We’re trying to take the first step towards that,” Arun says.
+The company, which is in the current Y Combinator class in Mountain View, is bootstrapped for the time being. Arun and Nikolay are the only two full-time employees.
+Fabric is also being advised by quantitative self enthusiast Nick Felton, whose personal annual reports brought him internet fame, and who later pioneered an overhaul of the Facebook Timeline.
+The new app is a free download on the iTunes App Store.

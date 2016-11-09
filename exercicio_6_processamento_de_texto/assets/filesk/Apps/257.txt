@@ -1,0 +1,17 @@
+Drizly, the service that lets you order alcohol online, has today announced a major transition of the company with the launch of its marketplace.
+The Drizly marketplace will let any retailer integrate with the Drizly software to generate extra sales. And for the user, the marketplace will allow more pricing transparency and flexibility.
+The old Drizly, by comparison, would use a set of criteria to connect a user’s purchase order with the fastest delivery time from a vendor nearby. But not all consumers are concerned with speed, which is where the marketplace comes into play.
+For the past 2.5 years, Drizly has been working quietly to be able to seamlessly integrate with as many point-of-sale systems as possible. As it stands now, the company can quickly tap into over 75 different POS systems, giving Drizly near-immediate access to a store’s entire inventory.
+Considering that many liquor stores are small businesses, it’s necessary that Drizly take the time and effort to make each POS work with the platform.
+But creating a liquor, wine and spirits marketplace on the internet is harder than just checking off a long list of POS integrations.
+With thousands of different products on the market, Drizly was also tasked with the job of standardizing information around these products. More than 3 percent (roughly 1,500) of all U.S. wine and liquor stores are currently on the Drizly platform.
+This means that Drizly has to take all the information it sources, across 75 POS/inventory systems, and turn it into something legible to the consumer.
+“People have been thinking of us as an on-demand company,” said founder and CEO Nick Rellas. “But what we’ve been working on is much bigger than quick delivery. After our work since launch, standardizing a market that 50 sets of laws for 50 different states on the internet, I would say we’re more of a data company.”
+With the new marketplace structure, users can not only compare price between retailers, but they can choose between different delivery methods, too. For example, a user searching for a rare whiskey can choose to have it delivered tomorrow for a cheaper price than immediate delivery. Or, users who’d prefer to skip the wait and pick up the booze themselves can elect that option.
+
+Along with added transparency to the user, the new Drizly will also offer a wider reach for retailers. Stores that couldn’t handle the demand to deliver within an hour on the old Drizly will now have more options to offer consumers, including later delivery, pick-up, etc.
+That said, retailers will also be moving into slightly more competitive territory, as they’ll have to compete with the prices of other retailers in their area, instead of blindly taking the orders that the old Drizly sent their way.
+“We tell our retailers that the Drizly storefront should be treated just like the brick-and-mortar storefront,” said Rellas. “Whatever makes your store great, whether it’s price or selection or speed of delivery, you should it on Drizly, too.”
+Drizly makes money by charging a licensing fee to retailers using the software, as opposed to taking a per-transaction slice of the pie.
+Today’s launch comes in conjunction with the opening of the San Francisco market.
+You can check out the new Drizly for yourself right here.

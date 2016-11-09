@@ -1,0 +1,6 @@
+If you were disappointed when the Windows 10 crew announced that it would not release another official build this year, take heart, there is new code that you can play with.
+It’s not an official release, so you’ll have to find the software yourself (it’s easy), and install it at your own risk. But if you just can’t wait, then Windows 10 build 9888 might be just the ticket for you. What is in the build? According to quick analysis by Neowin, “new animations, better organized context menus and a new default applications for settings.” So, not all that much, but that’s to be expected in an iterative edition.
+9888 was first shown off last week, but only became generally available today.
+Microsoft intends to hold an event in January during which it should unveil the consumer preview of Windows 10. The company has repeatedly indicated that its enterprise preview — what we currently have — is a sliver of what it has planned for Windows 10. So, we should get a much fuller dose in early 2015.
+For now, 9888 is all we have. Here’s a quick video overview, via WinBeta:
+

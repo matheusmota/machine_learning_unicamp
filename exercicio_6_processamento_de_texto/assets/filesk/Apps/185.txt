@@ -1,0 +1,15 @@
+Facebook Messenger has built an unlaunched feature called Rooms that lets groups publicly chat about different subjects and events. Buried in Messenger’s iOS app’s source code are multiple references to the feature, with some explanation of how it works.
+The code shows: “Introducing rooms”, “Rooms are for public conversations about topics and interests. Each room has a link that can be shared so anyone on Messenger can join the conversation”. You can apparently start your own Rooms as well. The blue circle image above is listed as a Rooms logo in the code (the darker background and illustration of a home is ours).
+TechCrunch received a tip off about the code from developer evangelist Chris Messina. When we asked Facebook if it was building a Messenger Rooms feature, the company told me “We don’t have any comment on this speculation.” However, here are screenshots of the excavated Messenger code about Rooms:
+ 
+ 
+ 
+ 
+ 
+ 
+[Update 11:15am PT: After being shown the screenshots of the code, Facebook provided a different statement, saying “We often run small tests – nothing else to share beyond that.”]
+[Update 12:10pm PT: TechCrunch has now attained screenshots of the Messenger Rooms feature from our reader Hoan Do.
+The screenshots show how users can join public rooms, chat with friends as well as strangers using the standard Messenger interface and features, how to manage a Room, and the ability to share the Room to get other people to join. You can try joining a Room with this link.
+The Messenger Rooms feature is reminiscent of the standalone Rooms app that Facebook launched in 2014 but shut down in 2015. It let people be pseudonymous and join interest-based discussion groups. It didn’t receive much widespread traction, though, and was removed from the app store.
+Rooms might not be available to any users or could be in very limited testing. It might never roll out more widely depending on user reactions. But the feature could help Facebook fill in the middle-ground between broad News Feed sharing to your whole social graph, and private messaging to your closest friends. Rooms could become the Messenger counterpart to Facebook’s popular Groups feature that’s grown to see over 1 billion monthly active users.
+Rooms could unlock more engagement on Facebook about niche topics that most of your friends might not care about, but someone out there does. While Groups is great for threaded posts about a topic, those don’t quite feel alive. Rooms could capture the fast-moving, fun conversations that once lived in the chat rooms of web 1.0.

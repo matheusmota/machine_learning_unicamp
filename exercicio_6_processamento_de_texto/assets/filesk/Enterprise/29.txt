@@ -1,0 +1,12 @@
+DroneDeploy wants businesses to be able to find a drone services provider as easily as anyone can find a place to eat dinner, anywhere in the world. So today, the company unveiled a new free Drone Mapping Directory.
+Take, for example, a real estate developer who needs a finely detailed map of land where it may soon build a giant, corporate campus.
+Instead of buying drones equipped to scan that property, then training or hiring pilots to fly them, the developer could just flip through the profiles on the Drone Mapping Directory, look at examples of maps they’d created in the past, then connect with the most desirable vendors in their area.
+DroneDeploy developed this directory at the behest of its users, said CEO Mike Winn. Of course, helping professional drone operators tap into unmet demand in the market will also lead to increased use of DroneDeploy’s technology.
+For the unfamiliar, DroneDeploy makes cloud-based software for drone operators which allows them to plan flights, then rapidly gather, store, analyze and create visualizations using data gathered from those flights.
+DroneDeploy users have mapped and analyzed over 6 million acres in over 130 countries to-date, the company says.
+Its systems are available on a freemium basis. Paying users get more storage capacity and professional features. They can, for example, create co-branded DroneDeploy maps to include in portfolios or deliver as final projects to their own clients.
+Winn said that since the U.S. Federal Aviation Administration released its Part 107 rule, making it easier for individuals to become certified, commercial drone operators, small businesses providing drone services have been proliferating in the U.S.
+More than 12,000 individuals have been certified as remote pilots under the rule since it went into effect in late summer, the CEO said.
+Rather than building and flying their own proprietary drones, drone services providers use state of the art, available technologies to do things like shoot aerial videos for media and entertainment, conduct aerial surveys of farms, construction sites, or critical infrastructure, gather property damage information for insurance providers, or fly drones to gather data for scientific research.
+Other directories and marketplaces exist for booking drone service providers, of course, including JobforDrones.com, or for aerial photography, Dronebase, and Airstoc.
+The global market for commercial applications of drone technology is expected to exceed $127 billion in revenue by 2020, according to estimates from PwC.

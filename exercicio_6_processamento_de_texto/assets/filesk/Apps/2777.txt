@@ -1,0 +1,8 @@
+We’d been hearing rumblings that Facebook was working on an “assistant” within Messenger (along with others), but today we’ve gotten the details that pull it all together. This puts the company squarely in competition with Apple, Google and Microsoft in the digital personal assistant space.
+In a Facebook post, Facebook Messenger lead David Marcus spoke a bit about Facebook’s plans:
+Since Marcus joined Facebook, the Messenger product has been on lightspeed mode when it comes to development. Whether it be payments or a standalone site, the product seems like it’s getting way more attention than it ever has.
+Apple has Siri, Google has Google Now, Microsoft has Cortana and Facebook has M. These companies are using the data that you’ve put into the service to help you out or suggest things based on what it knows about you. Putting the assistant inside of Messenger is smart, because people are used to tapping out messages to people, rather than speak commands like its competitors sometimes require.
+The acquisition of Wit.ai back in January feeds the human side of the project, the “trained and supervised by people” part mentioned by Marcus.
+While Google and Apple were caught up in the pure science of artificial intelligence, Facebook decided to brute force the development of a personal assistant with a bunch of human helpers.
+It won’t be cheap. If Facebook wants to scale out this feature, it will either have to wait until its humans teach its AI to handle most requests automatically, or it will have to spend a fortune hiring an army of people to assist its assistant.
+The rollout will more than likely be slow, but we’ll be keeping an eye out for it for a formal review.

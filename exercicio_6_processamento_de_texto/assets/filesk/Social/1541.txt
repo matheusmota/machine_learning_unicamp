@@ -1,0 +1,28 @@
+Yesterday Snapchat opened up a new revenue stream in the form of on-demand geofilters. The new on-demand geofilters let anyone pay Snapchat to create and distribute a custom filter in a specific area for a set time.
+We wanted to see how quick and easy it was to launch a custom filter, so we decided to create one at TechCrunch HQ in San Francisco. Here’s what the process was like.
+Step 1 – Go to Snapchat’s On-Demand Geofilter Page
+Go here and click “create now.” You will be prompted to log in using your Snapchat account.
+
+Step 2 – Download The Templates And Create Your Design
+Once you are logged into the system, you’ll get the option to download a template or upload your design. If this is your first rodeo, you’ll want to download the templates. The templates look like this.
+
+Step 3 – Design Your On-Demand Geofilter
+After downloading and unzipping the file, you’ll be presented with a dozen Adobe Photoshop templates. Pick the one that suits your needs and start designing. Here’s what our talented designer Bryce came up with for TechCrunch.
+
+Step 4 – Upload your Design
+Save as a PNG and upload the file on Snapchat’s On Demand Geofilter page. You’ll get a mock up of what it will look like. Here’s ours.
+
+Step 5 – Choose Your Dates And Location
+We decided to have our filter run for a month, but you can do it for a single day, or even just a few hours. After you pick the dates, you’ll be taken to a map where you pick the location of the geofence.
+Type in the address. Draw the fence. Get an estimate. One month for our office cost about $200. Checkout.
+
+Step 6 – Wait…For 5 Minutes
+You’ll immediately get an email telling you that your credit card has been charged. Within 5 minutes, our geofilter was approved.
+We submitted the filter yesterday around 2 pm PT, it was approved at 2:05 pm, and it launched today at 12:05 am. Pretty fast, right?
+Snapchat also sent another email at 12:05 am letting me know that the geofilter was live.
+
+Step 7 – Play
+Our filter is now live. Here’s what it looks like in action. You can also follow the TechCrunch Snapchat account (mobile only) to see how we use it over the next month.
+Easy, simple, and fast. From start to finish the whole process took about an hour. You can also get analytics on how your filter performs, but it’s not immediately available. You have to wait until the next day to get analytics, and they look something like this. We had 35 uses of our filter within the first 24 hours, and the filter was seen by over 2,4000 users. Not bad.
+
+Snapchat appears to have a real winner here, and I’m sure you’ll see the new custom on-demand geofilters in action at your next wedding, festival, or party. We might even see some friends trolling one another.

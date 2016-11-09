@@ -1,0 +1,9 @@
+Periscope, Twitter’s live streaming app, has played around in the outskirts of Twitter, with nothing more than a screenshot and link being shared when you see a stream pop up in your timeline. That changes today as Periscope gets fully baked into the iOS version of Twitter and coming soon for Android and web.
+You might be asking “what took so long?” but since Periscope works independently from Twitter it took the two engineering teams to work together for this integration. It works as you’d expect, if you come upon a live or recorded Periscope stream in your feed, it’ll start autoplaying and you can tap into a mini-Periscope experience without leaving the Twitter app:
+
+
+I spoke to Sara Haider and Aaron Wasserman from Periscope, who led the way on the Periscope side, and both agreed that this meets a lot of needs for current Scopers, namely getting their feeds in front of millions of eyeballs they previously didn’t have access to.
+Haider reinforced why Periscope and Twitter are snug fits, noting “Both are ways to see what’s going on the world right now.”
+Here’s what Periscope’s CEO, Kayvon Beykpour, had to say about the launch in a blog post:
+To put the final touches on the integration and ship it, Periscope embarked on the always-fun-all-nighter:
+The hope, Haider and Wasserman tell me, is that there will be a whole new flow of conversation around the live broadcasts already happening on the Periscope platform. Wasserman describes Periscope streams as “Different, it’s unedited” which is also a charming calling card for Twitter. It will be interesting to see other ways the two products can leverage one another as time goes on.

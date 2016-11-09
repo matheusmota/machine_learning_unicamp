@@ -1,0 +1,11 @@
+Alteryx, which offers an analytics tool aimed at business users, announced an $85 million round today.
+Today’s deal comes on top of the $60 million deal last October and brings the total raised to an impressive $163 million to date.
+The round was led by Iconiq Capital and Insight Venture Partners. Meritech Capital Partners also participated.
+The company has been growing steadily and that seems to have attracted the attention of investors. When we covered the funding last October, the company reported 600 customers. It now has over 1000 says company president George Mathew and he says they are adding about 200 new customers per quarter.
+The company used last year’s funding to grab a foothold in Europe, adding 20 employees in Western Europe along with 40 channel partners that helped build a roster of 200 customers outside of North America.
+The company plans to use part of today’s investment to expand further internationally, Mathew said.
+Mathew wasn’t ready to commit to any next steps beyond this funding round. He insisted he was not thinking ahead to any future funding (or an IPO).
+As I wrote in last year’s funding article:
+With the growth in customers, of course, comes the need for additional employees and Alteryx has grown from 170 last year to 300 this year. It expects to add 40 more by year’s end and have 500 by the end of next year.
+To deal with that number of new employees, the company has established a 1-2 week new employee training bootcamp to get people up and running very quickly and help them understand the culture and the mission of the company and how that fits within the specifics of their job.
+The company offers a hosted version of the server part of the product, or customers can install it in their datacenters or in AWS or Azure. The end user version is a desktop application.

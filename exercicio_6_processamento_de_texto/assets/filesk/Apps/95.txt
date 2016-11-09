@@ -1,0 +1,13 @@
+Although the iMessage App Store is currently dominated by sticker packs, there are a few clever apps breaking through. One such app is Momento, an iMessage-only app that automatically turns your photos from your Camera Roll into GIFs you can text to your friends. What makes the new app fun to use is that it doesn’t require that you do anything to create these GIFs yourself – it does that for you.
+The app scans your photo library to figure out which photos will make good GIFs, then makes them available for sharing with just a tap.
+Momento’s creator, Genady Okrain, says he wanted to build something that encourage people to go back to revisit their photo memories.
+“As an amateur photographer, I have a lot of experience with photography. I’ve been amazed to see just how many photos people take,” he explains.
+“All those photos are on people’s devices but no one is looking back on all of them. Momento creates cool GIFs from those photos and that help people remember those old moments,” says Okrain.
+
+Using the app is simple. After downloading it from the iMessage App Store, you just tap the app when you want to add a GIF to your text message. Momento displays GIFs it has created for you to choose from.
+It also groups these GIFs for easy access, with your most recent moments at the top of the screen. As you scroll down, you’ll find other GIFs organized into albums that mirror those in the Photos app. For example, there are sections for Favorites, Selfies, Bursts, and then an “All” group at the bottom.
+To send a GIF, you just tap it and it’s added right into your text message. All you have to do is hit “Send.”
+Okrain has released a handful of photo and navigation iOS apps on the App Store in the past, but this is his first iMessage application.
+Of course, the iMessage App Store is still getting off the ground, so the app has seen limited downloads so far. iOS 10 is only on roughly 40% of devices, and not all of those who have upgraded to the new OS are even aware that Apple’s iMessage App Store exists at this point.
+That said, Momento has already managed to snag some 800 downloads, despite being a paid application, and has since scanned around 10 million photos, says Okrain.
+Although it’s $1.99 download, Momento is worth the price, as you’ll likely use this app a ton going forward. You can find the app here in the iMessage App Store.

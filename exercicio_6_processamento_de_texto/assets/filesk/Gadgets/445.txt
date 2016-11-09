@@ -1,0 +1,13 @@
+Phil Schiller today caused the largest collective eyeroll in the history of the world with his explanation of why Apple was leaving the 3.5mm analog audio jack behind. “It comes down to one word: Courage.”
+Well, first of all: come on. Apple was never known for its extreme humility, but presenters usually stop short of blatant self-aggrandizement. Well, maybe not Jony, but the others tend to temper their boasts with a sort of wonder.
+Twitter was afire with mirth:
+Second, if it’s courageous to remove the headphone port, what is it when you include the ability to restore it in the box? I mean, judged by their own standards, that must be abject cowardice, right?
+But it isn’t courage. And Apple has behaved courageously before, at least within the limitations of how courageous a global corporation can be: I think it was courage (and self-interest) that made it fight the FBI the way it has. It was courageous to come out in favor of marriage equality and other civil rights issues.
+Removing the headphone jack from the iPhone is not an act of courage, it’s an act of leverage.
+
+The avalanche of gobbledygook Schiller unloaded onto the audience while attempting to justify replacing a 50-year-old standard port with a proprietary interface was meaningless. The Lightning port is totally unsuited to sending and receiving audio.
+Audio is so simple to transmit in high fidelity that it can be done with a wire hanger. Using a powered, high-bandwidth data interface adds nothing but cost and complexity, and the space you save is minimal.
+
+The 3.5mm jack is robust, familiar, secure, well-documented, and so on — we’ve seen the argument play out over the last year. You know why it’s good: because it works reliably, worldwide, and with millions of devices. Without Apple’s permission.
+See, it’s that last part that must bother them. The idea that someone, somewhere, is doing something with an iPhone that they haven’t anticipated, like making a thermometer or payment system or 3D scanner. Someone who hasn’t paid for a license to attach that thing to their phone.
+Apple is taking the first step to make sure that never happens. They’re able to do this because no one can do anything about it. They’re in a position of immense power and they’re using that power to eliminate something good and replace it with something that makes them money. It’s not a conspiracy theory, it’s a business plan.

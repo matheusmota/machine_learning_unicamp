@@ -1,0 +1,18 @@
+
+
+People just don’t seem to have the same excitement lately about Apple’s App Store or the Google Play platform. The air of hopelessness that surrounds the mobile app ecosystem is obvious and demoralizing.
+When I published my first app on both platforms (an app that automatically monitored fuel economy while driving), I spent the first week obsessively checking its download counts with dreams of grandeur. Those dreams, of course, never came to fruition. Why take the time to publish it if it will never be discovered?
+I echoed this sentiment in a post last year about the lack of app discoverability, the harms for developers and the things that can help. But that post only captured how low the odds are for an app to achieve success, not the genuine impact that broken app discovery has on the mobile ecosystem.
+To illustrate the ecosystem impact, I dug around in some Apple App Store data, provided by our friends at Mighty Signal and MixRank, to put together some charts.
+First, to set the context, let’s take a look at the average number of apps released each year. The first complete year of the App Store was 2009, when about ~3,000 new apps were released per month. Fast-forward to 2016; more than 50,000 new apps have been released per month so far, and it seems to be accelerating.
+Despite more and more apps being released each month, nothing is being done to help surface new apps. This means that developers are having a much harder time getting their app found, which directly translates to fewer downloads. You can see this if you plot the average number of ratings per app against the year it was released. Historically, ratings are a good proxy for the number of downloads.
+
+In 2009, the average number of ratings per app was 10 times as high — which means that apps released in 2009 were downloaded about 10 times as often as they are today. Ouch.
+What’s the impact on developers? Well, it’s not much easier to build an app today versus the early days. For a similar amount of work, the reward just doesn’t exist anymore. This drives a dramatic increase in app abandonment.
+
+If an app has not been updated in the last six months, chances are that it’s not actively being worked on, so I categorized it as abandoned. For abandoned apps, I took the time difference between last update and first release date to determine how long the app was actively worked on, which gives us the app lifetime graph.
+As you can see above, on average, developers who released an app in 2009 actively worked on it for more than two years before abandoning it. Meanwhile, apps released in 2014 and 2015 were abandoned after only about three months. Developers are churning out of the App Store faster than ever, and leaving their abandoned apps behind.
+It’s easy to see how the graveyard fills up by using this abandonment rate and applying it to the quantity of new apps being released.
+
+
+I know Apple is aware of the issue, and that they’re doing everything they can to help developers rise above the noise. Let’s cross our fingers that hope is on its way in the form of  improvements to App Store search and  the rumored App Store promoted search results.

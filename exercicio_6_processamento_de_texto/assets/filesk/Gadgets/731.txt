@@ -1,0 +1,10 @@
+Bitfinder, the company behind the Awair air quality monitor, has today announced the close of a $4.5 million Series A funding round. The round was led by Altos Ventures, with participation from Samsung Ventures.
+Bitfinder first launched on the scene as an R/GA accelerator (powered by TechStars) company in February of 2015. The company launched the Awair air quality monitor, which doubles as both a clock and a monitor. It can measure temperature, humidity, CO2 levels, and more.
+Awair even went so far as to provide recommendations on ways to improve the air quality, through purifiers and humidifiers.
+But controlling the air quality means adapting to changing conditions both inside and outside, which isn’t as simple as just buying a de-humidifier.
+With that problem in mind, Bitfinder is marching (cash in hand) into new territory.
+Though CEO Ronald Ro has been rather tight-lipped about details, he did tease out a new product that will make dumb air-quality devices in the home smarter. He won’t say what exactly the product is or what it will be called, but it will likely be some sort of electrical adapter that these devices will plug into.
+Here’s the wording from the release:
+It’s easy to imagine that, with a connection to the device’s power, Bitfinder can ultimately read the air quality levels of the room and course correct all on its own.
+Bitfinder recently teamed up with Nest, Amazon Echo and IFTTT to offer smarter integrations of the product.
+You can check out Bitfinder’s products here.

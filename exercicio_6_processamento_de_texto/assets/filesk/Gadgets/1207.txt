@@ -1,0 +1,14 @@
+The rover NASA plans to send to Mars in 2020 is taking shape, and today its near-final design was revealed, along with details on several of its cool new instruments. (Check out an absolutely huge version of the image above here.)
+In an effort to save costs and, really, because it makes a lot of sense, the Mars 2020 rover is going to share a lot of hardware with Curiosity. Why design a brand new platform when the old one is doing a fabulous job?
+
+Normally phase A and B would be largely concept and research work, but instead of reinventing the space wheel, Mars 2020 just re-outfits it. The mission is very focused on the search for life, and it’s being equipped with tools specific to that job — and it’s also being made with an eye to future missions rather than trying to get everything done on its own.
+The landing zone will be chosen for its perceived suitability for life — ancient rivers, mild temperatures, that sort of thing — and Mars 2020 will be doing more than scraping the surface for clues. It has a new coring drill and a rack of sample tubes into which it will deposit the core samples for future collection and analysis.
+Careful examination of Martian resources will help determine the feasibility of things like harvesting oxygen and other elements from the environment on manned missions, and ground-penetrating radar will watch for interesting formations beneath the surface. And the usual set of crazy cameras and other sensors will record all manner of interesting readings for planetologists to decipher back home.
+
+Perhaps the most exciting addition for the average Earthling is the microphone. Not only will it record the sounds of the rover’s descent and landing, but also the ambient noise from the surface.
+“This will be a great opportunity for the public to hear the sounds of Mars for the first time,” said Matt Wallace, Mars 2020 deputy project manager. “And it could also provide useful engineering information.”
+What will it sound like? Probably very quiet, considering the thin atmosphere, but it should be cool nonetheless.
+The landing itself will be improved as well. The same “sky crane” system will be employed, in which the delivery vehicle deploys a parachute and then a powered hover platform that deposits the rover on the surface, but with two upgrades.
+
+A “range trigger” will choose the perfect moment to release the parachute, improving the precision of the landing, and downward-facing cameras will double-check the landing zone for dangerous ground and divert the lander if needed.
+If all goes well and there are no delays in engineering, funding, or planning, Mars 2020 should launch in the eponymous year, and arrive at its destination in February of 2021.

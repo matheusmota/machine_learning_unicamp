@@ -1,0 +1,8 @@
+Sony has a pair of new cameras for sale — though perhaps “new” isn’t the word, since they’re more like upgrades to existing devices. The price is upgraded, too. You’re not getting away for under a grand, though you’ll be getting a lot of camera for your money.
+
+New to the V is a sped-up autofocus system, which at 0.05 seconds Sony claims is the world’s fastest, though those records don’t tend to stick around for long. 4K video is now oversampled rather than collected from binned pixels (if this doesn’t mean anything to you, don’t worry), and phase detection AF is maintained during shots, rather than switching to contrast detection.
+An interesting addition is 24 FPS burst shooting in 20-megapixel RAW+JPEG for up to 150 shots. That 24 happens to be the most common cinematic framerate, meaning this thing essentially can shoot RAW video at 24 FPS for 6 seconds at a time. Having that in a pocket camera is pretty amazing — this could be a B camera on real shoots.
+
+The a6500 is an update to the a6300, naturally, which was already a highly capable camera. What’s new is a similarly overhauled AF system, in-camera optical image stabilization, and a touchscreen. The 24-megapixel sensor is the same, but the image processor has been updated.
+These improvements make the camera more approachable than its predecessor, which was praised for its versatility but not its ergonomics and interface. Hopefully Sony put some real work into the touchscreen UI.
+You’ll be able to pick up an RX100 V this month for a grand, and the a6500 will come in November for around $1,400.

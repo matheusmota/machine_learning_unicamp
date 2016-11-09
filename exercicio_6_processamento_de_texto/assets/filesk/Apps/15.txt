@@ -1,0 +1,8 @@
+With Android Experiments, Google is giving itself the freedom to experiment with quirky little apps that show off some interesting technologies but don’t really have any other real purpose. The latest of these experimental projects is Sprayscape, a VR camera app for Android that is probably not quite what you expect when you read the words “VR camera app.”
+
+Unlike similar apps, including Google’s own Cardboard Camera, Sprayscape doesn’t simply capture a 360-degree sphere. “Just point your phone and tap the screen to spray faces, places, or anything else onto your canvas,” is how Google describes it.
+When you first try the app, it’s not immediately obvious that you shouldn’t keep your finger on the screen as you move around. All that will give you is a very blurry image. It’s all a bit weird, but oddly fun, too.
+Once you’ve captured your 360-degree photo collage, you can share your photos with the rest of the world via a link.
+The app uses the Cardboard SDK to read gyroscope data and the NatCam Unity plugin to control the camera. Google has published the app’s code on GitHub, so if you want to build a similar app, you can use Google’s code to see how it’s done.
+If you want to give it a try, you can download the app here.
+

@@ -1,0 +1,9 @@
+The media industry is changing rapidly, and publications are forced to adapt accordingly. That’s where Spectrm, a new Berlin-based startup, comes into play. Spectrm bets big on bots, delivering news content via messaging platforms like Facebook Messenger, Slack, and Telegram on behalf of publishers.
+Since launch in the summer of 2015, Spectrm has been able to give unique insights to publishing partners, like the fact that content consumers are more likely to engage with content in the middle of the day as opposed to the morning or evening.
+Publishers who opt in to the Spectrm experience don’t need any coding experience to start distributing content. Instead, Spectrm offers a CMS interface, letting publishers customize their content for messaging. This includes the ability to add GIFs, videos, and other rich media.
+From there, Spectrm’s technology is able to have a conversation with the user, both via responses from the user and their click behavior, to continue serving relevant content at the right time.
+Spectrm lets brands market the feature to their own audiences — users can direct message the publisher’s Facebook page, or publishers can add a subscribe button on their own sites.
+As you might expect, Spectrm operates under a SaaS model, with publishers paying a base fee of $195/month for access to the platform.
+The company is currently in business with more than 50 publishers, including Business Insider, NowThis and German publisher Bild.
+There are plenty of products out there that help publishers automate and customize the way their content is shared via social networks, but none have served up tools that suit the more intimate messaging space.
+Spectrm has raised a total of $1.5 million from North Base Media, Lerer Hippeau Ventures, Axel Springer, BDMI and German angel investor Jens Schumann.

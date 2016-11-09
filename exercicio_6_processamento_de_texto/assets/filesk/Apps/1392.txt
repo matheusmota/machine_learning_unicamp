@@ -1,0 +1,14 @@
+There are scores of startups making fertility tracker and family planning apps today, but a Consumer Reports investigation has singled out Glow Inc. for serious security and privacy flaws.
+First, Consumer Reports’ team was able to access very personal information including data and comments about users’ sex lives, history of miscarriages, abortions and more, through a privacy loophole having to do with the way the app allowed couples to link their accounts and share data.
+Additionally, Consumer Reports found that Pregnancy Glow community forums transmitted personal data about its users including their full name, e-mail address, approximate location, birthdate and number of other health details they’d logged within the app.
+The data was easily unearthed and parsed using a free-to-download security testing app, and online calculators, the report said.
+Glow reportedly made immediate moves to fix the security problems with their app and issued a satisfactory update to their app after Consumer Reports notified them of the vulnerabilities.
+And as Glow investor and executive chairman Max Levchin specified after our story initially ran on Saturday:
+However, it’s a bit unsettling the startup hadn’t thoroughly tested its own systems enough to find and fix those flaws first.
+Consumer Reports set up dummy accounts to test the app for privacy and security flaws, and did not access users’ private data.
+Glow CEO Mike Huang was not immediately available for comment.
+It will be interesting to see if the scrutiny aimed at Glow, and the flaws exposed,  inspire a wave of security-oriented updates across fertility tracker apps on iOS and Android.
+Glow’s competition includes a hefty number of websites, mobile apps and even wearables to help couples get or avoid getting pregnant.
+Venture funded competitors include SOSV-backed Kindara, which works in conjunction with a smart thermometer called Wink to measure basal body temperature; Union Square Ventures-backed period and ovulation tracker Clue; and Natural Cycles, which is backed by Bonnier Media Growth.
+Fertility tracking apps have been found, so far, to be “generally inaccurate” in a study by researchers with Weill Cornell Medicine in New York City, published in the July issue of the journal Obstetrics & Gynecology.
+That’s not good news for people relying on them for family planning. And it’s definitely not good news for women who do not want to become pregnant and fail to use other methods of contraception along with the tech.

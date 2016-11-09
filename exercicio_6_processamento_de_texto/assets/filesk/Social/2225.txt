@@ -1,0 +1,11 @@
+Some say Facebook inflates its monthly active user count by including people who shared from or used a Facebook-connected third-party app. But today Facebook quieted those critics with a 10-Q update to its SEC filing that says it now only counts people who used Facebook or Messenger directly. That means the 1.55 billion user count it gave yesterday on its earning report is real.
+Twitter and Medium co-founder Ev Williams took a jab at Facebook back in December 2014 during an interview with Fortune’s Erin Griffith:
+But Facebook tells me the third-party pings from before were a tiny part of the MAU calculation.
+Changing the metric to only include direct Facebook and Messenger users didn’t slow down Facebook’s growth. In fact, it grew faster this quarter despite the change, adding 60 million users. Facebook’s monthly user count shot up to 4.02 percent quarter-over-quarter from Q2’s 3.47 percent growth.
+
+For example, if you play a game and share your high-score to Facebook, you won’t be counted as a Facebook user any more.
+Previously, Facebook’s 10-Q said:
+Now it says:
+There are still concerns that engagement and content creation is declining on Facebook, especially amongst teens. A recent GlobalWebIndex survey claimed that in Q3 2015, only 34 percent of Facebook users updated their status and only 37 percent shared their own photos, a decline from 50 percent and 59 percent in Q3 2014.
+But remarkably, despite being 11 years old, Facebook still added 4 million users in its core market of the US & Canada that people often say is totally saturated. For reference, Ev’s old company Twitter only added 4 million users globally this quarter.
+

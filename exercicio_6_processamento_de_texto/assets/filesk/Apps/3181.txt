@@ -1,0 +1,10 @@
+Researchers at the University of Cambridge have linked musical taste to thinking style, with possible implications for how future algorithms might better tailor music recommendations. Not to mention the flip side: how music streaming services could psychologically classify their users based on what they like to listen to.
+The study, Musical Preferences are Linked to Cognitive Styles, published in the journal Plos One, suggests it might be possible to create music recommendation algorithms based on empathizing-systemizing theory, which is the suggestion that people can be classified according to how they score on those two cognitive dimensions.
+The researchers found that musical tastes could be predicted by analyzing individual cognitive style, linking certain genres and styles of music based on individuals scoring highly for empathy or for analytical (systemizing) thinking.
+They write:
+Individuals who scored more highly for empathy (type E) tended to prefer mellow music (e.g. R&B, soft rock, and adult contemporary genres), unpretentious music (e.g. country, folk, and singer/songwriter genres), and contemporary music (e.g. electronica, Latin, acid jazz, and Euro pop). They disliked intense music, e.g. punk, heavy metal and hard rock.
+By contrast, people who scored high on systemizing (type S) favored intense musical styles, but disliked mellow and unpretentious beats. Individuals with a balance of empathy and systemizing (type B) evinced more rounded musical tastes.
+The research results were even more consistent within specified genres, with, for instance, empathizers preferring mellow, unpretentious jazz, and systemizers preferring intense, sophisticated (complex and avant-garde) jazz.
+They note:
+Or, to put it another way, finally some science backing the notion that Morrissey fans are more empathetic…
+The research was based on multiple studies with more than 4,000 participants mainly recruited via the myPersonality Facebook app. Participants were asked to take a selection of psychology-based questionnaires, and later asked to listen to and rate 50 musical pieces.

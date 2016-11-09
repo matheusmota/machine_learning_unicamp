@@ -1,0 +1,5 @@
+If you’re a night reader on your mobile device, then you know that it’s hard to get tired with the bright screen burning your eyeballs. This of course isn’t a problem with physical books, as you can add a soft light to the room to wind down.
+Google Play Books wants to emulate that softer experience with a feature it calls “Night Light.” As the evening goes on, it gradually filters out the blue light from your screen to make flipping through pages more comfortable.
+Here’s what the team had to say about the new feature:
+
+The feature is rolling out to Android and iOS now. To activate the feature, just update the Google Play Books app. Once you open the app, you’ll get a prompt to turn on the automatic mode.

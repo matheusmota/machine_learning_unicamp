@@ -1,0 +1,8 @@
+Parrot CEO Henri Seydoux held a press conference in Paris to unveil two new minidrones. In addition to the usual quadcopter update, Parrot also unveiled a new kind of drone that wants to mix the best of both worlds — quadcopters and fixed-wing drones.
+The Parrot Swing takes off vertically and translates from one place to another. But if you push the joystick forward, the drone will tilt forward and use its polystyrene wings to fly more like a plane. In this flying mode, it kind of looks like an X-wing. From what I’ve heard, the project was even code-named “Wing-X” internally.
+Seydoux said that the Swing was made to play in your backyard. It’s also quite easy to pilot compared to traditional minidrones as it’s much more stable. “I can even pilot it myself,” Seydoux said. “I can ride a bike, but I can’t even rollerblade just so you know my level.”
+The Swing uses Bluetooth and ships with a gamepad. You can fly it 300 feet (90 meters) above your head and Bluetooth will still work.
+“It’s much more enjoyable to fly this drone than a quadcopter,” Seydoux said. “It speaks to your imagination.”
+And yes, there are a lot of patents for this drone, even though Seydoux joked that others would copy this model. The Swing costs around $155 (€139).
+Parrot also unveiled the Mambo, a more traditional quadcopter with expansion bricks. For instance, you can plug pliers or a teeny tiny BB gun. “It’s a joke machine,” Seydoux said. The Mambo will cost around $130 (€119) with both extensions.
+Behind the scene, Parrot has packed quite a few sensors in these minidrones. Accelerometers, ultrasound sensors, pressure sensors and more. Both drones will ship in September.

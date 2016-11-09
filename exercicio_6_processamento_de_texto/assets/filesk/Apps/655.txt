@@ -1,0 +1,8 @@
+Remember Path?
+Even though targeting early tech adopters was potentially the wrong ‘path’ for that company, the idea of a close-friends-only social network isn’t a bad one at all.
+Enter Camarilla.
+Camarilla is a social network that lets you share photos with only 15 people at a time. Moreover, those posts are not public, but are rather sent as a direct message to each recipient, with the ability to have a private conversation around the photos instead of a public one in the comments section.
+Instead of allowing up to 50 people (and then 150 people) like Path, Camarilla is dead-set on keeping this private social network as small as possible. The company is targeting young parents and their networks, who prefer privacy over a huge following.
+The app has its own network effect, with each new user inviting 15 others to the app, and so on and so on. So far, the beta has spread to 130+ countries, though the Camarilla team won’t reveal just how many active users it has.
+Still, the company has recently received $3.37 million from Amerborgh, and has investors who are willing to let the network grow before focusing on monetization.
+You can check out Camarilla for yourself right here for iOS and here for Android.

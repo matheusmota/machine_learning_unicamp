@@ -1,0 +1,10 @@
+CrowdFlower is announcing that it has raised $10 million in Series D funding.
+The round was led by Microsoft, with participation from Canvas Ventures and Trinity Ventures. The San Francisco-based company has now raised a total of $38 million, according to CrunchBase.
+CrowdFlower launched at the TechCrunch50 conference (today’s Startup Battlefield at TechCrunch Disrupt) back in 2009, billing itself “labor as a service” tool using platforms like Amazon’s Mechanical Turk to help businesses tap a remote, crowdsourced workforce for mundane tasks like photo moderation.
+Founder and CEO Lukas Biewald (who I’ve known and been friendly with since college) said that the company’s current focus is on a new artificial intelligence product.
+Using an approach that he described as “human in the loop,” CrowdFlower AI allows businesses to perform tasks with algorithms and machine learning, but bring in human judgment when they’re not quite as confident in their technology — and then the human work makes the algorithms smarter. (CrowdFlower has built AI technology and a crowdsourced workforce, but customers can also plug in their own tech and remote labor pools.)
+While Biewald sees many businesses embracing this hybrid approach, I wondered whether improvements in AI mean that it’s a shrinking opportunity.
+“Maybe eventually machines will automate everything that CrowdFlower does, but at that point AI is practically sentient,” he replied. “We’d be in a pretty weird world.”
+
+“The interesting trend is that instead of machine learning conquering one application at a time and things completely switching [over], it’s been helpful everywhere but doesn’t [completely] solve any particular problem,” Biewald said.
+CrowdFlower customers include YouTube, The Home Depot and Pinterest.

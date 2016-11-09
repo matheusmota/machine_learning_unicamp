@@ -1,0 +1,7 @@
+Vine is today introducing a new layer of the service called Vine Kids. It’s meant to be a safe, kid-friendly space for a younger audience to play around with the app and watch vines.
+The app pulls from the millions of Vines being created on the platform and chooses ones that are appropriate for children. The interface of the Kids section of the app has also been tailored to be more fun for children, showing a new Vine each time the user swipes left or right and playing “quirky” sounds each time the user taps the screen.
+From the official blog post:
+Vine is Twitter’s own video platform, where users can create cool stop-animation looping videos and re-share them, like them, etc from a central feed.
+Vine has since added channels to help users discover new content, but Vine has always had content on the platform that is PG-13 at the very least. Wandering through the apps various channels and feeds, as kids are wont to do, could lead to some inappropriate content.
+Vine Kids solves that problem, letting parents hand over the Vine app without worrying about their kids seeing something they shouldn’t.
+The update is available now. Learn more here.

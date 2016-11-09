@@ -1,0 +1,22 @@
+Even Microsoft’s new image recognition app has no idea what kind of dog I have. Oh well! If you don’t own a mixed-breed mutt saved from the kill shelter, however, you might have fun with the company’s latest Microsoft Garage project: Fetch!, a new iPhone app that looks at photos of dogs to identify its breed. Or, in the case when it can’t make an exact match, the app will show you a percentage of the closest match.
+Oh yes, in case you’re wondering – you can use it with people, too.
+The app is the latest in a series of fun projects that are meant to highlight machine learning’s potential. In this case, that’s the ability to look at an image and make some sort of determination about its contents – basically, it’s teaching machines to make the sort of intuitive leaps that people naturally do.
+
+As Fetch proves, this process is actually harder than it looks. People can easily put together different pieces of information on the fly to make an educated guess about something like a dog’s breed, but machines have to be taught using a combination of correct images, expert data about breeds, and machine intelligence.
+The app in particular uses a machine learning technique called deep neural networks.
+“…there is very advanced work underway at Microsoft in this area, which are able to take apart subtle differences, even when breeds look similar or through the many different colors within breeds,” explains Mitch Goldberg, a development director at Microsoft Research in Cambridge, U.K based team built the experience.
+“Every time we add more, that’s the beauty of the deep neural network in understanding new, unique breeds. This is a really complex problem.”
+Fetch, in fact, is the latest in a series of releases from Microsoft that try to make understanding the complexities of machine learning more accessible to the mainstream user.
+For example, last year Microsoft launched a site that would guess people’s ages from their photos. The results, as with Fetch, were hit or miss. If the picture wasn’t perfectly framed and lit, the service had trouble making accurate guesses. The company has also been working on machine learning tools that can identify emotions, and in honor of the facial hair fundraising effort “Movember,” Microsoft launched MyMoustache, which uses similar technology to recognize and rate facial hair. And it has a site that will tell you if two people are twins.
+But the dog breed app is also fun. When it works!
+The technology behind Fetch has actually been in development for years. In July 2014, Microsoft demonstrated how machines could tell the difference between people and dogs at the 15th annual Microsoft Research Faculty Summit. The team later released the website What-Dog.net, but says the app is where the most progress is really apparent.
+According to Microsoft’s announcement, the iOS app was released just in time for the American Kennel Club’s Meet & Compete and the Westminster Kennel Club Dog Show, and demonstrates a different time of machine learning capability.
+Instead of examining photos of humans, Fetch tries to figure out what sort of dog breed is represented in a photo.
+“There was an interest in creating a framework that would allow you to take a domain – in our case, dogs – and recognize numerous classes, such as breeds. We were interested in enabling an app to allow you to make object recognition extraordinary, fun and surprising,” says Goldberg.
+To use the app, you simply show it a picture of a dog and it returns the breed. If there’s no dog in the photo, it says…”No dogs found!” But it also might guess what the photo is of, instead. (e.g. “This looks more like…flower?”)
+There’s also a pretty hilarious hidden mode where you show the app a picture of a friend, and it will tell you what type of dog it thinks that person is…which, you know, can be quite insightful.
+
+The results Fetch presents can then be shared via social networks and email, so all your friends can comment on your doggie match. You can also save your favorites in an included scrapbook or browse the list of breeds included in the app which contain details like size, coat, disposition, and more.
+I think I’m okay with being called a Maltese, but I’m fairly certain my 49-pound mutt is not a Chihuahua, though.
+
+Machines, you still have a lot of work to do.

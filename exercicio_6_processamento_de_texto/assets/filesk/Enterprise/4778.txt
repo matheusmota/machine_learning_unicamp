@@ -1,0 +1,8 @@
+The tech/startup industry is about as incestuous as it gets, and that’s without any clear tools to help people switch from one moonshot to the next. So imagine a world in which there are two!
+Allow me to proudly introduce PoachBox, the anonymous employee auction site, and Underdog, the NY-based site for finding your next employer.
+Both sites focus on solving a similar problem: you’re sick of working at Google, or Amazon, or Postmates, or Tinder, or wherever, and want to know what lies beyond the white picket fence, in the flowing green pastures off in the distance.
+With Poachbox, you simply put in your current salary and experience information and sit back and wait. Think of it as a Secret for employment.
+Auctions go live at a specified time and date, and then companies who are signed on to the platform have the option to send you interview offers, paired with salary propositions. That way, company’s have access to the best-matched talent and potential candidates have the ability to sort out their options.
+Underdog is slightly different.
+Instead of using the auction model, Underdog simply asks for your resume and some basic information. The idea is to focus on the NY startup scene, get in good with growing and hiring companies, and facilitate the best possible matches between programmers, engineers, social media folks, and “product people” with their potential employers.
+Both tools seem really clever, and could come in handy if you’re looking to shake things up professionally.

@@ -1,0 +1,7 @@
+For the millions upon millions of visually impaired people in India, it can be difficult getting hold of the audiobook they want in the language they need it in. A project from Carnegie Mellon University and partners aims to fix that with a free, easily extensible Android app that can be quickly trained to read texts aloud in local languages.
+The app, Hear2Read, had its first release today, supporting Tamil, with Hindi, Bengali, Punjabi, and other languages and dialects coming over the course of the year. A few hours of talking from a native speaker is the raw data, which is then fed into a machine learning system.
+“Each language is different and historically TTS systems have been done one at a time. We looked at commonalities of Indian languages and developed tools to apply the same technology to multiple languages,” said Suresh Bazaj, founder of the project, in a CMU blog post.
+
+
+The Hear2Read software also integrates with Android’s built-in accessibility functions, letting browsers, email apps, and others integrate text to speech.
+More info on Hear2Read, the app, and the partners that helped make it possible can be found at the company’s website.

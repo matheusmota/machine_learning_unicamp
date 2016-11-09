@@ -1,0 +1,37 @@
+“Bug fixes.”
+“Jam packed full of Super Amazing Things.”
+“Every 3 weeks, we polish up the Pinterest app to make it faster and better than ever.”
+“To make our app better for you, we bring updates to the App Store every 2 weeks…Every update of our Facebook app includes improvements for speed and reliability. As other new features become available, we’ll highlight those for you in the app.”
+Mobile app publishers have begun to play fast and loose with their release notes, which is the area where they’re supposed to communicate the changes shipping with the most recent app update to the end users. This inattention to detail is a disservice to users, who no longer have the benefit of understanding what the updated app will now do — or not do — as the case may be.
+Without details, users can’t make an informed decision about whether they want to install that update at all.
+They don’t know what functionality has changed or how the user experience is being affected. They don’t know if the changes are even bad or good. For example, users wouldn’t know if a favorite feature is being pulled, or if the app has made improvements that now lets it work better with certain devices…including perhaps, theirs.
+
+Many people today automatically update apps when new versions become available. That shift in user behavior, made possible by mobile OS enhancements, could have encouraged developers to start skimping on writing detailed release notes, as they knew the notes weren’t being read as often as before. Plus, they didn’t have to use this section to make the case as to why an update should be installed.
+However, even in the case of automatic updates, it seems users should have the right to know, at the very least, whether the update includes only minor tweaks or security improvements; whether the app is adding or removing features; whether the update means the app is changing its business model (e.g. rolling out advertisements); and so on.
+Will most users still download the update, knowing what’s changed? Probably. But does that mean they didn’t deserve an explanation?
+The growing trend to not disclose what’s included in an app’s update could date back to Facebook’s decision last year to roll out its updates at a quicker pace. The company said at the time that it would begin to push out new releases monthly, and its modified update text implied that users would no longer need to read these release notes as any new features would instead be flagged within the app itself.
+Not everyone agreed with this strategy, though. Amid some backlash, a Facebook engineer even took the comments on a blog post to explain why Facebook made this move.
+They noted that many changes are under-the-hood improvements and bug fixes; many are trivial; and that, when Facebook launches new features, they don’t release to everyone at once. In other words, if the Facebook app update text said that it was rolling out new feature X, it could actually confuse users when they didn’t see it in their own app following the update.
+That being said, the “all-or-nothing” approach to writing release notes may not be the correct solution. After all, at some point, that slow-to-roll-out feature will eventually hit Facebook’s entire mobile user base – and couldn’t it be disclosed then?
+
+Of course, writing release notes can be one of the more tedious tasks engineers face. Maybe they seem pointless, or a waste of time. Maybe when the update is really just a collection of tiny tweaks, it would take too long to detail them. Maybe those tweaks are over the heads of the app’s non-technical user base.
+But to opt-out of writing relevant release notes altogether? Shame on you, app makers.
+Facebook may have kicked off this trend, but it’s hardly the only company fudging its release notes these days.
+Pinterest, too, has followed suit. And that above quote about “super amazing things” comes from Tinder, which is probably one of the more egregious recent examples.
+Plus, it’s more common than ever to see notes that simply state: “Bug fixes and performance improvements,” like Yahoo, Hulu, Google, Flipboard, LinkedIn, Microsoft, and several others have done over the course of the past month alone.
+It seems that once you’re a certified “big company,” having to actually detail which bugs just got squashed is no longer your job.
+More importantly, the lack of detail in release notes makes a statement about what a company thinks of its user base – that their users don’t care about minor changes, so why bother? It’s that same old elitist behavior – common in the I.T. industry, in particular – which elevates technical staff above the plebeian, unimportant users.
+
+Move!, demands a modern-day Nick Burns by way of the vague release notes. I’ll just update that app for you, don’t concern yourself with the details. 
+Some developers have even started using the release notes as a place to write stories or draw pictures.
+Sometimes this works, as it calls attention to a new feature or series of fixes in a clever way. For example, blogging app Medium actually pasted in the developers’ Slack conversation in the July release notes. The latest version describes a fictional phone conversation with Grandma to talk about changes to the app’s home feed.
+But other times, the silliness can go awry – such as when Medium’s August 4th release included only an ASCII picture of a bug along with the comment, “FIXES.”
+Meanwhile, Tumblr users applauded the humorous short story embedded in the August 17th release notes, as the best ever. But while the story, reminiscent of some of the bad fan fiction that populates Tumblr’s website, was fun to read, the release notes forgot to include a footnote about what actually changed in version 4.3.1.
+That’s not to say that anyone having “fun” with the release notes is worthy of condemnation.
+For example, the developer of star-gazing app Pocket Universe often includes a short story in the update text, too. But alongside that story, he lists informative bullet points of the changes, noting things like “supplementary star names displayed if larger star catalog activated” or “improved 3D rendering,” .
+Meanwhile, team communication app Slack has mastered the balance between having fun and providing users with the information they need – which is not surprising, given how well the app itself mashes up the joy found in using consumer apps with the needs of the corporate crowd.
+In Slack’s release notes, each line item is explained with a touch of humor, e.g. —
+“Fixed: trying to add a reaction while reactions were still loading was a chain of events simply too exciting for the app, which would crash in a tizzy. So much calmer now.”
+“Fixed: the “Switch Teams” button will now always be at the bottom of the flexpane instead of occasionally, confusingly, maddeningly trading places with the “Invite” button. Sorry about that.”
+At the end of the day, if a developer wants to have fun with the release notes, that’s up to them. But no matter what, they should still feel a responsibility to their customers to communicate what’s being installed on end users’ devices.
+After all, mobile phones and tablets are often users’ primary computers these days, and the most personal technology people own. Users may still install your app when asked, but everyone has a right to know what that software update includes.

@@ -1,0 +1,15 @@
+Microsoft and SAP are two old-school enterprise vendors that have been partnering for almost 20 years, and this week their partnership is taking a pronounced leap into the future as they come together around cloud, mobile and big data products.
+To that end, the partnership involves 3 parts:
+The Cloud
+SAP plans to run several of its key cloud services on Microsoft’s Azure platform including SAP Business Suite software, SAP Business All-In-One solution, SAP Mobile Platform, SAP Adaptive Server Enterprise (SAP ASE) and the developer edition of the SAP HANA platform.
+The idea says Microsoft’s Takeshi Numoto, Corporate Vice President of Cloud and Enterprise Marketing, is to provide a platform to run these applications and build new ones to give SAP customers the unlimited cloud resources that Azure can provide.
+“We take the complexity away and help them take advantage of the flexibility and agility that cloud can provide,” Numoto explained.
+Mobile
+The second part of the deal involves SAP building mobile tools that link to the Microsoft Windows phone ecosystem. As Kevin Ichhpurani, Senior Vice President, Head of Business Development and Strategic Ecosystem at SAP pointed out, his company already has several SAP apps running on the Windows phone platform, but later this year, they will be releasing a new SAP mobile SDK to provide the means for SAP customers to build custom mobile apps based on SAP tools on Windows phones.
+When I pointed out that Microsoft has only 3 percent of the world’s mobile phone marketshare, Ichhpurani was unperturbed saying that SAP was confident the platform will turn around and that regardless it was a good approach for his company’s customers who often use both Microsoft and SAP products.
+Data
+Finally, SAP has reconfigured  the SAP Gateway for Microsoft to connect SAP Business Objects to Power BI and Excel, giving SAP customers the ability to take data from SAP data repositories and visualize it in new ways using the updated Microsoft tools, said Ichhpurani.
+The partnership comes at a time when SAP’s cloud and mobile strategy appears to be in some disarray after the departure of key executive Vishal Sikka earlier this month. Last week reports surfaced that SAP could be facing big layoffs with rumors that up 2500 employees could be let go in a company-wide restructuring as they focus more on the cloud.
+Meanwhile, Microsoft is trying to shift gears and become more of a platform and services company under new CEO Satya Nadella, even as their Windows phone platform continues to struggle in a market dominated by Android and iOS. Certainly, at least parts of this SAP deal help advance that agenda.
+Against, this backdrop, the two companies have banded together once again, this time trying to help one another make the shift to cloud, mobile and big data, and help those customers using both company’s tools make that transition with them.
+PHOTO BY FLICKR USER THOMAS8047. USED UNDER CREATIVE COMMONS CC BY 2.0 LICENSE.

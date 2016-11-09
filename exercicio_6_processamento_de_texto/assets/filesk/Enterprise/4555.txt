@@ -1,0 +1,9 @@
+This afternoon, Microsoft and Salesforce announced a broad partnership that will bring their respective software and service products closer together.
+Salesforce will support Windows, Windows 8.1, build “interoperability Salesforce and Office 365,” Microsoft’s subscription-based productivity suite, and integrate OneDrive for Business, SharePoint Online, And Outlook in various capacities.
+This is a big deal for Microsoft given Salesforce’s quickly expanding customer base. Salesforce, a pioneer of the SaaS model that Microsoft is now also pursuing, likely has a rich pool of customers that Microsoft either wants to court, or make happier. Salesforce likely wants to attract Microsoft’s more conservative customer base by providing stiffer integration with products they already know.
+The terms of the deal were not disclosed. I’m reading that as Microsoft paying Salesforce.
+Microsoft is fighting a multi-front platform war with Google, Apple and others, and so any wind it can put at the back of its nascent business-facing services, such as OneDrive for Business, is a positive for the firm.
+The deal isn’t short-term. According to a Microsoft announcement, regarding Windows support, “[a] preview is planned to be available in fall 2014 with general availability in 2015.”
+Salesforce is up more than 3 percent in after-hours trading. Microsoft is flat.
+Update: On a call, Microsoft and Salesforce commented further on the partnership. Salesforce will use Microsoft’s Azure broadly, and the firms affirmed that the deal isn’t a short-run event. 
+Top Image Credit: Marc Benioff

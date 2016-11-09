@@ -1,0 +1,6 @@
+Apple just turned the Apple Watch into an SOS button at WWDC. With watchOS 3, you can long-press the side button to start a call with the emergency services.
+When you hold the side button, a countdown starts. If you keep pushing, a call starts and you can talk with the emergency services. The Apple Watch knows what country you’re in and will dial the right number.
+Once you’re done with your call, the Apple Watch will send a message to your emergency contacts with a map of your location.
+Apple is also turning the Apple Watch into a medical ID bracelet. After your SOS, your watch will automatically start displaying all the medical details you’ve entered in the Health app on your phone. HealthKit-enabled apps can also provide data for your medical details. This could be useful if you are unconscious or otherwise unable to tell emergency responders when they arrive.
+This is just one of the new features in watchOS 3. The Apple Watch update is a comprehensive update that will make your Watch more useful and faster.
+

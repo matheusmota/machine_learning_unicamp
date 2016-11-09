@@ -1,0 +1,29 @@
+Just ahead of its annual WWDC conference, Apple has announced a series of changes to its App Store, aimed at improving the experience for both developers and consumers alike. According to Senior Vice President of Worldwide Marketing, Phil Schiller, who took over the App Store in December, the company is working to speed up the time it takes apps to go live, revamp how it splits revenue with developers, as well as improve app discovery. The latter will include the introduction of ads in App Store search, among other things.
+The improvements, many would argue, are long overdue. Developers have been struggling to get their apps noticed, downloaded and installed – and consumers are growing tired of trying new apps. In fact, most don’t even download a single new app in a month, studies have shown.
+The overall goal with the changes, it seems, is to make the App Store feel fresh, put the right apps in front of the right users, and help App Store developers maximize their revenue in a market where acquiring and retaining users is growing ever more difficult.
+App Review
+To start, Apple says that it has sped up the App Store review process, which used to take five days to complete. This is the period when Apple reviews apps before they’re allowed to go live, making sure they adhere to the developer guidelines, aren’t breaking any laws, and are safe for consumers to use. In the past month or so, App Store review has dropped to one day for many apps, Schiller told The Loop. 
+He noted that Apple reviews 100,000 apps per week, but it has now figured out how to make those reviews go faster. Now, it has a sustained rate of reviewing 50 percent of apps in 24 hours, and 90 percent in 48 hours.
+Not delaying app launches was one advantage Google Play had on the App Store – because it largely relied on algorithms, not humans, to scan its apps, they could launch quicker. (Google has since introduced human-powered app reviews, but this has not appeared to impact approval times).
+Subscriptions and a new 85/15 split 
+In addition, Apple is introducing a new business model for developers who use subscriptions to generate revenue. Today, Apple uses the traditional 70/30 split – something that was introduced back when developers were largely monetizing through app sales. But times have changed.
+Now, apps using subscriptions will still see the 70/30 split in year one, but this will become an 85/15 split in subsequent years. Subscriptions will be available to all apps across all categories, including games, where before it was limited to categories like cloud services, streaming media, news, and dating services.
+Apple says that subscription-based apps will need to either offer content that is updated or delivered on a regular basis, or they can provide paid access to an ongoing service in an app, like cloud storage or massive multiplayer online games (MMOGs).
+Apple tells us all current subscriptions are eligible—if developers have subscribers they have already retained for over a year, the 85/15 split starts immediately, effective Monday, June 13.
+Developers will also be able to set territory-specific pricing, and they’ll be able to increase prices for new subscribers while keeping loyal customers at the older, lower pricing, we’re told.
+Subscription management for consumers will be easier, too, with an improved way to access, upgrade, downgrade and otherwise change subscriptions.
+
+Above: App Store search ads (via The Loop)
+App Discovery & Ads 
+Finally, and perhaps most notably, Apple will try to address the app discovery issue.
+The App Store has been plagued by discovery issues for years, according to many developers, who complain that it’s too hard for users to find their apps.
+To fix this, Apple will change its “Featured” section on the App Store this fall so that it won’t recommend any of the apps you already have installed, only new apps. (It began testing a similar solution on Apple TV earlier this month, but there it also affected the Top Charts.)
+Apple is also bringing back the Categories tab in the App Store, for easier navigation, and it’s rolling out a 3D Touch-enabled means of sharing apps with friends. That is, if you press on an app on your iOS device’s Home screen, you’ll be able to share it with friends via social networks – a handy use case for the somewhat under-utilized 3D Touch “shortcut” feature on apps.
+The App Store is also going to be refreshed more often with new content, instead of just on Thursdays, Apple told iMore.
+The biggest change of all is that Apple is rolling out App Store ads in search. That means when users search for an app by name or keyword, developers can bid on an advertising slot at the top of the search results lists – similar to how Google search works.
+
+Search is a critical way apps are discovered these days, as there are now 1.5 million apps on the App Store. That’s why this change, above all, is so important. Apple tells us that over 65 percent of apps downloaded on the Store come from a search query.
+The company stresses that there will only be one ad per search, it will be clearly labeled as such (with a blue background and an “Ad” icon), and it will have the same content as the app’s App Store listing. Apple will also not share data about users’ ad clicks with developers – they will get reports, but not user data. And ads will not be shown to users under 13, if Apple can determine that, Schiller told The Loop.
+Search ads will be handled through an auction system, with no minimums and no exclusives in order to make it accessible to smaller developers as well.
+Ads will launch into beta first in the U.S. on Monday before rolling out more broadly this fall.
+The changes will apply to all apps stores, not just iOS.

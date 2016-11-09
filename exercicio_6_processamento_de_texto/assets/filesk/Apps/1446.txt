@@ -1,0 +1,12 @@
+No more frustrating zoom-in/zoom-out. Facebook finally made a modern way to view panoramas and VR photos with your phone. Its new feature “360 Photos” rolls out tomorrow on iOS, Android, web, and Gear VR, and it will democratize creation of 360 and VR content. You can see Mark Zuckerberg’s example here from the top of One World Trade Center.
+Upload an iPhone or Samsung Galaxy panorama, or photo from 360 apps or cameras like the Ricoh Theta just like any other image, and Facebook will convert it into a 360 photo. People who see a 360 photo with the compass icon can scan around it by tilting their phone or click/tap-and-dragging. And those with a Gear VR handy can hit the “View in VR” button in the top left corner, pop their phone into the headset, and look around by moving their head.
+
+Facebook already has celebrities and publishers lined up to share 360 photos. You’ll be able to check out the International Space Station with NASA, look out a crowd of 100,000 fans while standing beside Paul McCartney, or go behind-the-scenes at the Supreme Court with The New York Times.
+
+The social network’s product manager Andy Huang writes that “We introduced photos on Facebook more than a decade ago, and they quickly became one of the main ways that people share their experiences.” But Facebook believes video, 360, and VR are the future of sharing, so the feed is adapting. Perhaps one day Instagram will get 360 support too.
+Facebook’s history as place to upload user generated content could help it win this frontier of social media. Snapchat doesn’t let you broadcast uploads, and Twitter is still thought of as a text-focused platform. But if great 360 content becomes prevalent on Facebook, it could give users another reason to keep coming back each day.
+
+Meanwhile, 360 represents a novel opportunity for brands to create eye-catching marketing. Expect movie sets, tourism destinations, and more to end up as 360 photo ads.
+Facebook first announced the new feature last month alongside the fact that the Samsung Gear VR has 1 million monthly users. But a big problem is that users are running out of content to view from big game and cinematic experience studios.
+Facebook tried to answer this problem by building its 360 Surround camera and open sourcing the designs so professional creators with $30,000 and some elbow grease can build their own top-of-the-line VR capture device. But by letting average users create VR-viewable content, Facebook’s Oculus Rift and Samsung Gear headsets could stay interesting.
+

@@ -1,0 +1,9 @@
+Microsoft concluded support for Windows XP in April. Despite that fact, a large chunk of the global PC market still runs the operating system. And with more than 20 percent share, Windows XP’s piece of the global PC pie isn’t declining very quickly.
+According to Net Applications, Windows XP’s global desktop market share fell from 24.82 percent in July, to 23.89 percent in August. That’s just under one percentage point in a full month. At that pace, it will take more than two years for Windows XP’s market share to fully dissipate.
+Windows 7’s market share has been essentially flat during the summer. The now-dated operating system benefits from corporate customers who want to get off of XP, but are not sold on Windows 8. (Those corporate sales, it’s worth noting, have helped players in the PC market turn in stronger earnings.) But it appears that the larger Windows XP userbase will take an age to unwind.
+In March, for example, Windows XP had 29.53 percent global PC market share.
+There are numerous security risks for those who remain on Windows XP. However, less than 10 percent of corporate PCs are still run Windows XP. That fact implies that a large chunk of the remaining Windows XP-running computers in the market are in the hands of consumers.
+Consumer PC demand has been weak in recent quarters, perhaps causing at least in part the slow deflation of XP.
+This puts the Windows world into an interesting place: If the rapidly approaching Windows 9 can induce consumer excitement of any sort, it could help get regular folks off of Windows XP and onto a far more secure operating system.
+Add that little tidbit to the cadre of reasons why Windows 9 is a very critical release for the software company.
+IMAGE BY FLICKR USER AUSTEN SQUAREPANTS UNDER CC BY 2.0 LICENSE (IMAGE HAS BEEN CROPPED) 

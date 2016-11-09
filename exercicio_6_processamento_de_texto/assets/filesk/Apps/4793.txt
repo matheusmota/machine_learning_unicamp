@@ -1,0 +1,23 @@
+Over the past two years, Asia has emerged as the world’s top marketplace for apps–and it’s still growing. Revenue in Asia rose by a massive 162% in 2013, “annihilating” growth in all other continents, according to a new report by Distimo. Furthermore, that increase was fueled in large part by Google Play, where revenue from Asia more than quadrupled in 2013.
+In comparison, the App Store’s growth in Asia was much slower: a 94% increase in revenue for iPhone apps and 64% for iPad apps. But that was still faster than the App Store’s total growth in Europe or North America, as seen in the chart below.
+
+For its report, Distimo looked at daily App Store and Google Play downloads.  Asia accounted for 41% of global app revenue in December 2013, compared to 31% from North America and 23% from Europe.
+Overall app revenue in Asia is now split almost evenly between Google Play and Apple’s App Store. In comparison, the App Store still leads in North America, where it accounts for 75% of app revenue, with Google Play making up the remaining 25% (the divide is similar in Europe).
+“Clearly, Asia is a different landscape than what’s seen in North America and Europe,” wrote Distimo analyst Anne Hezemans.
+
+A lot of attention has been paid to China’s alternative Android app stores, thanks in part to the $1.9 billion acquisition of 91 Wireless by Internet giant Baidu. But Japan is still the most lucrative country for app developers in Asia, followed by South Korea and China. Though mobile penetration rates are rising rapidly throughout the continent, especially in Southeast Asia, there is still a wide disparity between app revenue in different regions.
+“To put into perspective the enormous difference in revenue between the top Asian country Japan and Malaysia, Japan’s revenue is 77 times that of Malaysia’s,” wrote Hezemans. “The extremely disproportionate revenue share among Asian countries led us to believe that the market isn’t evenly divided.”
+
+Even though Japan was last year’s leader in app revenue, South Korea enjoyed the highest growth. App revenue in the country shot up by 271%. Most revenue in South Korea came from Google Play, which is unsurprising because Apple holds just a 14% market share there, according to Flurry.
+Freemium is still the leading business model in Asia. In China, apps generated 96% of revenue from in-app purchases, while Japan and South Korea had similar rates at 94% and 91%, respectively. In comparison, in-app purchases generates about 76% of revenue in the U.S.
+
+Like their counterparts in the rest of the world, most mobile users spend their in-app time playing games. Rovio’s Angry Birds Go! was the most downloaded game in Asia in December, followed by a Chinese game called CarrotFantasy2: Polar Adventure.
+For China, where only 3.5% of devices have Google Play installed, Distimo partnered with Wandoujia, one of the largest alternative Android app stores in the country, to get data from more than 300 million users.
+According to Wandoujia, games by foreign developers “have a big opportunity to reach millions of gamers in China,” as evidenced by the popularity of titles like Temple Run 2, Subway Surfers, Angry Birds, and Fruit Ninja, all of which were among the top seven titles in the country last year.
+But local developers still dominate non-game apps, just as local software dominated the PC Internet.
+“China’s domestic market is so large that it can support an entirely independent ecosystem from the rest of the world,” said the report.
+In fact, the 3.5% of Chinese users who do have Google Play on their phones are a relatively international demographic. Just 65% of the apps they purchased were made by local developers, compared to 87% for Wandoujia’s users.
+Many Western game makers were initially skeptical about breaking into China’s app marketplace because of piracy and the difficulty of monetizing games. But Wandoujia’s data showed that mobile gamers are now more willing to spend money on in-app purchases. From April to November 2013, the average revenue per paying user for massively multi-player online games grew a massive 400%, beating growth in Japan (282% year-over-year) and Korea (342% year-over-year).
+“Android users have a hungry appetite for in-game purchases, bucking the old myth that Chinese users won’t spend money for services,” wrote Hezemans.
+For more data, see the full report.
+[[Image by Newport Geographic]]

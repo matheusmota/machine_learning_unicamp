@@ -1,0 +1,9 @@
+Facebook launched video comments today, a feature that acknowledges the meteoric rise and continued growth of online video creation and consumption.
+By 2020, internet video traffic will represent 82% of all consumer internet traffic, according to forecasts from the Cisco Visual Networking Index.
+It could also help Facebook catch up, yes catch up, to Snapchat in terms of daily videos viewed on the social media platform. As per Mary Meeker’s 2016 Internet Trends Report, video consumption on Snapchat outpaced video consumption on Facebook in the first quarter of 2016.
+
+The new feature was developed at Facebook’s 50th Hackathon, according to a company blog post.
+The team that built what would become the video comments feature included core hackers: Bob Baldwin who led the initiative with Hermes Pique and Sameer Madan working on iOS, Muhammed Ibrahim focused on the Web, and Billy Ng on Android.
+Baldwin previously led teams at Facebook Hackathons who developed features that allowed Facebook users to include photos or stickers in comment threads.
+
+If this feature had been live during the Ice Bucket Challenge, the viral video meme launched to help raise funds to cure ALS, it could have resulted in the world’s longest comment thread.

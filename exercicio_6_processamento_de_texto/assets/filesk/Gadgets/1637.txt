@@ -1,0 +1,17 @@
+Today at WWDC, Apple launched the third version of watchOS, and it’s all about speed. The beta release is going out today to developers, and to all users in the fall.
+The company is really touting how fast apps will now run, a much needed improvement from the lagginess of the first and second versions of the operating system. In fact, the company says that apps now launch and react “seven times” faster than on the old OS.
+So how exactly will Apple achieve this? By allowing both third-party and built-in apps to be kept in memory, as well as update and refresh information in the background, even while a user isn’t using a particular app.
+To help you navigate faster, Apple is also adding a “dock” to watchOS, letting you swipe up to quickly launch different apps.
+
+WatchOS 3 will also have control center, like on iOS. You can swipe up and see quick commands like mute, bluetooth and Wi-Fi on and off, etc.
+Apple is also making sending messages easier on the app. They are introducing a feature called Scribble, which lets you draw letters that automatically get converted to text. This feature should really help users quickly dispatch messages without touching their phones, something that was promised when the first watchOS was released.
+Apple has also launched a new feature called SOS, which is designed to help you in a real emergency. If you need help, press and hold the bottom button on the watch. A countdown will start, and when it reaches zero the device will call 911, over either a cellular or data connection.
+When you use SOS, your watch will automatically pull up the emergency info you entered in HealthKit, which could help first responders when they arrive.
+
+The third version of watchOS also has a ton of health-related improvements. Activity, the part of watchOS that tracks your workout and health statistics, is getting competitive.
+The new software will have a feature called Activity Sharing, which will allow you to share health metrics like steps per day and calories burned with your friends. This friendly competition should help users employ friends to keep them accountable in their fitness goals.
+Apple is also launching a second native Health app called Breathe. The app is meant to help you relax and focus by controlling your breathing rate. Users open their app, select the amount of time they want to practice for, and follow along either via visual or haptic cues.
+Activity and Health Kit will also now support users in wheelchairs. The company has adjusted their algorithms to track wheelchair users’ movement and replaces cues like “time to stand” with “time to roll.”
+WatchOS also has some new features for developers. As mentioned, most apps will be able to run in the background and preload data for users. Additionally, developers can now make Watch apps that utilize the device’s speaker – opening up the possibility of video playback on your wrist.
+The new update will also support Apple Pay inside watchOS apps in case developers want to release e-commerce apps for the wrist.
+In terms of watchOS design, Apple launched a few new faces, including one with Minnie Mouse, and one with Roman numerals. Users will also be able to quickly switch between different faces by swiping left and right on the face.

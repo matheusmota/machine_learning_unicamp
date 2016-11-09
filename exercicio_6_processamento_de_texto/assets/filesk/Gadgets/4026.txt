@@ -1,0 +1,8 @@
+Today, Google shared their self-driving car project monthly report. Good news, there were no accidents. There were however, some interesting learnings that the team shared about how they’re training their software.
+Apparently, Halloween was a big help:
+
+An update on how many miles driven and where were reported again as well:
+The reports are quite fascinating and give us a peek into just how involved this futuristic, but attainable, project is. The company discussed how to keep “drivers” engaged while the car drives itself, which is an industry-wide concern. The company discussed folks in the car reaching into their bags in the bag seat for their phones, something which scares the crap out of me regardless of how accurate the self-driving car is. The message? People trust the cars. I mean, at least the volunteers they had out testing them did. They were all Google employees, because duh.
+None of this is a slam dunk because hey…some people enjoy driving. Google discusses how this technology is great for commuting, which is agreeably boring ass driving. We’ll keep reading the reports while you keep paying attention to the road.
+Thank you.
+Also:

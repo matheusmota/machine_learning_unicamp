@@ -1,0 +1,10 @@
+A Santa Monica-based startup called AirMap today launched a feature that gives drone operators real time traffic alerts whenever manned aircraft such as helicopters, crop dusters or low-flying passenger planes, are about to enter into their air space.
+The company’s systems, generally, let drone makers and developers of drone apps give users maps and guidance as to where they’re welcome to fly, and what airspace is off-limits or unsafe.
+AirMap analyzes data on the laws, traffic and obstacles in the sky around the world, and can help drones safely navigate the skies over any country, according to co-founder and CEO Ben Marcus.
+The company offers a standalone app, API and software development kit to hardware and software makers who want to create sophisticated maps and real-time data overlays within their own products.
+“We look at 1,000s of manned aircraft simultaneously and drones simultaneously to figure out which will create a potential intersection,” Marcus explained. (The algorithms and architecture required to create AirMap’s real-time traffic alerts sound like an SAT math question run incredibly amok.)
+Along with the new feature launch, AirMap also announced data partnerships with Stamford, Connecticut-based Passur Aerospace Inc., and Palo Alto-based uAvionix.
+Passur Aerospace operates a large network of ground-based systems that use radar and other sensor technologies to detect the presence of manned aircraft overhead.
+UAvionix makes lightweight ADS-B sensors and systems that are installed in drones, and allow sharing of information between manned aircraft and unmanned aerial vehicles.
+The data partnerships helped AirMap make its real time traffic alerts a reality, Marcus said.
+Gregory McNeal, AirMap co-founder and a law professor at Pepperdine University, is delivering the afternoon keynote at the Interdrone conference in Las Vegas today, and plans to call for continued collaboration in the burgeoning drones industry to usher in an era of pervasive, safe and beneficial drone use.

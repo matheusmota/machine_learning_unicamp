@@ -1,0 +1,12 @@
+Services like YouTube Gaming and Twitch are great for watching videos and live streams from your favorite gamers, but a new app called Leet, launching now, has a slightly different take. Instead of focusing on live-streamed gameplay and real-time chat, Leet lets gamers share short highlights from their favorite console or PC games to its online community and the social web. Others can then like or comment on the clips, giving the app an Instagram-like appeal.
+At launch, Leet supports sharing from Xbox One, PS4 or PC games, thanks to its support for YouTube and its ability to connect with the Xbox service. After registering for an account, you’re placed in a home feed with content from people you follow.
+Leet offers a list of suggested users to help you get started, while a “discover” view can help you find more content from those in the wider community.
+You can then connect your own accounts, including YouTube (for PS4 and PC gamers) and Xbox, by entering your Google credentials and Xbox gamertag, respectively. The company says it’s working on Twitch integration now, which a number of its early adopters have demanded. Twitch itself, however, recently launched its own clip-sharing tool, which redirects users back to the video on its site.
+Though somewhat competitive with Leet, that does signal that there’s interest in tools for sharing short-form content like this, outside of broader networks like Vine or Instagram.
+Once you’ve uploaded a video to Leet, you can use the app’s included tools to trim the clip to a smaller size (15 seconds) before sharing.
+The bootstrapped startup is based in Toronto and is a team of four, at present. Co-founders include Corey Pollock, currently Product Manager at Tiny Hearts studio, and the creator behind Slacklist.info and the largest gaming Slack community (#gaming); and Mohamed Hashi, currently Product Designer at Wattpad.
+Tiny Hearts studio, which makes a number of popular apps like Next Keyboard and Wake Alarm, is serving as advisor.
+“We tried to make the app as simple as possible,” explains Pollock. “[Leet takes] cues from well- recognized apps like Instagram and Vine, to provide users with a comfortable experience,” he says.
+The clips are also looping, as on Vine. And they start to auto-play after you stop scrolling the feed.
+For those addicted to this sort of gameplay content, Leet can be fun to browse and easy to use. Whether it has a shot at carving out its own niche in the crowded social space, however, remains to be seen.
+The app is a free download on iTunes. 

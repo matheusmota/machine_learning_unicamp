@@ -1,0 +1,5 @@
+Airbnb renters will now get pricing recommendations for their listings as part of an update to the room-sharing service today.
+It’s called Price Tips, and it creates ongoing suggestions for pricing creates based on several metrics, like demand for rooms, travel, and so on. For example, if there’s a conference in San Francisco, it will suggest the room owner to raise the prices of their listings.
+
+“It’s often looking at hotels in the area, seeing how much they charge,” Curtis said. “In lot of cases it’s someone typing in a number and hoping for the best. It’s one of the biggest points of friction in the startup process, and worse than knowing what to price is understanding how that price should evolve over time.”
+Airbnb also released a tool that allows users to send gift cards, which is also available today.

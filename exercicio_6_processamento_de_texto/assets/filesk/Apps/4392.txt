@@ -1,0 +1,18 @@
+Over half a million children with autism in the next decade will become adults, underscoring a growing challenge that needs to be dealt in the future. But with 1 in 68 children now affected with autism, it’s already the most prevalent neurological disorder in the world that needs more innovations to help people cope with the disorder. 
+As TechCrunch’s Leena Rao wrote earlier today, fortunately, there are life-changing technologies that are being developed at the intersection of health evaluation and diagnosis.
+Avaz AAC, a new speech therapy app for autism developed by Ajit Narayanan and his team at Chennai-based Invention Labs, has just raised $550k in seed funding led by Inventus Capital and Mumbai Angels, to help solve the problem. Google India MD Rajan Anandan and Sierra Atlantic founder Raju Reddy are among other investors participating in this round of funding.
+This new funding will be used to expand Avaz into new geographies and also flesh out additional features. Narayanan added that ‘thousands’ of kids across U.S., Denmark, Australia, India and Italy are already using Avaz to communicate.
+Narayanan is not new to the area of language development; with over 25 patents in his name, he also invented FreeSpeech, a new way of representing ideas graphically. In his own words, FreeSpeech helps create maps of images to represent ideas in a completely language-independent way. Later this year, a FreeSpeech-enabled Avaz app will be available, too.
+As Narayanan told me, there is a small amount of money being spent in core autism research, the majority of funding goes towards management of the disability – how to allow kids with autism to learn language, communicate, and express themselves socially, in spite of their disability.
+“Avaz AAC, addresses one specific dimension of the issue of managing autism – which is to teach a child with autism how to communicate, and help them build literacy,” he added. 
+The app is free on iPad, at least the basic version that can be tested by parents to see if a more advanced version would be worth it.
+At the core, Avaz is a picture-based communication tool that helps autistic children use their picture identification skill to create picture messages, which are then spoken out by a speech engine.
+
+“When used under the supervision of a speech therapist, Avaz can help a kid develop strong communication skills, and also gradually learn new words and grammar through the use of pictures.”
+Another notable aspect of Avaz is its progress in non-English-speaking markets.
+“In fact, our second-largest selling product is Avaz Dansk, which is the No. 1 AAC app in Denmark; Avaz Italiano, our Italian app, is likewise the premier Italian-language AAC app,” Narayanan said. 
+Going forward, Avaz wants to attack problems beyond autism.
+“We are very keen to explore the applications of these technologies in disabilities like dyslexia, which have a much higher incidence than autism, and where again there is a serious need for scientifically validated products,” added Narayanan. 
+Moreover, given Avaz’s capabilities in helping children communicate, it can even be used outside the disability space.
+“The line that runs through our product ideas is the fundamental belief that helping kids communicate is helping them discover new worlds – and their inability to communicate – either because of disability or because they do not know a specific language – should not limit their ability to express themselves.”
+

@@ -1,0 +1,6 @@
+Google announced today that Hangouts On Air will move from Google+ to YouTube Live on September 12; users will be asked to migrate to YouTube Live.
+In an email to TechCrunch, Google confirmed that Hangouts on Air isn’t shutting down, but will move to YouTube Live. “We’re focusing our live streaming efforts on YouTube Live and consolidating our services there,” a Google spokesperson wrote. “Hangouts on Air has been available through YouTube since it was launched and YouTube Live is a natural home for the service.”
+As first reported by Emil Protalinski on VentureBeat, Google debuted the live-streaming feature for its Hangouts group video chat on Google+ in September 2011, then completed the roll out in June 2012. YouTube Live debuted less than one year later, in May 2013.
+After the deadline of September 12, events cannot be scheduled on Google+, and existing events scheduled after September 12 must be moved to YouTube Live.
+Users will continue to have access to their recorded event on YouTube. Google+ will have your event content available in read-only format in the Activity Log.
+The move is another of the ongoing changes with Google+ across many Google products, which started last year. Just a few days ago, Google confirmed to TechCrunch that a Google+ profile is no longer needed to post a review on Play Store.

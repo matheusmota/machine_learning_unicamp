@@ -1,0 +1,20 @@
+One of the early startups in the app discovery space, Homescreen.me, is relaunching its service that lets you browse which apps others have installed on their iPhone, and now, Apple Watch, too.
+Despite valiant efforts at creating social networks around apps and app recommendations, one of the best ways to discover those you’ll really like is by word-of-mouth — a friend tells you about an app they’re really enjoying and sells you on why you should use it, too. But word-of-mouth doesn’t necessarily scale.
+In years past, a number of startups tried to work around that problem by launching services that allowed users to browse the iPhone home screens of others, in order to get ideas about popular apps, as well as find undiscovered gems.
+
+Interest in these sites has faded over time. Though, initially, it’s fun to share your own home screen and check out those from others, users haven’t been motivated to return to the sites and keep updating their screens after they install new apps and things change.
+Homescreen.me hopes to address that problem with its new site, built from the ground up.
+Not to be confused with the betaworks’ project Homescreen.is, which came later, the Homescreen.me website has been around since 2010. It was originally a side project created by Preshit Deorukhkar while he was working on other efforts, including Smoking Apples and Beautiful Pixels.
+His new website is still largely focused on app discovery — something that has become even more of a challenge over the years as the App Store has filled up with applications. There are more than 2 million apps on Apple’s iTunes App Store, and the company just announced a massive revamp of the marketplace, largely to address the problem of developers not being able to find users for their applications.
+
+Homescreen.me, meanwhile, is returning to the more social approach of solving app discovery.
+The site allows you to share your iPhone home screen, but also your other preferences, as well, including device choice, wallpaper and even how you have your Apple Watch set up.
+As before, it’s fun to browse other home screens and share your own, but more importantly, Deorukhkar says the site will now have a proper roadmap with a number of features still to come. These will be focused on helping to grow its user base and keep people coming back to share their screens and browse those shared by others.
+Today, the site lets you share your iPhone and Apple Watch screen, but in the future it will also introduce iPad support.
+In addition, users will be able to embed their home screens on their own website — something that could prompt them to keep them current.
+However, a few of the more anticipated features could potentially turn the service into something you’ll want to revisit, after the initial buzz wears off.
+The site will introduce a Twitter-like Follower/Following model, so you can be updated by way of email notification when one of your favorite users uploads a new screen. You’ll also be able to track the history of how users’ screens have changed over time. (That should be fun not only for app tracking, but also seeing how iOS itself has evolved.)
+Unfortunately, one of Homescreen.me’s bigger plans — a native iPhone application — got shot down.
+With iOS 9, Apple stopped allowing developers to scrape and track the apps users have installed on their devices, which it felt violated user privacy. (Twitter had notoriously taken advantage of this tracking capability in order to target ads.)
+But Apple attributed Homescreen.me’s App Store rejection to its use of a home screen springboard image in its app, claiming it was Apple’s IP and against brand guidelines. That’s why the startup eventually returned to the web, following the iOS app beta.
+Now Homescreen.me, in conjunction with NFN Labs, has a full team dedicated to its development, and will be a main project for the group going forward. The new site will be ad-supported, as before. You can sign up to try it now, but the official debut isn’t happening until tomorrow morning.

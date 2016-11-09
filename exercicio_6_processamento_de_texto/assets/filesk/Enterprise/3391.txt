@@ -1,0 +1,17 @@
+Earlier this week, TechCrunch published commentary on a report concerning the current popularity of various enterprise cloud file sync and share products, a group of services usually shortened to the acronym ‘EFSS.’
+Dropbox was far and away the leader, finding a home within nearly 45 percent of responding enterprise IT pros’ businesses. Microsoft’s OneDrive had over 25 percent penetration, Google Drive had nearly 25 percent and Box had just under 15 percent.
+Smaller players — Amazon, Hightail, SAP Docs, Egnyte, and so forth — each had less than 10 percent apiece.
+Given the current market narrative, you must have heard that Box commands high market share among enterprise clients, and that Dropbox itself is working to close a feature gap with its competitor. The same narrative also generally maintains that Google and Microsoft are themselves straining to pick up market share, having trailed their smaller rivals into the market.
+So what the hell is going on? Well, if you retreat to our previous accounting of the top four players in the market, you’ll note that their market share adds to more than 100 percent. And when you stack the other listed players, we end up far higher than a numerical peak called lleno.
+The following paragraph from TechCrunch’s initial coverage is elucidatory:
+Bingo: The study queried, again quoting our coverage, “1000 IT pros in October and asked them about the sync and share tools in use in their companies.” In use, not rolled out in a paid way.
+You can’t have only 18 percent of respondents paying for EFSS, more than 100 percent usage inside of companies, and have all those seats paid for. My friend Peter Kazanjy made this point to me on Twitter recently:
+So what we can divine from the data is actually less than you would expect. Yes Dropbox is popular. And of course Google and Microsoft have large unpaid market share since they have huge consumer buy-in, and so forth.
+But there is a chart that I want to point out:
+
+Only 4 percent of respondents plan to roll out paid EFSS services to their companies inside the next six months. That’s a mere 22.22 percent of the current paying base. Or, put more simply, growth in the enterprise file storage space might be slower than we might have anticipated.
+The numbers don’t improve much when you look ahead at least six months more: Only 2 percent of those surveyed indicated that they had plans to roll out EFSS at least 6 months for now. That’s a slimmer 11.11 percent of the current corporate install base, using the same data set as a comparison point.
+And a massive 61 percent are in the ‘no’ category.
+Selling into the 4 percent that want to move in the next half year likely won’t be too hard. The 2 percent that want to follow also might not be difficult to bring on board. But 61 percent are obstinate by their own admission.
+I think this could add more headwinds to the sales and marketing front. And that could harm long-term margins, and impair growth, two things that might ding valuations of private companies in the space.
+We’ll have to see. You can’t divine precisely how much greenfield has been sucked from the EFSS meadows, but I would wager that the percentage isn’t low.

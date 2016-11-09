@@ -1,0 +1,32 @@
+Healthtech, Fintech and AI dominated Techstars London Demo day today in London. At a packed venue (the famous Royal Institution, no less) the teams demo’d their products in short pitches.
+Here is a run-down of the teams, with some more details of those that stood out. You can watch a Facebook Live recording of the demos here.
+Didimo
+They say: “Didimo creates Virtual Avatars ready to be animated with one photo.”
+• It’s already secured partnerships with key players in gaming and digital media. This is about creating personalized 3D avatars at scale. This could change the gaming world by putting the real you inside the game.
+Madbarz
+They say: “Next gen fitness app right in the middle of the modern fitness revolution”
+• This is an app which turns your phone into a personal trainer that focuses on muscles rather than cardio. This has already reached 500k users and is booking £200,000 a month in revenue, and that’s before they’ve turned on £10 a month subscriptions.
+AID:Tech
+They say: “AID:Tech brings transparency and efficiency to the distribution of resources by governments, NGO’s and charities.”
+• Using the blockchain they aim to “guarantee that international aid reaches the right person at the right time.” It’s so far rolled out projects in Haiti, France, Serbia, Malawi and Pakistan in 2016.
+SwiftComply
+They say: “Simplifying environmental compliance for more sustainable communities.”
+• Swiftcomply a real-time platform for restaurant compliance, tackling the unsexy topic of “Fat Oil & Grease compliance” for restaurants and turning it into a platform. Restaurants book a “grease trap service” and then the platforms automatically notifies the local inspector with a digital record and updates the restaurant’s compliance status.
+Mindi
+They say: “Mindi combines the best of human and artificial intelligence to create optimal solutions.”
+• This is about optimising datacenters with AI. It’s already reduced energy consumption by 20% at Digital Ocean without replacing hardware.
+Asset Vault
+They say: “Catalogue, protect and manage your physical and digital assets”.
+• AssetVault puts you in control of your assets and protects them in your own terms.
+Avalon AI
+They say: “Avalon AI accelerates the development of a cure for neurodegenerative diseases.”
+• They aim to find a cure for disease like Alzheimer’s using machine learning to improve diagnosis.
+DataSine
+They say: “DataSine produces behavioural profiles to match banking products and people.”
+DrFocused
+They say: “We support independent doctors with their annual appraisal.” This aims to kill paperwork for doctors.
+Memgraph
+They say: “Highly scalable and high performance in-memory graph database.”
+Tenzo
+They say: “Bringing actionable business insight to retailers.”
+Picture courtesy of @julsica

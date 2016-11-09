@@ -1,0 +1,7 @@
+Virtual reality is pretty convincing when you’re all jacked in and wired up — but even the best headsets today aren’t particularly sharp. Sharp, taking notice of this, has produced a display specifically for VR that’s double the resolution of what’s out there right now.
+
+At 2160×1920 (for the rectangle, naturally; the circle is likely 1920 in diameter) and just about 2 inches across, these displays have an impressive pixels-per-inch rating of over 1,000. The 5-6-inch displays we have on our phones are generally in the 300-500 range, and that’s also the case for the panels being used inside the Oculus Rift and HTC Vive. It’s not the highest PPI ever, though — panels with over 2,000 PPI have been made, but this one is tailored to VR.
+Assuming these Sharp displays are at least as good in terms of color and response time — and their IGZO method suggests that should be the case — they could lead to a huge improvement to the VR experience. Remember the iPhone before and after Retina display? That kind of huge.
+One other device on display caught my eye: this 5.2-inch, “Free Form” HD panel with rounded corners used to create an impressive edge-to-edge phone prototype. I’d definitely rock that.
+
+Head over to PC Watch for more from Sharp’s booth.

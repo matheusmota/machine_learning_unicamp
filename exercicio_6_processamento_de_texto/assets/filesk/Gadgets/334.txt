@@ -1,0 +1,6 @@
+In the world of MAME cabinetry – essentially a subculture of arcade lovers who build amazing cabinets for their emulators – the goal is usually to either recreate the arcade games of yore or build something really wild. Adafruit built something really wild.
+Originally a weekend project, this MAME cabinet is a few inches tall and uses a screen about as big as a thumbnail. The kit is far from complete and the screen is too small to be really usable for most games. However with a little downsampling and some judicious game choices you can play some Pac-Man or Dig Dug on this minuscule machine.
+The cabinet uses the .96-inch RGB OLED display and a Raspberry Pi Zero. The creator, Phillip Burgess used a tool called Nanoscreen to downsample and display the game frames on the tiny, tiny screen.
+
+Burgess built the cabinet after discussing the idea of a “bonnet” for the Raspberry Pi Zero that fit over and added a great deal of functionality to the bare board. He wrote:
+This teeny cabinet is a cool and clever idea, but if you really want to have some fun please consider this Cupcade arcade cabinet instead. At least you’ll be able to press the buttons without smashing the cabinet to bits. I built one with my son and it turned into a great weekend project.

@@ -1,0 +1,25 @@
+Let’s be honest, players of Pokemon Go aren’t going to care a Joltik or a Flabébé about the app permissions required to roam their neighbourhoods garnering the disproving glances of seniors as they fling invisible poke balls at the rose bushes.
+But maybe they should — given the long list of permissions the app requires for its geocaching game of augmented reality and real-life activity fun to function, as flagged by Twitter user and security engineer Jason Strange…
+As Strange goes on to point out, the permissions are almost as extensive as required by Google’s earlier (massively less successful) location-based multiplayer game, Ingress…
+The similarity of the two permissions lists is not too surprising, given that Niantic Labs, the Google division which made Ingress, is also the maker of Pokemon Go. And Niantic was spun out of Google last year — albeit with Mountain View remaining a backer of the company.
+Albeit, Ingress was (at least initially) aimed at adults. And Pokemon is (at least in theory) a game for kids.
+Expansive data-capture permissions seem a whole lot more creepy when the surface entity doing the capturing has a business model powered by data-mining its users (i.e. Google). Vs a business model powered by mining its users’ nostalgia for games they played when they were kids (i.e. Nintendo).
+But actually, in Pokemon Go’s case, there’s not necessarily a huge difference — given that Google remains in the loop as a third party backer of Niantic.
+Niantic’s privacy policy for Pokemon Go notes it may share “aggregated information and non-identifying information with third parties for research and analysis, demographic profiling, and other similar purposes”.
+So it’s prudent to expect some of your location data to end up in Google’s hands. We’ve asked Niantic directly about this and will update this post with any response.
+The company also notes it may disclose information about users (including children under 13 who have been authorized by their parents to use the app) —
+So couple the above statement with the game’s precise location tracking and ability to perform audio fingerprinting (thanks to its access to the camera/microphone) and you have an app that could easily be subpoenaed to track down/snoop on a person of interest, as various others have pointed out…
+Will players of Pokemon Go be worried about the long list of permissions they are agreeing to? Probably the closest most will get to noticing/caring will be the toll persistent location tracking takes on their device battery life.
+Preventing the phone from sleeping and sucking continuously on GPS will do that.
+Still it is persistent location tracking as an opt-in service — to power a location-based AR game. It needs at least some of these permissions to function. But the flip-side is you’re potentially handing over masses of personal data — plus a powerful tracking capability — just because you want to play a game.
+Call it a bunch of pretty aggressive permissions dressed up in Pokemon kawaii. Faustian pacts never looked so cute.
+(Sidenote: some of the app permissions Pokemon Go requires on Android aren’t available on iOS — yet the game still functions within Apple’s mobile ecosystem so…)
+Another privacy/security risk being, at least momentarily, accentuated by Pokemon Go’s popularity is down to its so-far limited geographical release (officially launched in the US, Australia and New Zealand) — meaning Pokemon fans in countries where the app can’t yet be downloaded via standard channel might be tempted to try sideloading it.
+And, yes, already a backdoored Pokemon Go Android app has turned up.
+So it can be a small step from wanting to ‘catch them all’ to, in fact, catching a malicious remote access tool. Which obviously wasn’t the Pokemon you were looking for.
+The backdoored Pokemon Go APK includes even more extensive app permissions than the legitimate APK — including the ability to make calls and send SMSes (which could be used by the app to rack up premium rate fees in the background), as well as the ability to record audio, read your web history and more. It also, like Ingress, demands to run on startup.
+But when you compare the lists of permissions the backdoored malware version doesn’t look so very different from the real deal.
+For the record, here’s our upload of the app permissions list of the current version of the (official) Pokemon Go app in the US Android Play store:
+One final tidbit from the (real) Pokemon Go privacy policy:
+
+ 

@@ -1,0 +1,8 @@
+Apple is taking on TimeHop, Facebook On This Day and Google Photos Assistant all at once with its new iOS 10 feature Memories that’s a tab inside Photos. Using local, on-device facial recognition and AI detection of what’s in your images, it can combine photos and videos into themed mini-movies complete with transitions and a soundtrack. 
+The company debuted the new feature onstage at WWDC today alongside iOS 10 and a slew of other announcements.
+
+While TimeHop and On This Day focus on what happened on this specific date and then just lay out the old media, Apple is trying to make something more evergreen and sharable. It can recognize and bundle together photos the feature certain people, or scenes like hiking or the beach.
+But at the same time, it’s trading on privacy, highlighting that all the processing happens on your device so your photos or facial recognition data aren’t sent back to Apple’s servers.
+The demo of the Memories movies was impressive. The feature automatically cobbled together some photos and video clips into a happy-go-lucky family skiing video. But you can also adjust settings to select different themes like chill, gentle, or uplifting, and a short, medium, or long length. One change to the “epic” theme, and the clip became a Michael Bay-esque action movie trailer.
+
+Apple is hoping to make iOS Photos more than just a generic media management app. If people feel like their old photos and videos become more valuable on iOS, they might be less likely to switch to Android.

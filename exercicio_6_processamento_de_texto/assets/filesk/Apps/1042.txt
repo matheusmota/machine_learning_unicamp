@@ -1,0 +1,11 @@
+Awair, the IoT product that sits in the home and measures the quality of your air, has today announced integrations with a number of other platforms to improve the experience.
+The company behind Awair, Bitfinder, has teamed up with Nest, the Amazon Echo, and IFTTT to offer users new ways to interact with the data gathered from air quality monitor and more seamlessly automate their other connected-home devices to take over some of the heavy lifting.
+With Nest, for example, users can automatically ventilate their air when the CO2 concentration in the room is high.
+Plus, users can more readily get information about their air quality through an integration with Amazon Echo. Simply ask Alexa (to ask Awair) about how you can improve the air quality around you, or recommendations on products that don’t harm the air quality.
+But even if you don’t own an Echo or a Nest, Awair’s integration with IFTTT gives the user control over how the devices in their home react to the various aspects of air quality, such as temperature, CO2 levels, humidity, dust, and VOCs.
+With IFTTT, users can program their various products through WeMo switches to turn on and off based on certain factors in the air. They can also receive notifications on Slack or track air quality factors in a Google spreadsheet.
+These integrations are all part of a larger effort to turn Awair into a proactive device as opposed to a measuring tool.
+The Awair smart air quality monitor currently just measures the air quality in a certain room and sends that info to an app, which can, in turn, give users recommendations on how to improve that air quality.
+As it stands now, those recommendations usually involve buying a humidifier or a different portfolio of cleaning products, and require quite a bit of time and energy for the user.
+But in the future, Awair wants to make any kind of air quality device, from humidifiers to de-humidifiers and more, smarter. The company’s next device, not yet unveiled but teased by founder Ronald Ro, will hook Awair into traditionally ‘dumb’ air quality products to automate the entire process.
+The Awair is available for $199/unit right here.

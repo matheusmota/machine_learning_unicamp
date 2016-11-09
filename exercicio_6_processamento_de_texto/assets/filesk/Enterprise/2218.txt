@@ -1,0 +1,6 @@
+Today after the market closed, Intel Corporation (INTC) released its second quarter earnings report. The company reported revenue of $13.2 billion and earnings per-share of $0.55.
+The company’s revenue dropped five percent compared to the year-ago quarter, and its net income dropped by three percent over the same period. However, EPS was flat at 55 cents compared to the year-ago quarter.
+The street’s consensus was that Intel would earn $0.50 per share on revenue of $13.04 billion. These expectations were in-line with the company’s prior guidance of $13.2 billion plus or minus $500 million.
+Intel’s Data Center Group saw revenue of $3.9 billion, which is up five percent sequentially and up 10 percent year-over-year. The Internet of Things Group, a still relatively small division for the company, saw revenue of $559 million, which is up five percent sequentially and up four percent year-over-year.
+The company also announced that Skylake, its 6th Generation Intel Processor, has been qualified for production and will deliver in the second half of 2015.
+Intel shares traded flat today in regular trading, opening at $29.65 and closing at $29.70. Following its earnings beat shares of INTC are now up more than seven percent in after-hours trading.

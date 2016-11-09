@@ -1,0 +1,8 @@
+InVision, the design-focused prototyping tool, has today closed a $21 million Series B round, with participation from existing investors including Tiger Global Management (who led the round), as well as FirstMark Capital.
+That brings InVision’s total funding to $34.1 million, according to CrunchBase.
+InVision is a service built for designers, that lets these creatives not only draw out their ideas for apps or websites, but actually build the prototype to look, feel, and act like the actual product, even without all the back-end engineering.
+For bigger companies who use the enterprise InVision platform, users can send designs out to various teams or company-wide to get feedback in real time in a way that doesn’t send engineers back to the drawing board.
+“Design is a disruptive force for any industry,” said Clark Valberg, InVision co-founder. “Folks are looking for ways to have a better design process that incorporates agile software development. InVision represents the ‘best practices’ way to design a product.”
+The idea is that design should come before you go in and build out all the code, and though the two processes can occur simultaneously, iterating faster on the design side leads to fewer headaches on the engineering side.
+According to co-founder Clark Valberg, InVision will be using the new funding to build out a sales team and help foster the enterprise side of the business, which is thriving says Valberg. Currently, the team is at 38 people, and Valberg is looking to increase headcount by a total of 30 percent to 40 percent for both sales and engineering.
+You can check out InVision for yourself right here.

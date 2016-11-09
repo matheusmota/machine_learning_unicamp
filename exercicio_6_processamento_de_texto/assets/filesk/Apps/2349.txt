@@ -1,0 +1,13 @@
+Blippar, the augmented reality app that gives you a deeper look at the world around you, has today unveiled a redesigned version of the app that focuses on discovery.
+Blippar’s visual search tool can recognize hundreds of millions of items, at least on a category level. Some of these items are simply recognized as ‘building’ or ‘skirt’, whereas other items can get hyper-specific, like flora and animals.
+Visual search, as opposed to searching through Google or Siri, is based around curiosity. If you aren’t entirely sure what you’re looking at, it may be difficult to find the right words to describe and ultimately search for that object.
+With the redesigned Blippar, the company has built a layer on top of that initial search to let you keep learning through curiosity and discover.
+Whenever you pull up a Blippable item, the app’s interface with spread to a web of bubbles, each with some relation to that original Blipp. Users can click around within this web to see various items relation to one another, or scroll down to get more in-depth information on a single subject.
+For example, if I blipped a can of Pepsi, Blippar might bring up the founding story of the company, news it pulled in recently from the web, information about the general manufacture of soda, and probably Coca-Cola, among other things.
+As you click around from one Blipp to the next, you can end up wandering from one topic to another for quite some time, each with its own in-depth write-up.
+Blippar uses more than 100 sources to deliver this information, but wouldn’t specify who it has partnered with on content.
+You might wonder how Blippar, which has traditionally focused on building out advertising for brands and publishers, might monetize a feature based around curiosity without the app being dominated by ads.
+Blippar CEO and founder Rish Mitra explained that brands have no control over their Blippar search results. They may show you an ad before the results appear, in the form of a meme or video, but can not control the search results that accompany a Blipp of their product.
+In other words, Pepsi can’t exclude Coca-Cola from its search results.
+Blippar, founded in the UK, has been around since 2012 and raised a total of $99 million across three rounds of funding.
+You can check out Blippar now.

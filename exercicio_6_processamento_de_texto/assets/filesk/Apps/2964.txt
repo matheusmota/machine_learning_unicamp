@@ -1,0 +1,26 @@
+Chelsea Handler’s new mobile application Gotta Go! has hit the App Store. The humorous, but also potentially practical, app is designed to get you out of awkward situations – like bad dates or boring meetings, for example.
+The launch coincides with the debut of Handler’s new Netflix series, Chelsea Does, which began streaming over the weekend. The app’s creation and design was featured in the second episode, Chelsea Does Silicon Valley, where the technically disinclined comedian attempts to get a handle on what technology is doing to both our culture and our minds.
+Much of the episode involves Handler’s own complaints about how confusing technology is, and how it never seems to work properly for her. But she also drops in on a few tech-focused companies in the area, including Netflix, Twitter and Wired – the former where a patient and amused CEO Reed Hastings tries explaining to Handler what streaming actually is.
+
+Some of the jokes Handler makes in the episode fall flat – she mispronounces “Silicon” as “silicone,” for instance, and later uses her new Gotta Go app to get her out of one of the aforementioned “terrible” situations – a coding class for kids.
+That seems to miss the mark about what’s worthy of poking fun on in the Valley.
+By spending time picking on the fact that today’s bright kids are becoming literate in technology (one kid even likens it to learning a new language), she misses the opportunity to skewer the more troublesome aspects of Valley culture. For instance, the bubble effect where some tech entrepreneurs are disconnected with the needs and desires of a mainstream user base is one area that Handler – with her supposed tech frustrations – could have easily tackled.
+Still, Handler’s attempt at building a mobile app people may truly like went better than expected.
+
+The comedian contracted with San Francisco-based software product strategy, design and development firm Yeti.co on the project.
+For Yeti, a firm that does R&D work with companies like Google, Qualcomm and Alcatel-Lucent, Gotta Go was a fun side project for them – and one that recalls Yeti President Tony Scherba’s past where he once built apps and websites for music celebs, including Britney Spears, Bob Dylan, Dave Matthews, the Beastie Boys and others.
+Though discussions about building the app have been underway for a year, the app development only took a couple of months, says Scherba.
+In the Chelsea Does episode, Handler discusses the app’s concept with Yeti’s team – including one meeting where she totes along a kid who does a better job of speaking the language of app development than Handler apparently does.
+This, too, is meant to be funny – a kid in a meeting! – but, in reality, the child speaks fairly intelligently about the product’s feature set and Yeti team members barely react to the pint-sized speaker, and instead quickly move to follow-up questions after just a few smiles.
+However, the result of Handler and Yeti’s efforts is a pretty clever little app that lets you generate excuses and set alarms for text messages and calls. To use Gotta Go, you tap on the emoji associated with the excuse you want to use, add the contact number to your address book, and set the alarm.
+The excuses then come in as real phone calls and texts you can show to your companions to get you out of the bad situation. Handler herself even narrates the calls, telling you what to say to your companion. (Some pauses between instructions would have been nice, though.)
+The pre-built excuses are useful enough – a car being towed or a missing pet, for example. More importantly, though, they’re customizable. That makes the app more practical than being just the celeb marketing vehicle it would otherwise seem.
+However, the concept itself is not original – apps that fake a call or a text have existed for some time, and there are dozens in the App Store today. Plus, apps that offer you gracious ways to exit bad situations are not likely to be the sort of thing you need to use on a regular basis, which limits Gotta Go’s potential.
+Also, unfortunately, we found the verification code process during sign-up was experiencing delays during tests. We had to wait 15 minutes, then try again to get the code to come through.
+
+That said, reception to Gotta Go’s launch has been decent – it hit No. 14 on the App Store’s Lifestyle chart on Sunday, thanks to the Netflix show. And now, says Scherba, Gotta Go is generating a massive phone bill for Yeti.
+“We have one of the largest telephone bills in the country right now because we’re calling and texting people,” Scherba says. (Plivo is powering the app’s backend.)
+“We maxed out our phone bill this weekend, and we started getting flagged by carriers because it was too popular. We were sending too many text messages.” The team has now resolved that problem, he adds.
+Yeti, which was compensated for building Gotta Go more in terms of exposure if not cash, will continue to maintain the app. But whether it will be expanded or improved will be determined by whether or not people continue to use it.
+“It’s an experiment…we’re taking an organic approach to the whole thing. It’s about having fun…we’re going to see how it sticks,” says Scherba.
+Gotta Go is a free download on iTunes.

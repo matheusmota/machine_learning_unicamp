@@ -1,0 +1,10 @@
+The team behind project management service Wrike spent the last few years building a general-purpose project management service that businesses can adopt to their own needs. That clearly worked, because as Wrike CEO Andrew Filev told me, the company’s revenue grew 120 percent last year and it now has about 400 employees and 12,000 businesses on its paid platform.
+Now that this platform is in place, the team is looking at how it can better serve certain verticals through more specialized products. With Wrike for Marketers, the company launched the first of its new vertical solutions this week.
+“We achieved great results in horizontal layers,” Filev said. “We built a work management solution for everybody, but now we can go deeper in certain verticals.”
+Filev noted that targeting marketers was an easy choice because 40 percent of the company’s new revenue is already coming from this vertical. “So we considered doubling down and when we did that, we noticed how great an opportunity it was,” he said.
+Unsurprisingly, the product was designed around the typical marketing workflow, which often revolves around briefs, requests, assignments, reviews and approvals. The Wrike team also noticed that a lot of the creative work in marketing agencies happens in Adobe tools like Photoshop and InDesign. To integrate these into Wrike, the company built an extension for the Adobe Creative Cloud that brings some of Wrike’s features right into Adobe’s tools.
+
+Wrike then combines all the images and other content into a single visual tool for handling proofing and change requests.
+Users who want these extra features will pay a $10 fee on top of Wrike’s Business plan. A free trial version of Wrike’s new proofing and approval tools is now also available for all paying users.
+Filev did not want to talk about which other verticals the company is currently considering as it expands this program, but the company is clearly interested in adding more of these specialized solutions over time.
+

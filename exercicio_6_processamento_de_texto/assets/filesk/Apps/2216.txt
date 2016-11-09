@@ -1,0 +1,10 @@
+Freak out, everyone, Microsoft intends to update its software. That it said it would update. That it said it would update on a continuous basis. Because it’s trying to build and release Windows 10 as a service. So it’s going to push new code.
+LOSE YOUR SHIT.
+Kidding. But really, I’m slightly confused. I had to spend the morning on trains to meet an unelected political official, so I’m late to this, but I couldn’t make the following up if I tried:
+
+New terms in Windows 10, as the aforelinked post notes, include the following:
+This should surprise absolutely no one. Microsoft cannot push updates to enterprise-level customers, as they are tetchy bastards who wish Windows XP still worked. Microsoft can and will push updates to consumers to ensure that their operating system is secure, and full of the latest doodads that it hopes will grow the userbase of its services.
+When the company dropped the most recent build of Windows 10, it said the following:
+So, there’s that.
+And I don’t think that we have to be too worried about Big Windows taking down our PCs with updates, since we’ve seen how the company has comported itself thus far in the Windows 10 saga. Have the new versions of Windows 10 been horrific debacles, fraught with bugs and generally lessening code quality?
+Not really. Keep in mind that this is not iTunes that we are talking about.

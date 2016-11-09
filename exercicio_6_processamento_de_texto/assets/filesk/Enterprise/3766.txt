@@ -1,0 +1,14 @@
+Microsoft announced Windows 10 the other day. Putting aside the fact they skipped version 9, and all of the jokes that could evoke, the announcement appeared to be one long apology to the enterprise. We’re sorry we dissed you in version 8 and we want to beg you to take us back. And we brought your favorite Start button.
+Remember, the one you’ve lived with and loved since 1995? It’s back and we hope against hope that we can pick up where we left off and keep the relationship going. What’s old is new (and familiar).
+Cue Player:
+Baby Come back
+You can blame it all on me
+I was wrong
+And I just can’t live without you.
+Seems in Version 8, Microsoft got all cozy with consumers and the enterprise users weren’t too happy about it. So the Start button is back with a little Version 8 twist mind you just to let you know they haven’t forgotten all about tiles. When you click Start, you get the familiar looking menu, but you also get a set of customizable live tiles for your viewing pleasure (assuming you want anything to do with them).
+As Alex Wilhelm and Frederic Lardinois put it the other day in their TechCrunch article covering the Windows 10 launch, it wasn’t just the Start button though. Oh no, there were a lot more goodies awaiting the enterprise in Windows 10.
+So while they keep the old and familiar, they offer a few nods to more modern enterprise administrative requirements to go with it. They stress they haven’t given up on the touch interface, but maybe that’s a little fancy-schmancy for the general Windows crowd for whom a keyboard and mouse is just fine, thank you very much.
+Unfortunately, sometimes you try to change things up in a relationship and your partner just isn’t ready for it. They like the old ways of doing stuff. They like the same restaurants and they don’t want anything fancy. Windows users, it’s seems are like that. As Tim Moynihan put it on Wired, “From the early looks of Windows 10, it’s a long-overdue concession to the fact that Windows users prefer the way things used to be.”
+As Moynihan pointed out, almost 24 percent of worldwide Windows users are still on XP. These people have serious upgrade phobia, or maybe they just like what they know and see no reason to change.
+Microsoft clearly recognized they have a curmudgeonly user base and figured why fight it? These people like things the old way. Let’s just give it to them. But it makes me wonder if Microsoft is checking Seinfeld’s availability for ads, or maybe they can get the Rolling Stones to do a techno remix of Start Me Up. It worked so well in 1995. Might as well try again, right? Or perhaps even that level of change could upset their core Windows audience.
+Either way, Microsoft wants you to know they are really, really sorry and they will never change your OS again. Honest.

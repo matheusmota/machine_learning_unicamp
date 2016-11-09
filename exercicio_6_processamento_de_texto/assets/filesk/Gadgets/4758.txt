@@ -1,0 +1,9 @@
+Voice-controlled devices have kind of been invading every square inch of our lives. Our phones have boasted highly personal assistants for some time, and now major forces like Amazon are selling home devices with their own voice control integration.
+ivee Voice is another voice-controlled home hub, similar to the Amazon Echo, that has just launched its own crowdfunding campaign. ivee lacks deep integration with a network as expansive as Amazon’s, but it boasts a smaller form factor at only 5″ tall and sports a much cheaper price tag of $99 (for pre-orders) compared to the Amazon Echo’s $180 cost.
+
+“With ivee Voice we aim to make voice a mainstream interface in the home,” says ivee Co-Founder Jonathon Nostrant in a statement. “ivee Voice is the first device that is completely open and flexible and is able to connect with anything.”
+The device boasts extensive compatibility to control popular smart home devices like those from Nest, Belkin WeMo, Philip’s Hue, Logitech Harmony, SmartThings, Wink and Lowe’s Iris. You can also utilize voice control to hail an Uber, move through Spotify playlists or contact emergency services.
+
+The smart assistant boasts always-on voice control that you summon by uttering a familiar sounding prompt, “Okay ivee.”
+This device does what most other voice-controlled home hubs have already introduced, but its main selling point is that it’s a more approachable purchase in terms of its $99 price and less intrusive size, which the company believes could encourage consumers to invest in multiple devices for their home.
+Whether that is enough to woo consumers remains to be seen, but the device launched its Indiegogo campaign yesterday and has already raised $20K toward its goal of $50K. These orders are scheduled to be shipped in June 2016.

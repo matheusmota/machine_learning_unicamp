@@ -1,0 +1,14 @@
+The Turkish military has deployed in Istanbul and Ankara, and the government has apparently blocked social media in response to what is being reported as an attempted coup.
+Turkey Blocks, a Twitter account that regularly checks if sites are being blocked in the country, reported at 11:04 PM Istanbul time that Facebook, Twitter and YouTube were all unresponsive, though Instagram and Vimeo remained available. Access was restored after about an hour-and-a-half, according to the research agency Dyn Research.
+Some residents of Turkey appeared able to access social media, likely via a VPN or some other anonymizing service. Anyone affected might want to try Tor Browser for Windows and Mac OS or Orbot for Android (or try some of the other circumvention techniques listed here).
+The U.S. State Department acknowledged reports of a social media block in the country and suggested anyone trying to contact friends or family use email, text messages or phone calls instead.
+Twitter’s policy team said it did not think the site was fully blocked in Turkey. “We suspect there is an intentional slowing of our traffic in country,” Twitter said in a statement posted in English and Turkish. Twitter’s livestreaming app Periscope and Facebook Live appeared unaffected, broadcasting several livestreams from Istanbul.
+Facebook did not provide a statement on the reported blocks. “We are aware of reports that YouTube is down in Turkey, however, our systems seem to be functioning normally,” a YouTube spokesperson told TechCrunch.
+Many in Turkey are publishing images of military occupation of important landmarks like bridges, and one tweet shows what appears to be a fighter jet flying very low over Ankara. Tanks have been photographed at Istanbul’s Ataturk Airport.
+The Associated Press reports that the Turkish prime minister, Binali Yildirim, has confirmed that there has been a coup attempt by a group within Turkey’s military. Fighting is apparently ongoing. President Erdoğan appeared on Turkish television via Facetime to address the coup.
+The following statement from the group was reportedly read on local television:
+However, the takeover does not seem to be “complete.” Turkey’s prime minister Yildirim said the coup would not be successful.
+Turkish President Tayyip Erdogan, who is typically unsupportive of social media, took to Twitter to condemn the coup attempt and call on the country’s citizens to oppose the takeover efforts at the airports and in public squares.
+The Telegraph is updating live.
+This story is developing; we will continue to update it as more information becomes available.
+Additional reporting by Kate Conger.

@@ -1,0 +1,14 @@
+The hits just keep on coming at the embattled cloud human resources software provider Zenefits, as the California Department of Insurance has begun an investigation into its licensing practices.
+The company, whose chief executive, Parker Conrad, resigned earlier this week, has faced a series of investigations into potentially criminal misconduct after a searing BuzzFeed investigative report late last year. BuzzFeed first reported the news earlier today.
+At the heart of the investigation lies a tool called, benignly, “the Macro,” which allowed users to pad the hours they said they committed for pre-certification in the state of California. The brokers still had to take, and pass, a broker exam.
+However, by not committing the allotted time to pre-licensing classes, several of the company’s brokers in its biggest market of California could be disqualified.
+“We are communicating and cooperating fully with regulators with regards to this issue that we discovered and self-reported to them,” Kenneth Baer, a Zenefits spokesperson, told TechCrunch.
+David Sacks, the company’s new chief executive, sent a memo to employees saying Zenefits intended to fully cooperate with the commissioner’s investigation.
+“We are committed to full remediation and ensuring complete compliance with all licensing requirements,” Sacks wrote in the internal memo provided to TechCrunch by a source.
+The memo continues.
+The company said it launched an internal investigation into the use of the Macro and, based on the results, had already informed the California Department of Insurance about it.
+Further, the internal memo said the company has fired the leaders who created, propagated and encouraged the use of the Macro and that it will look to take additional disciplinary steps if necessary.
+
+A contrite Sacks said his company took full responsibility for its actions in the deployment of “the Macro”.
+“We must be — and I know we can be — strictly compliant in being properly licensed, for the benefit of our customers and our regulators,” Sacks wrote in the email. “As I told you on Monday, in order for us to move forward as a company, we cannot seek to hide or downplay our broker licensing issues. We must be transparent and admit it and remediate it as soon as possible.”
+Here’s the full memo:

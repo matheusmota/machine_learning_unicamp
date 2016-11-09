@@ -1,0 +1,9 @@
+Dexter, the betaworks-backed company that helps people build integration-based apps, has today announced the close of a $2.3 million seed round. The funding round was led by Rakuten Ventures, with participation from Social Starts and betaworks.
+Dexter lets developers build integration-based apps without all the messy work of building the actual infrastructure. Using plug-and-play blocks, for integrations like email, Slack slash commands, and FB Messenger, developers can set up bots that alert them of the weather, sports scores, or whatever the heart desires.
+For example, creative agency SS+K created a FB Messenger chat bot that lets you interact with a robotic Donald Trump, ready to answer your questions with actual quotes. It’s called BFF Trump.
+Another fun one is this Dad Joke bot from Fatherly.com.
+Since Dexter is an open platform, all of its users benefit from the work of a single developer. Folks can build out modules that don’t exist, or simply use existing modules to develop their own integration.
+Dexter originally launched out of betaworks’ most recent Hacker-In-Residence program almost a year ago.
+The company has since seen users send over 1 million messages on the platform.
+Founder and CEO Daniel Ilkovich says that Dexter’s greatest challenge is keeping up with existing (and always evolving) messaging platforms like Slack and Facebook Messenger, as well as building tools for writers in a space that has traditionally been dominated by developers.
+You can check out Dexter for yourself right here.

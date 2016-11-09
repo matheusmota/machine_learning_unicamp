@@ -1,0 +1,7 @@
+Rumor has it that Apple has been working on an ambitious update for the MacBook Pro. The new MacBook Pro will feature the new Intel Skylake processors as well as a brand new design with a couple of nifty additions.
+Apple likes to make its devices smaller. So the new MacBook Pro should feature a thinner body with USB-C ports across the board. But that’s not all. Apple could add a Touch ID sensor as well to unlock your Mac in no time.
+9to5mac has spotted a couple of references to a biometric sensor in a beta version of macOS Sierra. Of course, the Touch ID sensor is a biometric sensor. It seems like a weird coincidence given the previous rumors on this front.
+Similarly, MacGeneration found other references to LED buttons in macOS Sierra. macOS doesn’t support touch screens and no Mac is shipping with a touch screen.
+In particular, these resources show that there will be a “Do Not Disturb” button, play, pause, fast forward, rewind and power buttons. Most of these buttons are already available in the function row of Apple keyboards.
+So these resources confirm that Apple could replace the function row with an OLED mini screen that would feature shortcuts. The main advantage is that these shortcuts could change depending on the context and the app running. For instance, macOS wouldn’t display the media buttons if there’s no music or movie playing.
+All of this sounds great, but we still don’t know when the new 13-inch and 15-inch MacBook Pros are going to be available. These laptops haven’t been refreshed for a while, so let’s hope the update is imminent.

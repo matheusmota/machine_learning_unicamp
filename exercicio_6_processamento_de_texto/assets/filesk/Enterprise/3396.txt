@@ -1,0 +1,9 @@
+Microsoft previously announced that Windows 10, its next operating system, will contain a single app store that will work across device classes. Don’t make the Lord of the Rings joke.
+The company also previously promised that organizations will be able to curate their own app experience for their users. Today, it announced that a “Web-based” store will be an option for companies that want control what apps their employees, say, can install. Apps that are assigned to a user will be up for installation with a single “click.”
+This is a play towards the heart of large, enterprise customers. Offer IT folk new tools, and you might get their attention.
+If you buy your own computer, this won’t impact you, but it could make Windows 10 more appetizing to large enterprise customers that shunned Windows 8. Microsoft is currently rolling out updates to its first Windows 10 preview, aimed at large clients. A consumer preview is expected to land in January.
+Microsoft is in a tough spot — most large companies are moving to Windows 7, or have already landed on the operating system. Windows 7, about to be two generations old, only has so much life left in its support calendar. If the company can’t get those customers onto Windows 10, it will face another Windows XP-like situation, with a large chunk of the world running an operating system that it no longer updates. Not so good.
+So Windows 10 matters. It will take more than Web-based app stores to get large clients to hop aboard, but the promise may help.
+In the meantime, you need to watch this video again.
+FEATURED IMAGE: NICOLA!/FLICKR UNDER A CC BY 2.0 LICENSE (IMAGE HAS BEEN MODIFIED)
+ 

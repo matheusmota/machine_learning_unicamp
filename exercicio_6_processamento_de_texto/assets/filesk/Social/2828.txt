@@ -1,0 +1,10 @@
+Facebook just made making your donation to Our Lady of Perpetual Exemption a bit easier more visible.
+Today, Facebook announced that it’s opening up its donate button as an available call-to-action for all nonprofits’ pages and linked advertisements.
+A Facebook spokesperson told TechCrunch in a statement:
+Facebook rolled out a “Donate” button in late 2013 with specific partners like the American Cancer Society and The Red Cross. For nonprofit partners, the button was seamlessly integrated into pages and the donation took place internally with credit card info that could be stored on the site.
+
+It appears that now as Facebook looks to open the donate button up to groups that they are not specifically partnered with, they are making the process a little bit more cumbersome. This is probably an effort for the company to further themselves from donations being given to potentially unpopular non-profit causes.
+Now, when you click the “Donate Now” button on a non-profit’s page you are first alerted that the organization is “Not endorsed by or affiliated with Facebook” and then are redirected to the page’s external site where you can complete the donation.
+
+Without the embedded payment processes, the button is really just a call-to-action link, which is valuable to these organizations’ advertisements I’m sure. In practice though, it pretty much just adds a click to the process of making the donation, as it berates you with a pop-up that Facebook doesn’t endorse the cause at all before it unexpectedly whisks you away to a new browser window.
+This is definitely a valuable tool for nonprofits, but in pushing users to external sites, this move kind of flies in the face of recent Facebook efforts to make an organization’s Facebook page the central location that a user goes to for information about a group.

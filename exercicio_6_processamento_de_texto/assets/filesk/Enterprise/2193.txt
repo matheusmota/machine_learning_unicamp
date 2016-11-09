@@ -1,0 +1,10 @@
+London-based startup Beamery, formerly known as Seed.Jobs, has raised $2 million in a seed round from Edenred Capital Partners and Grupa Pracuj, a human resources tech firm.
+Beamery makes software that helps recruiters or employers identify, get connected to and nurture relationships with prospective hires, long before they apply for a job.
+The company’s client roster includes employers at the front lines in the war for tech talent, ranging from Facebook and VMWare, to Criteo and Instacart. But Beamery is also working with employers small and large in financial services, hospitality and retail.
+Co-founded in 2014 by Abakar Saidov, Sultan Saidov and Michael Paterson, Beamery is an alumni of the AngelPad enterprise tech accelerator.
+CEO Abakar Saidov explained that Beamery uses machine learning algorithms to determine which prospects are most interested in working for a given employer, and in what capacity.
+Beamery evaluates data from email, social media, and other recruiting tools to create a 360-degree view of each candidate relationship, and provides companies with the data they need to make smarter recruiting hiring decisions, he said.
+The CEO referred to this system as a kind of “CRM for recruiting,” rather than the customer relationship management software that’s long been used by sales and marketing teams.
+“There are plenty of new recruiting tools to track applications and post job ads, or test aptitude, but companies are still waiting for candidates to come to them. This is no longer sufficient. The best candidates simply aren’t applying anymore,” Saidov believes.
+Once they have a thorough candidate profile, employers can conduct targeted outreach to bring a prospective closer to the company, over time, until they make a hire.
+The company plans to use its funding for further product development and geographic expansion, especially in the U.S.

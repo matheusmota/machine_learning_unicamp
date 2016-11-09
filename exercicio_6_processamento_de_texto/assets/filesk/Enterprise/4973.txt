@@ -1,0 +1,9 @@
+Marketeers are often struggling to sift through available customer databases and identify customer leads that can be converted into revenue opportunities. While large enterprises treat this as a big data problem that involves analyzing terabytes of data sets to make business sense, small and medium businesses are always seeking leaner ways to tackle this challenge.
+LeanData, a startup that helps SMB customers tap into their Salesforce.com databases and manage leads better, is today raising $5.1 million in Series A funding led by Shasta Ventures and several other investors including Felicis Ventures, Correlation Ventures and the FundersClub. Simply put, LeanData automates the process of matching unconverted leads with respective customer accounts, a process executed manually by many organizations today.
+The startup’s co-founder Evan Liang said LeanData’s biggest rival is the manual approach for managing sales leads even today.
+“They are asking their inside sales team, hiring into marketing ops and sales ops to manually review, search, and try to map leads against existing accounts in Salesforce,” he said.
+LeanData solves this problem using its SaaS-based workflow engine that matches relevant data sets.
+“We see that 75% of leads in salesforce.com match to existing accounts. Using this account-based data, our approach is to help sales management see specific actions & interests from their incoming leads,” said Liang.
+The startup has around 30 customers currently including Marketo, Lithium, and DataSift and it has analyzed over 30 million Salesforce.com leads to date.
+“Our roots are in fuzzy data logic matching and crowdsourced labor. Rather than build a large lead management team to manage leads in their salesforce.com and marketing automation systems, they can tap into our software and services solution.”
+With fresh funding, LeanData is also hiring a new CMO in Dan Ziman and plans to invest more in product development and expansion.

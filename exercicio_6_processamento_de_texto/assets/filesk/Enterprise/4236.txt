@@ -1,0 +1,9 @@
+A job posting and a LinkedIn page are driving conversation in the Microsoft-watching community this morning.
+The job listing details a position on the “XAML team […] building the UI framework at the core of the ‘One Microsoft’ OS.” The goal of that team is to “[enable] developers to create UI that works well across all of [Microsoft’s] devices: phones, tablets, PCs, and the Xbox.”
+‘One Microsoft OS’ is what the operating system group calls Windows, for what it’s worth. So that’s nothing too new.
+The idea of creating a new UI toolset that allows developers to build more fluidly between device classes fits nicely into the narrative that we have long seen under construction, with Microsoft working to bring its various operating systems together, harmonizing both their core architecture, and their user interface experiences.
+This is expected to continue with the company’s future Windows 9 operating system, which is often referred to as ‘Threshold.’ Threshold, ironically, is also expected to have a strong focus on the desktop side of Windows.
+Another crumb recently pointed out by the @h0x0d Twitter account is the LinkedIn page of a Microsoft intern, whose stated current role at the firm includes “porting trademark Windows Phone features for use in any Windows operating environment through Windows OneCore.” I’m not sure what that is, but it could be either component to the user interface work, or the core lifting of bringing the various versions of Windows together.
+Microsoft declined to comment.
+We’re in early days when it comes to Windows 9, meaning that we’re peering through a very darkened glass. It’s worth keeping our eyes open, however, given that the sooner we understand Windows 9, the sooner we can trace the future arc of most of the world’s personal computers.
+IMAGE BY FLICKR USER TODD BISHOP UNDER CC BY 2.0 LICENSE (IMAGE HAS BEEN MODIFIED)

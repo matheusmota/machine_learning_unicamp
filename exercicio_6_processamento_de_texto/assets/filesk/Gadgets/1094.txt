@@ -1,0 +1,9 @@
+Surprise – BlackBerry is back. The once mighty and always business-minded smartphone maker has returned with its followup to the PRIV. The Canadian hardware company’s second Android handset features a 5.2-inch full HD display, in place of BlackBerry’s trademark physical keyboard.
+The rather formally named DTEK50 runs Android Marshmallow coupled with a slew of security features aimed at maintaining the company’s long-standing privacy focus. Among them is the titular DTEK app designed to monitor account and hardware access, a secure boot process, full disk encryption, and a variety of additional security patches on top of Google’s mobile operating system.
+
+In place of the physical keyboard is a new smart software version featuring word suggestions and the like. The company has also outfitted the software with its Hub with inbox unification and Convenience Key featuring frequently used apps. The handset continues the company’s enterprise support with a variety of apps and also utilizes Android for Work and Google Play for Work.
+The DTEK50 features expandable memory via a micro SD slot and has a rear-facing 13-megapixel camera with auto-focus and a dual-tone LED flash. Without the trademark keyboard, there doesn’t appear to be much distinguishing the hardware from the glut of mid-tier Android devices currently on the market, save for a textured backing with the trademark BlackBerry logo in the center.
+ 
+
+That said, its 7.4 mm makes the DTEK50 the company’s thinnest phone to date. It’s also a fairly lightweight 4.8 ounces. The battery clocks in at a solid 2610mAh. There’s 16GB of built-in storage and an octa-core
+It’s available now for pre-order, with a $299 price tag. It’s set to start shipping on August 8th.

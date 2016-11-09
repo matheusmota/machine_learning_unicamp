@@ -1,0 +1,14 @@
+Amid an increasing number robo-investors like Betterment, Stash, and Robinhood, a new San Francisco-based fintech startup called Grow is entering the fray to compete based on investment type, not only financial returns. While the app operates much like its rivals in terms of making it easier for novice investors quickly build their portfolios, its biggest differentiator is that it focuses only on environmentally sustainable, socially responsible companies with good governance.
+This makes the app something that may appeal to younger users, who are typically more selective about where they choose to spend their money.
+For example, Nielsen studies have found that the majority of millennials make sustainability a shopping priority. Grow aims to find out if they make it a priority when they begin investing, too.
+The startup was founded by Head of Product Michael DeMaria, who has a background in finance, and CTO Anthony Randazzo. It’s led by CEO Doug Heske, a Bay Area finance vet who joined in March 2016.
+To determine where to invest, Grow has developed its own proprietary database and analytics tool, Grow Analytics, to identify those investments that respect certain values, like environmental, social and governance, while also minimizing portfolio risk. It seeks out investments across sectors, industries and assets classes, too, in order to offer a balanced and diversified portfolio. That means you can use Grow as your primary robo-investing app, not as a supplemental product.
+
+To use the app, you first tell it what sort of values you most care about – like the environment or social responsibility, for example. You can add money to Grow or schedule a monthly deposit to fund your account by linking your bank, then Grow will automatically invest in your personalized portfolio on your behalf.
+You can see your investments’ growth right on the app’s homepage, displayed as a circle that shows both the present and future value.
+
+ 
+To generate revenue, Grow charges 0.25% for management fees through the app. However, its business model also includes other means of generating revenue outside the app, as well. For example, Grow’s full service asset management arm, Grow Capital Management, charges management fees between .25% and .75%. Also, it licenses Grow Analytics to investment and research institutions for a monthly fee.
+The app itself soft-launched back in February on the iTunes App Store for testing purposes and feedback with some 350 users. As of this week, a revamped and redesigned version went live, and is now available to everyone.
+The startup has been self-funded up until last month, but is currently raising $3 million in seed funding in a round that’s only partially complete. So far, two major California-based family offices have committed capital.
+Grow is a free download on the iTunes App Store. 

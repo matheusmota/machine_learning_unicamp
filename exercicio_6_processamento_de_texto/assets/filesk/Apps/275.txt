@@ -1,0 +1,21 @@
+Google today is launching a new mobile application, aimed at helping you better plan your vacations and other travels. Called Google Trips, the iOS and Android app pulls in a combination of data from Google Maps and crowdsourced contributions from other travelers, in order to offer a personalized travel guide that helps you keep track of your day trips, reservations, points of interest, tourist attractions, restaurants and more.
+We already knew Google was working on a travel application, thanks to a leak earlier this year when the app was being tested within Google’s Local Guides community. Local Guides help to improve Google Maps and business data by writing reviews, correcting listings, and taking photos. In return, they gain exclusive access to try out new Google products and features, such as Google Trips.
+The app looks today much like it did then.
+The home screen includes a search box with a prompt “where do you want to go?” for planning new trips, and other cards let you keep track of your current and upcoming vacations and plans.
+
+What’s helpful is that each city you plan to visit during one of your trips can each have its own tab within the larger “Trip” section, and with a simple toggle switch, you can download all the information about that destination for offline access.
+Meanwhile, on each city’s screen, a variety of colorful cards help you jump into various sections like “Saved places,” “Day Plans,” “Food & Drink,” “Getting around,” “Things to do,” “Reservations,” and more.
+But the app isn’t just for collecting information – it can also make suggestions. Google says Trips can show you the most popular day plans and itineraries for the top 200 cities worldwide. This information is actually based on historic visit data from other travelers, which Google has then assembled into lists that include the most popular sights and attractions.
+
+Also interesting is how this crowdsourced data is combined with other information pulled from Google Maps to help you find things to do near one of your planned sightseeing destinations.
+You can add a spot you want to visit to your plans, and you even can tell the app if you have only the morning or afternoon available for this outing. The app can then show you other attractions near that original spot, so you can take in other sights worth seeing within having to commute too far.
+This can definitely help with time-constrained trip planning, as it allows you to cram in more activities within a certain vicinity.
+
+Plus, there’s some automation involved here, too – you can tap and pin a spot you have to visit to your itinerary, and Google Trips will automatically fill in the rest of the day for you. Meanwhile, you can also tap a “magic wand” button for more options of nearby sights, then pin those you like to further customize your itinerary.
+In addition to sightseeing, the app can also track flight, hotel, car and restaurant reservations, which makes the app something of a competitor to Concur’s TripIt, and, to some extent, the new territory Airbnb is carving out with its own forthcoming Airbnb Trips app, which will focus on travel services.
+
+However, what makes Google Trips compelling is that it leverages Google’s ability to tap into the data you have stored in your Gmail, as it automatically gathers your reservations from your email and organizes them into trips on your behalf.
+While the new app will be useful for travelers, it will also serve as another means of data collection for Google itself, which will be able to better augment its business listings data in Google Maps with the information collected by the app and its users.
+Google Trips is live now on Android and iOS.
+In addition to Trips, Google has also now launched its Destinations search feature on the desktop worldwide, following its mobile debut this March.
+

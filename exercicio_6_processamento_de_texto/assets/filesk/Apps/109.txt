@@ -1,0 +1,11 @@
+Yahoo’s homepage used to be the place where web users started their day, reading the top headlines, sports scores, stock updates, and other news. On mobile, that’s no longer always the case. In an effort to get back into the game, Yahoo this morning is launching a rebranded version of its flagship application, now called Yahoo Newsroom.
+The goal with the new app is to compete with the many sources where people get their news today – ranging from standalone apps like Apple News to social media sites like Facebook.
+Disclosure: TechCrunch parent company AOL is owned by Verizon. Verizon has agreed to acquire Yahoo. 
+Similar to Apple News and some other aggregators, Yahoo Newsroom aims to offer a personalized experience. In the “Explore” section, you can browse through a series of topics, like “U.S. News,” “Politics,” “Finance,” “Lifestyle,” “Celebrity,” “Sports,” and more, then select those that are of interest to you. In the app, these topics – for whatever reason – are called “Vibes.”
+As you continue to use the app, read and interact with the stories, the news it displays will become more tailored to your interests over time, says Yahoo.
+What’s different about Yahoo Newsroom is that it’s not just a collection of Yahoo News’ own content – it encourages users to actively participate, as well, by posting articles from around the web into a “Vibes” section in order to spark discussions.
+This sounds like the potential for trouble – in addition to having to keep out spam and other malicious content, it seems likely that people will share news from less-than reputable sources – there’s now a plethora of “fake” news sites out there thanks to social media, and even Facebook’s algorithms have been duped by them before – like when Facebook’s trending section promoted a 9/11 “truther” story, for example. It should be interesting to see how well Yahoo’s tech holds up against this crowdsourced news-gathering.
+Yahoo is positioning the app as a better alternative to Facebook, because it frees you to “speak your mind,” away from social pressure, and allows you to “engage in open discussions.” I hate to tell Yahoo this, but it doesn’t appear that people have too many qualms about posting their opinions – however terrible they may be – directly on Facebook.
+Yahoo Newsroom is live now on iOS and Android.
+ 
+

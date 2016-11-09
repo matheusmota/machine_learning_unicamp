@@ -1,0 +1,14 @@
+Freshly launched at Photokina, Z Cam just launched its S1 camera. Aimed at the VR crowd, the camera captures four perfectly synchronized 4K streams for high-end 360 video recording. With the new camera, the company is gunning for GoPro’s $15k Odyssey rig. Z Cam’s team claims that its sleek four-eyed beast can match Odyssey’s video quality at a tenth of the price, with far shorter post-processing times and the option for real-time stitching.
+“The S1 has a lot of advantages over other camera systems,” the company’s CEO Kinson Loo explains. “We use four Sony sensors, but only a single PCB. As a result, we can get perfect synchronization between the cameras, which is virtually impossible when you connect a number of GoPro cameras together.”
+The camera is capable of outputting 4K at 60 frames per second or — more relevant to filmmakers — 6K at 30 frames per second.
+“It’s no really about resolution, however,” says Loo. “Image quality is far more important than the number of pixels a camera delivers. That is where our camera really shines. We talked to VR studios and content creators and all of them are looking for a better VR camera. So we decided to create one for them.”
+“Smaller is better,” Loo explained when I asked him what the biggest challenge in creating the camera was. “but we had to find a balance between heat dissipation and size. The camera’s body is an aluminum alloy which helps keep the electronics cool. We have been very successful: The camera can run for hours at the time without overheating.”
+The company’s CEO quips that this might have been the reason the newest generation GoPro cameras are water-proof: dunking them in ice water is the only way to keep them from over-heating, he says.
+Not-so-gentle ribbing of the competition aside, the Z Cam S1 is a serious piece of kit, with a serious price tag to match. At $2,000, it’s a high-end product aimed at VR professionals.
+Each of the four lenses on the camera has 190 degrees of coverage. The four streams can be saved to four SD cards inserted into the camera, or streamed straight out from the four dedicated HDMI ports. There is also a Gigabit Ethernet port that enables high-speed image transfer and live preview of what the camera is filming.
+Even sensors from the same batch have slightly different characteristics, but Z Cam claims it has found a way to overcome this, with special algorithms to coordinate exposure, white balance and the aforementioned synchronization to make the post-processing as painless as possible.
+
+In addition to the camera, Z Cam is marketing a video stitching suite for real-time stitching. If you don’t require streaming video, the company claims you can use any video stitching software to combine the four streams into a fully immersive 360 video package.
+The product launched on Indiegogo earlier this week, with a $2,000 price tag.
+Z Cam supplied a sample video shot with the camera; it’s is embedded below.
+

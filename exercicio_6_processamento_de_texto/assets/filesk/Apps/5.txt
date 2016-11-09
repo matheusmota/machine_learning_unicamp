@@ -1,0 +1,9 @@
+It’s not uncommon to feel a bit helpless at the end of a news binge. Oftentimes, the news leans toward the negative side and doesn’t offer much in the way of a solution.
+But Speakable, a startup founded by Jordan Hewson, wants to give people the opportunity to do something at the exact time and place that they feel called to take action.
+The year-old startup today introduced the Action Button, which is a snippet of code that lives on publishers’ article pages and gives their readers the option to take direct action. Speakable’s technology is able to understand the content and sentiment of an article and match it with the proper non-profit partner.
+From there, users can click the Action Button to send an email to a legislator or tweet to a decision-maker or even make a donation. But the Action Button, and it’s subsequent actions, never take the user away from the article page itself.
+Speakable also vets all of its NGO partners to ensure that they have a big impact and appropriate funds responsibly.
+The company already has big-name publishing partners onboard, including the Guardian US, The Huffington Post, and VICE Media.
+“My long-term vision for the action button is to be able to go after other types of content, whether it’s a YouTube video or a documentary,” said Hewson. “Eventually, you should be able to come across any piece of content and take action within 30 seconds or less.”
+For now, Speakable is entirely free to both publishers and NGO partners while the company focuses on growing and fine-tuning the product.
+You can check out Speakable and the Action Button right here.

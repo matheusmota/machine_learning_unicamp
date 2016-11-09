@@ -1,0 +1,9 @@
+MightyTV, an app that helps you figure out what to watch next, is now available on Android.
+The startup is led by AdMeld co-founder Brian Adams, and it presents users with a stack of movie and TV recommendations which you swipe through, Tinder-style. If you’ve seen something already, you can say whether or not you liked it, which will influence the recommendations you see next. If you haven’t seen something and it seems appealing, you can save it to your watch list.
+The app is also connected to streaming services like Netflix and HBO Go, and it can even recommend things that fit in the overlap between your taste and another user’s.
+The Android app should look familiar to users of the MightyTV iPhone app, but Adams said it comes with “a few extra bells and whistles,” most notably a word cloud that the company calls your “MQ”, showing users their favorite genres and actors, based on their swiping data.
+Adams also told me that the company has rebuilt the machine learning technology that it uses to try to understand the taste of individual users — he described it as a “hybrid” approach that combines genre-based strategies for recommending movies (e.g., if you liked that war movie, you might like this one, too) with “collaborative filtering” based on user ratings.
+
+
+MightyTV isn’t releasing the total number of users who have downloaded the app since it launched in April, but it sounds like those users are doing a healthy amount of swiping — Adams said 350 is the average number of swipes in the first week. (And keep in mind that recommendations are the point of the app, while swiping is just the way to get there.)
+MightyTV recently raised an additional $2 million, bringing its total funding to $4.25 million.

@@ -1,0 +1,12 @@
+Art filter app sensation Prisma, which has revved up from nothing to an incredible 55 million+ downloads for its iOS and Android apps in just two months this summer, has now added an offline mode — so you can snap photos and process them to look like an Edward Munch painting in seconds and without needing to be connected to its severs.
+When TechCrunch covered Prisma’s launch in June CEO and co-founder Alexey Moiseenkov explained it was using neural networks to transform smartphone photos into art filtered imagery — with these neural nets running on its servers.
+It’s now evidently been able to offline some of that grunt work to a user’s own device hardware — with a selection of filters available to process images locally. Which is certainly one way to scale usage for multiple millions of users.
+“Now 16 filters are on device,” Moiseenkov tells TechCrunch, adding: “Yes neural networks [are] running locally on your iPhone.”
+The time taken to process images in offline mode can be quicker than the cloud processing route, as you’d expect. Although it also depends on the hardware of your phone (I’m using an iPhone 6s).
+“From iPhone 5s it works ok but lower [hardware] seems that server side will be always better,” Moiseenkov adds, discussing the limitations of local processing.
+The original idea for Prisma was to mobilize similar artwork processing algorithms that Moiseenkov had seen online but only working very slowly — optimizing the processing so it could work on an Internet-connected smartphone for the instant gratification ‘Instagram generation’.
+Optimizing the processing for smartphone hardware itself takes things even further. “For devices higher than iPhone 5s I think all [processing will] be on device soon,” adds Moiseenkov.
+He says the offline feature will be coming to Prisma’s Android app soon — “maybe” in the next two weeks.
+Another slated feature the team is developing — the ability to apply art filters to video — is still in the works. He says it’s possible that will launch this month.
+With the current update Prisma has also added the ability for users to make charity donations to help children with serious illnesses.
+

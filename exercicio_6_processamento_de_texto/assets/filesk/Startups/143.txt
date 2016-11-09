@@ -1,0 +1,46 @@
+Closing a Series A is notoriously hard — so much so that it has been coined the “Series A Crunch.” It’s estimated that only about 25 percent of startups that raise a seed round go on to close an A round.
+Shippo, a multi-carrier shipping API, is one startup that made it through. Last month, the company announced their $7 million Series A led by USV. Albert Wenger will be joining the board.
+As a special treat, Shippo decided to make both their seed and Series A decks public (included below) so other entrepreneurs can learn from their experience. The decks have had sensitive information removed but CEO Laura Behrens Wu sat down to talk us through the process.
+TC: Let’s start back in 2014 when you were looking to raise a seed round. When did you know it was time to fundraise? What were your goals going in?
+Wu: We had been working on Shippo for seven months when we decided to raise. Four of those had been on our own and then we spent three months in 500 Startups. We knew it was time to raise when we looked at our growth numbers. We had the basics of the business established; a working product, happy customers and growing volumes. At that point though, I couldn’t say we had hit product/market fit. We’ve iterated so many times since then!
+As first time founders, we sought out the right backers — people who would be engaged and help us grow the company. We also wanted to keep the funding process to a discrete timeline so we could get back to focusing on growing the business.
+TC: You and your co-founder Simon are both international founders. How did you build out your network of investors in the U.S.? 
+Wu: Initially through 500 Startups, then its about building your own reputation. You want investors (founders, and everyone) you meet to perceive you as genuine, responsible. It’s important that you do what you promise to do — you can’t just take advice and waste people’s time then do nothing with them.
+TC: What metrics were most important to investors at that stage of the company?
+Wu: Investors wanted to see signs of traction. We were able to show a product that people were consistently using and liking (usage up, retention up and low churn). The other item that constantly came up was the market size, to make sure enough potential exists for a venture-backed company.
+TC: At the seed stage of a company, many teams don’t have metrics or don’t have enough metrics for meaningful insights. What advice would you give them?
+Wu: Focus on a single KPI. You don’t need multiple metrics for the sake of having them. Focus on one that really matters. If you can’t figure that out (or hit the metric), make sure that you have happy customers who can’t live without your product.
+TC: What was the hardest thing to convince investors of?
+Wu: Despite the rise of marketplaces and e-commerce, shipping is something that not many investors think about. Unless they dive deep into the problem, shipping sounds very boring. However, once someone starts to understand the different layers of the problems, how our technology has been able to solve them, and also the promise of the data, excitement picked up.
+TC: How long did the round take to close and how was it structured?
+Wu: All-in, it took about 4 months once we decided to focus on doing the raise. We spoke to 125 investors as part of the process. Once we got the momentum, the round came together very fast and everything closed within 3 weeks. At that time YC Safe wasn’t out yet, so we worked with standard convertible notes docs provided by the law firm and Jeff Clavier put them into a priced round (very standard docs and processes).
+Something that we did differently was a priced round for the seed, and giving a board seat (which goes against popular advice). However, for us this was very valuable. It’s a sign that this person on the board would be dedicated to helping us and pushing us to be successful. When we raised the Series A, Jeff stepped off the board to make room for the more typical situation where the Series A investor takes the board seat.
+TC: What’s been the biggest challenge growing a company from a seed stage to being ready for a Series A?
+Wu: Expectations of the founders change really quickly — you need to go from doing everything yourself to hiring experts and delegating responsibility to them. Our role as founders evolved rapidly as we scaled. As the team is built, the frenetic pace wanes, we’re freed up to tackle larger challenges, but the pressures are still there — they just feel different.
+TC: Hiring seems to be something every founder struggles with. How did you learn to hire effectively?
+Wu: Initially, referrals worked the best — people who have worked for you, with you. But that doesn’t scale.
+We’re still learning how to hire at scale. It’s one of our biggest focuses right now with the Series A; at one point I spent 80 percent of my time on hiring. Now, we’re testing out many different things, from recruiters, employee referral bonuses, branding, conferences, etc. Stay tuned, hopefully I’ll have more to share soon!
+TC: How did you decide which VCs to approach for your Series A? How many did you meet with as compared with your seed round?
+Wu: We met 25 VC firms for the Series A. For us, it was not only about the right firm but also the right partner within the firm. We wanted to work with a group of investors who had experience in building large marketplace and e-commerce companies, preferably someone who understood the shipping problems that merchants faced. We were thrilled to welcome Albert Wenger from USV, as well as continuing to have the support of our other seed investors. Albert’s experience with both Twilio (as another API company) and Etsy is invaluable.
+It was a much tighter process than the seed round. We had a timeline and we drove the process instead of the other way.
+TC: In addition to the deck, what, if any, other materials did you prepare as part of the diligence.
+Wu: To prepare for Series A meetings we made sure our financial model and forecasts were accurate and thorough, and had customer references ready to go. We also did Social Capital’s magic 8-ball analysis — which was valuable for other investors and ourselves. It’s something that we are continuing to use to monitor our health today.
+TC: What do you wish you had known going into raising a Series A?
+Wu: You can’t get to know a Series A investor over the course of the few weeks’ process. You need to start building relationships early, before you actively start to fundraise. When the funding time comes, you should already know who you’d like to work with and the conversations are more effective.
+TC: You’ve spoken often with your investors Albert Wenger (USV) and Jeff Clavier (SoftTech VC). How important is it to have active advisors? 
+Wu: I have monthly calls with Jeff but I can and do call him as needed. Whenever something is up I can text him anytime. Same goes with Albert!
+I’m a firm believer that constant communication creates trust. Investors should never be surprised when they hear (bad) news, they should be in the loop on the development. The board meeting should have no surprises.
+Jeff and Albert, as well as our seed investors Boris Wertz at Version One, FundersClub and 500 Startups, have been invaluable in the process of negotiating with big companies, introductions to potential customers, speaking with candidates who we’re recruiting and offering advice for operational matters.
+TC: It’s hard to get to a Series A but it’s just as hard to get to a Series B. How do you think about sustaining or improving your growth moving forward?
+Wu: Sustaining growth ties back to hiring. Back in the days when it was just Simon and I, we had to do everything and make it work. But now, we need to make that repeatable. We need to set up structure, process and are bringing in experts to help make that happen. Hiring an awesome exec team is very important.
+Not all investors we met decided to invest. We received a lot of great feedback in the process of fundraising. We brought this back to the team and are using it to improve various aspects of our business.
+TC: What’s next for Shippo?
+Wu: We want to provide anyone and any business the technology to ship smarter.
+Shippo Seed Deck
+
+
+Shippo Series A Deck
+
+
+
+

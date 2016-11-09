@@ -1,0 +1,11 @@
+The mobile phone has transformed quite a bit in the last ten years, but the heart of it — the address book — hasn’t changed much.
+Drupe, with brand new funding, is looking to accelerate the evolution of the Phone Book.
+The company today announced $3 million in new funding from Canaan Partners Israel and Sweet Capital, a fund that was spun up by the founders of Candy Crush empire King Digital Entertainment, with a premise that’s quite simple.
+Drupe is an overlay for Android phones that contextually shows relevant contacts and various modes of communicating with them all with one swipe.
+When users swipe from the Drupe widget on the phone, they’re showed the most common contacts in their address book on the left and their most-used social apps on the right.
+This includes native apps like the phone and messages, as well as third-party services like Instagram, Gmail, Facebook Messenger, and more. In fact, Drupe has built out 30 integrations since launching in 2015. These include the obvious, communication-based apps, but can also extend to services like Venmo for peer-to-peer payments.
+Where communication is concerned, Drupe will let you know that a fellow user is traveling abroad and now may not be the best time for a phone call. Moreover, Drupe can remind you to use a VoIP service instead of the regular phone to keep bills low.
+Drupe plans to make money from offering sponsored slots in the integrations area, as well as using location to feature various apps (for example, showing OpenTable when you’re near a restaurant). There is also an opportunity to make money off of mobile vendors and carriers that may want to pre-install Drupe on their devices.
+Thus far, however, Drupe is not monetizing.
+And then there’s iOS, which doesn’t allow for this type of overlay. Drupe cofounder Barak Witkowski says that Drupe can exist with a very similar user experience as an app on iOS.
+Android users can check out Drupe right here.

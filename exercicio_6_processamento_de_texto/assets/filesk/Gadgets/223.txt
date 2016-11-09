@@ -1,0 +1,6 @@
+Surprise! You thought you were done with iOS 10 beta for a while? Apple already released the iOS 10.1 beta 1 for developers. This beta has one new feature in particular — the Portrait mode that takes advantage of both cameras in the iPhone 7 Plus.
+If you remember Apple’s press conference on September 7, the company talked about a really neat feature for the iPhone 7 Plus camera. If you want to take a portrait with background blur, the iPhone 7 Plus can take advantage of its two cameras to get a depth map and blur the background.
+It gives a sense of depth to your photos that usually only works with telescopic lenses on DSLRs. To be clear, this isn’t true blur; Apple is using software to reproduce this kind of effect you get on a camera.
+Unfortunately, the feature didn’t make it in time for the release of iOS 10 last week. Apple only said that the feature was coming “later this year.” It turns out this feature could be available much sooner than expected as you can already play with it with today’s beta.
+You can expect Apple to release a public beta as well on Friday in case you don’t have a developer account. And let’s hope the final version of iOS 10.1 will ship sooner rather than later.
+TechCrunch’s Matthew Panzarino got an early release of the beta to try out the new feature. He likes it a lot.

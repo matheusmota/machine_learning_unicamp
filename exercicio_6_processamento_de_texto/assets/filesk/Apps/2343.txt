@@ -1,0 +1,15 @@
+Can AI outpace the expertise of vaunted futurists like Mary Meeker or Ray Kurzweil?
+The artificial intelligence system called UNU is slated to answer questions tomorrow about technology and its long-term impact on humanity via a Reddit AMA (“ask me anything” interview).
+The same system accurately predicted Oscars winners, and the top four horses to win at the Kentucky Derby previously. UNU CEO Louis Rosenberg placed a $40 bet on the horse races and took home a $12,700 prize after putting his faith in his own technology, he told TechCrunch.
+UNU employs crowd wisdom to deliver its forecasts, but it differs from familiar crowdsourcing technology, surveys and polls. Instead, it uses “swarms,” or the hive mind to derive forecasts and conclusions.
+Rosenberg explained why a swarm can better solve difficult problems or determine likely outcomes better than polls and surveys:
+“A poll finds the average opinion of a group. It takes the temperature of a crowd. A swarm focuses a group together, in real time, and has them work together as a system to answer a question instead,” he said.
+With UNU, the “swarm” involves human participants who log on to UNU to answer questions through an interactive, graphic user interface that feels like a Ouija board. UNU is accessible via the company’s mobile app or Web browsers.
+On their monitors or touchscreens, users pull a round “lens” toward one of six corners of a hexagon, where each corner can be labeled with an answer. Questions are written, obviously, in a multiple choice format with two to six answers each.
+“Swarm intelligence is like a brain of brains,” Rosenberg said. “Nature creates natural swarms. UNU uses networking technology and algorithms to take advantage of the knowledge, wisdom and insights of a large group of people by allowing them to think as one.”
+To-date, UNU has more than 20,000 registered users. People can enter and exit into open swarms any time. Some swarms have lasted for a full week, but the population of respondents can turn over as frequently as every hour.
+In a Reddit AMA about politics earlier this month, UNU predicted that “in the unlikely event of a three-person race” involving Trump, Clinton and Sanders this election, Sanders would win. In a two-party race, it predicted a Clinton win. UNU also depressingly predicted a great war would break out within the next 15 years.
+Participants’ names are not shown to each other during a swarm. But users can see which way a crowd is leaning as they mull an issue.
+Keeping user names out of it helps eliminate “social bias,” said Rosenberg, of the sort that happens on Facebook, Hacker News or for that matter Reddit, when users may be easily persuaded to “like” or “upvote” the things that they see their best friends or bosses do.
+From the company’s perspective, making appearances through popular online forums like Reddit helps UNU amass participants for its “hive mind” initiatives ongoing.
+Rosenberg said UNU queries “enthusiasts” around more niche and specialized topics, such as horseracing. It will be querying enthusiasts who are users of the “futurology” subreddit for this next AMA.

@@ -1,0 +1,6 @@
+Immediately, a startup that built mobile sales tools, will be shutting down at the end of the month, while part of the team will move on to cloud-monitoring company New Relic.
+According to the official announcement, both the Immediately app (which offers a number of features, including phone logging and detecting when emails are opened) and the company’s Gong app (a “pocket mentor for salespeople“) will be supported until the end of July, and then shut down.
+To be clear, New Relic is not acquiring Immediately or its assets, just hiring some of its team members. Immediately CEO Branko Cerny said he will not be joining New Relic, but the four members of the startup’s “core product team” (including Cerny’s co-founder and CTO James Mock) will.
+
+A New Relic spokesperson confirmed that “key members of the team from Immediately are joining New Relic’s product and engineering team.”
+Immediately had raised more than $2 million in seed funding from investors, including Streamlined Ventures.

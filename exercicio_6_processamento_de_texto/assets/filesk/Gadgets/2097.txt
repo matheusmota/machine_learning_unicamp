@@ -1,0 +1,7 @@
+Apple has strong words for the Justice Department in a document filed in a federal court case in New York where it has been asked to bypass an iPhone’s security. The simple fact that the feds  unlocked a phone without any help shows that they didn’t need it in the first place, Apple asserts: “The government has utterly failed to satisfy its burden to demonstrate that Apple’s assistance in this case is necessary.”
+
+The 50-page order absolved Apple of any obligation to assist the government in this case — but Orenstein also concluded that the All Writs Act, an 18th-century law now being used to compel tech companies to unlock devices, is legally insufficient to be used in that manner:
+If such a precedent were to propagate and be adopted by other courts or supported in superior ones, it would be a serious blow against the FBI’s ability to use All Writs as an all-purpose phone-opener, as it currently does in dozens of cases.
+Apple continues swinging in its preliminary notes, taking the government to task for failing to make any attempt to use other methods to unlock the phone:
+And it gets its digs in on this implementation of All Writs as well, for the record:
+We’ll know soon whether U.S. District Judge Margo Brody will find Apple’s stream of precedent-backed invective convincing.

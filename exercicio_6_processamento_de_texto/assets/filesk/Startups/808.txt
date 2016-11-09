@@ -1,0 +1,20 @@
+If starring your important emails is your way of creating a to-do list in your inbox, but you long for something more robust, a new product from Moo.do aims to help. With Moo.do for Gmail, the idea is to combine an email client with a task manager you can use to organize your to-dos, documents, projects, calendar, contacts, and more. The product has been in beta testing, but is now available to everyone.
+This system is not for the faint-hearted or casual user, but rather for someone with an overwhelming inbox, a nearly unmanageable amount of tasks hidden in email messages, and the willingness to learn a new way of interacting with your productivity applications.
+That’s not meant to discourage you from trying it, but it does cater to a certain audience – the highly productive, tightly scheduled business user, primarily.
+To get started, you connect Moo.do to your Google account so it can access your email, which is then presented to you in the left pane of a multi-window interface. Free account holders will also be able to sync Mailbird and their Google Contacts to the service, while premium users ($7/mo) can integrate with Google Drive and Google Calendar.
+
+You can additionally import data from third-party services including Wunderlist, Workflowy, Trello, and Todoist, as well as Google Tasks.
+Once set up, Moo.do adapts to your workflow, whether you prefer the GTD method or Kanban boards for visualizing your tasks, as you would in a product like Trello. Or you can use both at the same time, given Moo.do’s flexibility.
+
+You can click on emails to view them in a pane next to your message list, as with any Outlook-inspired email product, but the difference is that there are other panes you can add to Moo.do’s interface for actually working with the tasks the emails contain.
+For example, you can drag an email to another pane to make it part of a list of things that need to get done, while also marking up that pane with other text, checkbox items, and more. You can also pull in files from Google drive, or tag your Google Contacts by adding a plus sign in front of their name.
+To add another pane to the interface, you click a plus sign at the top right. There are both “Outline” and “Agenda” panes to choose from, depending on whether you want a simpler to do list, or a calendar-like overview of your upcoming items.
+
+While there are a number of task managers on the market, what makes Moo.do different is that it treats your emails like any other task, file, note or appointment – and then gives you a unified place to manage everything.
+Moo.do was founded by Jay Meistrich and Grant Watters, who met at Carnegie Mellon while studying computer science. Meistrich later worked in Microsoft’s Applied Sciences Group where he helped start the Surface tablet project, while Watters worked on the Internet Explorer team at Microsoft to improve its graphics and touch experience.
+Meistrich said the idea for Moo.do originally came about because he has a bad memory, and has to write down tasks or he’ll forget them. And like a lot of us, he also forgets to respond to emails that get lost in his inbox.
+
+“On a trip back to Seattle, I found out that Grant was as passionately frustrated as I was, and we spent hours riffing on ideas and sketching mockups,” explains Meistrich. “We decided that day to solve this problem together. We started by prototyping some wild ideas and soon we were happily using Moo.do to manage its own development.”
+The team originally put out a Moo.do mobile app for to do lists, but this version of Moo.do takes the concept further by combining email and to-do’s in a single product. The product has been in beta testing, but is now available to everyone.
+In the future, the team plans to integrate Moo.do for Gmail with more services, and expand beyond personal use and small teams.
+“We both have an understanding of how large teams work together from our time at Microsoft, so we have a lot of plans for how to grow into an enterprise collaboration tool,” notes Meistrich.

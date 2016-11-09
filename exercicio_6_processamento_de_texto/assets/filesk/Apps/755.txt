@@ -1,0 +1,26 @@
+With the forthcoming arrival of iOS 10, iMessage is finally getting a much-needed revamp that will see it incorporating third-party apps, as well as more engaging and interactive features like message bubbles, animations, handwriting, tapbacks, invisible ink, and more. But unless your friends are also on iOS 10, you won’t be able to use these additions in your group chats. However, a new messaging app called Amity is launching now to bring a similar – perhaps even upgraded – experience, but one that works across platforms.
+Based in Brisbane, Australia, Amity’s bootstrapped team of eight has been working to create this more interactive messaging app over the course of the past two years.
+As with many messaging clients, Amity offers the ability to send rich media in your chats – that is, things like photos (with filters, naturally), videos, links, voice messages, emojis, stickers, your location and more. But in Amity, you’re able to add these items by tapping buttons in the app itself – you don’t have to switch to another screen or app.
+Plus, Amity offers its own collections of custom, original stickers to choose from, eliminating the need for add-on keyboards.
+The app can also track of the media you’ve shared in your conversations. A “Memories” section, for example, archives all the photos, videos, links, news articles, YouTube videos, and “postcards” (a feature that involves sharing a location along with crowdsourced photos and other information pulled from Foursquare) in a single place you can revisit anytime.
+
+But what makes Amity really fun are its interactive features. When chatting with the founder by phone this morning, I probably spent half the interview just tapping buttons in the chat app to try out all the different options, I have to admit.
+For instance, you can “high five” a friend, which makes an animated version of this gesture appear in your chat, or you can “nudge” them, which actually makes the whole screen appear to shake while your phone buzzes.
+Amity lets you ask your friends to send you media, too – you can request for a photo, video or location, with just the press of a button. A timer starts, encouraging  the friend to press another button that appears (e.g. “Send Location”) to respond to your request.
+
+In addition, Amity introduces a feature it calls “Live Mode” which activates whenever two or more people join a chat together on the same screen.
+In this mode, you can send live emojis, live touch gestures, and emoji bursts.
+You pick from several emojis (e.g. a smiley, hearts, heart eyes, etc.) and then drag the emoji onto the screen where dozens “explode” in a burst-like fashion.
+Another experience (see below) is akin to the little “hearts” you send a broadcaster on Periscope or the Likes you send when viewing a Facebook Live video – the only difference is that it’s in chat, not on social media.
+
+Amity was co-founded by Johnny Cheng (CEO), who previously founded a mobile gaming company with 3 million users; Nick Pestov (CTO), the former head of engineering for an e-commerce company; Kieran Harper, a programmer who worked in government; and Jackson Cheng, Johnny’s brother and a designer.
+Though only the 1.0 release, Amity comes across as a fairly polished app. (Unfortunately it’s crashing on the iOS 10 developer build, but a recent update has made several of my apps unstable; the team says they haven’t seen this problem on other builds.)
+Being immediately engaging and usable is by design, we’re told.
+“We set out to come out on day one with something that’s complete and more compelling than anything out there as a starting point – that was really important to us,” says Johnny.
+Of course, it’s challenging to get anyone to adopt a new messaging app these days in a world where apps like Messenger, WhatsApp, Snapchat, and others dominate, and where many are fine with using just basic SMS testing or iMessage. Amity’s bells and whistles are incredible and fun, but ultimately, I found myself wishing they were just Facebook Messenger’s new features.
+Not to mention, with the upgrade to iOS 10, Amity will have heavy competition from iMessage.
+“That was a surprise to us,” admits Johnny, when asked about the upgraded Apple messaging app. After all, Amity had begun its work even before WhatsApp sold to Facebook – it was prepared to offer something fresh and new, but now will have to prove itself against Apple’s built-in messenger.
+The company hopes its product is interesting enough to thrive even in this competitive landscape. To help encourage growth, it has added a ton of ways for users to add friends. You can add them by mobile number, invite them from your contacts, add them by username, add them from Twitter, or even add friends who are nearby (as detected via Wi-Fi and Bluetooth).
+Amity is now preparing to raise a seed round. Its first investor is Mick Johnson, Facebook’s former Director of Product for Mobile, who offered Amity a five-figure investment.
+The app is a free download on iOS and Android.
+

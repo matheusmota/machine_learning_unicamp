@@ -1,0 +1,7 @@
+Apple playing nicely with enterprise companies is a sight for sore eyes. The edict that Microsoft has enterprise on lockdown is dissipating.
+Huge enterprise player Cisco and Apple announced a “Fast Lane” for iOS enterprise users, which promises a more streamlined and optimized experience for those enterprise customers using Cisco networks and products. There aren’t a lot of details right now, as the release merely states that the companies are dedicated to “providing unique collaboration on iPhone and iPad.”
+A few tweaks will also be put in place to make the hop between a Cisco desk phone and iPhone more seamless than it is today.
+Tim Cook had this to say about the tieup:
+There’s a lot of words here and not a lot of meat, but what it seems like Apple and Cisco are working on is an environment to enable easier onboarding for enterprise users. There’s no reason for a corporate customer to use phones that aren’t good for their employees simply because it’s easy to get your software onto it.
+Cisco’s Executive Chairman John Chambers calls it an “engineering and go-to-market partnership” which again doesn’t say much other than the two companies probably have a few projects going on and are spending quite a bit of time together.
+The areas that should see streamlining are Cisco’s mobile, cloud, and premises-based collaboration tools like Webex. Which we all love. Well not really. Someone fix that thing, please.

@@ -1,0 +1,12 @@
+Chat chat chat, talk talk talk. We love it, you love it. Messaging apps are hot for 2016 (again) and there’s seemingly a niche platform for all of us. There are also big platforms for the rest of the world like Messenger, WhatsApp, Line, Snapchat and Hangouts (and tons more).
+One new app, Peach, is pretty interesting. Peach was created by the founder of Vine, Dom Hofmann. What’s different about it, though? Well, the onboarding is pretty slick and the engagement experience is kind of like using Slack commands, if you’re familiar with that. The onboarding also feels a lot like Slackbot, too.
+For example, you can type “GIF” and then you’re prompted to find and share one. Type “Draw” and you can draw a picture. Peach calls them “magic words.”
+Others:
+You can also be prompted with interesting questions to answer if you’re not sure of what to post. All of it goes to your home, which serves as a Facebook Wall of sorts where people can like your stuff and comment on it. No “direct” messaging here, all out in the open like Twitter. So yeah, messaging, communications, social network, AIM status messages, etc.
+Naturally, there’s even a “wave” feature that’s like a Facebook Poke (or “Cake” or other actions). It sends a push notification (yes, like Yo) and fun is had.
+
+It’s also cool to watch your friends update their status in realtime from one screen:
+
+Is there room for YAMA (Yet Another Messaging App)? I say yes, especially when people like Hofmann’s Byte team is thinking outside of the box. One thing to note, it looks like it’s just for iOS now. However, it’s definitely catching fire quickly. In fact, I’ve seen something similar to it before, but that’s a story for another time.
+Give it a try, I’m “Drew” there.
+UPDATE: Welp, people are definitely trying it. The team is having a few technical difficulties, but they’re working on them.

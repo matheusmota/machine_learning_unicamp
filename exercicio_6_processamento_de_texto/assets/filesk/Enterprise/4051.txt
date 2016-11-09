@@ -1,0 +1,16 @@
+Update 2: Here’s the latest from Azure, relating to its downtime:
+—
+Microsoft’s Azure cloud computing service is experiencing uptime issues around the world. According to the Microsoft Azure status dashboard, ‘virtual machines,’ ‘backup,’ and ‘cloud services’ are the heaviest hit.
+Here’s the company’s current message:
+
+I’ve reached out to Microsoft for comment and context on the issue. I’ll update this post when I hear back. Update: A Microsoft spokesperson provided TechCrunch with the following statement: “We are aware of an interruption with Azure services, including Virtual Machines, Cloud Services, Web sites, and Automation, and are working with our engineering team to resolve the issue as quickly as possible.”
+Using the company’s time stamp, Azure’s issues have been live for just under two hours. Check back here for a more recent count.
+Here’s the “Popular” section of the Azure status page:
+
+Complaints regarding the downtime have cropped up on Twitter:
+The following illustrates that, at least for some, ways around the issue are possible:
+Cloud computing is a current war between monied platform companies like Amazon, Microsoft and Google that are keen to lock in developers on services. Price is a common incentive. Uptime is, as well.
+The Azure service has actually had a rough few weeks, as ZDNet’s Mary Jo Foley pointed out in the context of the current downtime:
+Azure is, of course, not the first cloud platform to ever go down. It won’t even be the last this year, I’d wager. But by the very same token, downtime is anathema to cloud computing.
+IMAGE BY FLICKR USER ROBERT SCOBLE UNDER CC BY 2.0 LICENSE (IMAGE HAS BEEN CROPPED)
+ 

@@ -1,0 +1,15 @@
+Sources are telling TechCrunch that Cisco is planning a significant cost reduction this week, which could involve budget cuts and layoffs.
+We’ve been hearing that the reductions will be announced on August 17th or 18th and that they will be a part of a push to cut costs by 15 percent, with managers given some flexibility around how they implement this.
+“A cost reduction of 15% that will include layoffs” is how one source described it. “Managers either cut costs or cut people.”
+The rumors of cuts are clearly making the rounds: Trade magazine CRN yesterday reported layoffs of up to 14,000, and by our 15 percent number the figure might be more like 10,000. Cisco currently has around 72,000 employees worldwide.
+A Cisco spokesperson told us that the company is in a quiet period prior to announcing their fourth quarter earnings this week, and would not comment regardless on rumor or speculation. Notably the company has used its August earnings to announce layoffs before — some 5 percent downsized last year, for example.
+Cisco, like so many traditional IT companies has been in transition for some time. Since the beginning of 2015, it has made 16 acquisitions, an incredibly high level of activity, as it tries to use its cash on hand to help it pivot from its core network hardware business to a software and services business with a concentration on cloud, security and Internet of Things (IoT).
+Cisco has no shortage of cash to buy companies to make that move with $63.5 billion cash on hand according to YCharts.
+ 
+ 
+That money is also helping them take disruptive startups off the market and bring them in the fold. As an example, Cisco spent $1.4 billion earlier this year to buy Jasper Technologies, in a nod toward helping companies manage Internet of Things in the cloud.
+As its core networking market becomes increasingly commoditized, moves like this allow Cisco to move into the more lucrative software market, while still playing to its networking strengths.
+“The battle in IOT is ultimately about the network. Sensors, stacks and platforms will be commoditized in the network. But you need them for the foundation in the network. It’s a very smart and calculated move by Cisco,” R Ray Wang, founder and principal analyst at Constellation Research told TechCrunch at the time of the Jasper purchase.
+But as companies go through these transitions, it’s not necessarily smooth ride. It requires new skill sets. People who designed, built, marketed and sold the networking stuff might not be needed in the next version of Cisco.
+As it transitions, as we’ve seen with IBM, Intel and Microsoft, there are going to be waves of job reductions as they retool for what comes next. That’s probably not much of a consolation for the folks who end up losing their jobs, but it’s a harsh reality as the shift takes place. The good news is there will be a big market for newer skill sets, and folks who have those skills should be in demand.
+Update, 8/18/16: Cisco has confirmed it will cut 5500 jobs or 7 percent of its workforce.

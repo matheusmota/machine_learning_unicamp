@@ -1,0 +1,13 @@
+The WaterIsLife charity discovered a Venmo loophole, enabling it to blast its message to a thousand unsuspecting people earlier this week. By sending $0.01 to folks who were appearing in the Venmo feed, it was able to advertise the charity to hundreds of people. Their shitty marketing stunt kicks open the floodgate for yet another channel of spam coming at you from all sides. Yay.
+Here’s how they did it: The charity’s marketing company (better known for Volkswagen’s “Clean Diesel” campaign, which, as you might recall, worked out pretty well for them) looked at the Venmo stream to see for which things people were sending each other money. When someone sent some money to a friend for pizza, for example, WaterIsLife would follow up with a 1-cent payment to the same person with the caption “1 cent can’t buy you pizza. But for just 3 cents, you can buy someone clean water for a day.”
+Given that targeted advertising of this kind usually costs a hell of a lot more than $0.01 per hit, the charity got a bargain in the process, but it feels spammy as all hell. It did pay off, however: The agency claims the charity received $400 in donations on the first day.
+Which is great news for them, I suppose, but not for consumers.
+
+	Related Articles
+
+					How Venmo Won In One Of The Most Crowded Spaces In Tech
+					FTC files false advertising lawsuit against VW
+					Microsoft AI bot Tay returns to Twitter, goes on spam tirade, then back to sleep
+	Sending money, whether to friends or to pay for services, is an intimate thing to a lot of people. Receiving money from a friend for some pizza you brought to a party, followed by a $0.01 payment with an advertising message, feels invasive and uncomfortable. And that is if it’s done by a charity.
+Look, I admire what WaterIsLife is doing, and I wish them all the best, but I also wish they’d stay away from this sort of rubbish. Mostly, I fear that this is just the thin edge of the wedge: If a charity can spam people with impunity, so can anybody else. I am not looking forward to a future where a friend Venmos me a couple of bucks for a coffee, then getting spammed to death by coffee shops wanting me to visit them next. Ugh.
+I reached out to Venmo for a comment on how they’re planning to deal with this sort of thing, but haven’t yet heard back.

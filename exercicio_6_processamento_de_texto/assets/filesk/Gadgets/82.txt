@@ -1,0 +1,8 @@
+It isn’t quite as lovable as the spherical droid from Star Wars: The Force Awakens, but this robot from Carnegie Mellon University has the benefit of being more than a special effect (however cool). And believe it or not, it basically has no moving parts.
+
+Anyway, the robot is actually an evolution of a decade-old design: Ralph Hollis created the “ballbot” long ago, but it was driven mechanically. The way it worked is actually quite easy to picture: imagine a mouse ball, but instead of the ball moving the little rollers inside, the rollers move the ball.
+
+Carefully controlling these motors lets the robot essentially balance on top of the ball while also rolling it in any direction. The trouble was the same as with those mice: the rollers wore out or got dirtied up, and had to be replaced, and the motors recalibrated.
+The solution wasn’t to remove the ball, as we did with mice, but to remove the rollers. The new version uses an induction motor, which magnetically drives the sphere (solid iron, with a copper shell) with stators, the way other induction motors would drive a rotor.
+This reduces wear and increases the level of control over the ball, since there are fewer mechanical forces to worry about. Just adjusting the voltage and the magnetic force on the ball propels it where you want it to go. Onboard systems keep it upright and balanced, and it can recover from being pushed around — not as much as a legged robot, but still.
+The SIMbot (for spherical induction motor) is still very much a lab-bound experiment, but its omnidirectional motion and sophisticated yet elegant control mechanisms are likely a source of envy to robots that use legs or multiple wheels to get around.

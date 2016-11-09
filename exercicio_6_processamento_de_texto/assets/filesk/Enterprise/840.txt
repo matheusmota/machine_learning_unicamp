@@ -1,0 +1,14 @@
+Diamanti, a startup aimed at solving the problems around balancing networking and storage requirements in the age of containers, emerged from stealth today with a new appliance and $12.5 million in Series A funding from a prestigious list of investors.
+Perhaps those investors — Charles River Ventures, DFJ Venture, GSR Ventures, and Goldman Sachs — liked the pedigree of the founders, which include former employees of Cisco, Veritas and VMware.
+They might also have liked the problem Diamanti is trying to solve around containers, whether Docker, Google Kubernetes or Red Hat OpenShift. The company plans to stay agnostic where that’s concerned while contributing to open source projects like Kubernetes.
+Diamanti, which has been known as Datawise.io in stealth is trying to solve a very specific problem related to containerization by building an appliance that sits inside a company’s datacenter, says Jeff Chou, Diamanti co-founder and CEO.
+The appliance deals with the throughput problems companies face as they transition from legacy architecture to newer approaches like containerization. The latter requires more speed than the older equipment is generally capable of handling.
+Dimanti’s founders saw this problem and they built their appliance to deploy quickly — they claim in just minutes — and provide that extra horsepower that’s missing in the legacy environment. The legacy approach meant it could take weeks or months to stand up a containerized cluster — and for a technology that’s supposed to increase a company’s agility, that’s too long.
+The developers were way ahead of operations in this regard and Diamanti saw a market opportunity by closing the gap. They took their experience in creating networking and storage hardware and they merged that into a single modern box.
+“If you look at top problems associated with containers. The two are network and storage.
+There is a noisy neighbor issue.  Once you get into a situation where containers add more density, they begin to interfere with each other,” Chou explained.
+While deploying the appliance quickly is a goal, it’s really about getting the containers into production faster, he said.
+While in stealth, the company has had several Beta customers testing the appliance including NBC Universal. While Chou wouldn’t name the others he described them as service provider, financial services and web infrastructure companies.
+You may wonder how much such a box would cost, but Chou was not ready to share that information quite yet. He says the company is still working on packaging and pricing the product, but that will be coming soon.
+Diamanti is having its coming out party next week at the OpenStack Summit in Austin. While it’s not an OpenStack company, it believes the appliance will appeal to companies looking at deploying in OpenStack environments.
+The company was launched 14 months ago. It’s headquartered in San Jose, CA and currently has 30 employees and growing.

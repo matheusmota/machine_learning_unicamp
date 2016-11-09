@@ -1,0 +1,16 @@
+APX Labs, makers of the Skylight smart glasses development platform, announced a $13 million investment today.
+The round was led by NEA, but there were several others parties involved including CNF Investments, GE Ventures, Salesforce Ventures, SineWave Ventures, and other unnamed investors. Today’s round brings the total raised to $29 million.
+While the company was happy about the money, CEO Brian Ballard, seemed most excited by the strategic investments from GE Ventures and Salesforce Ventures, which he felt really validated what the company was trying to do.
+GE is a customer and they are going to do a large deployment within the next 12 months that will be a serious test case for the platform.
+SkyLight is a vendor-agnostic smart glasses platform. That means it works across a variety of glasses manufacturers including Google Glass, which is focusing on enterprise use cases for now and others like Sony Smart EyeGlasses, among others.
+ 
+The hardware when used in conjunction with the Skylight software enables employees working in any industrial scenario to get instructions via the smart glasses interface while keeping their hands free.
+ 
+As for Salesforce, it sees smart glasses as the interface for the internet of Things, a trend it has made clear it is very much interested in. For now, Salesforce wants to push smart glasses technology to field service workers as a way to undertake repairs in the field hands-free.
+You can imagine, there are any number of scenarios where this could be useful for these companies. For example, at GE you have people working on huge industrial equipment like locomotives, jet engines and wind turbines. Using smart glasses with Skylight, they are able to assess the situation, while getting information via a smart glasses interface with their hands free. It’s clear how this would be much more efficient than working with a tablet or laptop.
+In some scenarios where a worker may be in a hazmat suit or inside a large machine, working with a laptop or tablet isn’t even possible. The smart glasses enable the worker to get information directly through the glasses.
+Ballard sees this industry just beginning to emerge from first generation hardware and software, and moving into some larger scale deployments, like his company’s work with GE.
+They currently claim to have dozens of customers including six out of the Fortune 10. Ballard wouldn’t name them all, although GE is one. Regardless, those are some serious players interested in this technology, and it shows that the market could poised to take off in a big way.
+“Our target now is the biggest manufacturers on the planet,” he said.
+The company also has some impressive partners to help build that market including Microsoft, Accenture, SAP and Deloitte.
+It’s still early days for the Herndon, Virginia company, but Ballard hopes to use this money to continue developing the product, scaling the company to a wider market and supporting a larger number of smart glasses as they become available.

@@ -1,0 +1,13 @@
+This afternoon, SAP announced in a statement that Vishal Sikka, Executive Board Member
+for Products and Innovation, has resigned for personal reasons. The resignation was effective immediately.
+At the same time, SAP named a couple of new executive board members, including
+Robert Enslin and Bernd Leukert.
+The news could indicate some disarray or possibly a power struggle at the software giant, especially coming so close to its SAPPHIRENow Conference, which is scheduled for June 3-5th in Orlando.
+R Ray Wang, co-counder and analyst at Constellation Research said, the announcement could indicate that power is shifting at the board level.
+It’s worth noting that Sikka lead the development of HANA, SAP’s big in-memory database product, which the company has up until now seen as a foundational technology.
+Wang says this marks a big change at SAP, especially since he said that many had seen Sikka as a possible candidate for CEO down the road. Wang said this change could indicate a shift in focus from Sikka’s vision to one driven by Leukert’s approach: A strategy designed around a set of apps.
+Wang also speculated that with the board changing, this could mean that a new CEO could be appointed soon. “We would not be surprised if Bill McDermott will be named sole CEO soon,” Wang wrote to me in an email today.
+“This should make for an interesting SapphireNow,” Wang said sarcastically.
+This isn’t the first time that Sikka thought about leaving SAP. Back in 2008, he was involved in a bad car crash in Costa Rica and considered calling it day after the incident. He had come on board in 2002 and by 2008 at the time of the crash, according to a TechCrunch report from last year, he was “having second thoughts about the direction of the company.” The car crash exacerbated those feelings and it was only after some heart to heart talks with company legend Hasso Plattner that he decided to stick around –and over the last six years he has helped redefine SAP as a company.
+According to his company biography,  Sikka also was in charge of SAP’s technology platform, cloud operations, partnerships, customer co-innovation and development, SAP Ventures, and incubation of emerging businesses. And he also was responsible for research, as well as academic and government relations.
+This was clearly not a figure head. He was a key member of the executive team responsible for driving much of the company’s vision in its attempt to redefine itself as a mobile and cloud platform. With him gone, it remains to be seen what impact this will have on the overall company strategy moving forward, but it will be something that’s interesting to watch moving forward.

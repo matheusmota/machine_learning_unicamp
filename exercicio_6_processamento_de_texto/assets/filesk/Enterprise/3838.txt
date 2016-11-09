@@ -1,0 +1,6 @@
+Remember that upcoming Windows 9 event that Microsoft is hosting on September 30? It might not mark the actual release of Windows 9’s technical preview, as was long expected. According to Paul Thurrott, that bit of code might not become available until October.
+So put your laptop down and pout, because the wait might be longer than you expected.
+Component to his report on the release situation, Thurrott dug into a host of other Windows 9 topics, most importantly confirming the riff that the update cycle for the hoi polloi will indeed be quite rapid. Here’s Paul [Emphasis original]:
+That’s good, given that Windows 9 will — and I deign here to make a prediction about a Microsoft product —  generate spirited public debate.
+The September 30 event is only the first of what Microsoft intends to be a number of events that will see the company break out its new operating system across different user groups. That is evinced in the simple fact that the coming event is, by the company’s own banner, aimed at the enterprise. Presumably, consumers are next.
+As I’ve noted a few times, the initial era of Windows 8 is now all but over, at least in title. Much of what the controversial operating system brought to Windows will remain, albeit under a hopefully smoother regime of integration. We’ll see.

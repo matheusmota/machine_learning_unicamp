@@ -1,0 +1,8 @@
+Robotic exoskeletons are one of those technologies that tend to be associated with warfare or at least the industrial sector, but soft robotics and artificial muscles like these ones created by Swiss researchers make them suitable for more delicate operations as well.
+
+Alone, they look like weird little worms. But by packing these actuators into bundles, the researchers have made simple robots that act as a credible analogue to human muscles.
+Sure, you could use them to create super-strong workers or punching machines, but the Swiss aren’t like us. They’re taking a more humanitarian path.
+
+“We are working with physical therapists from the University Hospital of Lausanne who are treating stroke victims,” said EPFL’s Matthew Robertson in a university news release. Several of the robotic muscles are arranged on a belt and stretch up the lower back. “The belt is designed to support the patient’s torso and restore some of the person’s motor sensitivity.”
+It combines the best of rigid electronics with soft passive assistance like compression garments. They’re powerful enough to help, but not so much that anyone needs to worry about being injured by them. And there are plenty other applications envisioned for the tech.
+The team published their work in Nature Scientific Reports, and has kindly made the hardware design and software tools open for anyone to download and use.

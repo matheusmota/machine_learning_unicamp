@@ -1,0 +1,12 @@
+There are plenty of things on Steve Huffman’s to-do list since returning to Reddit as its CEO. Having a gifted technical mind himself, currently doing double duty as Hipmunk’s CTO, the need for a technical lead at Reddit was glaring.
+Today, the company has announced that it has hired founding engineer at Pinterest, Marty Weiner, as its first CTO in company history. Weiner spent over four and a half years at Pinterest, telling us that he and Pinterest’s CEO, Ben Silbermann, have been hacking together since way before Pinterest was started. With Pinterest prepping for a potential public market debut at some point, we think, Weiner has stepped away and into a new role that is indeed a challenge.
+In an email to TechCrunch, Weiner calls this the “hardest decision of my life” but that it was time to move on to something new. His list of things to tackle consist of building an engineering culture that will help with recruiting, expanding diversity and scaling Reddit’s current infrastructure and processes.
+Choosing not to discuss Reddit’s recent community and executive issues, Weiner says he is focused on the future and “helping grow an already amazing team and building amazing tech.”
+Reddit is just as excited to have him, as co-founder Alexis Ohanian told us:
+Weiner’s history with that team includes being introduced to Ohanian through his brother, eventually meeting regularly for coffee. Admittedly, he’s still getting to know Huffman, who tells us:
+I asked a few folks about Weiner and his technical chops, and was told by a few of them to check out one of his “Scaling Pinterest” presentations that he gave over the better part of a year. It’s definitely worth the watch:
+
+This is the type of approach that Reddit, which had over 195M unique visitors last month making it the #10 most trafficked site in the US (Pinterest is in the 16th spot), clearly needed. Not having an official CTO for ten years is pretty unheard of.
+He says his goal is to build, as he calls it, the “dream machine”:
+If Weiner can successfully wade through the community mess that the rest of the executives can now focus on, there’s no telling what Reddit can evolve into from a technical perspective. Maybe it’ll even get a redesign one day…
+…probably not.

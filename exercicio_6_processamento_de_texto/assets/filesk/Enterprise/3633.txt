@@ -1,0 +1,24 @@
+Today in San Francisco, Microsoft’s CEO Satya Nadella and his lieutenant Scott Guthrie detailed the status of their company’s cloud efforts, breaking out a few growth metrics, and announcing several new features that they hope will spur growth.
+Microsoft is hellbent to be a winner in the cloud space. With self-claimed $4.4 billion in yearly cloud run rate  — expect a new number at earnings — Microsoft could be considered a leader in the space already. However, noting that two other companies also have the scale in place to be true, “hyper-scale” cloud players, Microsoft doesn’t appear ready to give itself a crown.
+Amazon and Google, the two rivals that Microsoft directly shouted out, would also contest any such coronation.
+
+Noting several hundred new features released in the past 12 months, Microsoft disclosed that Azure, its chief cloud computing and storage service, is currently picking up 10,000 new customers each week, and now stores 30 trillion objects.
+Here’s the slide:
+
+After the CEO passed the speaking baton, Microsoft executive vice president Scott Guthrie got up to dig deeper into what Microsoft is building, detailing a number of new products aimed at boosting enterprise demand for Azure.
+The company noted twice that 40 percent of Azure revenues come from 3rd party vendors, and startups. It was not clear what the split is between them. The message was twofold: Startups can use Azure over the more-popular-among-new-companies competing Amazon solution, AWS, and that Microsoft partners should push the platform, or miss out on income.
+Key among the value pitch was the idea of scale. According to Guthrie, Microsoft is about to spin up its two Australian datacenter regions. It will have 19 regions then, twice what Amazon offers, and six times what Google has on tap, according to the company.
+Some 11.4 million servers power Microsoft’s cloud.
+
+So, what’s new? A few things. First up: A new class of computing power called the ‘G family,’ which will focus on providing huge firepower to large computing problems. Guthrie crowed that it can provide twice the memory of the largest Amazon cloud machine.
+
+Next up was a “premium storage” option that will allow customers to dump 32 terabytes of data onto a single Azure virtual machine. I’m not sure how many people need that, but if you did, you are now pretty well set.
+
+Microsoft then turned to hit on the idea of hybrid clouds: Bringing cloud power in line with on-premises, legacy solutions. Enterprise cloud-storage provider startup Egnyte has a similar market strategy.
+A new ‘Cloud Platform System’ will take Azure into existing corporate datacenters, helping large companies ease into the cloud more slowly. Microsoft is working with Dell on the hardware side of the offering, which kicks off next month.
+In short, if you wanted to bring some cloud to your data, but didn’t want to risk either a dilution of control, or the ability to keep your most sensitive files at home, Microsoft might have a tool for you.
+
+Finally, Microsoft announced a marketplace for Azure that will function across devices and platforms.
+Microsoft is continuing its push into all areas of the cloud: Enterprise, hybrid, Linux-focused, Docker-facing, and so forth. The company has branding issues among the companies most quickly zipping to the cloud (startups), and its most lucrative clients are hesitant to do this ‘cloud’ thing at all in many cases. So, Microsoft’s market position isn’t an easy one. But it is investing heavily.
+Things to watch: Growth in Microsoft’s cloud top line compared to Amazon’s, and the impact of the current cloud price wars in new investment by the three players. Microsoft seems nearly gleeful to spend billions on the cloud — having the cash and profits of an incumbent is probably fun. Google is also massively profitable and cash-rich. Amazon less so, but it has had a head start.
+Place your bets on who is going to be the top provider in 5 years.

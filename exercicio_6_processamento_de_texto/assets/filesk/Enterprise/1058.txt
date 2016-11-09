@@ -1,0 +1,10 @@
+Cisco continued its buying spree today as it announced its intention to acquire Israeli chip designer Leaba Semiconductor for $320 million.
+Cisco sees this acquisition as a way to bolster its hardware catalog with highly advanced chip technology.
+“By combining Leaba’s semiconductor expertise with the Cisco engineering team, we will accelerate our plans for Cisco’s next generation product portfolio and bring new capabilities to the market faster,” Rob Salvagno, head of Cisco’s M&A and venture investing team wrote in a blog post announcing the purchase.
+When the deal closes, the Leaba team will report to Core Hardware Group, led by Cisco senior vice president, Ravi Cherukuri, according to the blog post.
+The company actually doesn’t even have a shipping product yet, R Ray Wang, founder at Constellation Research told TechCrunch. “They haven’t even finished their prototype. This is an acqui-hire for next generation semi-conductor [technology]. Think networking at the chip level,” he said.
+This is not the first time the Leaba founding team has launched and sold a cutting edge chip production company, according to report in Globes, an Israeli business publication. The founding team, which consists of CEO Eyal Dagan and CTO Ofer Eini sold Dune Networks to Broadcom for $178 million in 2009.
+Today’s news comes just the day after the company announced it was buying CliQr, a cloud hybrid services management platform for $260 million and just about a month after it bought Jasper Technologies for $1.4 billion.
+Cisco is walking a fine transformational line here. On one hand, the purchase pattern suggests that the company is trying to pivot from its networking hardware roots to a business centered around services as the CliQr and Jasper Technologies would suggest.
+Much like IBM, Cisco is looking to the future and trying to use its cash hoard to make strategic purchases to help speed up that transition.
+At the same time, it’s not quite ready to give up completely on its hardware roots and purchasing a leading-edge semiconductor company suggests that it is still looking to a future where it can continue to lead in the networking hardware space.

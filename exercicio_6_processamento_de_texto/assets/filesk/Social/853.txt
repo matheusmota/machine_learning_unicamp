@@ -1,0 +1,6 @@
+For developers and publishers, organizing and embedding multiple Twitter timelines is often a calculated effort, but this morning the social network has added three new ways to make it easier. In this case, late is better than never.
+The first are factory functions, which allow you to generate timelines for a web app, no matter the number. For those looking into the new oEmbed API with a CMS, you can integrate profile, list, like, or collection timelines directly into the work environment.
+The third (and simplest option) is to opt for the publish.twitter.com approach, which would allow you to customize and embed a timeline into a site, with minimal coding skills required. This is the solution that I can see most new WordPress users leaning towards.
+
+Twitter also announced that it’s cleaning house: from saving widgets. Logging-in with a widget ID will no longer be required; instead a public profile, list, like or collection URL is all that’s needed to get the embed working.
+These tweaks to the Twitter embed doctrine are beneficial to just about everyone, but I could argue that there are more pressing social issues that occur on the social network (like harassment) that need to be addressed with the same ferocity.

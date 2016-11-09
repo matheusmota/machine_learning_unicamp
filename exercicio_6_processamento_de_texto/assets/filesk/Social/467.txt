@@ -1,0 +1,12 @@
+Facebook built its own version of Snapchat Stories, called Quick Updates, but will not release it. Though Instagram Stories launched this week, Facebook isn’t going to follow suit.
+Quick Updates created a special place to share within the Facebook app but outside of the News Feed. Accessible from a button at the top of the feed, Quick Updates would have let people share 24-hour disappearing photos and videos with overlaid text. These posts wouldn’t appear in the feed or in people’s profiles.
+Quick Updates featured its own design style, opposed to Instagram Stories which much more closely copies Snapchat Stories. When asked about cloning Snapchat, Instagram CEO Kevin Systrom even said “They deserve all the credit.”
+
+TechCrunch received screenshots of a test of Quick Updates two weeks ago, but the test quickly disappeared after we published about it. Facebook told me at the time that “Quick Updates” was an experiment shown to some people, and that Facebook would not move forward with it.
+But the release of Instagram Stories begged the question of whether Facebook won’t modify the feature or release something similar, perhaps called “Facebook Stories.”
+I asked Facebook, and a spokesperson told me “Quick updates was something we were going to test. It’s an idea we’re not pursuing anymore.” When pressed on the issue, the Facebook spokesperson provided this official statement:
+So at least hardcore social media users won’t have to post non-stop daily updates to three networks, just two.
+That said, on Facebook’s successful earnings call last week, Mark Zuckerberg vowed that “We see a world that is video first, with video at the heart of all of our apps and services.”
+Yet Facebook hasn’t significantly updated its video uploader in nearly three years, despite me calling for them to modernize since 2013. You still can’t overlay filters, text, drawings or stickers on videos. You can’t combine multiple clips into a single video, add soundtracks, create transitions or use features found in other apps like Snapchat, YouTube, Vine and even Instagram.
+Facebook did recently acquire MSQRD, an app for applying animated selfie filters similar to Snapchat’s lenses. But there’s been no official integration of MSQRD into Facebook or Instagram Stories, though Instagram says that’s coming.
+Facebook’s video sharing tool is embarrassingly archaic and is sorely due for an upgrade. Instagram Stories just makes that even more clear.

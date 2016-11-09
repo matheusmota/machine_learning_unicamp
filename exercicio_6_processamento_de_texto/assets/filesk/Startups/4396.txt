@@ -1,0 +1,7 @@
+Instacart, the $2 billion grocery delivery startup that recently announced an extended partnership with Whole Foods, has slashed pay for its drivers and shoppers in major markets like San Francisco and Los Angeles, The Wall Street Journal reported earlier today.
+Here’s a nugget from the email, obtained by TechCrunch, that Instacart sent to shoppers in the SF Bay Area:
+Instacart notified the shoppers earlier this month, saying that people who collect pre-packed bags from grocery stores will earn $1.50 per drop-off, which represents a 63 percent cut. Previously, drivers made $4 for doing the same task. For full-service shoppers — those who shop and make deliveries — they will make $7.50 per delivery and 25 cents per item collected, or $2.50 per batch, whichever is greater. They will also receive 100% of the tips. Before, full-service shoppers would make $10 per delivery plus half the tips.
+“They try to rationalize that you get the tips, but people don’t always tip,” Rita, an Instacart worker in the San Francisco Bay Area, told TechCrunch.
+The new payment structure goes into effect Monday, March 14.
+“We have made some recent rate changes to reduce variability in how much shoppers earn, and we are constantly innovating to help shoppers get more orders,” Instacart said in a statement to TechCrunch. “After these changes our shoppers will earn, on average, an effective rate of $15 to $20 per hour, which is both in line with historical levels and strongly competitive within our markets.”
+Here’s the full text of the email:

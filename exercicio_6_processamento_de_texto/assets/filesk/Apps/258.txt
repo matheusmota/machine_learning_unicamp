@@ -1,0 +1,12 @@
+The AOL Alto team is today delivering a new version of the product that may make some of your biggest email woes disappear.
+Enter the Alto Dashboard.
+With the latest version of AOL Alto, users can choose between a regular inbox view and a dashboard view of their communications. Dashboard view surfaces contextually relevant information right to the top of the page and offers the ability to take action on those emails.
+Let’s say you booked a flight to South Korea two months ago, and your flight leaves tomorrow. Rather than scrolling back through your inbox to find your ticket confirmation, Alto will serve that email up to you as soon as you’re able to check in to your flight. When it’s time to hit the airport, Alto will again serve up that email with the opportunity to retrieve your ticket QR code, without you ever having the need to open up the United Airlines app.
+When you land in South Korea, an email with your hotel confirmation will pop to the top of the dashboard with the option to order an Uber straight from the airport to the hotel, with one click of a button.
+Alto determines what should be in the Dashboard through an algorithm, but users can tell the system what should or should not be in the dashboard to help it get smarter.
+Emails that are deemed worthy of the dashboard, however, don’t look like ordinary emails. Alto transforms the content of those messages into “Cards”, which enables those same integrated actions like checking in for a flight, ordering an Uber, or getting directions to a destination.
+Alongside the Dashboard and its Cards, Alto is also introducing Stacks. Stacks are categorized inboxes that put various email verticals all in one place, from travel to shopping to social.
+Alto is available as a native app on both iOS and Android, and works across a variety of browsers. The company says it is considering plans to build a native desktop app.
+AOL Alto will remain free to users, but there is an opportunity down the line to generate revenue off of brands who wish to engage more directly with consumers via email, according to the team.
+You can check out AOL Alto right here.
+In the interests of full disclosure, AOL owns TechCrunch and I own shares via an employee grant.

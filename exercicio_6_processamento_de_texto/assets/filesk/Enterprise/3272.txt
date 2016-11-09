@@ -1,0 +1,8 @@
+Microsoft recently announced that it would not release another Windows 10 build this year. That statement became ironic when when a new version of its new operating system leaked by accident.
+The Microsoft-watching community quickly dug in, finding goodies like Cortana, and a new Xbox app; here were the consumer-facing pieces that were not supposed to be out until January.
+As a company, Microsoft did not appear too perturbed by the leak. Though, I suspect the firm would have preferred to not have the code hit the market, it isn’t losing its marbles over the matter:
+Gabe is a member of the team that runs the release process of Windows 10’s preview builds, if you weren’t aware.
+What you need to know is that if you do choose to upgrade to the build — number 9901, and you can find it in the usual places — you will be off the normal update cycle. Microsoft has indicated that this is not intended as a sort of punishment, but is instead a simple software issue — users of the version will have to update in the future “through ISO,” according to Gabe.
+So keep that in mind if you decide to pull the trigger.
+On the feature side of things, Tom Warren has the best walkthrough, but you can expect to see Cortana in action akin to what was leaked on video some time ago, an Xbox app that brings that universe to Windows in a more complete capacity, and an expanded Windows Store that includes a larger content mix.
+I’d wager that this is a decent-sized chunk of what is coming in the next preview of Windows 10, which Microsoft will release in January. The company has already announced an event on the 21st of that month.

@@ -1,0 +1,15 @@
+Boston-based Lose It! (incorporated as FitNow Inc.) has released a new beta feature today called Snap It within its weight loss and calorie tracking app.
+As is easily guessed by the name, Snap It beta lets users take photos of their daily meals and snacks to automatically log them and derive approximate calorie counts.
+For now, users will be able to open the Lose It! app, pick a meal-type (breakfast, lunch, dinner or snack), take a photo of their food, submit and wait briefly for Snap It to analyze it.
+Snap It will present users with a few best guesses of what food was portrayed in the submitted pic. Users can then confirm the food seen in the photo, and add more detail.
+For example if they’ve uploaded a pic of sushi, Snap It may recognize “sushi roll,” but not know if it contained salmon, or just cucumbers, or whether the roll was made with brown instead of white rice.
+After labeling the contents of their meal, users are prompted to confirm an approximate serving size, and the meal is officially logged.
+Lose It! built Snap It as a neural network that gets smarter over time, or better able to identify foods in photos and their portions automatically.
+Because the system is still in beta, CEO Charles Teague says, it’s more like Tesla’s driver assistive technology today, than the Tesla vehicles of the future that promise to be fully self-driving.
+Lose It built its initial model for Snap It beta using something called the Food 101 dataset, which defines 101 food categories and contains 101,000 images that map to these categories.
+Lose It claims that Snap It beta achieves 87.3% to 97.1% accuracy already within that data set. And as users contribute more images and descriptions, Snap It should become even more precise and accurate.
+While logging meals with photos on social media is common, Lose It is taking on a more complicated endeavor. It wants to deliver accurate assessments of meals seen in users’ photos, but also help them count calories as precisely as possible, and even figure out nutritional information to improve their diets.
+Lose It!’s goal is to help its users lose weight or maintain a healthy weight.
+Teague said, “Ultimately we want to make understanding your diet as simple as Fitbit made understanding your activity. Snap It is going to give us the opportunity to reach a whole new set of users that may have found tracking frustrating or might’ve never even tried it because it seemed too time consuming. When tracking is a simple as snapping a picture, it becomes accessible to nearly everyone.”
+The company’s new Snap It! initiative is competing with food recognition technologies like SRI International’s Ceres project, and Google’s IM2 Calories.
+Though ultimately, FitNow Inc. could put others’ AI systems to work to power Lose It! features as well.

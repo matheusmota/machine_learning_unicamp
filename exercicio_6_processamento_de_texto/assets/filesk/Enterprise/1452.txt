@@ -1,0 +1,10 @@
+Amplitude announced this morning that it has raised $15 million in Series B funding.
+In the past, the web and mobile analytics company has pitched itself as a more affordable alternative to Mixpanel. More recently, CEO Spenser Skates said the bigger vision is to make user data available to everyone in a company, not just data scientists.
+“It’s so easy to look up any piece of information on the web with search engines and Google, but it’s very difficult to look up information about your existing user base,” Skates said. “Ultimately, we want to change that.”
+For example, Skates pointed to Amplitude customer Square, where he said there are about 100 people who access Amplitude data every month. The “vast majority” are product managers and marketers who look at “high-level dashboards,” while the growth and data science teams will use the more advanced features.
+
+Speaking of those features: Amplitude is also announcing the launch of a new product called Pathfinder, aimed at showing the different ways that users navigate through a website or app. Skates said this should help businesses understand which actions are leading users to become paying customers — or, conversely, to abandon the product.
+He contrasted this with the normal ways that a company might analyze conversion — building a funnel showing that Action A leads to Action B leads to Action C, and measuring how many people stay on the path at each step. But that only works “if you know what events you’re looking for ahead of time.”
+
+Amplitude has now raised a total of $26 million. The new round was led by Battery Ventures, with participation from Benchmark. Battery’s Neeraj Agrawal is joining the company’s board of directors.
+Amplitude also says it now has more than 150 customers —including LogMeIn, Instacart and Thumbtack — with revenue growing by 300 percent year-over-year.

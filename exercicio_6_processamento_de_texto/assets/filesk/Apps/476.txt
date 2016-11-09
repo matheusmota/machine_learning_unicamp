@@ -1,0 +1,13 @@
+Sensay, the chatbot startup that lets people ask for advice from fellow users, has today announced the close of a $4.5 million seed round extension led by Norwest Venture Partners. Other participants include Greycroft Partners, Sweet Capital, NHN, Draper Associates, as well as existing investors.
+This brings Sensay’s total funding to $6 million.
+Plus, the platform has also introduced Facebook Messenger to the platform, bringing it into the fold with other messaging platforms like Slack, Kik, Telegram and WeChat.
+Sensay launched, back in May of 2015, as a purely SMS-based product, with a simple premise.
+Users could sign up to both give and receive advice, with Sensay’s AI matching algorithm figuring out which users to pair with each other. Users could ask each other about restaurant recommendations, craft beer, how to sail, gift recommendations, or literally anything else.
+As chatbots become more and more popular, it’s interesting to see Sensay use its technology for matching its users rather than answering questions. While this may allow for better, more nuanced answers to natural language questions, it also opens up the platform to making mistakes through its users’ human error. There are also issues with response time.
+However, since launch (which was exclusively via SMS), Sensay has expanded to include cross-platform communication, where one SMS user might be asking questions to a user on Slack. Rose said that, in any given platform, between 35 percent and 50 percent of Sensay users are actually communicating with someone who is using a different messaging platform.
+This makes the system more reliable, at least when it comes to response time.
+Sensay reached 1 million SMS users before expanding to other platforms.
+Though the company has yet to start generating revenue, the founders look at the platform as a marketplace, with the Sensay who is providing information acting as the merchant and the user asking for info acting as the customer.
+Right now, those parties exchange a virtual currency in the form of tips, but the team is looking at other ways to monetize the actual content of these conversations.
+“We see that around 50 percent of chats contain some type of digital or physical commerce opportunity in the peer to peer chat stream,” said Rose. “For example, jobs, gigs and product recommendations. We are measuring this activity and will experiment with monetization soon.”
+If you want to check out Sensay for yourself, you can do so right here.

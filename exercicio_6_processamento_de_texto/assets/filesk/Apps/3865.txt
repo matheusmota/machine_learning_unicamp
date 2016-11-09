@@ -1,0 +1,14 @@
+A new report by mobile app analytics firm, App Annie, and mobile content and commerce association MEF, has identified Brazil, Indonesia, Mexico, Turkey and India as the next growth markets for app publishers — with rates of app downloads in these five markets growing substantially between Q3 2013 and Q3 2014.
+Brazil topped the charts for app download growth, with 100% growth over this period; followed by Indonesia with 70% growth; Mexico and Turkey on 60% apiece; and India growing by 30%. While China is identified as the largest of the growth markets, app downloads here only grew 10% over the period.
+Rising rates of app downloads in these emerging markets where lower priced Android devices have gained substantial marketshare has contributed to a strong rate of global app download growth on Google Play store. The report notes that Google’s Play store is currently 60% higher for app downloads than Apple’s iOS App Store (vs Play being only around 25% higher in the 2013 report).
+The iOS App Store continues to dominate Play when it comes to app revenue, with Apple’s app store revenue growth about 60% higher, according to the report:
+
+However the report also drills down into app revenue performance in Germany, where Google’s Play store continues to lead on downloads but also showed stronger revenue growth — ending the indexed period almost on a par with the iOS App Store revenue in the market.
+The report notes this marks “a significant change” from a year ago, when iOS App Store revenue was almost double that of Google Play in Germany:
+
+When it comes to app revenue growth across the group of measured markets, established markets continue to outperform emerging markets, despite the latter’s accelerating rates of app downloading.
+The report found that Germany showed the largest gain in revenue (1.8x) from Q3 2013 to Q3 2014 among the selected markets, even though its downloads remained stable — a pattern the report notes as “representative of the more established markets in the app economy”.
+So, in other words, free app downloads are likely powering most of the app download growth in emerging markets where mobile users have less disposable income to spend on paid apps.
+
+China is not included in this revenue chart because the report notes that Google Play does not offer any paid content in the market. The same is not true of iOS in China, though, and the report adds that Apple’s App Store has seen significant revenue growth there this year:
+The popularity of messaging apps over the tracked period is also flagged up by the report, which notes that WhatsApp’s growth was fueled by Google Play downloads in emerging markets. That app, of course, was acquired by Facebook during the indexed period.

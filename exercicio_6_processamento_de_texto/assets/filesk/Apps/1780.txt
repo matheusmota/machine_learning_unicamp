@@ -1,0 +1,16 @@
+A startup called Yoshi Inc. is the latest to give drivers a way to fuel up without going to the gas station.
+The company has officially launched its gas delivery service in the San Francisco Bay Area, and is offering other simple services like filling up the air in a car’s tires, replacing windshield wiper blades and washing cars, as well.
+Sound familiar? Yoshi is not the only company to attempt to reach drivers where they park with a mobile app for booking.
+Gas-delivering competitors in the U.S. include: Filld, WeFuel, Purple, Booster Fuels and GasNinjas. There also are international upstarts playing in the space, like FueledUp in Lagos, Nigeria.
+Rather than delivering “on-demand,” Yoshi users schedule refueling one time, typically at a place of work where they park for hours during the day without needing their vehicle.
+Then, they authorize the startup to sense when their vehicle is nearby and come gas it up as needed.
+This “set it and forget it” approach allows Yoshi to optimize their delivery routes, explains CEO and co-founder Nick Alexander.
+The company has engineered its own gas delivery trucks with a proprietary system, called the Fuel Vault, which allows Yoshi to access any car’s tank, even if the gas flap is locked.
+With questions lingering about the safety and legality of fuel delivery direct to vehicles, Alexander said Yoshi is approaching relevant local regulators, and especially fire departments, in each market where it begins fuel delivery.
+“There are a lot of rules to follow, but they’re not as fragmented state by state as you would think,” the CEO said.
+The company is already profitable, with business beyond the San Francisco Bay Area, in Nashville, Tennessee and Atlanta, Georgia.
+Yoshi has raised $120,000 in seed funding and is currently participating in Y Combinator in Silicon Valley. The CEO declined to comment on further fundraising activity.
+Generally, Yoshi costs drivers $15 per month for a subscription, plus the cost of regular or premium gas, or other supplies like new windshield wiper blades. Yoshi also has a partnership with Firestone, which allows customers to buy new tires and book a tire change through Yoshi.
+The company also works to fuel fleets, and establishes prices ad hoc with its clients.
+In addition to using its seed funding to roll out to new markets, Yoshi plans to develop technology to keep pace with vehicle technology; for example, to deliver a rapid charge to electric vehicles, or hydrogen or biodiesel, Alexander said.
+Today, the company’s fuel-delivery drivers are 1099 contractors, but the company is exploring other options, like hiring delivery drivers as W2 part-time staff or full-time employees in different markets.

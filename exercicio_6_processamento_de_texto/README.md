@@ -2,9 +2,9 @@
 
 **Data de entrega: 16/11, as 7:00 (da manha).**.
 
-O diretorio [ex6](http://www.ic.unicamp.br/~wainer/cursos/2s2016/ml/ex6) contem 2 zip files. Ambos contem 5000 textos, um por arquivo. O arquivo [file-R.zip](http://www.ic.unicamp.br/~wainer/cursos/2s2016/ml/ex6/file-R.zip) gera um diretorio com os 5000 textos. O arquivo [file-sk.zip](http://www.ic.unicamp.br/~wainer/cursos/2s2016/ml/ex6/file-sk.zip) gera um diretorio de diretorios (com as classes) e os textos estao no subdiretorio apropriado. Esse parece ser o format mais util para a função [sklearn.datasets.load_files](http://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_files.html#sklearn.datasets.load_files)
+O diretorio [ex6](http://www.ic.unicamp.br/~wainer/cursos/2s2016/ml/ex6) contem 2 zip files. Ambos contem 5000 textos, um por arquivo. O arquivo [file-R.zip](http://www.ic.unicamp.br/~wainer/cursos/2s2016/ml/ex6/files-R.zip) gera um diretorio com os 5000 textos. O arquivo [file-sk.zip](http://www.ic.unicamp.br/~wainer/cursos/2s2016/ml/ex6/file-sk.zip) gera um diretorio de diretorios (com as classes) e os textos estao no subdiretorio apropriado. Esse parece ser o format mais util para a função [sklearn.datasets.load_files](http://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_files.html#sklearn.datasets.load_files)
 
-O arquivo [category.tab](http://www.ic.unicamp.br/~wainer/cursos/2s2016/ml/ex6/categoriy.tab) contem a classe de cada documento.
+O arquivo [category.tab](http://www.ic.unicamp.br/~wainer/cursos/2s2016/ml/ex6/category.tab) contem a classe de cada documento.
 
 Eu ja nao me lembro de onde sao os textos , mas sao parte de algum dataset de text mining com posts de tamanho medio de tecnologia.
 

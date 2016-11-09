@@ -1,0 +1,9 @@
+Yesterday, the EFF announced the launch of a campaign called ‘Spying on Students’ to raise awareness about privacy risks for technology used at schools. The campaign came with a complaint that it filed with the FTC against Google, claiming that the company collects and data mines school children’s personal info, including what they search for.
+EFF staff attorney Nate Cardozo had this to say yesterday:
+It all comes back to Google’s Chromebooks (and Google Apps for Education suite) being doled out at school and a “sync” feature, that’s turned on by default, potentially tying personal data to school work, activities and communications. According to the EFF, Google has told them that the sync feature will be turned off by default soon.
+Google has responded today, as well as the co-founders of the “Student Privacy Pledge.”
+It’s clear that Google’s mission to get their computers into schools and enterprise organizations is to clasp down on a new potential stream of Google (and Alphabet) consumers. “Get em while they’re young” is a battle cry for many marketers, but Google has made a statement to set the record straight. Jonathan Rochelle, Director of Google Apps for Education, said in a post:
+Rochelle added: “Schools can control whether students or teachers can use additional Google consumer services — like YouTube, Maps, and Blogger — with their GAFE accounts.”
+You can read the entire post here, which includes explanations of each of the EFF’s issues.
+The co-founders of the “Student Privacy Pledge” each say that the EFF misunderstands its pledge and the complaint has “no merit.”
+Personal data is beyond important, as our entire lives are spread out over multiple services that operate online in one way or another. Having a watchdog looking out for kids is great, but according to Google, the EFF is campaigning against a scenario that is not happening.

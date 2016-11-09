@@ -1,0 +1,21 @@
+1, 2, 3, 95, 98, 2000, ME, XP, Vista, 7, 8, 8.1, [airgap], 10!
+Microsoft’s Windows 10 must patch the consumer-facing flaws present in Windows 8.x, and also bring enterprise customers into the modern era of computing. Couple that to the larger Windows trend of platform unification that Windows 10 will be the apparent culmination of, and you have what must be one of the most audacious software projects ever attempted.
+That’s not to say that Microsoft will pull it off, but I like their guts.
+The first Windows 10 preview is, as the company has stressed repeatedly, is a small, and tailored set of new code. There is more coming. What we have in this release are desktop-focused features for business customers. A consumer preview will launch in January.
+But that is later and the current preview is here, so let’s get into it. If you aren’t familiar with the granular preview components of the operating system, head here. If you want to download it, head here.
+Windows 10 is not Windows 8 goes Windows 7, and it also isn’t Windows 7 goes 8. It’s instead a desktop-focused Windows build that contains much that is traditional, but in an updated fashion, while placing power-user tools next to consumer-apps and services. If you can better boil that down, leave a comment.
+The preview isn’t final code, so let’s not be unkind, but it does currently have a mixed set of user interface elements. When I first fired up the preview, my Start Menu had live tiles next to a static Notepad icon, resting next to an refreshed File Explorer icon, both under a Metro PC Settings icon, and all three under a Pictures icon which might be sourced from Vista.
+The preview feels like that quite often: A blend of old, updated old, and new. And, surprisingly, it somewhat works. (Again, it’s a preview). Though there are moments, like this, when you aren’t sure what decade it is:
+
+But I am not sure you can keep the interface elements that enterprise customers demand due to their familiarity, and what consumers need in perfect harmony.
+There is plenty that works, like metro apps and desktop apps sharing space in the zoomed out modes There are two: Traditional Alt Tabbing, and Task view.
+Here we find more tension: If you click on the Task view button, you see icons for open apps, similar to Alt Tab, and, below, your multiple desktops. And if you hit Windows Tab, you get the same thing. But if you hit Alt Tab, you get just the icons, and no virtual desktops. Why have two separate but very similar interface elements, and why have three ways to access them? I can understand having one for touch, and one for keyboard, but three is confusing.
+
+There were three things I was most excited about playing with in the preview: The Start Menu, metro apps on the desktop, and how Microsoft would fuse the Start Screen with the new user interface pieces.
+The chiste, however, was on me, because Microsoft forces you to choose either Start Menu or Start Screen in the preview. You can in fact turn off the Start Menu, if you are willing to log out. But once you have selected the Start Screen, you can’t access the Start Menu.
+Recall that we are dealing with an interface in flux.
+The downside is that the goo that will link the Start Screen, and the desktop environment is occluded. So we can’t see from this preview how well the Start Menu will integrate with the Start Screen itself. And thus we can only judge what we have from a desktop perspective1.
+It’s almost as if Microsoft planned it that way.
+I will say that the Start Menu is competent, and in keeping with my expectations. As are metro apps on the desktop. And the Start Menu appears to be the same, so I suppose I am content there as well.
+It’s going to be a very busy 250 to 300 days in the Windows world.
+1. I am not alone in wondering about how this will work. 

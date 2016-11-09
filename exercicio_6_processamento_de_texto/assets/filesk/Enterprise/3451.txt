@@ -1,0 +1,8 @@
+As expected, Microsoft released a new build of Windows 10’s technical preview today for users who are in the “Fast” update cycle for the company’s next operating system.
+The build contains a few changes that users requested, including new animations for minimizing applications, and the ability to change what buttons appears on the Start bar.
+On the new feature front, three-finger gesture support has been included that is similar to what OS X currently offers. Here’s Microsoft’s Gabe Aus descriptions of what now works:
+My Windows 10 machine is at my house so I can’t test them out at the moment, but I can say that they are a welcome addition. An issue: What if you don’t like your touchpad, or your touchpad is small — as with the current line of Surface keyboards — how useful will the above be? That’s merely to point out that touchpads on Windows machines have traditionally been lacking.
+How about something like this, Microsoft? I’d probably buy one.
+Also included in the build are improvements to Internet Explorer, native MKV support, user interface changes, and tweaks for OneDrive:
+Again, I’ll need more time with the code, but the changes sound reasonable on paper.
+The updates come from its own ideas, as well as those sourced from community feedback. User comment is being incorporated into the product, so keep it coming.

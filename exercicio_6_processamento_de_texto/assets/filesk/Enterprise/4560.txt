@@ -1,0 +1,11 @@
+HackerOne, a startup that was started by the former head of the Facebook security team, announced it was getting $9M in Series A funding and that former Microsoft lead security strategist Katie Moussouris was joining the company as Chief Policy Officer.
+Moussouris joins co-founder and CTO Alex Rice, who is formerly of Facebook and Merijn Terheggen, co-founder and CEO.
+The company helps organizations by providing a platform to share security and bug information with the idea that the more eyeballs you have on a program or service, the more likely you’ll find an issue. While they have existing clients, this is the first time they are announcing the service publicly.
+“The general problem is that vulnerabilities are inevitable. No matter what your security system, you are going to find issues. The current state of the world is pretty terrible. A researcher that finds [a bug] in the wild doesn’t know what to expect,” Rice explained.
+“They could get a pat on the back or have their door kicked in by the FBI,” he added –and Rice believes there is a better more open and transparent way to deal with this type of reporting.
+HackerOne offers a platform to give companies an organized way  to set up bug tracking programs. Ultimately, Rice said they want to treat people who find these vulnerabilities with respect, and if they wish, the company establishing the program can give the bug finder a monetary reward as well, although he stresses that’s not a requirement by any means. They can add the finder to the Hall of Fame or thank them publicly on social channels, give them a t-shirt or any means of thanks they come up with.
+“If you look, the pioneers of these programs were Google, Facebook and Microsoft. All that experience is what we are productizing into an organization or service,” Rice told me.
+“Unlocking the creativity of research community is the most effective thing you can do for security. To do this, you need to add transparency and connect the people working on programs and projects,” he explained.
+HackerOne gets 20 percent of any bounty payment if and when a payment is made.
+The $9M is being provided by Benchmark and as part of the deal, Bill Gurley from Benchmark will be joining the board.
+PHOTO BY FLICKR USER ALEXANDRE DUALAUNOY. USED UNDER CC BY-SA 2.0 LICENSE

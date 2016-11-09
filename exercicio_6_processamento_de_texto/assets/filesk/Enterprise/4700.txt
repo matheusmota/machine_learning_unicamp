@@ -1,0 +1,8 @@
+Catchpoint Systems, a web and infrastructure performance monitoring company, has expanded its monitoring locations to 206 backbone nodes, and plans to add more to Eastern Europe and the Asia-Pacific region.
+Backbone nodes are machines that monitor data quality on devices, as well as browsers, web and mobile apps, and machine-to-machine (M2M) technology. This enables companies to track the performance of their online products with real-time analytics.
+Based in New York City, Catchpoint was founded in 2008. It has raised a total of $10.8 million in funding, including a $6 million Series B round from returning investor Battery Ventures last December.
+Catchpoint said that it plans to use its series B funding to add 30 new backbone nodes in 1Q2014. CEO Mehdi Daoudi told TechCrunch, “Our clients are driving our node roadmap and they are telling us that Asia-Pacific and Russia are emerging markets.”
+The company said it will focus on expansion in China because “relying on monitoring locations (servers) outside China has been shown to be problematic due to Chinese firewalls, a fiber cut, and connectivity lapses within China.”
+“Companies within China need to know that Chinese users can reach their services and that those services are performing at adequate speeds,” it added.
+The company currently has 206 backbone nodes, as well as 60 last-mile locations and 47 wireless 3G and 4G nodes around the world. These include 26 backbone measurement nodes in Russia, as well as six new locations in China, bringing Catchpoint’s total in the country to 18. It also added last-mile connections in France, the U.K. and the Netherlands.
+In the U.S., Catchpoint operates backbone nodes with carriers like Sprint, ATT, Verizon, and T Mobile.

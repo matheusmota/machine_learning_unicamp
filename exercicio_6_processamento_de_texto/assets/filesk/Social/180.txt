@@ -1,0 +1,15 @@
+Did you hear? Twitter would like you to know that its service is now easier to use, thanks to a series of rule revisions announced in May, which have just gone live. Starting today, Twitter is cutting down on what counts towards your 140 characters. As a refresher, that means media content like photos, videos, GIFs, polls and Quote Tweets no longer eat into your character count. Links still do, however.
+As you may recall, Twitter first announced all these changes earlier this year, but delayed their rollout to give the developer community time to adapt.
+Along with changing what counts towards the 140 characters, Twitter also announced other tweaks at the same time – like ditching the “.@” format, for example. This convention came about when people wanted to send tweets that began with an “@username” to their entire audience. Something of a user-generated hack, the period “.” circumvented Twitter’s restrictions on which tweets appear in followers’ Timelines.
+Twitter likes to tout all these changes as a means of simplifying its service – something it’s doing in an effort to appeal to new users who find the intricacies of using Twitter confusing. Twitter has seen its user growth stagnate, which has been worrying Wall St. and leading to rumors that the service is looking for an acquirer.
+The goal with its departure from the 140 characters – Twitter’s defining feature from day one – is to make the service easier to use.
+And it’s just so much easier, right?
+Right?
+In case you need a cheat sheet, here’s a summary of Twitter’s newer, “simpler” rules, including all those announced alongside the character count changes back in May. (See below)
+(Note that the RT and QT changes were shipped a few months ago, while the @mentions and “.@” changes are still forthcoming.)
+SEE? EASY!!
+I mean, really, isn’t this so much better than – oh, I don’t know – just displaying the first 140 characters, then hiding the rest behind a click?
+And isn’t this feature set just hugely in demand, even more so than an “edit your tweet” button or some sort of legitimate product built in response to the widespread cyberbullying and trolling that takes place on Twitter…you know, something like what Instagram just launched?
+I mean, I don’t hear anyone asking for these things…
+Anyway…new ways to reduce character count. Yay.
+(a version of this was posted on my Medium) 

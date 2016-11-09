@@ -1,0 +1,10 @@
+Sometimes the coolest demos at a convention are tucked away in the back corners, far from the bright lights and big booths industry stalwarts. One of the hidden gems of this year’s E3 arrives courtesy Contact CI. The small Cincinnati-based startup was showing of its developer kit for the first time at the event, featuring a complex glove designed to offer more lifelike VR interactons.
+“What we have developed is a glove that uses an Exotendon system for motion capture, so it’s completely different from what’s been present in a motion capture glove before,” explains co-founder Craig Douglass. “It captures all of your movements in real time, mimicking them back to the game engine that you’re using for your headset. And it also has haptic feedback, through five actuators in the fingertips that give you a buzz interaction, so when you’re picking up an item, you can feel yourself grabbing it, and when you’re letting go, you can feel it leaving your hand.”
+	
+		
+		
+	
+This is still pretty early days, and sadly the prototype on-display didn’t offer any of the promised haptic feedback when I took it for a quick spin. There’s also the matter of calibration, still a fairly complicated process that takes around five to 10 minutes to complete. As such, the company wouldn’t recalibrate it for every demo.
+Different hand sizes have a big impact on the efficacy of the system, and as such, my own demo was a bit frustrating. I’m already not great at shooting basketballs, so lending a lack of calibration to my lack of coordination made for a bit of a mess – even picking up the ball proved difficult. But the company still got its point across.
+
+Contact Ci will begin shipping dev kits this fall, priced at $470 for a pair or $250 for an individual (the pair, naturally, makes for a better experience). The company’s hoping to knock the price down to $299 for a pair by the time the peripheral starts shipping.

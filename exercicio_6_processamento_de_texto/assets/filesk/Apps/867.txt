@@ -1,0 +1,20 @@
+A personalized video channel for Apple TV, Rheo, has now closed on $2.3 million in seed funding, the company announced this week. It has also updated its application and expanded its content lineup, thanks to a new deal with Vimeo which brings the network’s catalog of short videos, including its “Staff Picks,” short films, animations, music and more, to Rheo’s service.
+The funding was led by Accomplice, with participation from Pathbreaker Ventures, Social Capital, SocialStarts, and Google Maps creator Lars Rasmussen.
+Rheo, by way of background, was founded by notable product development veteran Alan Cannistraro, who previously spent 12 years at Apple working on apps like Remote, iBooks, and Podcasts. He also worked at Facebook building auto-play videos and Year-In-Review, among other things. Rheo’s newly joined Chief Product Officer Charles Migos, meanwhile, also worked at Apple for over a decade, where he recently created Apple News, and Microsoft, where he designed the company’s home media experience.
+The idea for the startup came from Alan’s belief that media has become too difficult to access in our new digital landscape, compared with traditional TV viewing in years past where you could just switch on the set.
+
+“Media is everywhere. It’s scattered. To find it, you have to search. You have to remember. You have to act to get to it,” he says. “There was a time when media was effortless. When you just turned on the TV, and information came at you…Partly it was good information because you didn’t have to put any effort in to get it.”
+Unlike services like YouTube where content is organized by channel, Rheo organizes videos based on mood.
+For example, there’s a “Laugh” channel for comedy, an “Inform” channel for news coverage, a “Spark” channel for creative content from artists, designers and musicians, “Learn” for educational content, and “Chill” for music. With the updated version of the Apple TV app, Rheo has also added a new channel called “Move,” which features action sports content.
+The videos on Rheo come from a variety of sources, but mainly Facebook via API access. With the Vimeo addition, Rheo has around 16,000 total videos available and it adds around 1,000 more every week. Alan says the team curates the selection, whether that’s hand-picking select videos they come across, or pulling in all from a specific, trusted publisher.
+
+What’s interesting about Rheo’s service, however, is that it gradually adapts itself to the viewer’s own interests. Over time, the more you watch, Rheo gets better at identifying those you’d like.
+When you watch a video to the end, for example, that’s a signal that you like it, while skipping a video indicates disinterest. The app can also learn what time of day you tune into certain types of content, plus you can more directly indicate you like something by “boosting” it with a double-press on the Siri remote.
+In addition to the new Vimeo content, the updated app also now offered more controls to move through videos.
+While there are a number of video-viewing apps on the market, Rheo is betting on its product as being the way it wins.
+
+“Charles and I know how to build great products that people love. That is how we differentiate ourselves from the sea of other apps,” says Alan.
+In three months, Rheo’s viewers have watched over a million videos on the app, though the company declined to say how many users it has. It’s also not currently monetizing, nor discussing its plans on that front in detail.
+“I’ll say this about monetization: We are approaching peak ads. I believe it will mature,” says Alan. “It’s unfair to show a user a 30s pre-roll for a 2 minute piece of content,” he adds, “I think users will revolt.”
+In the near-term, Alan says the company will use the new funding for hiring, with plans to hire both industry experts and creative newcomers to round out the team.
+The app is a free download for Apple TV. The plan is to remain on Apple TV for the time being, then move to other platforms after they get the experience right.

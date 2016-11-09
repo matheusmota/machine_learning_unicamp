@@ -1,0 +1,8 @@
+AppGyver has just announced the acquisition of AppArchitect, a Disrupt Battlefield company that provides app-building tools through a drag-and-drop, no-code interface. The terms of the deal were not disclosed.
+AppGyver is a rapid mobile app development company founded back in 2011, that has since gone on to develop Steroid.js, a command-line based tool for quickly building HTML5 apps, along with their own drag-and-drop composer. AppArchitect’s main product is also a drag-and-drop composer for iOS apps, with no coding experience necessary.
+AppArchitect founder Ilya Zatulovskiy told TechCrunch that the acquisition idea came up when AppArchitect was looking for a new round of funding back in May.
+“App Architect 1.0 is for iPhone only, and we needed to get to Android, so we were targeting a $2 million raise,” said Zatulovskiy. “When we were having trouble reaching that number, we asked ourselves if we wanted to take less money and not get out all the features we wanted to.”
+That’s when AppGyver came into the mix, added Zatulovskiy, saying “AppGyver was a year or more ahead of us in terms of development.”
+Both companies provide a similar tool in the app composer, and AppGyver’s backend cloud services allow for AppArchitect users to expand into Android for the first time. As a first step in the acquisition, the teams are launching AppArchitect 2.0, which has a brand new, flat design, full support for Android, and new premium features like comments and video channels.
+Zatulovskiy tells us that he will stay on for a few months through the transition, as will part of the AppArchitect team.
+Learn more about AppArchitect here.

@@ -1,0 +1,12 @@
+Flying is expensive.
+So Airfordable is launching from Y Combinator’s Summer ’16 batch to let you book flights and pay over time before you take off.
+Here’s how it works:
+Travelers find their preferred flight online (using any travel site they want) and upload a screenshot with their flight details.
+Once you are approved, the startup calculates a payment plan (up to 3 months) that starts with an upfront deposit and ends sometime before your flight takes off. And after your final payment Airfordable will email you a confirmed e-ticket for the trip.
+One problem – for this convenience the startup charges a pretty lofty fee – anywhere from 10-20%, depending on demand, the date of travel, and ticket price. Assuming a 3-month repayment period, a 20 percent fee is essentially an insane 80% APR.
+But thinking of the fee as an interest rate isn’t exactly the right way to do it – mainly because a service like Airfordable could mean the difference between someone being able to take a trip or not – turning it into a priceless service. Ama Marfo, co-founder of Airfordable, echoes this sentiment when she explained that “the fee is high for people that don’t understand the value”.
+Plus, in return, the company doesn’t check your credit score, meaning customers with poor or no credit could potentially be approved for a layaway plan.
+So far the service has been used by about 10,000 people with a 95 percent repayment rate. This rate may be so high because the entire balance needs to be paid before you take the trip, unlike a credit card or loan service like Affirm. The upside to this is that a traveler doesn’t have to be stuck paying for their trip months after they return from it.
+If a traveler doesn’t pay before their trip, their flight is canceled. But, all payments that they made after the initial deposit are credited towards a future trip.
+In the future, the company hopes to expand into layaway payments for vacation packages and hotels. They also are working on a custom travel search platform so users don’t have to upload their own travel screenshots.
+They also are working towards finding a financial institution to back their layaway plans – as of now all flights are being purchased from the company’s operating funds.

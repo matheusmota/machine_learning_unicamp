@@ -1,0 +1,10 @@
+Amidst concerns over the gaming mechanics of a popular buzzy app called Stolen, its creators Hey Inc. has decided to shut down. They tweeted out the news today. Basically, the app allowed you to “own” peers with Twitter accounts, whether they signed up for the service or not. It was meant to be a fun game, but rubbed many people the wrong way.
+After an interview with Gadgette, the team created an opt-out page that let people remove their profiles if they didn’t want to participate. It oddly required you to log into Twitter and authorize the app. The team then made sure that it only asked for read permissions, in case people were worried.
+That apparently wasn’t enough to appease those who felt uncomfortable with the whole thing.
+
+Concerned parties include US Representative Katherine Clark, who wrote a letter to both Twitter and Apple (Jack Dorsey and Tim Cook specifically) about Stolen and how it allows abusers to harass people:
+The Hey Inc. team had built something like this before, but for Facebook. It fizzled out.
+Some actually enjoyed the app, with Fortune calling it “addictive.”
+Many Twitter employees participated in playing the game as well, with Twitter COO Adam Bain “owning” some of my colleagues at one point. Of course it was all meant to be fun. However, I decided to remove my own account. It just felt uncomfortable. In-app purchases gave you more currency to spend in the app, and you could “steal away” users if you had enough fake cash.
+I played around with it for a bit, but it was pretty much a time waster:
+The company is directing people to iTunes for refunds:

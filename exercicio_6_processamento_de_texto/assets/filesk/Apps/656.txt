@@ -1,0 +1,18 @@
+Facebook may try to compete with Steam, or at least win back revenue lost when casual gaming shifted to mobile. Today Facebook formally announced it’s working with game engine Unity to build a dedicated, downloadable desktop gaming platform, plus it’s broadening the Facebook.com experience for gamers.
+Both will allow publishers to offer their iOS and Android games on desktop in addition to the casual games Facebook is known for, while the desktop PC app could support more hardcore games.
+
+Starting today, game developers can apply until August 31st for instant access to a limited alpha of a version of Unity 5.4 that will allow them to build and export games to Facebook’s website and desktop app. “Integrating tools that provide effortless access to Facebook’s network is a key part of helping developers find the success they deserve” says Unity’s VP of biz dev Elliot Solomon,
+Previously, Unity developers had to work with a more code-intensive Facebook SDK to bring games to its web platform. Facebook already partnered with Unity to support Oculus VR game development.
+Facebook was once the home for social gaming, earning a peak of $257 million in payment taxes in Q4 2014. That’s slipped to $197 million last quarter as gamers moved to mobile app stores. But Facebook still has 650 million users who play games each month. It’s paid out over $8 billion to game developers since 2010, and $2.5 billion in 2015 alone.
+
+The new and revamped Facebook gaming platforms could restrengthen the social network’s control over a huge part of how people use the internet.
+Facebook first announced its foray into a downloadable desktop platform in May. It was calling the test the “Facebook Games Arcade” though the company has ditched that name and now just refers to it as the “new Facebook PC gaming platform”. You can watch a demo of Facebook Games Arcade here:
+
+Facebook was apprehensive to reveal details about the specs and plans for the PC platform, but here’s what we know from talking with Facebook and Unity:
+
+Facebook’s enhanced web and new PC platform could allow it to compete with Valve’s Steam marketplace. Though Facebook might start by focusing on more casual titles rather than the big console blockbusters, it could move in that direction eventually.
+While Steam has over 125 million monthly users, Facebook could attract developers with its massive user count. If Facebook and Unity can make it simple to port games to Facebook’s platforms without a bunch of extra coding, devs might as well gain some extra exposure. Facebook’s Oculus Home is already competing with Steam.
+Meanwhile, these platforms’ support for mobile could allow Facebook to earn taxes on mobile games without owning its own mobile operating system. It once tried a different approach, building an HTML5 mobile web gaming platform called Project Spartan to sidestep the iOS App Store and Android’s Google Play. But developers dismissed it as underpowered compared to the native operating systems.
+
+Facebook is on a quest to eat the internet. Feeds, messaging, video, live streaming, news, commerce, payments — Facebook wants a piece of everything you do online. It can’t make the world more open and connected if it isn’t connected to every way you…connect. As gaming grows as a behavior, Facebook can’t sit back and let Apple Google, Microsoft, Sony, and Nintendo own it.
+The Oculus acquisition was a big step back into gaming through VR. Still, most of us spend our days not in a headset but in front of a glowing rectangle. Facebook won at online gaming years ago. The company proved it’s not afraid to be the underdog, challenging YouTube for video. Now it’s time to hit “Continue” on Facebook Gaming.

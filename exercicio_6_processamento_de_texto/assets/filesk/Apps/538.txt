@@ -1,0 +1,12 @@
+Light painting photos and videos are really cool, but complicated to make. That’s the idea behind PABLO (no, not that Pablo), a new app launching today for iOS.
+Typically light painting (or long-exposure) photos require an expensive DSLR and adjustments to ISO, aperture, shutter speed and other settings most of us pretend to understand but in actuality have no idea how they really work.
+So PABLO’s founders decided to make it easier. Their iPhone app combines a custom algorithm with Apple’s camera API, and the result is one-tap long-exposure photos and videos.
+
+Since Apple’s API mandates that the camera shutter only stay open for a maximum of 1 second, PABLO need to find a workaround. So they came up with a way to simulate the shutter staying open by taking multiple one second exposures and merging it into a video or photo (which is just the last frame of the video).
+This faux long-exposure also means that you can see the content while you are capturing it, as opposed to a real long-exposure on a DSLR where the screen goes black and you can’t see what you create until after the fact.
+The app itself feels very Instagram-like, with a feed tab to see long exposure videos from people you follow, a discover tab to explore new creators and a camera tab to create content.
+Sometimes content creation apps with feeds and discovery features get too caught up in forcing users to keep content in the app – and this ends up being their downfall. Sometimes people would rather not create content at all than create content that they can’t share with their existing networks on Instagram and Twitter.
+
+But to PABLO’s credit, the founders emphasized that they are ok with content leaving the app – and the feed is just a backup in case people want a place to share ideas. So they let you export videos to Instagram, Facebook, Twitter and your camera roll – currently in .mp4 form, and eventually in GIF form.
+If it catches on, PABLO could make light writing another niche type of cool content for your phone. Apps like Boomerang and Hyperlapse became popular because they provided something other than filtered photos and videos, and this could do the same.
+Ultimately if you’re into creating interesting content on your phone, the app could be a good addition to your repertoire. The app launches today and is available for download from the iOS app store here.

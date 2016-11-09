@@ -1,0 +1,206 @@
+Farm drones, autonomous security guards and next-generation tampons were among the products presented at today’s Y Combinator startup accelerator Summer 2016 Demo Day 1. You can check out write-ups of all 44 below. And here are TechCrunch’s picks for “The top 7 startups from YC Demo Day 1”, plus writeups of the 48 startups that launched on Demo Day 2
+YC’s increased international outreach efforts are paying off. 30 percent of this batch’s startups came from outside the US. While some were mere copycats of US startups, many brought different approaches to classic problems.
+Today’s startups were focused on consumer, developer tools, security, hardware, marketplaces, and non-profit. We’ll see a different set tomorrow concentrated around enterprise, B2B, biotech, edtech, and fintech.
+Investors had mixed reactions, with few saying they saw startups they were truly wowed by. Yet most admitted that past YC success stories were tough to spot on Demo Day, so we might not know the quality of this batch for a few more years.
+One major innovation at Demo Day: they’re now offering Doblet portable chargers so investors don’t have to worry about their phones dying or camping out by the power outlet like the TechCrunch crew.
+Here are all 44 of the startups that presented on-the-record today:
+Joy – Software eats wedding planning
+Weddings can often seem to lead to temporary insanity. Joy is building a tool to help couples plan everything that takes place in-between the engagement and the honeymoon. The company’s marital software suite has seen some major growth over the past several months with about 150 happy couples joining the service daily to manage their RSVPs, track guests and keep everything organized. Joy is now looking to break into the $14 billion wedding registry market where they see even more potential to earn healthy commissions. Joy could disrupt the crooked deals where wedding planners book vendors who give them a bigger cut rather than giving the bride and groom the best price.
+Read more about Joy in TechCrunch
+
+ 
+Flex – The modern tampon
+The tampons women use have seen very little innovation over the last eight decades. Flex has created a tampon replacement set to a subscription model. The company has already sold $70,000 worth of product through pre-orders and has successfully navigated the FDA approval and patenting process. Flex wants women to be able to forget about their periods so they can take advantage of every minute of every day. Traditional tampons can make sexual activity tricky, be messy, and even cause infections. Their disposable menstrual product can be worn for 12 hours and is non-invasive, comfortable and healthy. In a few weeks women will be able to receive shipments of the tampons for $20 per month and the Flex touts 70 percent margins on the product.
+Read more about Flex tampons on TechCrunch
+
+ 
+JustRide – Getaround for India
+Just six percent of adults in India own a car, but as more of the population reaches the middle class, more people want to drive. JustRide is a peer-to-peer car rental marketplace that takes a 25 percent cut of rental fees. The $500 a month that users can earn on JustRide is the same as the average monthly earnings in the country, so it lets users effectively double their wages. The startup’s proprietary IoT device lets it monitor driving behavior and blacklist adrenaline junkies. JustRide already has over 7,000 rentals a month in just three cities, but it’s chasing the full $18.5 billion yearly car rental market in India. While it’s a clone of America’s Getaround, India’s a big enough market to warrant its own competitor.
+ 
+Exponent – Unity for mobile apps
+Too often, apps that strike it big on mobile stifle their growth by focusing their scant resources on launching with only an IOS or Android app. Exponent want to make it super simple for mobile developers to build out iOS and Android versions of their app while only coding in JavaScript. The free open-sourced software uses React Native, a framework for building native apps that’s used by companies like Facebook, Airbnb and Walmart. The service just came out of beta this week. Led by early Facebooker and Quora co-founder Charlie Cheever, Exponent has an enviable team.
+
+ 
+Airfordable – Payment plans for travel
+Everyone universally enjoys relaxing on the beach with a mint julep, but not everyone has access to the same disposable income necessary for travel. Airfordable was born as a payment plan service to support travel for people that have limited credit or limited savings. The service lets wannabe travelers upload a flight itinerary and create bi-weekly payment plans that push payments off up to three months. Tickets are distributed only when the payment plan is successfully completed. After reaching profitability and booking $500,000 in sales, the company wants to increase spending to push into financing plans for hotels as well. The company has partnered with an insurance company that is accountable for default risk and is growing at 53 percent month over month.
+Read more about Airfordable on TechCrunch
+
+ 
+GoGoGrandparent – Dial-a-rideshare
+Senior citizens want independence, but many aren’t versed in using smartphone apps like Uber. GoGoGrandparent lets seniors call via phone to book a ride, which the startup books through existing car services. With a 50 percent margin, Go Go Grandparent is growing 12 percent week over week, and 21 percent of first time users stick with it. Now seniors are asking for help getting groceries and medicine, giving GoGoGrandparent adjacent markets to expand into. Though seniors might get better at smartphones, Go Go Grandparent thinks it can be the layer between them and the on-demand economy.
+Read more about GoGoGrandparent on TechCrunch
+
+ 
+ZeroDB – Encrypted enterprise cloud storage
+The cloud can be a scary place when it comes to keeping enterprise information secure. ZeroDB ensures that companies with sensitive data can move their operations to the cloud without having to worry about compromising overall security. ZeroDB encrypts data and moves it to the cloud while keeping the decryption keys on location. The company announced at demo day that they are already in the process of partnering with a UK bank for an operation that will bring in $1 million annually for the company.
+
+ 
+Fabric – A network of searchable memories 
+In today’s day and age, companies with millions in resources like Google’s Calico are working on combating diseases related to aging like memory loss. A team of ex-Facebook timeline engineers wants to use what they know to create a solution far simpler than drug synthesis. Fabric is an automatic journal that captures experiences and interactions, including GPS location, to generate a complete searchable profile of memories. The app has been one of the top trending apps in the app store and has seen over 1.5 million new real-time checkins.
+Read more about Fabric on TechCrunch
+
+ 
+Skylights – VR as in-flight entertainment
+Those tiny seat-back screens cost airlines a fortune because of installation and the weight they add, and they make you feel trapped on the plane. Skylights has developed its own VR headsets and software so passenger can strap in and watch 2D and 3D movies on a giant virtual screen. Skylights has already outfitted 100 flights for 4 airlines, and its current deals for 15 flights a day will bring in $1 million a year in recurring revenue. With a founder who was a former commercial pilot and airline exec, Skylights wants to make VR in-flight entertainment good enough to become a differentiation point.
+
+Haywheel – Artisanal food marketplace
+Fantastic restaurants need fantastic ingredients, but the hardest part for chefs should be cooking the food not sourcing it. Haywheel is an online marketplace for artisanal foods that makes it extra simple for top-notch restaurants to score the choicest of lobster or tortellini. The company already has more than 300 restaurants using the service, including a few Michelin-starred establishments. Haywheel takes a 10 percent commission on the food purchased through the marketplace. The service launched last week and is already planning its move to open the program to the $5 billion specialty food store market.
+
+DevColor – A non-profit for attracting and retaining black talent 
+Most people in Silicon Valley recognize that the technology industry lacks diversity, but many don’t push themselves and their co-workers to change the status quo. A plethora of Bay Area tech companies are employing strategic recruiting to solve the problem but many have actually seen diversity stagnate and in some cases even decrease in recent years. DevColor wants to employ a non-profit structure to offer interview preparation and career strategy advice to help companies attract and retain black engineers. The startup is working with 114 software engineers and has closed sponsorships with mainstays like Pinterest, Collective Health, and Uber to ultimately reach long-term sustainability by the end of the next two years.
+Read more about DevColor on TechCrunch
+
+ 
+Iris Automations – Collision avoidance drone technology
+Commercial drones will grow to a $23 billion business by 2020 for agriculture, infrastructure inspections, and delivery. But many drones still fly blind, dependent on pilots. Iris makes a tiny box that can be added to a drone to give it sense and avoid capabilities. It uses computer vision and deep learning tech to create real-time 3D maps around drones and track objects up to 2000 feet away. It’s already in the air with a live paid alpha program. Drone hardware manufacturers won’t all be able to make the smartest brains, but Iris could help.
+Read more about Iris Automations on TechCrunch
+
+ 
+Techmate – your technology concierge
+Setting up IoT devices sucks. It’d be fine if they kept working but as soon as your wifi goes down or power goes out, something is sure to get screwed up. Techmate wants to bring a more sustained level of tech support to consumers with smart homes. The company says that connected devices will increase 5x in the next 5 years so consumers are going to have a lot more smart light bulbs to take care of. The company currently has $30k in monthly revenue and has been growing 25 percent week-over-week since it launched.
+
+ 
+Looklive – Shoppable photos
+Men’s fashion is a $400 billion a year market growing faster than Women’s. Men want to own clothes, they just don’t love shopping. Looklive’s tech can scan a photo of a model or celebrity, tag what clothes they’re wearing, and let you buy those looks or something similar but more affordable. Looklive is partnering with content creators like Hearst’s Complex and Esquire magazines, which will upload photos to its site. Looklive will make them shoppable and take 10-30 percent of the revenue without owning any stock. Looklive’s co-founder started fashion e-commerce phenomenon KarmaLoop, and now his new startup is growing 25 percent month over month.
+Read more about Looklive on TechCrunch
+ 
+Luminostics – Disease diagnosis with smartphone flash 
+Taking a far more complex page from early iPhone apps that leverage the iPhone’s flash to detect heart rate, Luminostics wants to use the same flash to diagnose STDs like Chlamydia. To get a diagnosis, all you have to do is add a sample of blood, urine, or saliva to a cartridge and insert it into the smartphone adapter. In 15 minutes, smartphone users can get critical health information. The team decided to start with STDs because of the privacy concerns that put 35 million people at risk every year. The at-home device is fast, convenient, and private unlike traditional doctor visits. The tech was developed as part of PhD research and will be entering clinical trials next year. While the company still has a long way to go before hitting their target of a US and Europe launch in 2018, the founders have an ambitious vision that includes vetinary testing and food safety feedback, in addition to additional applications in consumer health.
+ 
+
+ 
+Airo Health – calorie-tracking wearable
+There are so many smart health apps out there than can analyze the hell out of your personal data but often the real problem is getting those reliable health metrics in the first place. Airo Health wants to track your calorie intake automatically. They’ve built a $200 wearable that measures the wave-form of your pulse to track blood flow to the digestive system. The research that the company is using suggests a strong correlation between this metric and a person’s total daily calorie consumption. The company has already partnered with the US military and is now targeting the 94 million Americans that are counting calories.
+
+ 
+New Incentives – Cash for birth at a health clinic
+5900 newborns die each day in Africa, many because they’re not born at a health facility. New Incentives is a non-profit that offers conditional cash transfers to mothers who have their kids at a health clinic, which can reduce the risk of infection or spread of HIV. Its 5000-women pilot was shown to save 47 lives. New Incentives is growing 36 percent each week, and has the support of GiveWell, Good Ventures, and the Bill and Melinda Gates Foundation. Now the non-profit startup is seeking more money for what studies show is one of the top three most cost-effective ways to save a life.
+
+ 
+MessageBird – Communication APIs to challenge Twilio
+On a mission from Amsterdam, MessageBird is not coy about wanting to disrupt Twilio. The company produces APIs for sending SMS, voice, and chat messages. MessageBird has already acquired 13,000 customers including Uber, Skype, and even Dominos pizza. Compared to Twilio, the APIs are being sold as 20 percent faster and 30 percent cheaper than Twilio. Right now, the company only does business outside the United States but wants to use YC as a jumping off point into the U.S. market.
+Read more about MessageBird on TechCrunch
+
+ 
+Burrow – On-demand couches
+Silicon Valley seems to have descended upon the mattress in recent years as a focus of disruption, but the lowly sofa – another item that’s incredibly annoying to acquire and move- has largely been neglected despite the fact that it’s a $23 billion industry. Burrow wants to give consumers a dead-simple service for buying a couch that is shipped quickly (within a week) and can be assembled without any tools. The company already has $150,000 in pre-sales and is operating at 40 percent gross margins for the $850 sofa.
+Read more about Burrow in TechCrunch
+
+ 
+Miso – Home cleaning in Korea
+Miso is taking the home cleaning industry in South Korea and bringing it online. Thanks to Seoul’s density, Miso is already profitable there and will be in two more cities by next month. While it’s very difficult to retain cleaners in the US, it’s seen as a good job in South Korea where people can earn 60 percent more than in other jobs. Miso is growing 13 percent each week, has 600 weekly active cleaners, and customers are demanding additional types of service. On-demand cleaning is a capital intensive business which has seen failures in the US, but Korea could prove different.
+Read more about Miso in TechCrunch
+
+ 
+Multiply Labs – Customizable supplement pills 
+Taking pills sucks, not only do you have to remember to take your medicine at specific times, but you also often have to remember to take more pills than meals you eat a day. Multiply Labs is leveraging robotics and 3D printing to build made to order “designer” personal supplements. This means that you can go online and specify the substances that will appear in the pills shipped to you. You can even specify the duration of delivery for drugs like caffeine to hit at just the right time. Traditional pharmaceutical companies print pills in large batches, but Multiply Labs is using 3D printers to form the custom pills, and robots to fill them.
+Read more about Multiply Labs on TechCrunch
+
+ 
+Sixa – Low-latency cloud-based PCs
+Consumers have more interest in buying VR headsets than they do in plopping $1k on the high-powered gaming PCs that it takes to run them. Only one percent of the PCs out there are powerful enough for VR, Sixa want to change that by putting a specced-out virtual machine onto everyone’s system. Latency is a huge concern for cloud-based PC virtualization and it’s even more key in VR where the slightest increase in tracking latency can lead to some major user queasiness. Sixa claims that they’ve gotten the latency down to 10 milliseconds, an impressive metric that’s helping drive their $101,000 in monthly recurring revenue.
+
+ 
+ConstructVR – Distribution of enterprise VR apps
+The ConstructVR team is bullish on enterprise VR, so much so that they have created a platform for the distribution of VR apps to enterprises. While the market may seem small now, analysts project that 46 percent of VR apps will be used in an enterprise context. Samsung’s own GearVR team is using ConstructVR to distribute sales training to help employees sell more products. Without a cloud interface, companies have to use physical USB cables to distribute applications. The company is doing $7,500 in monthly recurring revenue and has requests in the pipeline for an additional $50,000 per month.
+
+ 
+Simbi – Bartering marketplace
+Most people have too much time and not enough money. Simbi lets them barter their skills for those of other people. Through its credits system, you could train someone in yoga in exchange for dog walking, or give dance lessons for home cleaning. Simbi is growing 95 percent per month, and $100,000 in services are being traded each month. The bartering market could be magnitudes bigger than the $14 billion estimate if there was a clearing house like Simbi to make exchanges simple and safe.
+Read more about Simbi on TechCrunch
+
+ 
+Aptonomy – Autonomous drone security guards
+For sites that need to move their security needs way beyond the “smile, you’re on camera” signs, there aren’t a ton of great options. Security guards can be inefficient and undependable, and security cameras can’t really do anything in terms of actually stopping an intruder. Aptonomy is hoping that drones are the answer. The company has built self-flying drones that can move around a set area and detect/record intruders or move about to physically stop them.
+Read more about Aptonomy in TechCrunch
+
+ 
+Mentat – Help young professionals get jobs
+Nobody likes applying to jobs, especially millennials. The job application has become far more “spray and pray” than ever before, and young job seekers easily feel overwhelmed managing large networks across dozens of companies. To combat this problem, Mentat wants to completely change the application process by automating resume reviews, app submissions, and interview coordination. The company is growing revenue at 40 percent week over week and has done $70,000 in revenue over the last month. Mentat is launching a paid pilot with the City University of New York (CUNY) that will be scaleable to $5 million in recurring revenue by the end of the year.
+Read more about Mentat on TechCrunch
+
+ 
+Women Who Code – Supporting the growth of female engineers
+Women Who Code has a vision that a mixture of data and community can help not only increase the presence of women in tech but improve their wellbeing. To date, Women Who Code has built up a network of over 80,000 members and has hosted 4,200 events to date. The non-profit supports women by offering a job board that displays job criteria important to women. The idea is that the transparency can help to nudge the ecosystem to adopt better practices.
+Read more about Women Who Code on TechCrunch
+
+ 
+Metapacket- Malware corporate firewall 
+Malware can wreak havoc on a system without ever letting on the fact that anything is awry. Metapacket is a security solution that stops malware by detecting whether outbound traffic is actually being generated by humans. The company claims that its firewall is the first in the world to boast this capability. It also claims that with its help, both the Sony and DNC hacks would have never happened.
+Read more about Metapacket in TechCrunch
+
+ 
+Raptor Maps – Drone-based farming analytics
+Farmers don’t know which acres of their farms produce the most crops. Raptor Maps uses drones and tractor-mounted sensors to analyze and A/B test farmland. Raptor Maps can tell farmers which seeds, fertilizers, and pesticides work the best. It can boost farmer profits and even make food a little healthier. Raptor Maps charges $100/acre and already has paid alpha installations with farms that sell to McDonald’s and Costco. Eventually, it could even sell data on which crops are growing to grocery chains and food wholesalers.
+
+ 
+Scale – An API for human labor
+Scale lets developers use an API to enter requests for flocks of humans to complete repetitive tasks. Mechanical Turk has quality control issues while business process outsourcing can’t be called via API and the firms are too big to work with some startups. Scale lets developers for Houzz get their housing listings screened for duplicates and price mismatches. Teespring uses Scale for moderation and categorization of user generated content. Scale is growing 40 percent week over week with over 50 percent gross margins. Computers can’t do every menial task, but now they can request humans that will do the rest.
+Read more about Scale on TechCrunch
+
+ 
+SimpleCitizen – TurboTax for immigration
+Over 13 million Americans have to sort through green card and citizenship applications each year and it can take weeks or months for everything to get ironed out. SimpleCitizen is aiming to make the process of navigating immigration documents a bit more tolerable. The company charges users $249 to cut down this whole process into just a few hours of work. The company has earned $40k in revenue in the last 30 days helping individuals and families in 90 countries with their immigration documents. Up next for the company is simplifying the process of applying for visas.
+Read more about SimpleCitizen in TechCrunch
+
+ 
+Yoshi – Car ownership as-a-service
+When most people think of getting a fill-up, they instinctively think about their personal automobiles. However, busses, municipal vehicles, and dealership inventory all sit idle for significant portions of the day and still need to be ready at a moment’s notice with very minimal room for error. Yoshi has been successful at entering this market and offering previously unavailable fill-ups for a $15 dollar a month membership fee on a 24 cent per gallon margin. However, the company is also looking to address the everyday car owner. By incorporating additional services like selling engine cleaner, replacing tires, exchanging wiper blades, and offering to wash and detail vehicles, the company hopes to access a larger market and boost margins to 40 or even 50 percent. The company already has partnerships with companies like Firestone and is planning to launch a pilot in a month with a Detroit automaker.
+Read more about Yoshi on TechCrunch
+
+ 
+Squire – OpenTable for barbershops
+Most barbershops still handle appointment booking over the phone with pen and paper or outdated salon software. Squire lets customers book appointments over mobile in exchange for a $1 fee. Squire’s founders even owned and operated a barbershop just to find out what customers need. When Squire onboards a shop, they in turn recruit all their customers, which become paid users of Squire. It can earn $1000 a month per barbershop, and there are 300,000 barbershops in the US. While the X for Y startup cliche might seem a bit tired, Squire may have found a permutation that works.
+
+Starcity – comfortable communal housing in SF
+The housing crisis in San Francisco is no joke, yet there often seems to be little in the way of tech solutions from Silicon Valley that truly help the “average” cash-strapped SF apartment hunters. Starcity wants to build comfortable communal housing in San Francisco that makes use of the millions of square feet in unused residential space in San Francisco. The one-bed, one-bath units are 50 percent the price of the average insanely expensive SF studio apartment.
+
+ 
+Vote.org – Get out the vote with big data
+Vote.org wants to beat big money in politics with even bigger get out the vote data. Groups like Rock The Vote have built massive partnerships with celebrities and corporations to increase turnout at the polls, but the strongest data tools often rest in the hands of the parties themselves. Vote.org wants to unlock hyper-targeted applications of data for get out the vote efforts. The non-profit plans to reach 1.2 million voters in specific urban areas. This year, $10.2 billion will be spent on competitive races with anywhere between $12 and $315 spent per voter. If Vote.org can come up with enough funding, it will utilize SMS to to impact political engagement.
+
+Coub – YouTube for video loops
+60 percent of video viewers don’t make it past the first 10 seconds of a clip. Coub wants to target these viewers with short video loops. After focusing heavily on making creation intuitive, the company has seen a 4X increase in loops created every month on the platform. Users can feed in footage from Youtube, Facebook, and UploadHero, trim the footage to find the best parts, and overdub the soundtrack. Coub is seeing an insane amount of traffic for its size, with 800 million video views per month with its video version of popular GIFs.
+Read more about Coub on TechCrunch
+
+ 
+Xberts – Platform for China’s wholesale manufacturers
+Xberts want to take on Alibaba by building a network of Chinese hardware manufacturers that can hock their items directly to a worldwide consumer base. There are 120,000 hardware manufacturers in China and 84 percent of them are exporting products through wholesale channels. Xberts is building a platform that relies on reviews from influencers to help foster the relationship between users and manufacturers. They’ve built up a network of over 10,000 influencers and are currently representing 450 manufacturers.
+
+ 
+Lollicam – Selfie videos for the Asian market
+Lollicam launched in Korea a year ago and in that time it saw five million organic installs. Similar to Snapchat, Lollicam lets users create videos with a library of ~500 stickers. The company believes it can crack the Asian market given that only one percent of teens in Asia are on Snapchat. To bolster growth, the team is pursuing partnerships with companies like Disney, Pixar, and Samsung. One campaign to promote Zootopia resulted in one million videos generated with characters from the film.
+Read more about Lollicam on TechCrunch
+
+ 
+OMG Digital – BuzzFeed for Africa
+Media companies in Africa aren’t moving fast enough to adapt to mobile and the taste of millenials. OMG Digital makes mobile-first content, and has grown to six million monthly users spending 14 minutes per day, and it only launched six months ago. 90 percent of its users are on mobile, and the startup is signing ad deals with Guinness and the African telecoms. By copying BuzzFeed’s model for a unique market, OMG Digital could give African millenials something to read that’s written specifically for them.
+Read more about OMG Digital on TechCrunch
+
+Wallarm – Smart web application security
+Wallarm provides security by building profiles of average everyday usage for applications and APIs. Wallarm then uses this profile as a baseline to measure against, rapidly differentiating malicious hacker threats from normal requests and effectively reducing the number of false positives to zero. Wallarm already has 60 companies signed-on that are representing 100 million web users. Just during its time at YC, the now-profitable company has doubled its monthly recurring revenue to $100,000.
+
+ 
+The Athletic – Paid subscription sports news
+Diehard local sports fans are willing to pay for in-depth coverage of their favorite teams that national and ad-supported media outlets can’t provide. The Athletic is a new sports media destination that hires top writers from publishers like ESPN, puts their content in a beautiful ad-free platform, and charges fans $7 a month to read it. In Chicago it’s already grown to 2000 subscribers with 18 percent weekly growth. It’s acquiring customers for $14 each and earning that back in just two months. The Athletic’s team already built endurance sports media giant Strava, and now want to scale their best-in-city sports news to 200 more markets.
+Read more about The Athletic on TechCrunch
+
+ 
+SMARTSITE – Constriction hazard detection 
+SMARTSITE is a detection device that can identify airborne particles and UV radiation among other things on construction job sites. The information is collected 24/7 and data is fed back in real time to a supervisor dashboard. The company’s value proposition is simple, reduce injuries and reduce lawsuits. 40 construction sites will be using the technology by the end of September, and the team is working to convert six pilot programs with the potential to hit $2.4 million in annual recurring revenue if successful.
+Read more about SMARTSITE on TechCrunch
+
+ 
+Suiteness – Hotel suite booking platform
+The best rooms in luxury hotels aren’t on Expedia or Priceline, and sometimes they’re not even on the hotel’s website. But if you want to travel in style or in a big group, they can be the best option. Suiteness creates a platform that showcases these unique rooms and lets you book them. Its average booking price is $2194, from which it earns $315 on a customer acquisition cost of $138. That means it earns back the money in the first booking. Suiteness has 30,000 suites from top hotels like the Wynn, Venetian, and Cosmopolitan on the platform already, and it’s aiming to increase booking transparency for all the 300,000 suites in 100 cities. Airbnb became a giant thanks in part to groups who wouldn’t fit in a hotel room. Suiteness could offer them a nicer place to stay.
+Read more about Suiteness on TechCrunch
+
+ 
+Mosaic – Pro smarthome installation
+Buying the right Internet Of Things devices is tough, and it’s even harder to install them. Mosaic guides you through the buying process, then sends a technician to your home to install them, plus offers subscription software for managing your smarthome. Mosaic can make big margins off installation, recurring software revenue, and do bulk sales by outfitting entire new apartment buildings. As the IoT trend picks up now that useful devices are finally here, Mosaic could be the Geek Squad for your geeky home.
+
+—
+Our picks for the top 7 startups from Demo Day 1
+All 48 startups that launched on Demo Day 2
+Our picks for the top 8 startups from Demo Day 2
+

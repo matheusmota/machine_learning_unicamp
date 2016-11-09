@@ -1,0 +1,5 @@
+Today, Google announced that it will be adopting a new standard for carrier messaging called Rich Communications Services (RCS), thus eventually moving on from SMS. The company also announced the acquisition of Jibe Mobile to help bring RCS to its Android products.
+Here’s what Mike Dodd, Android RCS Software Engineer and Minister of Messaging, had to say (and how cool is his title?):
+On acquiring Jibe:
+In a statement from its CEO, Amir Sarhangi, Jibe explained in a very Googly way how it started:
+Jibe had raised $9.1 million, describing itself as “the Cloud Communications Company for Mobile Operators, provides an open end-to-end technology platform for IP Communications.”

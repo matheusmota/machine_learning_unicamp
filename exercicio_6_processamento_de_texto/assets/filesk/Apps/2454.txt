@@ -1,0 +1,25 @@
+It was only a matter of time — and frankly not that much time — before a developer stepped in to make it super simple for iPhone 6s/6s Plus users to spread their Live Photos all over the Internets as animated GIFs.
+After all, what’s the point of having clips of your cat/kid doing cute stuff if they’re mostly languishing on your camera roll, rather than helping populate Giphy et al?
+Live Photos, for those in need of a quick primer, is a photo feature specific to Apple’s latest smartphones which let users snap a picture and simultaneously record a short video clip.
+In the iPhone 6s/6s Plus camera roll these photos remain still and composed, until you view the shot and push your finger down on the pressure-sensitive screen — at which point the photo comes to life, running through its brief animation, like so (albeit, on the iPhone they also have audio)…
+
+Live Photos are only available on the latest iPhone models. So that means sharing these clips with people who haven’t stumped up cash for shiny new Apple kit is tricky (but possible).
+Live GIF is the just launched app that’s stepping into the breach to make it easier to share your animated shots in the web’s favorite shareable video format (aka animated GIFs). Expect lots more to follow.
+The developer behind Live GIF also makes the photo-editing app Priime. CEO Arthur Chang says the idea with Live GIF was to experiment with 3D Touch and iPhone 6s capabilities — as well as building “a really easy app that just does what everyone wants with Live Photos”.
+“We originally created this with iOS 9.1, because working with Live Photos is well documented and supported, but we decided to go further and push to get it working with iOS 9.0 so we wouldn’t have to wait for 9.1 to come out of beta,” he adds.
+With something this elemental and obvious speed is clearly of the essence — y’know, before the hordes rush in…
+
+And Live GIF is certainly really easy to use.
+Here’s how it works…
+First you need to have taken some Live Photos to ‘giffinate’. So locate your child/cat and get snapping (if you haven’t already).
+Albeit, as the saying goes, never work with children or animals…
+
+Next load the Live GIF app, which will automatically pull in only your Live Photos to its camera roll. Here you can tap on an individual shot to generate a preview of it in GIF form — with the option to ‘Share GIF’ or ‘Share video’ (as a .mov file) at that point. Your GIFs (or .movs) can be saved or shared via email, messaging apps and so on.
+And that’s basically it. Your Live Photos (sans their audio) can now be liberated from your iPhone hardware in GIF form.
+The app also offers users the option to open their photo to edit in Priime, as a way for the developers to push users from app one to the other.
+“The link between Priime and Live GIF is that it’s the start of us starting to explore things like 3D Touch for better control for editing photos,” says Chang. “Though it’s not editing anything just yet, that will be in Live GIF as we explore adding it to Priime as well.”
+
+So for $1.99 iPhone 6s/6s Plus users can share their Live Photos as animated GIFs, with the rest of the GIF-loving Internet.
+Assuming the Internet needs any more cat GIFs…
+
+You can check out Live GIF on the App Store here.

@@ -1,0 +1,10 @@
+Apple finally allowed developers to create widget apps for iPhone and iPad owners when it released iOS 8. That’s opened up some useful shortcuts and quick options for Apple customers — I’m a big fan of Launcher — one of which is Klok, a widget released today for anyone with a need to keep track of time across the world.
+Created by Singapore-based app dev shop Buuuk, the free app sports a clean design and is super easy to get working. It allows you to put up to five dedicated city clocks into the drop down menu, giving you a choice between traditional clock face or digital time keeping. (The latter may be preferable for those with smaller iPhones.)
+Once you download the app, the first step is install it within the widget section of iOS. When that is done, you simply open the Klok app and add/remove your desired city clocks.
+
+Setup completed, the clocks are easily found by swiping down from the top of the screen. But, that’s not quite all — beyond just seeing time, you can also compare time zones at any hour.
+That’s ideal if you have a meeting that’s scheduled in a different time zone and want a quick way to calculate when it’ll take place at your local hour. In another nice touch, clocks are colored black during the night period and white during the day.
+
+Since Apple hasn’t turned its world clock into a widget yet, Klok just removed another reason to pay attention to the default iOS clock app, which I long consigned to a folder full of redundant Apple apps.
+Yes, the alarm clock feature remains vital to many, but you can access that via the swipe up menu if you navigate from the stopwatch. Now there’s really no need to let the stock clock app take up precious space on your phone’s homescreen.
+Update: Good news, folks, Buuuk has no plans to charge for the app. Forever free!

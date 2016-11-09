@@ -1,0 +1,15 @@
+After recently managing to stuff two feet into his mouth at the same time, Microsoft CEO Satya Nadella stopped by CNBC for a wide-ranging interview covering not only his recent comments on women in the workplace, but also his company’s bets on the cloud, and how Microsoft has long had an implicitly freemium business model.
+Nadella, who has been CEO for around three-fourths of a year now, made waves at the Grace Hopper conference, when he intimated that women should not ask for raises. In his comments today, Nadella reiterated his retraction and apology.
+The entire interview is mandatory reading, but here is the most salient riff on this topic [excisions for length: TechCrunch; Transcript: CNBC]:
+That’s a pretty comprehensive answer. Nadella notes that he answered from his own perspective, as someone for whom the system worked well — not taking into account the fact that others, those who face biases that he did not, might not be able to apply the same rubric and find similar success. As far as mea culpa goes, it seems sincere.
+It’s not often you hear a CEO call her, or himself ‘naive’ on a topic, let alone on of this level of importance.
+Nadella’s comments on the cloud were in line with his previous notes: Office 365 is doing well; Azure, matters; overall cloud revenue is growing, and so forth.
+One specific paragraph, however, stood out:
+This is a pretty interesting side of the cloud and platform wars: The need for simply tectonic quantities of liquid capital to compete. I think that we are seeing the further divergence of cloud companies that provide storage-based solutions, and cloud companies that sell both storage and compute services — Dropbox and Box can’t afford to spend billions per year on global compute infrastructure, but they can be competitive on price when it comes to storage itself. Or, at least they can for now — let’s not get too ahead of ourselves.
+Nadella named Amazon and Google as two other companies that are investing similar amounts of capital into building a global datacenter network of scale. Apple is a notable exclusion from that list — its cloud projects are a topic all their own, of course.
+Later today, Microsoft is hosting a cloud-focused event in San Francisco. Presumably, the company will have fresh news.
+Wrapping on a lighter note, Nadella joked that Microsoft has nearly always had a freemium business model. If that doesn’t sound quite right, read the following:
+The business sense to the company’s new, explicit freemium strategy is that it has the potential to drive recurring revenue for the company, unlike pirated copies of Windows that remain popular in a host of countries.
+Put another way, Microsoft is willing to give out OneDrive storage, Office Online and Windows upgrades, provided that a decent-sized chunk of people sign up for more, paid storage, buy Office 365, and still pick up new PCs that help drive Windows Store incomes.
+The Microsoft cloud event kicks off at 11 a.m. Pacific time. Strap in.
+Top Image Credit: Microsoft

@@ -1,0 +1,30 @@
+
+
+As an ardent sports fan, most of my analogies revolve around sports — and so does my understanding of attribution in marketing.
+In basketball, there is a much-coveted achievement called the “triple-double,” which is achieved when a player racks up 10 or more of three of the five critical aspects of the game (points, assists, rebounds, blocks and steals). In the game, points can come from scoring, but also from assists. In other words, you can get this coveted title for helping other people score.
+The concept of “attribution” in business is very similar to giving credit to a player for assisting another player in achieving an objective. It would be unfair to only recognize a player in terms of the number of baskets scored without acknowledging who helped make the play possible. The purpose of this post is to explain the analogous concept of multi-channel attribution in digital marketing: That is, which channels should get rewarded when a user clicks through to buy something.
+One of the most common methods of attribution in the digital marketing industry is based on last click, which means giving credit to the latest channel that the user clicked on before “converting,” or making a purchase.
+Multi-touch attribution enables us to determine the true value of each marketing channel. In this method, instead of giving “credit” or “attribution” to only the latest channel that drove conversion, all the channels that came before it are also given due credit based on the different methods used.
+Let’s follow an online shopper on the path to purchasing a $100 vacuum cleaner:
+If the cost of each campaign was $25, then as per last-click attribution, none of the channels would get any credit, and Return on Ad spend for the re-targeting campaign on the blog would be 4x.
+But, if we assigned equal weight to each channel the consumer touched, the value would be divided equally and each channel would have a 1x return. As you can see, the results of who gets the credit can be drastically different depending on attribution methods.
+There are various attribution methods; here are a few:
+The most important thing to note is the re-allocation of transaction value between different channels. We should make sure that the total transactional value arrived at using the chosen attribution method is the same as if the last-click attribution method was used.
+Let’s demonstrate this with a hypothetical example where a company has spent $700,000 equally across seven channels, and their Return on Ad Spend based on last-click attribution is as shown below:
+
+In this example, the company has generated a return of $751,000 at 1.07x return.
+Now let’s assume this company adopts an algorithmic attribution approach, and determines that different channels have different weights based on where they appear in the conversion path.
+For example: Based on millions of data points, what is the conversion of a user who follows the path Search — > Social — > Display — > Direct versus the same exact path but without Display? Does that affect conversion? If yes, positively or negatively? This will let the algorithm determine the weight to be assigned to Display if and when it appears in any purchase path, and at what position in the purchase path (is it the second or third touch point?). This is the algorithmic approach.
+The weight for each channel is then applied to the transaction and the revenue distributed accordingly, which is then summed up at the channel level, as shown below:
+
+
+In the above chart, we have plotted the value determined as per last-click attribution in the blue boxes (intersection of the channels on X and Y axis).
+The top part of the triangle (colored yellow) is where values have been input manually, determining either the channel has gained some amount from the corresponding channel or it should give back. Please note: These are random values.
+The bottom part of the triangle in white is the reverse of the yellow section, so if a channel gained in the yellow part, it corresponds to that particular channel losing some value in the white section.
+For example: When we see Google Display gaining $8,000 from Remarketing, correspondingly we see $8,000 being deducted from the Remarketing channel.
+The document can be viewed here.
+Holistically, what this tells us is we still had a total of $751,000 generated from our marketing efforts, but it has now been re-distributed among the various channels based on their contribution to the conversion, and not just based on which channel the user last clicked before converting.
+If we look at the “Difference” column, we can see the two big movers being Google Display in the positive side and Remarketing in the negative side. Google Display considered purely in terms of last click would not fare well, but it is “assisting” a lot of the other channels in driving the final conversion. Similarly, if we thought Remarketing was doing extremely well, we would increase our budget allocation to it without realizing that this channel feeds off the initial interests shown by the user when exposed to other channels.
+These numbers will substantially alter our marketing mix as compared to the numbers based on last-click attribution.
+Again, this re-allocation is not a manual exercise, but something that is done via an automated system after learning the weight of each channel. The above is just a demonstration of how the allocation works.
+For a long time the digital marketing industry has been working on last-click attribution. With the advent of new marketing options, multi-touch attribution is not just a luxury but a necessity —  if CMOs ever expect to optimize their marketing budgets.

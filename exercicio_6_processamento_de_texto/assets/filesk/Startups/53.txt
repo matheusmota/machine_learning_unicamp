@@ -1,0 +1,20 @@
+During a contentious election filled with accusations of lies and denials, not to mention overworked fact-checkers, a company that can help journalists more easily find soundbites in audio recordings, Deepgram, is making its service free to journalists. The audio search technology relies on artificial intelligence, and has been likened to a “Google for sound” – meaning that it can be used a lot like a search engine, but one that’s capable of surfacing phrases found in audio files, instead of text on webpages.
+Founded by former particle physics researchers, Noah Shutty and Scott Stephenson, the idea for the startup originally came about because Shutty wanted a better way to search through its own audio files. This led him to develop the neural net-based artificial intelligence engine, which began Deepgram.
+The startup this fall announced $1.8 million in funding from Metamorphic Ventures and Y Combinator.
+“Searching through recordings is really difficult. In terms of workflow, usually the raw audio is transcribed into text, which is then fed into a search tool. If you transcribe using human transcription, it’s too time consuming and expensive,” explains Stephenson, in a blog post announcing the move to make Deepgram free to journalists, until Election Day.
+“If you try to do it with automatic speech-to-text then search accuracy is the problem. Deepgram fixed that,” he says.
+Here’s how the technology works. First, the end user uploads an audio file to the service, which can be anything – a phone call, podcast, meeting, or a video – even a YouTube URL can be used.
+Deepgram then processes the speech, which is stored in what’s called a “deep representation index.” Instead of trying to translates sounds into words, Deepgram groups sounds by phonetics. Because of this, you can search for words by the way they sound and, even if they’re misspelled, Deepgram can find them.
+The company claims it’s able to index audio files in less than half the time of a human transcriber, and costs 75 cents per hour of audio versus the 75 cents per minute charged by human transcription services.
+Enterprise customers who use the service via API have different rates. Today, the company counts over 1,200 customers ranging from small-time hackers to call centers, police body cam manufacturers, and others.
+Once indexed – a process that takes only a matter of seconds – Deepgram can find your search term in its index, and jump straight to the times the keyword was mentioned in the audio.
+While the service isn’t 100% accurate, it’s able to find results 4 out of 5 times – that’s not as good as human transcription, but better than speech-to-text, which is far more error prone with a 20% accuracy rates, the company notes.
+In addition, adds Stephenson, Deepgram lets “reporters listen for intonation and inflection, which are totally lost during the transcription process.”
+In terms of making the technology available to the press during the election cycle, Stephenson suggests it would work well for those journalists who want to search across uploads of candidate’s speeches or TV appearances.
+
+There’s a demo of Deepgram in action right here on the company’s blog post.
+In a video of Trump’s RNC speech, you can enter in various terms in Deepgram’s search box and then be immediately taken to the part of the video where the term was spoken. For example, you can search for words like “jobs,” “taxes,” “women,” “security,” etc. The top-right of the interface also shows you how many search results were found, and the confidence level.
+When the term is mentioned more than once, the recording will indicate this with red markers you can click on to jump to the next section where the term is heard.
+As a savvy marketing move (but one that’s quite a perk for journalists), Deepgram is now free to accredited press up until Election Day. Reporters can request access by emailing press@deepgram.com.
+Update: Deepgram has made last night’s debate video searchable, using its technology. It’s available here.
+FEATURED IMAGE: IUNEWIND/SHUTTERSTOCK

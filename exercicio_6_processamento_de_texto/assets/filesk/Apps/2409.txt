@@ -1,0 +1,23 @@
+A new application called Flag has launched on the App Store, promising user free photo prints that are actually free – no shipping or handling charges, no credit card required. This is possible because these photo prints will be ad-supported – that is, businesses pay to advertise on the back of the photo. Effectively, it’s an ad that people will never throw away. The startup has already lined up over 1,500 paying advertisers to get its app off the ground, including VISA and Squarespace, among others.
+You may vaguely remember hearing about Flag some time ago. The startup ran a fairly successful Kickstarter campaign in early 2014, and has been developing its product – and making mistakes – ever since. Flag took some time to launch, clearly – something that angered many of the campaign’s backers who still believe that crowdfunding a project online is promise of delivery, and not the crapshoot that it really is.
+Many are also angry that Android development stalled.
+That being said, Flag has finally gone live on iOS as a public beta, after some limited testing among backers.
+
+Of course, the idea to offer free photo prints isn’t entirely novel. Sincerely’s Postagram once allowed you to send out free, ad-supported postcards that include a photo. (It now charges 99 cents).
+Another app FreePrints, which has been around for years, also offers free photos. But it requires you pay the shipping and handling fees. Shipping starts at $1.99 for FreePrints and can go up to $9.99. You can also upgrade to Express shipping for a fee. Meanwhile, it makes its money from additional prints and by selling other photo sizes beyond 4×6.
+In other words, FreePrints is still a good deal, but it’s not exactly free.
+Flag, however, is aiming for 100 percent free, but with a catch: ads.
+At launch, the startup says that it won’t have ads on its photos – which is hopefully why it has omitted this key detail about its business model from the app’s App Store description.
+“Since what we’re offering is targeting, we won’t have ads on the back until we can target,” explains Flag’s CMO Savannah Cowley.
+ 
+The company will actually make use of photo metadata in its targeting, which will include things like location, the camera model (as a proxy for estimated income), and even the photo’s subject. It scans photos to understand what’s in them, identifying logos and faces to make guesses about age and gender. However, advertisers will not be able to view users’ photos, their names or addresses, download user data or view anonymized personal info, Flag says.
+The backs of photos will have information about the photo along with an ad, Cowley notes. “People will be able to plug in captions and information about the photo – who took it, where it was taken, etc – also a secondary photo,” she adds.
+Despite the balance Flag is trying to achieve with its advertising model, not everyone is going to be comfortable with targeted ads – especially ads that lean on their photos, which are more personal, as a means of gathering this data.
+But as they say, nothing is truly free. And there will be some people who are okay with sharing their data in exchange for a free product.
+
+Flag says it’s working with Canon Japan and photo paper manufacturer Felix Schoeller to print out photos on thick 370 gram laminated paper with borders and rounded corners, and uses dye-based inks for bright colors and jet blacks. It also lets you print any size or shape – including squares and panoramas, if you choose.
+You can order 20 free prints per month. At launch, the company says things are slow – delivery will take “a few weeks.”
+The product itself is not as polished as FreePrints, but the photo picker does at least let you choose photos from different albums. It’s fairly quick to tap to select a print, choose the number of copies, then have them shipped your way.
+In the picker, the photos move around a little in their boxes, giving the app a dynamic feel as well as a way to see more of the image. Thankfully, the thumbnails are also large enough so that you don’t have to launch your Photos app and blow them up, in order to figure out which picture to choose.
+The startup is a team of six based in L.A., Stockholm, Berlin, Bangkok and Pittsburgh. It’s co-founded by Sam Agboola, whose background includes design, advertising and marketing, and Alex Basalyga, CTO.
+Flag is available here on the iTunes App Store.

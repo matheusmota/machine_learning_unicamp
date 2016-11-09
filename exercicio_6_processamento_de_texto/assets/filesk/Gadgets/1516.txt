@@ -1,0 +1,12 @@
+When you really need to get a signal in from Pluto, a direct connection isn’t always possible. Oh sure, when it’s a big project like New Horizons, you can make sure the line is clear and someone’s listening — but for routine updates from a Neptune orbiter or power-starved comet lander, there’s Delay/Disruption Tolerant Networking, which just got its first big installation on the International Space Station.
+What’s DTN? Glad you asked. It’s a protocol suite made to be resilient even in the face of huge interruptions of connectivity — for example, when an entire planet or star passes between two nodes on a network. That’s not a big problem today, but eventually it will be, as more and more probes, satellites, orbiters and so on begin to crowd the big empty.
+
+A DTN-powered network uses a “store and forward” technique that breaks down communications into chunks that can be transferred independent of each other and then reassembled at will once they’ve all arrived where they’re going. It’s a bit like bittorrent, which gets whatever pieces it can whenever it can, compared with traditional downloads, that start at the beginning and end at the end.
+It’s a useful tool for situations where connectivity is unreliable for one of the myriad reasons that may occur in space: radiation, power failure, obstruction, and so on. If a lander only gets 5 minutes of sun a day, it could still send data packages out piecemeal, instead of waiting for the batteries to charge enough that it can stay online for the hours it might take to send the whole thing.
+How about a video illustration?
+
+The ISS recently added DTN to its Telescience Resource Kit, making the satellite the first piece in what NASA says may eventually form a Solar System-scale internet.
+DTN even has a little star power. NASA has collaborated with none other than Vint Cerf, who is optimistic about the possibilities for the protocol suite.
+
+Yes, the Internet of Things has reached beyond the boundaries of our small planet and is now at large in the Solar System.
+DTN has been a major collaboration among several organizations, and many of its implementations will be available as open-source code. You can read more about the system here, or scroll to the bottom of the NASA post, where the many contributors are listed.

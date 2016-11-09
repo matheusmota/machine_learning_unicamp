@@ -1,0 +1,11 @@
+Today Sift Science, a credit card fraud prevention company, has closed an $18 million Series B round of funding led by Spark Capital, with participation from Union Square Ventures, Max Levchin, and First Round Capital.
+But what exactly is Sift Science?
+If you own a credit card, you probably understand the pains of having your credit card information stolen and used fraudulently. But, if possible, put yourself in the shoes of the vendor or merchant making that sale. 
+When someone fraudulently buys a television from Bestbuy.com, the company not only loses a television, but they lose the $1,000 that was paid for the television, as it’s eventually returned to your account from their own account. And to top it all off, if more than one percent of a merchant’s online transactions are considered fraudulent, they’re added to a penalty box list by the credit card companies which could threaten their very ability to process transactions online.
+It’s a lose-lose-lose.
+Sift Science can help, though. The company pairs a smart UI with machine learning to detect fraudulent charges as they’re happening. The industry standard currently is around 50-80 percent false positives, meaning that whomever is in charge of fraud detection is wasting 50 to 80 percent of their time on false alarms.
+Through machine learning and the ability to see fraudulent activity across a whole network of merchants, Sift Science is able to bring that number down to seven percent or less.
+“Most fraud detection systems are based around rules,” said founder Jason Tan. “If the charge is more than $5,000, and from a Nigerian IP address, and the card has been rejected three times before, then the company won’t process the transaction. But we say ‘no rules, all data.'”
+By forgetting about rules to detect fraud, Sift Science can simply use the speed of machine learning and the intuition of the human brain to provide the clearest data possible around fraudulent transactions in real time.
+Sift Science charges nothing for the first 10,000 transactions per month, for every client, and then the price rounds out to about one cent per transaction after that. There are no annual contracts.
+Alongside the funding, Sift will bring Spark Capital general partner Mo Koyfman onto the board. This brings the company’s total funding to $23.5 million.

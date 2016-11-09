@@ -1,0 +1,41 @@
+Today, Apple is previewing of some of the first apps that will integrate with Siri in the upcoming release of iOS 10. Announced at WWDC earlier this year, one of the biggest changes in Apple’s new mobile operating system is the ability to interact with your apps using your voice. Soon, you’ll be able to ask Siri to do things like compose and read your texts, search your photos, book rides in apps like Uber, pause your workout app, make payments to friends, place a call using a third-party VoIP app, and much more.
+Already, Siri offered some limited functionality with third-party apps, like Twitter and Yelp, but now Apple is opening up the ability for users to “talk” to their apps more broadly.
+SiriKit
+This functionality is made possible through SiriKit – a new toolkit for iOS 10 developers which allows them to build in an extension into their app that communicates with the virtual assistant Siri.
+Siri will handle the user interaction – meaning, voice and natural language recognition – and then works with the extension in question to get the information from the app and handle the user’s request.
+
+At WWDC in June, Apple detailed how this would work, offering specific examples like WeChat, WhatsApp, Slack, Uber, Lyft, Didi, EyeEm, Pinterest, Runtastic, RunKeeper, Venmo, Number26, Skype, and Viber. Getting an on-stage shoutout, as it turns out, was a good indication that those apps were among the first who would be integrating the new voice functionality.
+Many of those in the list will be ready to work via voice when iOS 10 debuts.
+Others Apple has confirmed to be integrating with Siri include Skype, LinkedIn, Square Cash, Monzo, Vogue Runway, Looklive, The Roll, and Pikazo.
+
+Today, Apple is kicking off a series of blog posts that will introduce the forthcoming Siri-powered applications, and explain how they work.
+This is something unusual for the company, which normally makes developer-related announcements at WWDC, then pushes its new mobile OS out the door as timed with its iPhone event in the fall.
+But perhaps a little end user education is in order this time around? Or maybe, the popular voice computing platform, Amazon Alexa, is looking like a bit of a threat these days.
+Already, Alexa lets you do things like call for an Uber, check the news and weather, order a pizza, start a workout, play a game, and more.
+But Apple’s advantage is that Siri is already installed on people’s devices, and we’re comfortable asking the assistant for help with simpler tasks, like creating appointments, or getting our schedules. Asking it to call us an Uber or launch a call is an obvious next step.
+Ride-Hailing with Siri
+With iOS 10, ride-hailing apps like Uber, Lyft, China’s Didi Chuxing (also an Apple investment) and Europe’s myTaxi will be taking advantage of the new functionality. What’s interesting is that you don’t have to learn some stilted voice commands to talk to these apps via Siri.
+Sample commands include things like “Hey Siri, get me a DiDi ride to the airport,” or “Hey Siri, ask myTaxi to get me a taxi to Parliament Square,” for example.
+
+When you’re asking for a ride from an app that offers different tiers, like Uber, you’ll be able to pick which one after saying something like “Get me an Uber to SFO.” The app will then display the available Uber products, like UberPOOL, UberX, and others, as well as a fare estimate and ETA.
+Once the riders are connected with a driver, they’ll see the car in real-time in Apple Maps, along with the vehicle and driver information – the latter thanks to Uber’s use of MapKit.
+“We are always looking for ways to work with partners to further integrate Uber into the daily lives of riders around the world,” explains Rahul Bijor, Senior Product Manager at Uber.
+He says the implementation of SiriKit took a few months.
+“The main challenge we faced was figuring out how to design and build an experience that made the most of Apple’s new functionality, and identifying the best way to leverage the intelligence of Siri for our users,” says Bijor.
+That’s something that many developers will struggle with in the months ahead, as well. Integrating with Siri is one thing, but doing it in the right way to best serve the app’s users will be the concern.
+Making Calls with VoIP apps via Siri 
+Apple is also showing off how voice-enabled apps will function in the workplace, as with Cisco’s Spark. The new version of Spark will let users search for contacts and place calls via Siri. For example, you’ll be able to say “Hey Siri, video call Luisa on Spark,” among other things.
+SiriKit and CallKit integrations will then work together to pass the contact information to Spark and launch the call. What’s handy about the way this has been implemented is that if Spark doesn’t have the contact information, it can search iOS contacts for what it needs, then make the call.
+
+“Spark was built specifically for the mobile user—it’s all about making sure users on the go can connect from wherever they are, so integration with Siri is a natural fit,” explains Riley Marsh, Spark’s iOS lead developer. “We prioritized the implementation so users can get their calls started by just using their voice—they can call any contact – personal or corporate directory contact – from one screen view.”
+Calls made with Vonage Essentials – another upcoming Siri-powered app – will work similarly. And in the future, Vonage will enable Siri to find information that resides in corporate backend systems, the company says.
+“For example, we would integrate SiriKit with the other Vonage app functionality such as messaging/texting for hands-free texting,” says Sagi Dudai, VP Mobile Development for Vonage. “The magic happens when Vonage starts doing more sophisticated development with iOS10, such as integrating business workflow, such as CRM software, with voice and messaging using Siri commands.”
+
+Dudai adds that iOS 10 provides a better user experience for voice apps like Vonage. Before, push notifications were required to receive a call, and users would have to get past the lockscreen to get to their call. Meanwhile, when native calls came in, the VoIP call was put on hold.
+“All this changes with iOS10 CallKit, where VoIP calls behave exactly like native calls in every respect,” Dudai continues.
+“By having the same functionality and user experience as the native dialer, it’s not really necessary to use a traditional carrier for voice or text. Apple has removed the last barrier for adopting VoIP as a standard for mobile communication,” he says.
+
+A New Way of Using Apps
+Voice-powered apps are arriving at a time when App Store ecosystem is going through some growing pains. Because of its now massive size – over 2 million apps across 25 categories – app discovery has become more of a challenge. Users are simply not being exposed to new apps, and those they download are often soon abandoned.
+At the same time, Apple’s developer community continues to grow. There are now 13 million developers worldwide who have earned over $50 billion to date since 2008. However, for the indie developer, getting an app noticed and used is harder than after.
+Voice-powered apps could change that. Being able to launch apps by speaking instead of having to search for them in Spotlight, or manually flipping through your device’s many screens, could potentially boost app usage by making apps more accessible to end users. It may also make apps simpler to use, as you won’t have to figure out where various settings and controls are located, you can just speak.

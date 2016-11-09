@@ -1,0 +1,6 @@
+Microsoft today confirmed its correctly rumored Windows event that will take place on September 30 in San Francisco.
+The event is widely expected to include a release of the technical preview of Windows 9, the successor to the controversial Windows 8.x operating system that was released in 2012, along with the Surface line of tablets.
+Microsoft is not expected to release a preview of its updated version of Windows RT, which may include Windows Phone components, until early 2015, though that information is less concrete than the Windows 9 news itself.
+Windows 9 has sprung a dozen leaks, with videos showing off its new Start Menu functionality, along with a number of business-facing features like virtual desktops. Given that the first released build should be a technical preview, expect it to be more focused on developers and enterprise customers, than consumers.
+Given that, we likely won’t be shown, or be able to use, some of what Microsoft is building for the common man.
+The event is two weeks out, meaning that it is go time. Let’s see if Redmond can right the Windows ship.

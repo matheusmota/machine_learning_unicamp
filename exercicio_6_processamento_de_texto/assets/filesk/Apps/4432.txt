@@ -1,0 +1,15 @@
+Nestio has been serving the real estate community in New York since 2011, but is today marks the company’s biggest release yet, as real estate brokers are finally being invited to the platform. 
+After pivoting from a consumer product to an enterprise platform, Nestio worked to bring landlords into the service to supply vacancy info as soon as it happens, and now brokers can tap into that info with today’s broker dashboard release. 
+But let’s back up a bit:
+Nestio launched out of TechStars in 2011 to make apartment searching suck less. The app gave users a central place to store listings, as well as a full aggregating service that pulled in listings from Craigslist, Zillow, Trulia, etc. It was a one-stop shop, instead of a scattered experience using Google docs and multiple rental services. 
+But in testing, the team heard one complaint over and over again: the tool is great, the listings aren’t accurate. 
+See, the only way for Nestio to be successful is if the listings pulled from other sites were correct. But if you’ve ever lived in New York, you know that the real estate game here moves at breakneck pace. In the time it may take you to find a listing and set up an appointment, that apartment could be rented four or five times over. 
+Knowing this, Nestio went back to the drawing board. 
+Rather than focusing on the end user, the team attacked the real problem, the listings themselves. After raising $750,000 in seed funding, Nestio took a year to meticulously launch a product for landlords, setting aside the consumer product for good. 
+As it stands, landlords usually write down their vacancies and send them out to real estate agents in a variety of forms, from faxes to emails to dropped-off hand-written documents. This process happens about twice a week, meaning that the agents getting the information start at a disadvantage, which then extends back to a landlord who can’t get rid of his apartment. 
+That said, the landlord version of the product acts as a real-time, always-updating database. Landlords, once signed on to the platform, can update their vacancies from anywhere at anytime, and that information is immediately sent out to brokers. 
+The team shortly after received $1.5 million in Series A. 
+Upgrading the behavior of landlords, who have been doing this a certain way for decades, took some time but Nestio now accounts for 30 percent of all the landlords in the city, including some of the biggest. 
+But without brokers on the platform, too, the end user still isn’t getting the most accurate and up-to-date information possible, and that is the ultimate goal. 
+And so, Nestio is today releasing the final piece of the puzzle. The broker dashboard gives agents access to real-time information on listings well ahead of the competition. As more and more landlords and brokers join the platform, the more necessary it will be for the rest to join and keep up. 
+Brokers can sign up individually for a $50 monthly subscription, and brokerage firms who wish to sign up multiple agents or their whole team will get a discount based on volume.

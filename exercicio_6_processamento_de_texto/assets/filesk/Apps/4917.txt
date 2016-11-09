@@ -1,0 +1,16 @@
+Another keyboard contender has launched on iOS hoping to convince teens to shell out a few bucks for an app that gives them quick fire access to the characters that matter most in their texting life: emoji.
+The backstory here is that Apple finally opened up developer access to the keyboard in iOS 8 last fall. Since then we’ve seen a raft of alternative iOS keyboard apps popping up to try to garner a following.
+The latest of these, the Qwerky gesture-based keyboard — made by a U.K.-based dev team, puts emojis a mere swipe away from a standard Qwerty keyboard so users can speedily switch between letters and symbols as they type.
+The numbers and punctuation screen is also positioned a Tinderish gesture away, instead of requiring the typist to precision-tap a corner key to toggle between keyboards every time they want to add in an apostrophe or punctuate their missive with a smiling poop — as is the case on the native iOS keyboard.
+Qwerky’s gestures offer only incremental convenience, sure, but if your typical texting output looks something like this —
+
+— then you’re going to find the ability to shortcut between letters and emojis pretty sweet.
+“We found Swiftkey/Swype/etc are slow to reach the keys you really want (that winky face… or aubergine!).  With our keyboard, swiping left and right quickly navigates from text to emojis,” says  co-founder Ed Moyse, explaining what problem the Qwerky team set out to fix.
+As well as letting users summon emoji with a swipe, Qwerky has some emoticon-shaped easter eggs up its sleeve. Such as if you type ‘saturdaynight’ the keyboard will sub out your letters for an emoji version of John Travolta (pictured at the top of this post). Or write ‘ciaofornow’. Or ‘SANTA’ (an Xmas launch was originally planned for Qwerky).
+More such bonus ’emoji art’ subs are apparently incoming.
+Now Qwerky is by no means the only alt iOS keyboard seeking to cash in on teens’ emoticon (and GIF) <3. Other emoji keyboards launching on iOS in recent times include the place-to-go-suggesting Goji, the better laid out Emoji++, and the symbol suggesting Keymoji, to name three. But Qwerky is hoping it’s focus on speed and simplicity will help the app stand out in a crowded space.  
+“We’re aiming to stand out/convince people to stay by offering a keyboard that lets you type like a human,” says Moyse. “People use a combination of text, emojis, pictures, and GIFs to express themselves, but other keyboards don’t handle this satisfactorily.”
+Qwerky is not a free app — but that’s fairly standard for smaller keyboard app makers. It’s priced at $0.99 for launch week, and $1.99 thereafter. So yes, this is absolutely about cashing in on teens wanting to send pictures of cash to each other. But that’s a sign of our emoji-loving times.
+One word of warning: there is no word prediction with Qwerky. So depending on how much you lean on Apple’s (or others’) next word suggestion algorithms to speed your typing you might actually find it slower to bash out words on Qwerky.
+But, then again, if you reckon emoting is > spelling anyway that’s probably not going to bother you too much.
+Calling all Actual Teens.

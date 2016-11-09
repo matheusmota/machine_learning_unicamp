@@ -1,0 +1,22 @@
+A new mobile app called Winnie is launching today to make parents’ lives a little easier, by offering information about nearby kid-friendly places, as well as detailing what sort of facilities for families a location may have – like stroller access, quiet areas to nurse, changing tables, restrooms, and more. The idea is to make going out with your little ones less stressful, whether you’re just running errands around town or traveling to a new city.
+This sort of useful information for parents isn’t collected in a structured manner today. Sure, you might find details written in the comments of Yelp reviews or Google business listings, but you’d have to read through each one to even know if anyone mentioned the specific info you’re interested in – like whether the restaurant’s bathroom has a changing table, for instance.
+(I personally recall a particularly fun night out when I found myself kneeling on a bathroom floor, trying to change my daughter’s diaper before she scooted off the mat. Winnie could have certainly helped then!)
+
+The startup was co-founded by CEO Sara Mauskopf, who has worked in consumer technology and product management at companies including Postmates, Twitter, YouTube and Google; along with Anne K. Halsall, CPO, a product designer and developer also with experience at Postmates and Google, as well as Quora and Inkling.
+Both founders are parents themselves, who built the app out of their own personal needs.
+And this is why we need a diversity of engineers creating tech companies, by the way – 20-year old guys fresh out of college would probably not create an app like Winnie.
+As Mauskopf explains in a blog post introducing Winnie, “…having a child changed the way I saw the world around me. I was scared to go anywhere because I didn’t know whether they’d have the right facilities for me to care for my daughter, or whether we’d even be welcome there,” she says.
+Anyone stuck at home with a new baby – and the pressure that comes with that – can relate.
+The two founders teamed up and created Winnie in early 2016. The app has been running in a private beta in San Francisco up until today, which included around 400 testers.
+
+At launch, Winnie offers information on over 100,000 locations around the country.
+It helps you discover places to take the kids for fun, like parks, playgrounds, and libraries; lists family-friendly restaurants that offer things like changing tables, kids menus, and high chairs; and it helps you find the nearest bathroom, changing table, or place to nurse, among other things.
+Mauskopf says this data comes from a combination of sources. The place “metadata” (e.g. changing tables, etc.) has been entered manually and came from the team actually calling and researching places themselves. Meanwhile, other data comes from crowdsourcing.
+Parents can leave comments and tips in the application – aka “Stories.” Plus, they can “Scout” places in Winnie that they want to include.
+Stories will allow parents to relate their personal experiences with a place, both good or bad, which gives the app a “Yelp for parents”-like appeal.
+To some extent Winnie seems most useful to new parents, however.
+First-time parents are often fearful of trying to navigate the world with their baby, and Winnie can provide some reassurances that it’s going to be okay to leave the house. But even those whose kids have exited the diapers-and-potty-emergencies phase may find the app useful, as it can help you find fun places to take the kids in your town that you might not have known about.
+Of course, like any social app launching in today’s App Store, Winnie will need to reach a critical mass before it’s truly useful to a broad market.
+Winnie is a free download on the iTunes App Store, and will remain free, for the most part, over time.
+“Right now the app is free and our big priority is building something that’s really useful to parents,” notes Mauskopf. “In the future there will be aspects of the product that we will make money from, but the core product will always be free,” she says.
+Winnie is a team of four and backed by only a small “pre-seed” amount of funding.
