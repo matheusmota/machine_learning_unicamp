@@ -19,9 +19,18 @@ import urllib.request
 
 # ------------------------------- Getting Data -------------------------------
 
+# URLs with data
 url_zip_data = 'http://www.ic.unicamp.br/%7Ewainer/cursos/2s2016/ml/ex6/file-sk.zip'
+url_categories = 'http://www.ic.unicamp.br/%7Ewainer/cursos/2s2016/ml/ex6/category.tab'
+
+# Local path for different files and directories
 filepath_zip = '../assets/file-sk.zip'
 dirpath_zip = '../assets'
+directories = ['../assets/filesk/App',
+               '../assets/filesk/Enterprise',
+               '../assets/filesk/Gadgets',
+               '../assets/filesk/Social',
+               '../assets/filesk/Startups']
 # dirpath_zip = '../assets/file-sk'
 
 # Upload the zip file
@@ -35,3 +44,6 @@ urllib.request.urlretrieve(url_zip_data, filepath_zip)
 zip_ref = zipfile.ZipFile(filepath_zip, 'r')
 zip_ref.extractall(dirpath_zip)
 zip_ref.close()
+
+# Extracting the categories for each file
+df_categories = pd.read_csv(url_categories, header = True, delimiter = "\t")
