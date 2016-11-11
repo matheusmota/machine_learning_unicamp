@@ -1,15 +1,15 @@
-A Los Angeles startup called codeSpark has raised $4.1 million in seed funding for web and mobile games that teach kids how to code, even before they know how to read and write effectively.
-CodeSpark’s games were developed for kids 4 to 9 years old, and with a goal of not just teaching them STEM concepts, but engaging boys and girls equally well. The games feature characters who are girls, and storylines that do not involve the rescue of girls, for example.
-Co-founder and CEO Grant Hosford said the edtech startup’s first game The Foos Coding has been played by 4 million kids in 201 countries to-date. Part of what’s fueled the game’s popularity is that Hosford, and co-founder and Chief Product Officer Joe Shochet, designed its content to be visual not verbal or numeric.
-Hosford said, “A no words approach is important to us from an accessibility and localization standpoint. Not only can this be played in China or the U.S., without translation, but if you are a kid with ADHD, dyslexia or some other learning difference or disability, you can play The Foos along with your classmates.”
-Kapor Capital led codeSpark’s seed round joined by Idealab, PGA Venture Partners, Felton Group, NewGen Capital, and angel investors including Umang Gupta.
-CodeSpark makes its games available for free to public schools, libraries and nonprofits. Individual users, typically parents who want their kids to play the games at home, can buy and download codeSpark games for phones and tablets.
-Today, the company launched a premium, subscription service called codeSpark Academy with the Foos, that will deliver constantly refreshing games and content to paying users. The premium service is available for iOS and Android devices.
-CodeSpark Academy with the Foos is basically an extended version of The Foos Coding, which includes puzzles and exercises that let kids design, program and share their own games, or “remixes” of games that other kids created using the platform.
-Hosford said kids have created 7 million games using “Foos Studio” already.
-Idealab founder Bill Gross said he backed codeSpark because of its unique approach to teaching kids programming basics before they develop a high degree of math or reading skills.
-“Code will be embedded in everything in our lives if it is not already. We need more people in the U.S. and the world that understand that principle. And that can understand things like what loops, variables and sequences are. That will all matter even if coding is not your occupation,” Gross said.
-While Gross today is best-known as the founder of the world’s first startup incubator, Idealab, he earlier started an educational software company called Knowledge Adventure that was acquired by Cendant for $95 million in 1996. So he’s no stranger to the edtech market.
-“Back then, I wanted to build software that would help kids fall in love with learning and not just go through these skill-and-drill exercises. Since then, I’ve dreamed of doing that with all the capabilities of the internet, tablets and individualized, adaptive learning,” Gross said.
-Hosford said codeSpark will use its seed funding to develop new curriculum, keep building its user base internationally, and test the efficacy of its games by engaging in third party studies with top tier academic researchers.
-Down the line, he sees potential for codeSpark to offer curriculum around more than coding basics. Entrepreneurship is an area of interest, he said.
+a los angeles startup called codespark raised  million seed funding web mobile games teach kids code know read write effectively
+codespark games developed kids   years old goal just teaching stem concepts  engaging boys girls equally games feature characters girls storylines not involve rescue girls example
+co founder ceo grant hosford said edtech startup game foos coding played  million kids  countries date fueled game popularity hosford founder chief product officer joe shochet designed content be visual verbal numeric
+hosford said words approach important accessibility localization standpoint  played china translation  kid adhd dyslexia learning difference disability play foos classmates
+kapor capital led codespark seed round joined idealab pga venture partners felton group newgen capital angel investors including umang gupta
+codespark makes games available free public schools libraries nonprofits individual users typically parents want kids play games home buy download codespark games phones tablets
+today company launched premium subscription service called codespark academy foos deliver constantly refreshing games content paying users premium service available ios android devices
+codespark academy foos is basically extended version foos coding includes puzzles exercises let kids design progr share games remixes games kids created using platform
+hosford said kids created  million games using foos studio already
+idealab founder gross said backed codespark unique approach teaching kids programming basics develop high degree math reading skills
+code  embedded in lives need people world understand that principle understand things like loops variables sequences matter coding occupation gross said
+while gross today best known as founder world startup incubator idealab earlier started an educational software company called knowledge adventure acquired cendant for  million  stranger edtech market
+back i wanted build software help kids fall love learning just skill drill exercises i’ve dreamed doing capabilities internet tablets and individualized adaptive learning gross said
+hosford said codespark will use seed funding develop new curriculum building user base internationally test efficacy games by engaging party studies with top tier academic researchers
+down line sees potential codespark offer curriculum coding basics entrepreneurship area said

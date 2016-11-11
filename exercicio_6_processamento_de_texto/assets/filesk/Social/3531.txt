@@ -1,21 +1,21 @@
-Twitter is now rolling out a new search results interface to all logged-in users on the web, introducing a cleaner look-and-feel and more filtering options that let you sort results by top tweets, “live” tweets, accounts, photos, videos, news and more. The rollout follows tests that began in April which then made the new interface available to a “small group” of Twitter users the company had said at the time.
-The updated interface is one of the larger updates Twitter’s search engine has seen in recent months, and it’s meant to make the search interface itself easier to use in terms of switching between tweets, accounts, photos and videos.
-Though seemingly a simple service – a place to post 140-character updates for the world to see or privately message others – ease-of-use is an area that Twitter has struggled with over the years. Even its own execs have slipped up from time to time, tweeting when they mean to DM (direct message). New users to Twitter often still wonder how to find people to follow, how to attract followers for themselves, and many seem to more interested in passively tracking Twitter updates rather than becoming active users themselves.
-Twitter has begun catering to these logged-out visitors and new users with a series of recent updates to its service, including a refreshed landing page that lets you track what’s happening across a number of news categories, as well as features like the “instant timeline” and “while you were away.”  The updates, similar to the changes with the search engine, are designed to make the experience of using Twitter easier for those who are new to the service.
-Now when you search for a keyword or phrase on Twitter.com, the search results return a notable tweet near the top of the page – something related to your search that has either been favorited or retweeted a number of times, for example. Below are photos and other recent tweets.
-In some cases, the top search result isn’t necessarily the one with the higher metrics associated with it – but one that better matches what Twitter believes to be the searcher’s “intent.” For example, (see below), a search for “Steve Jobs” first displays a heavily-retweeted article about the movie’s trailer, but a search for “Mad Men” instead first displays a more relevant tweet ahead of the heavily-favorited “Mad Men” mention by singer Lorde.
-And as new results matching your search arrive, they can be loaded at the top of the screen with a click.
+twitter rolling new search results interface logged users web introducing cleaner look feel filtering options let sort results tweets live tweets accounts photos videos news rollout follows tests began april new interface available small group twitter users company said time
+the updated interface larger updates twitter search engine seen recent months meant make search interface easier use terms switching tweets accounts photos videos
+though seemingly simple service  place post  character updates world privately message  ease use area twitter struggled years execs slipped time time tweeting mean dm (direct message new users twitter wonder how people follow attract followers many seem interested passively tracking twitter updates active users themselves
+twitter begun catering logged visitors and new users with series recent updates service including refreshed landing page lets track happening number news categories features like instant timeline away  the updates similar changes with the search engine designed make experience using twitter easier new service
+now search keyword phrase twittercom search results return notable tweet near the page  related search favorited retweeted number times example photos recent tweets
+in cases search result necessarily higher metrics associated   better matches twitter believes  searcher intent for example (see search steve jobs displays heavily retweeted article movie trailer  search mad men instead displays relevant tweet ahead of the heavily favorited mad men mention singer lorde
+and new results matching your search arrive  loaded screen click
 
  
  
 
-In addition, where before you could switch between top tweets and “all” tweets, then new interface has renamed the latter section “Live,” which gives searches more of sense of immediacy.
-Following these two options, other top-level navigation includes “Accounts” (a list of matching Twitter users), “Photos,” “Videos,” and then a “More Options” section where you can pull up “News” or filter results further by those tweeting nearby or from those accounts you follow, for example. You can also save or embed your search from this drop-down, or enter Twitter’s “advanced search” section which gives power users even more options for filtering tweets.
-Twitter first started testing the new search results interface in April, but began rolling out the new interface to all users just last week. Many people saw the changes arrive over the weekend, while others are still being onboarded today, it appears.
-A Twitter spokesperson confirmed the broader rollout, noting: “We’re rolling out a new search experience to users on web. Like other features, we will continue to iterate and improve on this, to make it even easier for users to find what they are looking for when they search on Twitter.”
-For reference, the old interface (courtesy of Marketing Land in April) and the new interface are shown below.
-OLD:
+in addition switch tweets tweets new interface renamed section live gives searches more sense immediacy
+following options level navigation includes accounts (a list matching twitter users photos videos options section pull news filter results tweeting nearby accounts follow example save embed your search drop enter twitter advanced search section gives power users options filtering tweets
+twitter started testing new search results interface april  began rolling new interface users just week people saw changes arrive weekend onboarded today appears
+a twitter spokesperson confirmed broader rollout noting rolling new search experience users web like features continue iterate improve make easier users looking search twitter
+for reference old interface (courtesy marketing land in april new interface shown below
+old
 
-NEW:
+new
 
  

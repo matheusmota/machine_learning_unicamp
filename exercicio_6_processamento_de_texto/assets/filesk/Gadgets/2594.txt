@@ -1,21 +1,21 @@
-When Microsoft first announced HoloLens, its mixed-reality hardware platform, many of us assumed it was little more than a cool demo that was meant to stir up excitement for the company. But it was clearly more than that and starting today, Microsoft will start taking pre-orders from developers who have applied for a unit.
-Developers who get an invite will be able to buy a unit for $3,000. The first units will start shipping to developers in the U.S. and Canada on March 30.
-With this, Microsoft is also announcing the first set of HoloLens-specific applications that are meant to show off the platform’s capabilities (including a HoloLens version of Skype and a few games), as well as a few more details about the hardware’s spec.
-It’s important to note that this is not a consumer launch. Microsoft has been taking applications from interested developers for the last few months and it will now start inviting them into its program. While a company spokesperson couldn’t quite tell us how Microsoft decided on who would get invites first, Microsoft tells us that invites will go out in batches.
-Even if you haven’t applied yet, you can still put in your application now to get a chance of being included in one of the next few batches.
-So what do you get when you pay $3,000 for the HoloLens development edition? In the box, you will find the actual HoloLens, a clicker for interacting with applications beyond gestures, a carrying case, nose pads and overhead straps, as well as a microfiber cloth and a charger. The device itself, which can run untethered from a desktop computer, will feature 64GB of Flash memory and 2GB of RAM (which seems rather low). In its current form, HoloLens weighs in at 576 grams.
+when microsoft announced hololens mixed reality hardware platform assumed little cool demo meant stir excitement company  clearly starting today microsoft start taking pre orders developers applied unit
+developers invite  able buy unit  units start shipping developers canada march 
+with microsoft announcing set hololens specific applications meant platform capabilities (including hololens version skype games details hardware spec
+it important note consumer launch microsoft taking applications interested developers months start inviting progr company spokesperson quite tell microsoft decided invites microsoft tells invites batches
+even applied application chance included batches
+so you pay  the hololens development edition box actual hololens clicker interacting applications gestures carrying case nose pads overhead straps microfiber cloth charger device run untethered desktop computer feature gb flash memory gb r (which low current form hololens weighs  grams
 
-Microsoft estimates about two to three hours of battery life, with up to two weeks of standby time. The HoloLens will be passively cooled (so there is no need to worry about fans) and will feature both an Intel 32-bit architecture CPU and Microsoft’s own custom-built “Holographic Processing Unit” (HPU).
-In addition, there are plenty of sensors, microphones and a camera. The HPU takes all the data the HoloLens’ sensors generate and processes it in real time.
-As for the display itself, Microsoft says it will feature 2 HD 16:9 light engines that will offer a “holographic resolution” of 2.3 million light points.
-“HoloLens has see-through holographic lenses that use an advanced optical projection system to generate multi-dimensional full-color holograms with very low latency so you can see holographic objects in your world,” Microsoft’s Alex Kipman writes. “The key to a great holographic experience is holograms that are light point rich, i.e., they have a high holographic density and are pinned, or anchored, to the world around you.”
-For the most part, these new units will be very similar to the ones the company has been showing off since last year’s Build developer conference. This means they will likely still feature the relatively limited field of view we noticed at last year’s Build.
-As Kipman stressed in today’s announcement, HoloLens apps are Universal Windows 10 apps, so every regular modern Windows app should also work in HoloLens (though without making use of its special capabilities).
-As a part of this launch, Microsoft is also launching a number of HoloLens apps that are meant to serve as examples for developers. Unsurprisingly, one of these is Skype, which the company has been using as a demo since it first publicly showed prototypes of HoloLens. What’s cool here, is that Skype users on HoloLens can share their experiences in the “holographic world” with those who are simply sitting in front of a standard screen.
-Microsoft is also launching a few games with the developer edition.
-The first is ‘Fragments,’ a “mixed reality crime drama.” The whole game apparently plays out in your living and Microsoft promises that characters in the game will walk around your room, sit down on your sofa and chat with you.
-Another game that will ship with HoloLens is ‘Young Conker,’ a platformer that adapts to your environment, so everybody gets a unique gameplay experience based on where they are. Both of these games were built by Asobo Studio.
-In addition, Microsoft will also ship RoboRaid, a game that has you defend your home from — you guessed it — robots, as well as the HoloStudio 3D-modelling tool and HoloTour, which allows you to see high-res 360-degree panoramic images of various sites around the world.
-Come summer, Microsoft also plans to ship Actiongram, a tool that aims to allow anybody to create “emotionally compelling and humorous videos.” What exactly this experience will look like, though, still remains to be seen.
-Sadly, though, Microsoft didn’t reveal any news about its upcoming version of Minecraft for HoloLens.
-To me, HoloLens has long been one of the most exciting projects to come out of Microsoft in a long time. Until now, it’s mostly been a great demo, though. Now we’ll finally get to see how well it really works outside of the confines of Microsoft’s own demo environments.
+microsoft estimates hours battery life weeks standby time hololens  passively cooled (so need worry fans feature intel  bit architecture cpu microsoft custom built holographic processing unit (hpu
+in addition plenty sensors microphones camera hpu takes data hololens sensors generate processes real time
+as display microsoft says feature  hd  light engines offer holographic resolution  million light points
+hololens holographic lenses use advanced optical projection generate multi dimensional color holograms low latency holographic objects world microsoft alex kipman writes key great holographic experience holograms light point rich high holographic density pinned anchored world you
+for new units  similar ones company showing year build developer conference means likely feature relatively limited field view noticed year build
+as kipman stressed today announcement hololens apps universal windows  apps regular modern windows app work hololens (though making use special capabilities
+as launch microsoft launching number hololens apps meant serve examples developers unsurprisingly skype company using demo publicly showed prototypes hololens cool skype users hololens share experiences holographic world simply sitting standard screen
+microsoft launching games developer edition
+the ‘fragments mixed reality crime drama game apparently plays living microsoft promises characters game walk room sit sofa chat you
+another game ship hololens ‘young conker’ platformer adapts environment everybody gets unique gameplay experience based games built asobo studio
+in addition microsoft ship roboraid game defend home  guessed  robots holostudio d modelling tool holotour allows high res  degree panoramic images various sites world
+come summer microsoft plans ship actiongr tool aims allow anybody create emotionally compelling humorous videos exactly experience look like remains  seen
+sadly microsoft did reveal news upcoming version minecraft hololens
+to hololens long exciting projects come microsoft long time great demo we’ll finally really works outside confines microsoft demo environments

@@ -1,7 +1,7 @@
-Google calls Classroom a “mission control for teachers,” allowing them to access all of Google Apps for Education within one central place. Teachers can use the product to chat with students, help students with their work and keep track of the daily goings on in the classroom.
-Today, the product is introducing something really nifty that will allow a teacher to share a link with students immediately without them having to give out a URL. If all of the students happen to be using a Chrome browser and are logged in, a teacher can jump on over to a webpage, click the extension and pick a class to share it with.
-An alert will pop up to the entire class, no matter where they’re located, and the page will load.
+google calls classroom mission control teachers allowing access google apps education central place teachers use product chat students help students work track daily goings classroom
+today product introducing really nifty allow teacher share link students immediately having url students happen  using chrome browser logged teacher jump webpage click extension pick class share with
+an alert pop entire class matter located page load
 
-Teachers won’t have to write a URL on a board anymore or worry about everyone seeing a link in an instant message. Or, or….saying it out loud. Yikes, that’s always painful.
-Share To Classroom is available today, just in time for school to start.
+teachers wo write url board anymore worry seeing link instant message or…saying loud yikes  painful
+share classroom available today just time school start
 

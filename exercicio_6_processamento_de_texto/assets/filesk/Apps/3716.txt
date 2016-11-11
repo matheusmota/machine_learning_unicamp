@@ -1,11 +1,11 @@
-Products like Slack, Hipchat, Yammer and Asana have been slowly picking apart the world of enterprise communication, giving workers new, easier to use, and frankly more fun platforms to speak to each other and work on documents together.
-Now another startup wants to get in on the action. Quip — the mobile-first “word processor” app co-founded by ex-Facebook CTO Bret Taylor that lets people create and collaborate on documents with each other — is taking another step forward in its push into social features. It is adding Chat Rooms, a new way for people to speak to each other within the app.
-Chat Rooms are exactly what they sound like: a separate channel for messaging, where users can still link messages to Quip documents but also a number of other services, as well as emoji, GIFs and custom memes.
-What’s a custom meme, you ask?
+products like slack hipchat yammer asana slowly picking apart world enterprise communication giving workers new easier use frankly fun platforms speak work documents together
+now startup wants action quip  the mobile word processor app founded ex facebook cto bret taylor lets people create collaborate documents  taking step forward push social features adding chat rooms new way people speak app
+chat rooms exactly sound like separate channel messaging users link messages quip documents  number services emoji gifs custom memes
+what custom meme ask
 
-Adding Chat Rooms is part of a larger redesign of the app that is also coming out today that has several other new features. First, the app now algorithmically sorts your documents and conversations so that the ones you are most active in are at the top. (A very Facebook-influenced feature, in my opinion.)
-And, it is adding something that could come as a relief if you’re feeling finished with our age of over-notification: users can now decide which notifications they would like to receive among messages, doc edits, annotations, direct responses, and so on.
-Quip first opened for business in 2013 and now has over 10,000 businesses and “millions of individuals” using its service, Taylor tells me.
-This is not the company’s first foray into chat services — it has always had a way for users to communicate with others alongside documents, in Taylor’s words, “without the insufferable process of emailing attachments back and forth”. To that it added a “like” button last year (again with a hat tip to Facebook, which happens to be one of Quip’s customers, too).
-But significantly, adding standalone Chat Rooms catapults Quip into being a much more social tool, where Taylor says “teams can create ongoing discussions that aren’t attached to documents.”
-Not unlike Slack, conversations in Chat Rooms can be customised with integrations of notifications from third-party services like Twitter, Zendesk, Stripe, GitHub and JIRA, along with other updates like weather or public transit notifications, and they support other features like GIFs and emoji, and they can still be directly linked through to Quip documents.
+adding chat rooms is part larger redesign app coming today new features the app algorithmically sorts documents conversations ones active (a facebook influenced feature opinion
+and it is adding could come a relief feeling finished with our age notification users decide notifications like receive  messages doc edits annotations direct responses on
+quip opened business in  and now  businesses millions individuals using service taylor tells me
+this is company foray chat services   way users communicate alongside documents taylor words insufferable process emailing attachments forth added like button last year (again hat tip facebook happens  quip customers too
+ significantly adding standalone chat rooms catapults quip social tool taylor says teams create ongoing discussions attached documents
+not unlike slack conversations chat rooms  customised integrations notifications from third party services like twitter zendesk stripe github and jira updates like weather public transit notifications support features like gifs emoji  directly linked quip documents

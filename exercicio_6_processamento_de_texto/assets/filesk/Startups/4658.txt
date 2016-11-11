@@ -1,18 +1,18 @@
-Buffer is best known as a scheduling tool to help marketing teams schedule content on social media, but with the acquisition of Respondly, it signaled a plan to expand its repertoire to also cover customer service users.
-One of Buffer’s claims to fame is its policy of radical openness, which continued in its process for making its first major acquisition. This week, the company is launching the fruits of its acquisition, in the form of a new product: Respond.
-“With Respond as part of the Buffer family of products, it fundamentally changes us as a company.” says Buffer’s CEO Joel Gascoigne. “We’re excited to grow to serve the needs of customers both in terms of marketing, as well as now customer service and brand monitoring.”
-Respond helps companies reach their audiences, reply to queries, and monitor what’s being said about them. The service imports tweets @-mentioning the company, or simply mentioning them by name. From there, they are put into an inbox, enabling the customer service / social media teams to respond and engage, keep track of conversations, and ensure no interactions slip between the cracks.
+buffer best known a scheduling tool help marketing teams schedule content social media  acquisition respondly it signaled plan expand repertoire cover customer service users
+one buffer claims fame policy radical openness continued process making major acquisition week the company launching fruits its acquisition form new product respond
+with respond buffer family products fundamentally changes company says buffer ceo joel gascoigne excited grow serve needs customers terms marketing customer service brand monitoring
+respond helps companies reach audiences reply queries monitor said service imports tweets @ mentioning company simply mentioning put into inbox enabling customer service / social media teams respond engage track conversations ensure interactions slip cracks
  
-In addition to facilitating DMs and public conversations, Respond supports custom search queries, which appear alongside user tweets etc., making it possible to step into conversations even where the company isn’t @mentioned.
-Respond’s launch comes at a time when Twitter is making a push for better customer service functionality on its own platform.
-Respond retains most of the original look and feel of the old Respondly app, but the Buffer team did make a few changes. Among other things, Buffer implemented Gnip search to facilitate real-time search, for example. In addition, the package was optimized for teams, including double-reply detection, signatures for customer service representatives, and the ability to assign conversations between users.
+in addition facilitating dms public conversations respond supports custom search queries appear alongside user tweets making possible to step conversations company @mentioned
+respond launch comes time twitter is making push better customer service functionality platform
+respond retains original look feel old respondly app  buffer te did make changes  things buffer implemented gnip search facilitate real time search example addition package optimized teams including double reply detection signatures customer service representatives ability assign conversations users
 
-	Related Articles
+	related articles
 
-					Build Or Buy? Anatomy Of An Acquisition -- Or Why Buffer Bought Respondly
-					Buffer Rejiggers Its Open Salary Formula
-					Buffer Wants To Raise $3.5M At A $60M Valuation -- Here's The Term Sheet
-					Twitter's New Customer Service Features Make It Easier To Send Private Messages And Feedback
-	“A key opportunity this triggers for us is to be a complete social media solution for larger companies, agencies and enterprises who want to work with a single product across both marketing and customer service departments,” says Gascoigne. He further hints that more enterprise features are on the way. 
-“We had over 2,000 people sign up,” Buffer says, adding that another 1,000 new customers have signed up today. The company says that some Silicon Valley household names are already using Respond, including Product Hunt, Slack, WordPress and Stripe.
-Users can sign up for Respond now, and the basic plan is free.
+					build buy anatomy acquisition    buffer bought respondly
+					buffer rejiggers open salary formula
+					buffer wants raise m m valuation    here's term sheet
+					twitter's new customer service features make easier send private messages feedback
+	a key opportunity triggers  complete social media solution larger companies agencies enterprises want work single product marketing customer service departments says gascoigne hints enterprise features way 
+we  people sign buffer says adding  new customers signed today company says silicon valley household names using respond including product hunt slack wordpress stripe
+users sign respond basic plan free

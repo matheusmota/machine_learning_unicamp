@@ -1,26 +1,26 @@
-[Update: Facebook has now officially rolled out its update to Notes, including a cleaner design that offers cover images, caption able and resizable images, headers, bullet points, and block quotes.]
-Facebook basically locked Notes in the basement for the past half-decade. Its bare-bones blogging feature launched in 2006 as a place for writing missives that wouldn’t fit in a status update. After a few tweaks like the ability to insert photos, Facebook left Notes to languish.
-The launch of Timeline in 2011 buried the feature so deep in the interface that one could conclude Facebook didn’t want to deal with Notes any more. It seemed like people were satisfied with short-form social media posts, and few needed a place for long-form blogging.
-But then there was Medium. Launched in late 2012, it’s slowly gained steam to become THE place for infrequent bloggers, touchy-feely corporate responses, journalistic experiments, and all kinds of *thinkfluenceship*. Meanwhile, Tumblr was maturing from quick GIF reblogs by scene kids to a legitimate blogging platform under its new owner Yahoo.
-Facebook needed to wake up. The mainstream was ready to blog, and they didn’t want to set up a whole custom website to do it. In 2013, I wrote a stern call to arms for Facebook to overhaul Notes with three objectives:
-Later that year, I heard rumor of one wily Facebook engineer hellbent on getting the company to revamp Notes. Apparently Facebook listened.
-Now, Facebook is testing a design update to Notes that makes it much simpler and classier looking. Spotted by David Winer and reported by Mic Wright at The Next Web, it features nearly full-width images without cluttered sidebars, and allows for big, beautiful cover images like Facebook profiles. Facebook told The Next Web “We’re testing an update to Notes to make it easier for people to create and read longer-form stories on Facebook.”
-Here’s the old Notes design with gaudy (though useful) sidebars:
+update facebook officially rolled update notes including cleaner design offers cover images caption able resizable images headers bullet points block quotes
+facebook basically locked notes basement past half decade bare bones blogging feature launched  place writing missives fit status update tweaks like ability insert photos facebook left notes languish
+the launch timeline  buried feature deep interface conclude facebook did want deal notes like people satisfied with short form social media posts needed place long form blogging
+ medium launched late  slowly gained ste  place infrequent bloggers touchy feely corporate responses journalistic experiments kinds *thinkfluenceship* tumblr maturing quick gif reblogs scene kids legitimate blogging platform new owner yahoo
+facebook needed wake mainstre ready blog did want set custom website  i wrote stern arms facebook overhaul notes objectives
+later year i heard rumor wily facebook engineer hellbent getting company revamp notes apparently facebook listened
+now facebook testing design update notes makes simpler classier looking spotted david winer and reported mic wright web features nearly width images cluttered sidebars allows big beautiful cover images like facebook profiles facebook told web testing update notes make easier people create read longer form stories facebook
+here old notes design gaudy (though useful sidebars
 
-—
-Here’s the new simple and classy Notes without the sidebar:
 
-—
-And here’s a Medium post featuring a similar design:
+here new simple classy notes sidebar
 
-The new Notes certainly looks comprehensible to Internet n00bs, but slick enough that you could imagine venture capitalists or heads of state publishing on it. [Update: That’s an improvement on most of free blogging behemoths like WordPress that can show ads amongst your content and take work to make pretty…which is why people are moving to cleaner blogging pastures.]
-The real question, though, is whether Facebook is willing to put the power of the feed behind it.
-The core problem with Medium is that it relies largely on Twitter for distribution. Medium was started by Twitter co-founder Ev Williams. For high-minded thinkfluenceship (blogging to grow and show off one’s influence), that works fine. But Twitter’s still working towards ubiquity with Averages Joes. Tumblr similarly still has a bit of a niche, unruly feel, purported by its esoteric fandoms and off-kilter porn.
 
-Facebook’s advantage is its distribution. The same weapon it’s used to barge into web publishing with Instant Articles and video hosting with its auto-play clips could help it invade blogging. It’s similar to how LinkedIn used its natural traffic to launch a professional-minded publishing network.
-People will write where they get an audience. If that’s Facebook, they’ll publish there. And while Twitter doesn’t discriminate, showing every post to everyone, Facebook’s filtered feed shows you what it thinks you’ll actually consume.
-That led to a quick shift from people and businesses on Facebook sharing links out to YouTube to them sharing native Facebook videos because they’re easier to watch on Facebook, so more people engage with them, so the feed shows them to more people. The same could happen to blogging. If you can share a Facebook Note’s link anywhere just like a Medium link, but you’ll get extra eyeballs on Facebook for writing with its platform, it could be a big draw for bloggers.
+and medium post featuring similar design
 
-All Facebook has to do is make the on-Facebook reading experience of Notes better than clicking out to read a blog elsewhere. Just as with Instant Articles for publishers like BuzzFeed and the New York Times, Facebook could prep Notes so they’re immediately readable when discovered in the News Feed without waiting for a mobile site to load.
-And with the new design now in testing, people will get a smooth reading experience once they open a Note.
-It’s just another step in Facebook’s “Quest To Absorb The Internet.”
+the new notes certainly looks comprehensible internet nbs  slick imagine venture capitalists heads state publishing update improvement free blogging behemoths like wordpress ads content work make pretty…which people moving cleaner blogging pastures
+the real question facebook willing power feed it
+the core problem medium relies largely twitter distribution medium started twitter founder ev williams high minded thinkfluenceship (blogging grow influence works fine  twitter working ubiquity averages joes tumblr similarly bit niche unruly feel purported esoteric fandoms kilter porn
+
+facebook advantage distribution weapon used barge web publishing instant articles video hosting auto play clips help invade blogging similar linkedin used natural traffic launch professional minded publishing network
+people write audience facebook they’ll publish twitter does discriminate showing post facebook filtered feed shows thinks you’ll actually consume
+that led quick shift people businesses facebook sharing links youtu sharing native facebook videos easier watch facebook people engage feed shows people happen blogging share facebook note link just like medium link  you’ll extra eyeballs facebook writing platform  big draw bloggers
+
+all facebook make facebook reading experience notes better clicking read blog just instant articles publishers like buzzfeed new york times facebook prep notes immediately readable discovered news feed waiting mobile site load
+and new design testing people smooth reading experience open note
+it just step facebook quest absorb internet

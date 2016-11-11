@@ -1,12 +1,12 @@
-Remember when Target lost millions of customer credit card numbers to hackers who got in to their networks, of all things, through the company’s connected HVAC systems?
-A startup called Veriflow Systems Inc. just raised $8.2 million in a Series A round of venture funding to prevent that kind of thing with technology it’s calling “mathematical network verification.”
-The company’s systems basically give security and operations professionals a map of their networks, and a way to model any configuration or device changes before implementing them.
-The models reveal where security holes may open up, or other problems may arise causing network outages and suboptimal performance as unintended consequences.
-Menlo Ventures led the series A round in Veriflow joined by the company’s earlier backers New Enterprise Associates.
-Earlier, Veriflow raised $2.9 million from NEA, the National Science Foundation and the U.S. Department of Defense.
-The company already has a product in the market, and clients including different government offices that it did not have permission to discuss.
-Menlo Ventures’ Managing Director Matt Murphy said, “Networks are fairly opaque today and haven’t kept up with the kind of monitoring and visibility one gets into the compute, storage, and application layers of infrastructure.”
-He expects the Oakland, Calif.-based startup to use the new funding to raise awareness of its technology, especially among IT operations and network security professionals, as well as for hiring and continued research and product development.
-Murphy noted that one reason Menlo backed Veriflow is the track record of the founding team in computer science.
-The company’s cofounders are award-winning computer scientists with PhDs from the University of Illinois at Urbana-Champaign and University of California at Berkeley: Principal Engineer Ahmed Khurshid, Chief Science Officer Matthew Caesar, and Chief Technology Officer Brighten Godfrey.
-Veriflow’s CEO and president James Brear was formerly the CEO of Procera Networks, which he took public in 2011 and saw through a $240 million buyout in 2015.
+remember target lost millions customer credit card numbers hackers got networks things company connected hvac systems
+a startup called veriflow systems just raised  million series round venture funding prevent kind thing technology calling mathematical network verification
+the company systems basically security operations professionals map networks way model configuration device changes implementing them
+the models reveal security holes open problems arise causing network outages suboptimal performance unintended consequences
+menlo ventures led series round veriflow joined company earlier backers new enterprise associates
+earlier veriflow raised  million nea national science foundation department defense
+the company product market clients including different government offices did permission discuss
+menlo ventures managing director matt murphy said networks fairly opaque today kept kind monitoring visibility gets compute storage application layers infrastructure
+he expects oakland calif based startup use new funding raise awareness technology especially  operations network security professionals hiring continued research product development
+murphy noted reason menlo backed veriflow track record founding te computer science
+the company cofounders award winning computer scientists phds university illinois urbana champaign university california berkeley principal engineer ahmed khurshid chief science officer matthew caesar chief technology officer brighten godfrey
+veriflow ceo president james brear ceo procera networks took public  saw  million buyout 

@@ -1,14 +1,14 @@
-YouTube has rolled out a notable – and clearly, divisive – update to its iOS application which introduces Google’s now-familiar “Material” design style to the application alongside a handful of new video editing features. The latter, which is somewhat reminiscent of the tools found in iMovie, allow users to trim their clips as well as add filters and music prior to uploading their video. However, not all iOS users are pleased with the changes – some railing against the aggressive red bar at the top of the app, and many more lamenting YouTube’s failure to include multi-tasking support and other iOS 9 features, such as picture-in-picture.
-While it makes sense that Google wants a consistent look-and-feel for its products across platforms, desktop web, mobile web, iOS and Android, sometimes its choice to use the far more Android-friendly “Material” design aesthetic falls flat on iOS. YouTube’s iOS update is an example of that.
-Early adopters are currently filling the App Store with one-star reviews of the app’s redesign, claiming that the new layout involving the “garish” and “harsh” red header wastes space, while the changes to navigation actually require more swiping and tapping to get to content that used to be within easy reach.
-Most reviewers are complaining that by doing away with the left sidebar, it’s more difficult to access things like subscriptions, history and playlists – sections which used to be located all in one place. In fact, losing easy access to subscriptions, in particular, is among the top complaints.
-“Now I have to press a back button to go to a different channel,” laments one iTunes reviewer, summing up the overall sentiment succinctly. “Basically, this update got rid of all of the simple functionality that the app had, and replaced it with big pictures and pretty colors.”
-“Pretty,” of course, is arguable.
+youtu rolled notable  clearly divisive  update ios application introduces google familiar material design style application alongside handful new video editing features somewhat reminiscent tools imovie allow users trim clips add filters music prior uploading video ios users pleased changes  railing aggressive red bar app and many lamenting youtu failure include multi tasking support and other ios  features as picture picture
+while makes sense google wants consistent look feel products platforms desktop web mobile web ios android choice use far android friendly material design aesthetic falls flat ios youtu ios update example that
+early adopters currently filling app store star reviews app redesign claiming new layout involving garish harsh red header wastes space changes navigation actually require swiping tapping to content used  easy reach
+most reviewers complaining doing away left sidebar difficult access things like subscriptions history playlists  sections used  located place fact losing easy access subscriptions particular  complaints
+now i press button to different channel laments itunes reviewer summing overall sentiment succinctly basically update got rid of simple functionality app replaced big pictures pretty colors
+pretty course arguable
 
-Meanwhile, iOS 9 upgraders point out that YouTube missed the opportunity to add support for new iOS features like Picture-in-Picture, plus SlideOver and Split View (multi-tasking features for select devices).
-The video editing features are handy to have included, if fairly basic in their functionality. But their addition is being overshadowed by users’ negative reaction to the layout and navigation changes and the missing support for iOS 9 features that a number of other top-tier apps have adopted, including MLB At Bat, Hulu, BBC’s iPlayer and others.
-//platform.twitter.com/widgets.js
-//platform.twitter.com/widgets.js
-//platform.twitter.com/widgets.js
-//platform.twitter.com/widgets.js
-(hat tip/image credit, app: MacRumors)
+meanwhile ios  upgraders point youtu missed opportunity add support new ios features like picture picture plus slideover split view (multi tasking features select devices
+the video editing features handy included fairly basic functionality  addition overshadowed users negative reaction layout navigation changes the missing support ios  features number tier apps adopted including mlb bat hulu bbc iplayer others
+//platformtwittercom/widgetsjs
+//platformtwittercom/widgetsjs
+//platformtwittercom/widgetsjs
+//platformtwittercom/widgetsjs
+(hat tip/image credit app macrumors

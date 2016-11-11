@@ -1,10 +1,10 @@
-Need to post content to multiple social networks at the same time? A new chatbot called Yala wants to help. The bot, live now on Slack with Facebook Messenger support coming soon, not only does the work of posting for you, it’s also intelligent enough to know when to post. That is, Yala uses algorithms and machine learning to determine the best time to post in order to increase your exposure and receive better engagement on the items you’re sharing.
-The idea for the bot comes from Gary Levitt, who previously sold his email marketing startup Mad Mimi to GoDaddy back in 2014. Afterwards, he attempted to enter the e-commerce space with an online storefront service Pinecone, but says he had trouble getting it off the ground. That led to the pivot to Yala instead – something that addressed a problem Levitt faced himself while building Pinecone.
-“I was dissatisfied with Buffer, and its less impressive competitors, because multi-channel posting took time,” explains Levitt, “especially when it came to scheduling across many channels, editing, choosing times and composing,” he says.
-Buffer, by way of background, is a social media scheduling service, which also offers tools that help you determine the best time to publish.
-However, with Yala, the idea is to bring a similar sort of intelligence a bit “closer to home,” says Levitt – meaning, Slack.
-To determine the best time to post, Yala looks at your social media posting history to determine which times and posts led to the most shares, likes and clicks. It also takes into account things like time zones and other audience behaviors. Plus, the machine learning aspect enables it to improve and automatically correct itself on the fly, given your own social media engagement metrics.
-By being able to identify patterns, it’s able to create a posting schedule that refines itself in real-time, Levitt says.
-The team saw a 10 percent increase in shares and posts when they used Yala, during testing. (Yala, in case you’re curious, is a slang term in Israel, borrowed from Arabic, which means “get a move on.”)
-Currently, the bot works with Facebook and Twitter, and is live on Slack. Additional platforms and social networks are in development now.
-Yala is a bootstrapped team of three, and is based in both New York and Israel.
+need post content multiple social networks time new chatbot called yala wants to help bot live slack facebook messenger support coming soon does work posting intelligent know post yala uses algorithms machine learning determine best time post order increase exposure receive better engagement items sharing
+the idea bot comes gary levitt previously sold email marketing startup mad mimi godaddy  attempted enter e commerce space with an online storefront service pinecone  says trouble getting ground led pivot yala instead  addressed problem levitt faced building pinecone
+i dissatisfied buffer impressive competitors multi channel posting took time explains levitt especially came scheduling channels editing choosing times composing says
+buffer way background social media scheduling service offers tools help determine best time publish
+however yala idea bring similar sort intelligence bit closer home says levitt  meaning slack
+to determine best time post yala looks social media posting history determine times posts led shares likes clicks takes account things like time zones audience behaviors plus machine learning aspect enables improve automatically correct fly given social media engagement metrics
+by able identify patterns able create posting schedule refines real time levitt says
+the team saw a  percent increase shares posts used yala testing (yala case curious slang term israel borrowed arabic means on
+currently bot works facebook twitter live slack additional platforms social networks development now
+yala bootstrapped te based new york israel

@@ -1,6 +1,6 @@
-Microsoft’s Windows 10 has around 450,000 users on a daily basis, according to the software company. A new blog post from the Windows team highlighted the statistic, also noting that it has collected 1.5 million testers for its preview operating system.
-That number was 1 million on October 13. So, the pace of new signups to test Windows 10 has declined — it attracted its first million in two weeks — but also hows that interest has continued at some pace. That the OS preview has a current-signup, to active-user ratio of 3:1 feels robust.
-Microsoft’s Gabe Aul, who penned the company’s latest missive, claims that 1,300 bugs in the operating system that were reported by its community have been fixed. Aul continued, promising “big things” in the next build of Windows 10, which will be shown off, and hopefully released at the company’s January 21 event. TechCrunch will be covering the happenings live.
-Aul managed to make light of the recent build leaks that his company has endured:
-Microsoft has been surprisingly relaxed about recent leaked builds. Its view appears to be that if things slip out a bit early, it only adds another measure of transparency to the process of building Windows 10. Of course, it would prefer full control.
-Here’s what I want to know from you: Is nearly 500,000 daily users a strong number for Microsoft, or a weak tally? Is the 1.5 million signups number strong? Let me know.
+microsoft windows   users daily basis according software company new blog post windows te highlighted statistic noting that collected  million testers preview operating system
+that number  million october  pace new signups test windows  declined  attracted million weeks   hows that continued at some pace that os preview has current signup active user ratio  feels robust
+microsoft ga aul penned company latest missive claims  bugs operating reported community fixed aul continued promising big things build windows   shown hopefully released company january  event techcrunch  covering happenings live
+aul managed make light recent build leaks company endured
+microsoft surprisingly relaxed recent leaked builds view appears  things slip bit early adds measure transparency process building windows  course prefer control
+here i want know nearly  daily users strong number microsoft weak tally  million signups number strong let know

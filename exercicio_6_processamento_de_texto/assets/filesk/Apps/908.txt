@@ -1,17 +1,17 @@
-Facebook’s attempt at a real-time, notification-based news app is shutting down. Today Facebook sent an alert to users telling them “Thanks for using Notify. We’re transitioning parts of Notify into other Facebook products, and the app will no longer be supported.”
-Facebook launched Notify in November, allowing users to select from over 70 publishers that they wanted to send them news notifications. People would receive short summaries they could click through to view full news articles. But within days, it seemed like most people had forgotten about the app, and Facebook never really talked about it again.
+facebook attempt real time notification based news app shutting today facebook sent alert users telling thanks using notify transitioning parts notify facebook products app longer  supported
+facebook launched notify november allowing users select  publishers wanted send news notifications people receive short summaries click view news articles  days like people forgotten app facebook really talked again
 
-Facebook now tells me that:
-Publishers that were on Notify are desperately blasting their followers, pushing them to Like their Facebook Pages to stay connected.
+facebook tells that
+publishers notify desperately blasting followers pushing like facebook pages stay connected
 
-These numbers are unconfirmed, but mobile intelligence startup SensorTower estimates that Notify only had 63,000 downloads.
+these numbers unconfirmed  mobile intelligence startup sensortower estimates notify  downloads
 
-Perhaps the coolest part of Notify was the ability to set up granular alerts about sub-topics. Instead of subscribing to all NBA basketball news from CBS Sports, you could just get notifications about the Golden State Warriors or other teams. Instead of being bombarded with Bloomberg financial news, you could just configure Notify to tell you about certain companies.
+perhaps coolest notify ability set granular alerts sub topics instead subscribing nba basketball news cbs sports just notifications golden state warriors teams instead bombarded bloomberg financial news just configure notify tell certain companies
 
-This level of control is hopefully what Facebook will port over to other products. I’ve written about how bots could dehumanize Messenger by overrunning the chat app and sending you unwanted spam that makes you less likely to open the app or messages from friends.
-Notify’s granular alerts could keep chatbot noise down while giving you only relevant information.
+this level control hopefully facebook port products i’ve written bots dehumanize messenger overrunning chat app sending unwanted sp makes likely open app messages friends
+notify granular alerts chatbot noise giving relevant information
 
-Notify’s categorized publisher discovery tool could also benefit chatbots. Rather than combing through a massive list, you could just see outlets related to business, fashion, gaming and other verticals. With Facebook saying more than 10,000 developers are already building chatbots for Messenger, a more organized discovery tool could come in handy.
+notify categorized publisher discovery tool benefit chatbots combing massive list just outlets related business fashion gaming verticals facebook saying  developers building chatbots messenger organized discovery tool come handy
 
-With Facebook Paper no longer getting updates, and Notify in the can, it might seem like Twitter has more open runway to control real-time news. But as in the past, Facebook typically uses standalone apps to experiment with ideas where it won’t piss off its 1.65 billion users. It brought to its main app filters from Facebook Camera, designs for Instant Articles from Facebook Paper and drawing tools from Slingshot.
-Notify may be no more, but Facebook’s sure to take its organs and transplant them elsewhere to make its other news products feel more alive.
+with facebook paper longer getting updates notify like twitter open runway control real time news  past facebook typically uses standalone apps experiment ideas wo piss  billion users brought main app filters facebook camera designs instant articles facebook paper drawing tools slingshot
+notify   facebook sure organs transplant make news products feel alive

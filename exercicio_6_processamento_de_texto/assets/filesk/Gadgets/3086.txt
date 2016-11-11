@@ -1,10 +1,10 @@
-These days, it’s hard to stand out in the smart glasses category. There are many underwhelming products coming to market now and many more that, while extravagant, seem to be caught in the “forever-coming-soon” stage. It’s therefore refreshing to see a real live demo that really delivers.
-Among other things, Lumus makes tiny optical displays for viewing augmented reality content. We often see these displays manifest themselves as the lenses of smart glasses like in their DK 50 and DK 45 smart glasses–on view at CES. These two glasses have 40 and 23 degree fields of view, respectively. They’re the brightest overlay displays I’ve seen in smart glasses.
-Engadget covered these two latest offerings from the floor of CES in great detail yesterday (40 degree FOV, 720p binocular vision, Snapdragon processor) and I have to say that after trying them on myself, Lumus’s intellectual property, which relies on multiple prisms in their lenses, is rad. It was better than I thought it would be. It was, in my opinion, profound.
-But what Lumus also had laying around its booth that didn’t get reported on was a new prototype of lens with a 60-degree field of view.
-Ari Grobman and Dave Goldman from Lumus prefaced that it was a very raw prototype and only had one lens, but as I looked through it, the content pretty much covered the field of view from my nose to my wider periphery.
-It was bright and colorful and ripe for enterprise, medical or tactical uses. And according to Lumus, the wider the field of view, the more realistic the augmented content and experience can be.
-Let me say this loud and clear: it is not a consumer device. Many of Lumus’s contracts are military or medical. However looking through a display like this–that covers this much of your field of view–is definitely a picture of what could be possible when their technology comes to consumers. This could be as early as 2018 according to Lumus.
-My rudimentary photo doesn’t do the 60 degree prototype justice, but it was expansive.
+these days hard stand smart glasses category underwhelming products coming market extravagant  caught forever coming soon stage refreshing real live demo really delivers
+ things lumus makes tiny optical displays viewing augmented reality content displays manifest lenses smart glasses like dk  dk  smart glasseson view ces glasses   degree fields view respectively brightest overlay displays i’ve seen smart glasses
+engadget covered latest offerings floor ces great yesterday ( degree fov p binocular vision snapdragon processor i say trying lumus intellectual property relies multiple prisms lenses rad better i thought  opinion profound
+ lumus also had laying its booth did reported new prototype lens  degree field view
+ari grobman dave goldman lumus prefaced raw prototype lens  i looked content pretty covered field view nose wider periphery
+it bright colorful ripe enterprise medical tactical uses according lumus wider field view realistic augmented content experience be
+let say loud clear consumer device lumus contracts military medical looking display like thisthat covers field viewis definitely picture  possible technology comes consumers  early  according lumus
+my rudimentary photo does  degree prototype justice  expansive
 
 

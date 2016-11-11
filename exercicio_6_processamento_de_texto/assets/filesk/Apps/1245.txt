@@ -1,12 +1,12 @@
-Services like YouTube Gaming and Twitch are great for watching videos and live streams from your favorite gamers, but a new app called Leet, launching now, has a slightly different take. Instead of focusing on live-streamed gameplay and real-time chat, Leet lets gamers share short highlights from their favorite console or PC games to its online community and the social web. Others can then like or comment on the clips, giving the app an Instagram-like appeal.
-At launch, Leet supports sharing from Xbox One, PS4 or PC games, thanks to its support for YouTube and its ability to connect with the Xbox service. After registering for an account, you’re placed in a home feed with content from people you follow.
-Leet offers a list of suggested users to help you get started, while a “discover” view can help you find more content from those in the wider community.
-You can then connect your own accounts, including YouTube (for PS4 and PC gamers) and Xbox, by entering your Google credentials and Xbox gamertag, respectively. The company says it’s working on Twitch integration now, which a number of its early adopters have demanded. Twitch itself, however, recently launched its own clip-sharing tool, which redirects users back to the video on its site.
-Though somewhat competitive with Leet, that does signal that there’s interest in tools for sharing short-form content like this, outside of broader networks like Vine or Instagram.
-Once you’ve uploaded a video to Leet, you can use the app’s included tools to trim the clip to a smaller size (15 seconds) before sharing.
-The bootstrapped startup is based in Toronto and is a team of four, at present. Co-founders include Corey Pollock, currently Product Manager at Tiny Hearts studio, and the creator behind Slacklist.info and the largest gaming Slack community (#gaming); and Mohamed Hashi, currently Product Designer at Wattpad.
-Tiny Hearts studio, which makes a number of popular apps like Next Keyboard and Wake Alarm, is serving as advisor.
-“We tried to make the app as simple as possible,” explains Pollock. “[Leet takes] cues from well- recognized apps like Instagram and Vine, to provide users with a comfortable experience,” he says.
-The clips are also looping, as on Vine. And they start to auto-play after you stop scrolling the feed.
-For those addicted to this sort of gameplay content, Leet can be fun to browse and easy to use. Whether it has a shot at carving out its own niche in the crowded social space, however, remains to be seen.
-The app is a free download on iTunes. 
+services like youtu gaming twitch great watching videos live streams favorite gamers  new app called leet launching slightly different instead focusing live streamed gameplay real time chat leet lets gamers share short highlights favorite console pc games online community and the social web like comment clips giving app instagr like appeal
+at launch leet supports sharing xbox ps pc games thanks support youtu ability connect xbox service registering account placed home feed content people follow
+leet offers list suggested users help started discover view help content wider community
+you connect accounts including youtu (for ps pc gamers xbox entering your google credentials xbox gamertag respectively the company says working twitch integration number early adopters demanded twitch recently launched clip sharing tool redirects users video site
+though somewhat competitive leet does signal tools sharing short form content like outside broader networks like vine instagram
+once you’ve uploaded video leet use app included tools trim clip smaller size ( seconds sharing
+the bootstrapped startup based toronto te present founders include corey pollock currently product manager tiny hearts studio creator behind slacklistinfo largest gaming slack community (#gaming and mohamed hashi currently product designer wattpad
+tiny hearts studio makes number popular apps like keyboard wake alarm serving advisor
+we tried make app simple possible explains pollock leet takes cues  recognized apps like instagr vine provide users comfortable experience says
+the clips looping vine they start auto play stop scrolling feed
+for addicted sort gameplay content leet  fun browse easy use shot carving niche crowded social space remains  seen
+the app free download itunes 

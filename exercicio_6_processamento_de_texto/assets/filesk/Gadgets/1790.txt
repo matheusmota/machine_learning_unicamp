@@ -1,8 +1,8 @@
 
-Here’s the thing: when your eyes are synthesizing information from multiple screens into a three-dimensional virtual space, the word “screenshot” fails to describe what it is doing almost as badly as it fails to document what you are experiencing. So I’m calling it viewcapture.
-Another, separate problem is that VR headsets and platforms right now don’t offer much in the way of viewcapping options out of the box; there are third-party solutions, of course, but ideally one should be able to make a record of the VR experience as easily as I can screenshot these words.
-It’s not quite there yet, but Oculus has pushed out an update (first noticed by Road to VR) to GearVR-compatible phones that at least gets the ball rolling. Users will now find capture tools in the “Utilities” section of the universal menu (accessed by holding the back button, but you knew that).
+here thing eyes synthesizing information multiple screens dimensional virtual space word screenshot fails descri doing badly fails document experiencing i’m calling viewcapture
+another separate problem vr headsets platforms right offer way viewcapping options box party solutions course  ideally  able make record vr experience easily i screenshot words
+it quite  oculus pushed update (first noticed road vr gearvr compatible phones gets ball rolling users capture tools utilities section universal menu (accessed holding button  knew that
 
-Natively captured shots will be humble single-eye, 1024×1024 affairs, and you’ll need to record audio separately for video — so for some, this built-in tool may not be sufficient. But hey, it’s a budget solution for budget VR. And it’ll only get better.
+natively captured shots  humble single eye × affairs you’ll need record audio separately video  built tool  sufficient  hey budget solution budget vr it’ll better
 
-The big Catch-22 with spreading VR content remains, however: you can’t try it without a headset, and no one wants a headset who hasn’t tried it. That’ll resolve itself in time, however, as the technology filters down from the early adopters — or rather, filters up from the many basements converted into VR caves.
+the big catch  spreading vr content remains ca try headset wants headset tried that’ll resolve time technology filters early adopters  filters basements converted vr caves

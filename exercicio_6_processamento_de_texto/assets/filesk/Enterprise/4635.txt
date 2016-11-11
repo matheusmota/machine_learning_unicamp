@@ -1,14 +1,14 @@
-It’s a busy week for Anaplan: They open their user conference later today, announced $100M in new funding and introduced Anaplan Hub, a marketplace where customers can share and find pre-designed planning models ready to adapt and use.
-Company president and CEO, Frederic Laluyaux said you could think of the Hub like an app store for planners, but instead of containing apps or music and movies, The Hub contains pre-defined plans that enable Anaplan users to hit the ground running.
-Laluyaux offers this example of how a customer could use the Anaplan Hub: “Your boss asks you to build a work force planing model from scratch. You go anaplan.com, search for a plan, like searching for music [iTunes or Google Play], look at reviews and previews, download  a plan and be up and running immediately.”
-What’s more, he said because these plans tend to be complex, you will be able to review a model map to understand quickly how it works.
-As for the funding, in one stroke of the pen, Anaplan more than tripled its funding to date to $150M. DFJ leads the company’s Series D funding and it’s a huge influx of cash at $100M.  Other new investors include Brookside Capital, Coatue Management, and Sands Capital Management, as well as all of Anaplan’s current investors, Granite Ventures, Meritech Capital and Shasta Ventures.
-Anaplan also announced that Randy Glein, Managing Director at DFJ Growth, will join Anaplan’s Board of Directors.
-In addition to these traditional funding companies, Salesforce.com is continuing its investment and is joined by fellow cloud computing company Workday for the first time.
-Laluyaux was particularly proud of the latter’s investment because it showed support from companies operating on similar cloud model. He was excited to have the additional funding and he said the company plans to move toward the concept of what he calls, “a planning cloud.” Salesforce could be called a “sales cloud” and Workday could be called “an HR cloud.” He wants that same scope of vision applied to his company in the future.
-“[The Planning Cloud] allows companies to plan their business better. The core to better planning is to enable customers to do the plan where and when they want to do it,” Laluyaux explained. He added, the goal was to  establish a community of planners and users who could help one another, beyond the notion of delivering the core product to them.
-Building the Anaplan Hub, which will go live this summer, is part of executing on that vision.
-Anaplan changed the notion of planning software by providing a simpler interface in a cloud model and so far some big named companies have signed on including HP, Kimberly Clark, Procter and Gamble and Pandora, among others.
-By building a cloud-based planning app, Anaplan has reduced the complexity of what was once a highly complex exercise. It doesn’t remove the complexity of the models these companies are building, but customers can concentrate on building better models because as a cloud service, they no longer have to worry about the code or the infrastructure behind it.
-And with $100M to keep this going, some financiers obviously believe this is a sound approach.
-PHOTO BY FLICKR USER REYNERMEDIA. USED UNDER CC BY 2.0 LICENSE.
+it busy week anaplan open user conference later today announced m new funding introduced anaplan hub marketplace customers share pre designed planning models ready adapt use
+company president ceo frederic laluyaux said think hub like app store planners  instead containing apps music movies hub contains pre defined plans enable anaplan users hit ground running
+laluyaux offers example customer use anaplan hub boss asks build work force planing model scratch you anaplancom search a plan like searching music itunes google play look reviews previews download  a plan  running immediately
+what said plans tend  complex  able review model map understand quickly works
+as funding stroke pen anaplan more tripled its funding date m dfj leads company series d funding huge influx cash m  other new investors include brookside capital coatue management sands capital management anaplan current investors granite ventures meritech capital shasta ventures
+anaplan announced that randy glein managing director dfj growth join anaplan board directors
+in addition traditional funding companies salesforcecom continuing investment joined fellow cloud computing company workday time
+laluyaux particularly proud investment showed support companies operating similar cloud model excited additional funding said company plans concept calls planning cloud salesforce  called sales cloud workday  called hr cloud wants scope vision applied company future
+the planning cloud allows companies plan business better the core better planning enable customers to plan want laluyaux explained added goal  establish community planners users help notion delivering core product them
+building anaplan hub live summer executing vision
+anaplan changed notion planning software providing simpler interface cloud model far big named companies signed including hp kimberly clark procter gamble pandora  others
+by building cloud based planning app anaplan reduced complexity highly complex exercise does remove complexity models companies building  customers concentrate building better models cloud service they no longer worry code infrastructure it
+and m going financiers obviously believe sound approach
+photo flickr user reynermedia used cc  license

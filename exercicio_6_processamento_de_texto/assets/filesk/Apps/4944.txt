@@ -1,24 +1,24 @@
-Ever since Apple introduced support for custom keyboards in iOS 8, third-party developers rushed in to fill the void with keyboards that offered an array of features like predictive emoji, easy access to GIFs, swipe-based input, and more. Today, another new contender is throwing its hat into the now-crowded ring: Next, a skinnable custom keyboard that offers predictive typing, fast editing, plus instant access to emojis and stickers.
-The app was developed by Tiny Hearts, an independent development studio based in Toronto which has put out a variety of iOS applications over the years, including kids app Pocket Zoo, a game called Instamatch, a popular alarm clock Wake Alarm, and a 7-minute workout app Quick Fit, among others.
+ever apple introduced support custom keyboards ios  party developers rushed void keyboards offered array features like predictive emoji easy access gifs swipe based input today new contender throwing hat crowded ring next skinnable custom keyboard offers predictive typing fast editing plus instant access emojis stickers
+the app developed by tiny hearts independent development studio based toronto variety ios applications years including kids app pocket zoo game called instamatch popular alarm clock wake alarm  minute workout app quick fit  others
 
-However, explains Tiny Hearts founder Robleh Jama, the bootstrapped company has been very focused on the Next keyboard for the past year and plans to spin it out as a separate company.
-“Our goal is to create products that have the potential to become sustainable mobile companies,” he says.
-The keyboard app initially got its start on Kickstarter, where over 6,500 backers pledged nearly $65,000 (CAD) to bring the app to life. Now, after over a year of work, the Next keyboard is live on the App Store.
-The app offers a number of features that may appeal to those who like to give their keyboard a little pizzaz, including a variety of colorful themes, plus quick access to emojis and stickers. The emoji will actually be suggested to you as you type, and you can tap a button on the Next keyboard to quickly move over to the integrated emoji keyboard where you can swipe to switch between emoji and stickers.
+however explains tiny hearts founder robleh jama bootstrapped company focused keyboard past year plans spin separate company
+our goal create products potential  sustainable mobile companies says
+the keyboard app initially got start kickstarter  backers pledged nearly  (cad bring app life now year work keyboard is live app store
+the app offers number features appeal like keyboard little pizzaz including variety of colorful themes plus quick access emojis stickers emoji actually  suggested you type and tap button keyboard quickly integrated emoji keyboard swipe switch emoji stickers
 
-Here, you can scroll vertically to browse through the standard set of emoji, or swipe horizontally to switch over to the section featuring Next’s own “huge” emoji and your sticker collections. The company offers 60 original stickers at launch, but will likely expand its sticker store in time.
-Currently, the stickers aren’t available as in-app purchases, but rather you “pay” to download different sticker sets by tweeting about the Next keyboard.
-Shortly after launch, additional themes, stickers and GIFs will be made available through in-app purchases. But for the time being, all the add-ons are free.
+here scroll vertically browse through standard set emoji swipe horizontally switch section featuring huge emoji sticker collections company offers  original stickers launch  likely expand sticker store time
+currently stickers available app purchases  pay download different sticker sets tweeting keyboard
+shortly launch additional themes stickers gifs  available app purchases  time add ons free
 
-While the stickers, emoji and themes make the keyboard fun, the company actually spent most of its time developing the word prediction and autocorrect engine, which improves the more you use the keyboard. This will be a big focus going forward, as well, notes Jama.
-“We plan on continuing to improve our prediction engine, adding swipe typing, and continuing to innovate in the space of ‘messaging + AI’ while exploring ways to extend the keyboard with integrations that will make it easy for people to express themselves and get work done on iOS,” he says.
-Quick Cursor Is A Killer Feature
-There are a couple of other standout features in this keyboard as well, including my favorite, the “Quick Cursor.” Designed to make editing your messages easier, the Quick Cursor lets you swipe your finger across the keyboard’s spacebar in order to relocate the cursor to where you want it. This is easier and faster than trying to position your finger in the right spot and waiting for the magnifying glass to appear.
+while stickers emoji themes make keyboard fun company actually spent time developing word prediction autocorrect engine improves use keyboard  big focus going forward notes jama
+we plan continuing improve prediction engine adding swipe typing continuing innovate space ‘messaging + ai’ exploring ways extend keyboard integrations make easy people express work ios says
+quick cursor killer feature
+there couple standout features keyboard including favorite quick cursor designed make editing messages easier quick cursor lets swipe finger keyboard spacebar order relocate cursor want easier faster trying position finger right spot and waiting magnifying glass appear
 
-The keyboard has also introduced its own version of the Shift key, which addresses the concerns users had with the default Shift key in iOS 8 which made it harder to tell when you had Shift turned on. In the Next keyboard, the Shift key’s arrow is outlined and the letters are small, but when pressed, the arrow is filled in with a solid color (depending on your theme) as the letters on the keys become capitalized. (Of course, Apple is finally fixing the Shift key problem with iOS 9, whose release is right around the corner.)
-This may not be everyone’s preferred solution to the Shift key problem, but it works well enough.
-The other issue I’ve had with custom keyboards in the past is that switching between them becomes too cumbersome, especially since the button to move between keyboards isn’t always consistently located. Next has this problem, too. While its “switch keyboards” button is at the bottom left, it requires two taps – once to launch a second screen, and then again to “switch keyboard.” (The other option on this screen is access to your “Settings.”)
-That would make swapping between Next and, say, your favorite GIF keyboard more difficult, and may ultimately put you off.
-But when Next integrates its own GIFs, then it could become your only keyboard, as it already offers many of the features users look for in third-party keyboard apps like predictive text and predictive emoji, stickers, themes and will soon introduce swipe input, as well.
-I should note that there were a couple of weird quirks when testing the keyboard – for instance, it sometimes switched by to the Apple default keyboard even when Next was set as my primary keyboard. But most grievances were minor, and should be corrected with software updates.
-The app is $3.99 on the iTunes App Store.
+the keyboard introduced version shift key addresses concerns users default shift key ios  harder tell shift turned keyboard shift key arrow outlined letters small  pressed arrow filled solid color (depending theme as letters keys become capitalized (of course apple finally fixing shift key problem ios  release right corner
+this  preferred solution shift key problem  works enough
+the other issue i’ve custom keyboards past switching  cumbersome especially button keyboards  consistently located problem switch keyboards button left requires taps  launch second screen switch keyboard (the option screen access settings
+that make swapping say favorite gif keyboard difficult ultimately off
+ when next integrates gifs  keyboard offers features users look party keyboard apps like predictive text predictive emoji stickers themes soon introduce swipe input well
+i note couple weird quirks testing keyboard  instance it sometimes switched apple default keyboard set primary keyboard  grievances were minor  corrected software updates
+the app  itunes app store

@@ -1,7 +1,7 @@
-The first OSVR headset made its debut at last year’s CES. The wearable wasn’t aimed at Oculus or HTC – nor were its creators looking to take on Samsung’s low cost Gear VR. Rather, the prototype represented the first step in a multi-company effort to build a new, non-proprietary paradigm in the burgeoning world of virtual reality.
-And Min Liang-Tan helped lead the charge. His company, Razer, has been offering some of the most innovative gaming products since its inception, swinging for the fences with tablets, modular PCs, an ultra-thin portable gaming laptop and even a dual-screen smartwatch.
-It goes without saying that we’re very excited to be joined by Tan on the Disrupt SF stage (September 12 – September 14).
-OSVR (or Open Source Virtual Reality) is a natural fit for a company looking to push gaming devices forward, offering up an open-source ecosystem where hardware developers can bring peripherals designed to help further immersion for the technology.
-Tan co-founded Razer in 2005 as an outgrowth his team’s late-90s attempts to build an early gaming-specific mouse, a project that gave rise to the original Razer Boomslang. Since then, the company has been a leading force in gaming peripherals, an Tan has been named to countless lists of top influencers and entrepreneurs.
-He’ll be joining us onstage in September at Pier 48 to discuss Razer’s role in the future of gaming at Disrupt San Francisco, September 12-14th. You can purchase tickets to the event here.
-Sponsors make TechCrunch events possible. If you want to learn more about sponsorships with TechCrunch, shoot an email to sponsors@techcrunch.com.
+the osvr headset year ces wearable aimed oculus htc  creators looking samsung low cost gear vr prototype represented step multi company effort build new non proprietary paradigm burgeoning world virtual reality
+and min liang tan helped lead charge company razer offering innovative gaming products inception swinging fences tablets modular pcs ultra portable gaming laptop dual screen smartwatch
+it goes saying excited  joined tan disrupt sf stage (september   september 
+osvr (or open source virtual reality natural fit company looking push gaming devices forward offering open source ecosystem hardware developers bring peripherals designed help immersion technology
+tan founded razer  outgrowth te late s attempts build early gaming specific mouse project gave rise original razer boomslang company leading force gaming peripherals tan named countless lists influencers entrepreneurs
+he’ll  joining onstage september pier  discuss razer role future gaming disrupt san francisco september  th purchase tickets event here
+sponsors make techcrunch events possible want learn sponsorships techcrunch shoot email sponsors@techcrunchcom

@@ -1,24 +1,24 @@
-You may remember Launcher as the once-banned iOS widget that Apple booted from the App Store after its approval, then months later allowed back in. The problem Apple had with the app, seemingly, is that its sole existence was to be a widget provider — the app by itself didn’t offer any standalone functionality beyond widget configuration. Today, Launcher is out with its first significant update since its App Store return more than a year ago, with a new version that introduces support for multiple widgets that can also be customized to display or become hidden based on day, time and location.
-Wait, multiple widgets that can appear or disappear based on various user-configured settings? That’s very clever. (Side note: Apple, please don’t ban Launcher 2.0.)
-Launcher, in case you missed it the first time around, is a type of iOS widget that allows you to add shortcuts to apps and various tasks (like placing a phone call or posting a tweet) right in the iOS Notification Center.
-Thanks to its precedent-setting debut on the iTunes App Store, it opened up the market to other developers who wanted to make more functional widgets capable of launching apps and taking actions, such as Workflow and Launch Center Pro.
-These apps offer a different way of using the applications installed on your phone — instead of having to hunt for them by swiping through screens, or calling them up through Spotlight Search, you simply tap on a button in the Notification Center.
+you remember launcher banned ios widget apple booted the app store approval months later allowed problem apple app seemingly sole existence  widget provider  app itself did offer standalone functionality widget configuration today launcher significant update app store return year ago new version introduces support multiple widgets that can  customized display  hidden based day time location
+wait multiple widgets appear disappear based various user configured settings clever (side note apple ban launcher 
+launcher case missed time type ios widget allows add shortcuts apps various tasks (like placing phone posting tweet right ios notification center
+thanks precedent setting itunes app store opened market developers wanted make functional widgets capable launching apps taking actions workflow launch center pro
+these apps offer different way using applications installed phone  instead having hunt swiping screens calling spotlight search you simply tap button notification center
 
-The app can also save you time, as it lets you configure workflows and add one-touch actions to the Notification Center like “call your wife,” “get directions home,” message a friend, call for an Uber, launch your favorite playlist, and much more.
-In the new version of Launcher, the app now lets you organize these actions and shortcuts into groups each contained in their own widget. In other words, you could have a widget of apps you use at home, another for work or you could separate your most-often used shortcuts from the rest in a separate widget.
+the app save time lets configure workflows add touch actions notification center like wife directions home message friend uber launch favorite playlist more
+in new version launcher app lets organize actions shortcuts groups contained widget words widget apps use home work separate used shortcuts rest separate widget
 
-What’s really interesting here is that Launcher lets you control whether its individual widgets are displayed or hidden based on the day of the week, time of day or location.
-In other words, you could make your “Home” widget group only appear when you were at home, or set your “Work” widget to only appear Monday through Friday. You could make a group of shortcuts that only appear when you’re at the gym, or in a particular city. (Unfortunately, you have to manually create your geofences by dragging a circle around on a map.) You could make thematic groups, like a widget for Music apps and tasks, for example.
-You can customize the name of each widget and icons — making them round or even creating your own icons.
+what really interesting launcher lets control individual widgets displayed hidden based day week time day location
+in words make home widget group appear home set work widget appear monday friday make group shortcuts appear gym particular city (unfortunately manually create geofences dragging circle map make thematic groups like widget music apps tasks example
+you customize widget icons  making round creating icons
 
-Plus, the app’s latest version lets you backup and restore your widgets via iCloud Backup.
-The app itself is a free download on the App Store and supports up to 8 launchers on iPhone and up to 12 on iPad in a single widget. But not all of its features are available for free.
-If you upgrade to the Pro version, you can have up to 35 launchers per widget, and you can configure their size, or even hide their labels to make them more compact.
-In addition, Pro users can access dynamically updating “magic launchers” that let you see things like current and future weather conditions, ETAs to destinations, Uber time estimates, battery, CPU, memory and disk space usage on your device and more.
-The Pro version is $4.99 but is currently discounted to $2.99.
-Meanwhile, a $2.99 upgrade to unlock up to five more widgets is also available. This also lets you configure the widgets based on time and location, and back them up.
-Both feature sets are available for $4.98.
-That pricing is a little confusing, but like Launcher itself, it’s aimed at the power user who knows exactly what they want to do.
-Launcher’s creator Greg Gardner says that the app has been installed on more than 2 million devices so far. It has more than 300,000 monthly active users and more than 100,000 daily active users.
-As to whether it’s going to get banned, well… who knows?
-The app was in review for four days, which is slower than usual, says Gardner. “I hope that means that they got a good look at it and decided it was acceptable. I’m confident at least that it didn’t accidentally slip through this time,” he says.
+plus app latest version lets backup restore widgets icloud backup
+the app free download app store supports  launchers iphone  ipad single widget  features available free
+if you upgrade pro version  launchers widget configure size hide labels make compact
+in addition pro users access dynamically updating magic launchers that let you things like current future weather conditions etas destinations uber time estimates battery cpu memory disk space usage device more
+the pro version   currently discounted 
+meanwhile  upgrade unlock to five widgets available lets configure widgets based time location up
+both feature sets available 
+that pricing little confusing  like launcher aimed power user knows exactly want do
+launcher creator greg gardner says app installed on more than  million devices far  monthly active users and more  daily active users
+as going banned well… knows
+the app review days slower usual says gardner i hope means got good look decided acceptable i’m confident did accidentally slip time says

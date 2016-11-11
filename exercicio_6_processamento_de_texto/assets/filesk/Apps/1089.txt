@@ -1,17 +1,17 @@
-Spending too much time on your phone? Moment can help. The mobile application that’s designed – ironically – to help you battle your smartphone addiction, can now train you over the course of a couple of weeks to change your habits and spend less time staring at your tiny screen. Launching today, Moment’s latest release offers a “Phone Bootcamp” course that includes daily exercises meant to help you modify your behavior, culminating in a final “cold turkey” day where you barely use your phone at all.
-The Moment application, in case you’re unfamiliar, has been around for two years now. iOS developer Kevin Holesh created the app after realizing that his digital addictions were impacting his real-world relationships.
-The first version of the app simply tracked your daily smartphone usage. This ended up being an eye-opening experience for many who discovered they spent hours per day on their phones.
-Moment later added more features, like an alert that sounds if you picked up your phone during family dinner time, for example. That setting is part of Moment’s optional “Family” subscription service, which lets parents limit screen time and schedule smartphone-free meal times.
-Since its launch, Moment has been downloaded 2.5 million times, and has 200,000 monthly active users. In addition, around 350,000 have the app installed and are tracking their phone and tablet usage in the background, Holesh claims.
-Thanks to the subscription offering, Holesh makes enough money to replace his developer salary and focus on the app full-time, he says.
-That has allowed development to continue. And today’s launch of Moment 3.0 is one of the biggest updates the app has seen to date.
-The idea with “Phone Bootcamp,” explains Holesh, is to make you more conscious of your smartphone habits and question them going forward. Over the course of 14 days, you’re notified every morning about your day’s mission. These tasks are easy at first – like “no phone in the bathroom,” for example, but progressively get harder. On the final day, you’re challenged to only use your phone for 2 minutes or less.
-Sound impossible? Maybe. But even if you fail, you’re at least more aware of your habits and addiction.
-During beta testing, the average user dropped 1 hour 31 minutes overall from their phone during the two weeks of Bootcamp, compared with their average daily usage prior to starting the course.
-Holesh says he plans on releasing more courses in the months ahead that will similarly focus on scaling down phone usage. These won’t be quite as strict, but would rather help users gradually decrease their screen time over longer periods.
+spending time phone moment help mobile application that designed  ironically  help battle smartphone addiction train course couple weeks change habits spend time staring tiny screen launching today moment latest release offers phone bootcamp course includes daily exercises meant help modify behavior culminating final cold turkey day barely use phone all
+the moment application case unfamiliar years now ios developer kevin holesh created app realizing digital addictions impacting real world relationships
+the version app simply tracked daily smartphone usage ended eye opening experience discovered spent hours day phones
+moment later added features like alert sounds picked phone family dinner time example that setting moment optional family subscription service lets parents limit screen time schedule smartphone free meal times
+since launch moment has downloaded  million times  monthly active users addition  app installed tracking phone tablet usage background holesh claims
+thanks subscription offering holesh makes money replace developer salary focus app time says
+that allowed development continue today launch moment  biggest updates app seen date
+the idea phone bootcamp explains holesh is make conscious smartphone habits question going forward course  days notified morning day mission tasks easy  like phone bathroom example  progressively harder final day challenged use phone  minutes less
+sound impossible  fail aware habits addiction
+during beta testing average user dropped  hour  minutes overall phone weeks bootcamp compared average daily usage prior starting course
+holesh says plans releasing courses months ahead similarly focus scaling phone usage wo  quite strict  help users gradually decrease screen time longer periods
 
-In addition to the Bootcamp, Moment 3.0 also now tracks your individual app usage. In order to not get into trouble with Apple, the app doesn’t pull this data using private APIs but instead uses a screenshot of the Battery screen. (The app reminds you to snap a photo in the morning.) The app then detects the screenshot in the background, reads it, then inputs that information into the app.
-This isn’t a 100 percent accurate method of determining app usage as the Battery screen won’t count app use that takes place when you’re charging your phone, but it’s close and it’s what Apple will approve. Holesh says that it’s about 90 percent accurate, based on beta testing – enough to give you an idea of what apps are sucking up your time.
-It’s actually kind of funny that Moment is releasing its new application just as users everywhere have been gripped by one of the most addictive and viral iPhone applications to date – Pokémon Go. It may not be the best time, then, to try to convince people to dial down their smartphone obsessions.
-That being said, Moment has always appealed to a niche audience who cares a lot about their bad digital behavior and want to change. This group will likely welcome the update that forces them further down that road.
-Moment is live on iTunes here.
+in addition bootcamp moment  tracks individual app usage order trouble apple app does pull data using private apis  instead uses screenshot battery screen (the app reminds snap photo morning app detects screenshot background reads inputs information app
+this  percent accurate method determining app usage battery screen wo count app use takes place charging phone  close apple approve holesh says  percent accurate based beta testing  idea apps sucking time
+it actually kind funny moment releasing new application just as users gripped addictive viral iphone applications date  pokémon  best time try convince people to dial smartphone obsessions
+that said moment  appealed niche audience cares lot about bad digital behavior and want change group likely welcome update forces road
+moment live itunes here

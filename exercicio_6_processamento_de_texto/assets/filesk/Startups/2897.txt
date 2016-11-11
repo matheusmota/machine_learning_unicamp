@@ -1,18 +1,18 @@
 
 
-“Tell me about your cap table?” I asked the founder of an early-stage startup. He was clearly passionate about his business, and had assembled a top-notch team to help him achieve his ambitious vision.
-But the grit and determination that helped him overcome the challenges of his current and former startups seemed to falter a bit as he considered his response. He had a dirty cap table and he knew it.
-With some reservation he said, “Our initial angel investors own 60 percent of the company. I have 35 percent and the rest is split up between the team.” He then went on to explain that their aggressive valuation was based on the growth since the last round of angel investment, in which the above-market revenue multiple the angels had chosen set the precedent.
-I soon found out that this team had struggled to raise money from the other venture capital firms with which we like to syndicate — because they, too, were dissuaded from the conditions that the angel investors had created: small runway, fragmented cap table, high valuation and little strategic support. He described with some frustration how he felt stuck, and that his “angels” no longer fit the heavenly metaphor; rather, the situation felt more like hell.
-Compare and contrast this situation with a scenario that has become familiar because of its frequency within our portfolio of Peak Ventures-backed companies, in which an angel investor known to our team (and often an LP in our fund) introduces us to the founders of a company that he or she has backed (usually at an appropriate valuation for the stage) and we lead the next round.
-In this situation, the company has what I think is the best of both worlds: A passionate, helpful angel investor supported by the rocket fuel and capital connections of an institutional investor. The closer angel investors are to institutional funds, the better they can construct the terms of their deals to entice these funds to come onboard.
-As I reflected on these experiences, I wondered what was going on in the broader landscape of angel investing. To my delight, I discovered that Willamette University has just released the latest version of their Halo Report, which studies angel investing across the United States. I found some of the trends interesting.
-Six years ago, angel rounds diluted founders by 25 percent, on average. Look at the yellow line in the chart below to see that this gently fell over the years to land at 20 percent. What does this mean for entrepreneurs who are aiming for massive growth, but need initial capital to get things started?
-Use 20 percent as a benchmark to keep your cap table clean. An angel shouldn’t own a majority of your company unless they come on in a dedicated, operational role. Also, an angel should be worth more than just their money — they should add measurable value to your business.
+tell cap table i asked founder early stage startup clearly passionate business assembled notch te help achieve ambitious vision
+ grit determination that helped overcome challenges current startups falter bit considered response dirty cap table knew it
+with reservation said initial angel investors  percent company i  percent rest split te went explain aggressive valuation based growth round angel investment market revenue multiple angels chosen set precedent
+i soon te struggled raise money venture capital firms like syndicate  dissuaded conditions angel investors created small runway fragmented cap table high valuation little strategic support described frustration felt stuck angels longer fit heavenly metaphor situation felt like hell
+compare contrast situation scenario  familiar frequency portfolio peak ventures backed companies angel investor known te (and lp fund introduces founders company backed (usually appropriate valuation stage lead round
+in situation company i think best worlds passionate helpful angel investor supported rocket fuel capital connections institutional investor closer angel investors institutional funds better construct terms deals entice funds come onboard
+as i reflected experiences i wondered going broader landscape angel investing delight i discovered that willamette university has just released latest version their halo report studies angel investing united states i trends interesting
+six years ago angel rounds diluted founders  percent average look yellow line chart gently fell years land  percent does mean entrepreneurs aiming massive growth  need initial capital things started
+use  percent benchmark cap table clean angel majority company unless come dedicated operational role angel  worth just money  add measurable value business
 
 
-Reading between the lines, I believe there are two reasons for this:
+reading lines i believe there reasons this
 
-As a data point on angel groups rising in undercapitalized markets, check out the chart below showing the 12 most active angel groups. Notice how many of them are outside the traditional hubs of venture capital.
+as data point angel groups rising undercapitalized markets check chart showing  active angel groups notice outside the traditional hubs venture capital
 
-So do angels make life heaven or hell for entrepreneurs? It seems from market trends that angels are becoming more sophisticated, more organized and more integrated into the capital ecosystem that supports early-stage startups. I think this is a good thing, especially when angel investors are tightly coupled with institutional investors.
+so angels make life heaven hell entrepreneurs market trends angels sophisticated organized integrated capital ecosystem supports early stage startups i think this good thing especially angel investors tightly coupled institutional investors

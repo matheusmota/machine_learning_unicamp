@@ -1,14 +1,14 @@
-Qumulo (pronounced cume-u-low), a stealth storage startup out of Seattle, announced a $40M Series B investment today.
-The round was led by Kleiner Perkins Caufield & Byers (KPCB) with participation from existing investors Highland Capital, Madrona Venture Group and Valhalla Partners.
-Company co-founder and CEO Peter Godman says the founders cut their teeth in the early 2000s at Isilon, a storage company sold to EMC in 2010 for $2.25B (not a bad payday). A couple of years later, the crew decided to get the band back together and start a new company, but they realized their storage expertise had become dated and they wanted to figure out exactly what to do before they proceeded.
-In November, 2012, the company grabbed a healthy $24.5M Series A round and promptly went quiet. Godman says this quiet period was purposeful. They needed to decide how to proceed.
-“A lot of startups have a technology vision. We had a vision of how to create products people wanted,” Godman told TechCrunch. So before they wrote a line of code or built anything, they decided to go into research mode and talk to customers, lots and lots of potential customers.
-They proceeded to conduct what he called, “relentless and seemingly endless research.” Along the way, as they gathered their data, they began writing code and building a modern storage appliance that’s supposed to solve today’s storage issues.
-“We live in a part of the storage landscape that is difficult to build. We used the large Series A money to build out the technology,” he said.
-Taking me on a storage history lesson, Godman explained that in the 1990s, the big storage problem was scalability. Storage was expensive and difficult to implement. By the 2000s, companies like Isilon had begun solving those problems, but it was a bit too successful because instead of a terabyte and millions of pieces of data, we were storing petabytes and billions of pieces data.
-Godman said that volume has produced a whole new set of problems around findability and just understanding what you have. Figuring out how to manage that volume has become today’s big question mark, and these are the issues Godman says, his company was hearing about again and again as it conducted its meticulous research over the last several years.
-He said the research also revealed that the traditional role of storage administrator had been supplanted by a new role of data administrator. They found the prize they were shooting for all along — to build storage that was “fundamentally better at managing large volumes of data.”
-For the first generation product, the company has built a cost-effective storage appliance from commodity hardware. “We buy and sell appliances whose bill of materials you could write on a napkin and build yourself, but [which] scales reliably as an enterprise storage platform,” Godman explained.
-Eventually, the company is aiming for an all-software solution down the road and the new cash infusion should help them get there.
-Even though the company remains in stealth mode, at least in name, the product has been generally available since the third quarter last year and they have customers. In fact, one customer has been using the appliance for over a year.
-The next step is scaling out their go-to market strategy, and with $40M in the till, they have the resources to do just that.
+qumulo (pronounced cume u low stealth storage startup seattle announced m series b investment today
+the round led kleiner perkins caufield & byers (kpcb participation existing investors highland capital madrona venture group valhalla partners
+company founder ceo peter godman says founders cut teeth early s isilon storage company sold emc  b (not bad payday couple years later crew decided band start new company  realized storage expertise  dated wanted figure exactly proceeded
+in november  company grabbed healthy m series round promptly went quiet godman says quiet period purposeful they needed decide proceed
+a lot startups technology vision vision create products people wanted godman told techcrunch wrote line code built decided research mode talk customers lots lots potential customers
+they proceeded conduct called relentless seemingly endless research way gathered data began writing code building modern storage appliance supposed solve today storage issues
+we live storage landscape difficult build used the large series money build technology said
+taking storage history lesson godman explained s big storage problem scalability storage was expensive difficult implement s companies like isilon had begun solving those problems  was a bit successful instead terabyte millions pieces data storing petabytes billions pieces data
+godman said volume produced new set problems findability just understanding figuring manage volume  today big question mark issues godman says company hearing again and again as conducted meticulous research years
+he said research revealed the traditional role storage administrator supplanted new role data administrator prize shooting  build storage fundamentally better managing large volumes data
+for generation product company built cost effective storage appliance commodity hardware buy sell appliances materials write napkin build  scales reliably enterprise storage platform godman explained
+eventually company aiming software solution road new cash infusion help there
+even company remains stealth mode product generally available quarter year customers fact one customer using appliance year
+the step scaling market strategy m till resources just that

@@ -1,12 +1,12 @@
-DroneDeploy released a new study of the commercial and industrial drones market this week, revealing bad news for the makers of fixed-wing drones — quadcopters are far outpacing this type of unmanned aerial vehicle in every industry.
-Fixed-wing drones, like the SenseFly eBee Ag, 3DR Aero-M and PrecisionHawk Lancaster, promise performance benefits, including endurance and ruggedness.
-A fixed-wing drone can fly farther and cover a greater area on a single charge than multi-rotor counterparts, generally. But they are also used in just 6 percent of the flights for commercial and industrial purposes, DroneDeploy found.
-Meanwhile, quadcopters, which promise to be easier for drone operators to control in flight and allow for rapid takeoff, are used pervasively.
-DroneDeploy CEO and co-founder Mike Winn explained, “People would rather fly a quadcopter multiple times over a large area, or stop to change batteries, than go through the process of assembling a fixed-wing drone before a flight.”
-Thankfully, most manufacturers of fixed-wing drones for commercial and industrial use have also developed quadcopters or other multi-rotor models.
-The DroneDeploy study also found that commercial and industrial users of drones mapped 3 million acres of land in the past four months alone. That compares to mapping fewer than 2 million acres of land in the entire year before that.
-Agriculture is using drones more than any other industry, so far, followed by construction. But the fastest growth in adoption of drones is seen in mining, inspection and oil and gas.
-New industries are finding uses for drones, these days, including: education, emergency services and real estate, though institutions in these industries were barely even testing drones just one year ago.
-And in the past year, the drone hardware most used in this market came from DJI; SenseFly (a Parrot-owned company); 3DR; AgEagle and Parrot, respectively. The most popular drone-camera tech in the market came from DJI, Canon, Sony, GoPro and Mapir.
-DroneDeploy provides software and systems to help organizations use drones for commercial and industrial purposes of any kind, from mapping and measuring traffic, to surveillance and venue security, to spraying crops and monitoring crop health from on high.
-The company based its study on the drone-related activities of its customers in 130 countries over the past 16 months.
+dronedeploy released new study commercial industrial drones market week revealing bad news makers fixed wing drones  quadcopters far outpacing type unmanned aerial vehicle industry
+fixed wing drones like sensefly ebee ag dr aero m precisionhawk lancaster promise performance benefits including endurance ruggedness
+a fixed wing drone fly farther cover greater area single charge multi rotor counterparts generally  used just  percent flights commercial industrial purposes dronedeploy found
+meanwhile quadcopters promise  easier drone operators control flight allow rapid takeoff used pervasively
+dronedeploy ceo founder mike winn explained people fly quadcopter multiple times large area stop change batteries process assembling fixed wing drone flight
+thankfully manufacturers fixed wing drones commercial industrial use developed quadcopters multi rotor models
+the dronedeploy study commercial industrial users drones mapped  million acres land past months compares mapping fewer  million acres land entire year that
+agriculture using drones industry far followed construction  fastest growth adoption drones seen mining inspection oil gas
+new industries finding uses drones days including education emergency services real estate institutions industries barely testing drones just year ago
+and past year the drone hardware most used in market came dji sensefly (a parrot owned company dr ageagle parrot respectively the popular drone camera tech market came dji canon sony gopro mapir
+dronedeploy provides software systems help organizations use drones commercial industrial purposes kind mapping measuring traffic surveillance venue security spraying crops monitoring crop health high
+the company based study drone related activities customers  countries past  months

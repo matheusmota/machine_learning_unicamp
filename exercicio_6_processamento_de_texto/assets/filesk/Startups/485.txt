@@ -1,29 +1,29 @@
 
 
-Over the past few years, the Internet of Things (IoT) has been the white-hot center of a flurry of activity. Startups that create embedded sensors for physical things have been snapped up by larger companies at a rapid pace, with deals for IoT startups totaling more than $30 billion in the past four years.
-The IoT may well be The Next Big Thing, but maybe the attention around sensors is misplaced…
-What if we didn’t even need embedded sensors to allow things to gather data about their surrounding environment? What if material could be a sensor in and of itself?
-Sentient materials might sound like the stuff of sci-fi, but it’s quickly becoming a reality. A new generation of materials is being developed that can sense temperature, pressure, impact and other variables — completely removing the need for sensors.
-Not only can these materials capture and relay data to the cloud, they also can reconfigure themselves on-the-fly to react to changing environmental conditions. It’s as if materials are becoming not just smart, but “alive” — and it will change the way things are designed and used in startling ways.
-How did we arrive here? Design and engineering used to focus on materials that behaved isotropically — which is to say, uniformly and predictably. In the isotropic age, you would create a design and then assign a material to carry out a specific role in that design.
-What if, however, you allowed materials to determine design, rather than vice versa? We see this in nature all the time. A seed, for example, works together with a specific environment to create a tree.
-This is an example of anisotropic materials in action. Unlike isotropic materials, their behavior isn’t predetermined, so their performance can be tailored to their environment.
-Welcome to the anisotropic age of design.
-Imagine an airplane skin that self-heals to remove dings and dents, thereby maintaining optimal aerodynamics. In the isotropic age that’d be virtually impossible to design — but in the anisotropic age, it becomes a possibility.
-Here’s how it would work: An airplane component (like the wing) is made out of a composite material that has been coated with a thin layer of nanosensors. This coating serves as a “nervous system,” allowing the component to “sense” everything that is happening around it — pressure, temperature and so on.
-When the wing’s nervous system senses damage, it sends a signal to microspheres of uncured material within the nanocrystal coating. This signal instructs the microspheres to release their contents in the damaged area and then start curing, much like putting glue on a crack and letting it harden.
-Airbus is already doing important research in this area at the University of Bristol’s National Composites Centre, moving us closer to an aviation industry shaped by smart materials.
-The automotive industry, meanwhile, can use smart materials to manufacture cars that not only sense damage and self-heal, but also collect data about performance that can be fed back into the design and engineering process.
-The Hack Rod project — which brings technology partners together with a team of automotive enthusiasts in Southern California — is out to design the first car in history built with smart materials and engineered using artificial intelligence.
-In another example, Paulo Gameiro, coordinator of the EU-funded HARKEN project and R&D manager for the Portuguese automotive textiles supplier Borgstena, is developing a prototype seat and seatbelt that uses smart textiles with built-in sensors to detect a driver’s heart and breathing rates, so it can alert drivers to tell-tale signs of drowsiness.
-Beyond transportation, more opportunities await in the construction and civil engineering fields, where smart materials can greatly assist with structural health monitoring.
-Today, the world has hundreds of roads, bridges and other pieces of infrastructure that are slowly falling apart because of wear and tear and exposure to the elements. More often than not, we don’t even know which items need our attention most urgently.
-But what if you could build these structures out of “smart concrete”? The “nervous system” within the concrete could constantly monitor and assess the status of the infrastructure and initiate self-repair as soon as any damage was sustained.
-There is a major project currently underway at the Massachusetts Institute of Technology (MIT), called ZERO+, that aims to reshape the construction industry with exactly these types of advanced composite materials.
-The researchers at MIT are also hard at work at the newly formed Advanced Functional Fabrics of America (AFFOA) Institute. Their goal is to come up with a new generation of fabrics and fibers that will have the ability to see, hear and sense their surroundings; communicate; store and convert energy; monitor health; control temperature; and change their color.
+over past years internet things (iot white hot center flurry activity startups create embedded sensors physical things snapped larger companies rapid pace deals iot startups totaling  billion past years
+the iot  big thing  attention sensors misplaced…
+what did need embedded sensors allow things gather data surrounding environment material  sensor itself
+sentient materials sound like stuff sci fi  quickly reality new generation materials developed sense temperature pressure impact variables  completely removing need sensors
+not materials capture relay data cloud reconfigure fly react changing environmental conditions materials just smart  alive  change way things designed used startling ways
+how did arrive design engineering used focus materials behaved isotropically  say uniformly predictably isotropic age create design assign material carry specific role design
+what allowed materials determine design vice versa nature time seed example works specific environment create tree
+this example anisotropic materials action unlike isotropic materials behavior predetermined performance  tailored environment
+welcome anisotropic age design
+imagine airplane skin self heals remove dings dents maintaining optimal aerodynamics isotropic age that’d  virtually impossible design   anisotropic age  possibility
+here work airplane component (like wing composite material coated layer nanosensors coating serves nervous allowing component sense happening  pressure temperature on
+when wing nervous senses damage sends signal microspheres uncured material nanocrystal coating signal instructs microspheres release contents damaged area start curing like putting glue crack letting harden
+airbus doing important research area university bristol national composites centre moving closer aviation industry shaped smart materials
+the automotive industry use smart materials manufacture cars sense damage self heal  collect data performance  fed design engineering process
+the hack rod project  brings technology partners te automotive enthusiasts southern california  design car history built smart materials engineered using artificial intelligence
+in example paulo gameiro coordinator eu funded harken project r&d manager portuguese automotive textiles supplier borgstena developing prototype seat seatbelt uses smart textiles built sensors detect driver heart breathing rates alert drivers tell tale signs drowsiness
+beyond transportation opportunities await construction civil engineering fields smart materials greatly assist structural health monitoring
+today world hundreds roads bridges pieces infrastructure slowly falling apart wear tear exposure elements know items need attention urgently
+ build structures smart concrete nervous concrete constantly monitor assess status infrastructure initiate self repair soon damage sustained
+there major project currently underway massachusetts institute technology (mit called zero+ aims reshape construction industry exactly types advanced composite materials
+the researchers mit hard work newly formed advanced functional fabrics america (affoa institute goal come new generation fabrics fibers ability hear sense surroundings communicate store convert energy monitor health control temperature change color
 
-These functional fabrics mean that clothes won’t necessarily just be clothes anymore. They can be agents of health and well-being, serving as noninvasive ways to monitor body temperature or to analyze sweat for the presence of various elements. They can be portable power sources, capturing energy from outside sources like the sun and retaining that energy. They even can be used by soldiers to adapt to different environments more quickly and efficiently.
-And if you accidentally rip a hole in your garment? Naturally, the nanosensors within the fabric will engage a self-repair process to patch things up — in the exact same way the airplane wing and the smart concrete healed themselves.
-This is no Hollywood movie — this is reality, and a clear indicator of how quickly smart materials are coming along.
-These materials have an increasingly important role to play in shaping the world around us — whether that’s airplanes and infrastructure or the clothes on our backs. By creating things that can not only capture data about their environment, but also adjust their performance based on that data, materials are starting to play an active role in design.
-This is the potential of smart materials, and it’s one of the keys to creating a better-designed world around us.
+these functional fabrics mean clothes wo necessarily just  clothes anymore  agents health serving noninvasive ways monitor body temperature analyze sweat presence various elements  portable power sources capturing energy outside sources like sun retaining energy  used soldiers adapt different environments quickly efficiently
+and accidentally rip hole garment naturally nanosensors fabric engage self repair process patch things  exact way airplane wing smart concrete healed themselves
+this hollywood movie  reality clear indicator quickly smart materials coming along
+these materials increasingly important role play shaping world us  airplanes infrastructure clothes backs creating things capture data environment  adjust performance based data materials starting play active role design
+this potential smart materials keys creating better designed world us

@@ -1,10 +1,10 @@
-Line, the messaging upstart out of Japan, is adding group calling into its ever-expanding web of services. Popcorn Buzz, as the app is called, is entering a crowded market for group calling services — they include dozens of conference calling businesses, along with Skype, Google, Kakao Talk and more. The twist (or gimmick, if you’re a bit more cynical) here is that the service is totally free, and lets you add up to 200 people to the call.
-(That’s in contrast even to Line’s own voice service, Line Call, which is cheap but not free to use. Line also offers free calls to other Line users in the main app.)
-The service is live now on Android globally, with an iOS app to come soon. Also soon to come will be group video chat and the ability to talk with a pre-set LINE chat group.
-While much of what Line has launched to date has been squarely aimed at the consumer market, it seems to be pitching this to would-be business users as well.
-“Popcorn Buzz can be used to talk with friends and family, catch up with classmates, make plans with club members, and more. On top of that, Popcorn Buzz is a perfect replacement for existing paid business-grade conference call services,” the company notes. “Popcorn Buzz accommodates both personal and business usage, all for free.”
-(It’s not specified but for business users contemplating this service, I have a feeling that Line will not be adding a quality of service assurance on those 200-person calls.)
-Line — with 205 million users and a heavy concentration in its home market of Japan along with a handful of other countries in Asia — trails behind other messaging services like WhatsApp and Facebook Messenger in terms of size, but it has been trying to make up for it by expanding in to many different features beyond basic messaging.
+line messaging upstart out japan adding group calling expanding web of services popcorn buzz app called entering crowded market group calling services  include dozens conference calling businesses skype google kakao talk twist (or gimmick bit cynical service totally free lets add  people call
+(that contrast line voice service line cheap  free use line offers free calls line users main app
+the service live android globally ios app come soon soon come  group video chat and the ability talk pre set line chat group
+while line launched date squarely aimed consumer market  pitching  business users well
+popcorn buzz  used talk friends family catch classmates make plans club members popcorn buzz perfect replacement existing paid business grade conference services company notes popcorn buzz accommodates personal business usage free
+(it specified  business users contemplating service i feeling line not  adding quality of service assurance  person calls
+line   million users heavy concentration home market japan handful countries asia  trails messaging services like whatsapp facebook messenger terms size  trying make expanding different features basic messaging
 
-While you have to register with Line to initiate a call, you can then share a call with Line and non-Line users by way of a URL. Those who are already on Line can sync up their Line contacts within Popcorn Buzz. As with other group calling services like Uber Conference and others, whenever a participant talks his or her icon will light up.
-Languages for this release include Arabic, Brazilian Portuguese, Chinese (Simplified and Traditional), English, French, German, Indonesian, Italian, Japanese, Korean, Malay, Portuguese, Russian, Spanish, Thai, Turkish, and Vietnamese.
+while register line initiate share line non line users way url line sync line contacts popcorn buzz as group calling services like uber conference participant talks icon light up
+languages release include arabic brazilian portuguese chinese (simplified traditional english french german indonesian italian japanese korean malay portuguese russian spanish thai turkish vietnamese

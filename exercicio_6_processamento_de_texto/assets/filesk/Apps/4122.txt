@@ -1,8 +1,8 @@
-InVision, the design-focused prototyping tool, has today closed a $21 million Series B round, with participation from existing investors including Tiger Global Management (who led the round), as well as FirstMark Capital.
-That brings InVision’s total funding to $34.1 million, according to CrunchBase.
-InVision is a service built for designers, that lets these creatives not only draw out their ideas for apps or websites, but actually build the prototype to look, feel, and act like the actual product, even without all the back-end engineering.
-For bigger companies who use the enterprise InVision platform, users can send designs out to various teams or company-wide to get feedback in real time in a way that doesn’t send engineers back to the drawing board.
-“Design is a disruptive force for any industry,” said Clark Valberg, InVision co-founder. “Folks are looking for ways to have a better design process that incorporates agile software development. InVision represents the ‘best practices’ way to design a product.”
-The idea is that design should come before you go in and build out all the code, and though the two processes can occur simultaneously, iterating faster on the design side leads to fewer headaches on the engineering side.
-According to co-founder Clark Valberg, InVision will be using the new funding to build out a sales team and help foster the enterprise side of the business, which is thriving says Valberg. Currently, the team is at 38 people, and Valberg is looking to increase headcount by a total of 30 percent to 40 percent for both sales and engineering.
-You can check out InVision for yourself right here.
+invision design focused prototyping tool today closed  million series b round participation existing investors including tiger global management (who led round firstmark capital
+that brings invision total funding  million according crunchbase
+invision service built designers lets creatives draw ideas apps websites  actually build prototype look feel act like actual product end engineering
+for bigger companies use enterprise invision platform users send designs various teams company wide feedback real time way does send engineers drawing board
+design disruptive force industry said clark valberg invision founder folks looking ways better design process incorporates agile software development invision represents ‘best practices way design product
+the idea design come build code processes occur simultaneously iterating faster design leads fewer headaches engineering side
+according founder clark valberg invision  using new funding build sales te help foster enterprise business thriving says valberg currently te  people valberg looking increase headcount total  percent  percent sales engineering
+you check invision right here

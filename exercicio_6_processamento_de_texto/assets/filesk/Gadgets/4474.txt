@@ -1,7 +1,7 @@
-Microsoft showed a new demo today at a press conference in New York. The HoloLens, the company’s take on virtual reality — sort of — is an augmented reality device that lets you add virtual elements to your real-world environment. Today, the company announced that development kits will be available for $3,000 in the first quarter of 2016.
-In addition to this piece of news, the company showcased a new product for HoloLens, codenamed Project Xray. It’s a mixed-reality game for the HoloLens. Previously, the company has shown how HoloLens can show holograms. It also showcased a holographic version of Minecraft at E3. This time, it’s all about live games.
-In this game, you hold a stick in your hand and your HoloLens headset projects a gun around your hand. Then robots appear in your living room, breaking the walls. You can shoot at these robots, project a shield around you and more.
-Overall, it was a neat demo. But I’m more excited about the development kits. I can’t wait to see how powerful this device actually is and what third-party developers are going to do with it. We still don’t know the specs of the HoloLens.
-In particular, HoloLens is supposed to work fully untethered. There isn’t any wire, any phone in the headset or any connection to a PC. It’s a standalone device, making it much different from the Oculus Rift, which requires a PC, and the HTC Vive or Samsung headset, which require a smartphone.
-Applications are now open to get an SDK next year.
+microsoft showed new demo today press conference new york hololens company virtual reality  sort  augmented reality device lets add virtual elements real world environment today company announced development kits  available  quarter 
+in addition piece news company showcased new product hololens codenamed project xray mixed reality game hololens previously company shown hololens holograms showcased holographic version minecraft e time live games
+in game hold stick hand hololens headset projects gun hand robots appear living room breaking walls shoot robots project shield more
+overall neat demo  i’m excited development kits i ca wait powerful device actually party developers going know specs hololens
+in particular hololens supposed work fully untethered wire phone headset connection pc standalone device making different oculus rift requires pc htc vive samsung headset require smartphone
+applications open sdk year
 

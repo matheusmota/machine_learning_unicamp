@@ -1,11 +1,11 @@
-Big, complex things running on tiny things is a common theme this week. Earlier we had a hack that put Counter-Strike on Android Wear, and today some maniac has installed Windows 95 on his Apple Watch. At last it’ll do something worthwhile! That is, of course, if you can find the Start button.
-Nick Lee of Tendigi Insights is behind this absurd and hilarious endeavor. He appears to be a natural joker: he it was who snuck a flashlight app into the App Store with a hidden tethering tool. And amazingly, it was I who wrote that up 6 years ago.
+big complex things running tiny things common theme week earlier hack counter strike android wear today maniac installed windows  apple watch it’ll worthwhile! course start button
+nick lee tendigi insights absurd hilarious endeavor appears  natural joker snuck flashlight app app store hidden tethering tool amazingly i wrote  years ago
 
-Apple Watch isn’t exactly an open system. It’s not like you can boot into the command line, format, and pop a new OS on there. That would be way too easy. But the difficulty of a thing is often positively correlated with the desire of developers to achieve it — with a scalar modifier based on stubbornness and an exponential multiplier for nostalgia.
-It seems there’s a way to get a WatchKit app to load arbitrary code, even if that code happens to be a port of a port of an x86 emulator apparently held together with chewing gum and a desperate prayer. (it’s on GitHub)
+apple watch exactly open like boot command line format pop new os  way easy  difficulty thing positively correlated desire developers achieve  scalar modifier based stubbornness exponential multiplier nostalgia
+it way watchkit app load arbitrary code code happens  port port x emulator apparently held chewing gum desperate prayer (it github
 
-Windows 95, 8 GB of storage and half a gig of RAM is an embarrassment of riches. It’s an embarrassment of riches. Only problem is, you’re not going to get the cycles you’d like out of that 520Mhz processor, since it’s an emulator, not a virtual machine.
-Result: Lee had to affix a tiny motor to the crown to spin it constantly during the hour-long boot process.
-But once that’s done, you’ve got a Windows 95 machine on your wrist! If you don’t mind it running at approximately 2% speed and controlling the cursor with dozens of tiny finger movements, you can play Minesweeper on the subway — ad-free, and you don’t even need your iPhone around!
-Congratulations to Nick Lee for making my Friday — this is magnificently dumb.
+windows   gb storage half gig r embarrassment riches embarrassment riches problem going cycles you’d like mhz processor emulator virtual machine
+result lee affix tiny motor crown spin constantly hour long boot process
+ you’ve got windows  machine wrist! mind running approximately  speed controlling cursor dozens tiny finger movements play minesweeper subway  ad free need iphone around!
+congratulations nick lee making friday  magnificently dumb
 

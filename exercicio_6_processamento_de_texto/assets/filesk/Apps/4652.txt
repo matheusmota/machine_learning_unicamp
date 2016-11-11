@@ -1,8 +1,8 @@
-IBM is attempting to make up for its delayed push in cloud services by acquiring Cloudant, a YC alum and a cloud specialist in the area of NoSQL, database-as-a-service. This acquisition, the terms of which were not disclosed by the companies, comes a year after IBM acquired SoftLayer for around $2 billion, and also announced it will invest an additional $1 billion to enhance its cloud portfolio in 2015.
-Cloudant has received $15.1 million in funding to date from investors such as Samsung Ventures, Avlon Ventures and CIA’s In-Q-Tel.
-After seven straight quarters of declining revenues, IBM has been scrambling to develop newer, multi-billion-dollar revenue streams. The company’s other big bet — Watson — has been facing questions recently, as well.
-“Cloudant sits squarely at the nexus of these three key transformational areas and enables clients to rapidly deliver an entirely new level of innovative, engaging and data-rich apps to the marketplace,” IBM’s vice president Sean Poulley said in a statement.
-For its part, Cloudant has already been a part of IBM’s SoftLayer portfolio as a partner.
-“Cloudant complements IBM’s Big Data and Analytics portfolio beyond traditional data management by providing a database–as–a–service that enables clients to simplify and accelerate the development of engaging and scalable mobile and web apps,” IBM said in a statement.
-The acquisition raises some interesting questions on how IBM will balance its focus on MongoDB, a competing alternative, with Cloudant’s NoSQL database technology.
-Cloudant and IBM have been working closely over the past few years, especially after the SoftLayer acquisition. The startup’s CEO Derek Schoettle also wrote this blog post in October last year explaining how the three companies — IBM, Cloudant and SoftLayer — have a lot to gain from delivering services to the same customers. Some would say it was imminent that Cloudant was the next piece in IBM’s overall cloud services strategy.
+ibm attempting make delayed push cloud services acquiring cloudant yc alum cloud specialist area nosql database service acquisition terms disclosed companies comes year ibm acquired softlayer  billion announced invest additional  billion enhance cloud portfolio 
+cloudant received  million funding date investors samsung ventures avlon ventures cia q tel
+after seven straight quarters declining revenues ibm scrambling develop newer multi billion dollar revenue streams company big bet  watson  facing questions recently well
+cloudant sits squarely nexus key transformational areas enables clients rapidly deliver entirely new level innovative engaging data rich apps marketplace ibm vice president sean poulley said statement
+for cloudant ibm softlayer portfolio partner
+cloudant complements ibm big data analytics portfolio traditional data management providing databaseasaservice that enables clients simplify accelerate development engaging scalable mobile web apps ibm said statement
+the acquisition raises interesting questions ibm balance focus mongodb competing alternative cloudant nosql database technology
+cloudant ibm working closely past years especially softlayer acquisition startup ceo derek schoettle wrote blog post october year explaining companies  ibm cloudant softlayer  lot gain delivering services customers say imminent cloudant piece ibm overall cloud services strategy

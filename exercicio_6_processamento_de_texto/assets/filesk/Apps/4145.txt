@@ -1,186 +1,186 @@
-“You’ll notice we have many more startups that aren’t in the traditional software category,” said Y Combinator President Sam Altman at the start of its Winter 2016 Demo Day 1. While once upon a time YC was known for legions of social and marketplace apps no one needed, it’s branched out. Now Silicon Valley’s top accelerator features tons of hardware, engineering, alternative energy and enterprise startups, too.
-[Update: Check our our list of the “Top 7 startups from YC W’16 Demo Day 1” according to investors and TechCrunch’s writers. You can also see all the startups that pitched on day 2 of YC W’16 Demo Day here, plus our 8 favorites from that set.]
-The afternoon began with a moment of silence for Andy Grove, former Intel CEO and beloved business mentor, as well as the victims of this morning’s terrorist attacks in Brussels.
-The house at YC’s Demo Day was packed — more than anyone expected, it would seem. A few chairs short, millionaires from around the world could be seen sitting on the floor to watch startup after startup strut their stuff — many of them for the first time.
-The big theme of the day was profitability. In the past, YC startups have highlighted their growth, downplaying profitability as some saw it as a sign that they were shooting too small or not reinvesting enough. But due to the market correction, VCs are more keen on startups that can become sustainable faster and won’t need endless funding to succeed. Today, many startups mentioned that they were already profitable, would be in several months, or were in specific markets where you don’t account for money spent trying to expand.
-Yet Altman told us that investment was “hotter” today than he’s ever seen it, with VCs aggressively pushing to invest on the spot. For the last year, he says YC has been telling startups to raise less and get to profitability faster in anticipation of a frosty fundraising climate. Yet now he believes the correction “hasn’t trickled down yet” but maybe will by next Demo Day. Altman also mentioned that the $1 billion Cruise self-driving tech acquisition has bolstered investors’ interest in hard-tech companies.
-Sixty-three companies launched in all today, with 3 of them being noted as “off the record” in advance (that is, they’re a bit too early-days for media coverage; as always, we’ve honored that request). Here’s a look at the 60 we can talk about.
-Nurx – Uber for birth control:
-Getting birth control can be quite difficult — one needs to have a means of getting to a doctor and be comfortable speaking with a doctor about it. With Nurx, you pick a birth control and one of their doctors writes the prescription and ships it directly.
+you’ll notice startups traditional software category said y combinator president s altman start winter  demo day  time yc known legions social marketplace apps needed branched silicon valley accelerator features tons hardware engineering alternative energy enterprise startups too
+update check our list the top  startups yc w’ demo day  according investors techcrunch writers startups pitched day  yc w’ demo day plus  favorites set
+the afternoon began moment silence andy grove intel ceo beloved business mentor victims morning terrorist attacks brussels
+the house yc demo day packed   expected chairs short millionaires world  seen sitting floor watch startup startup strut stuff  time
+the big theme day profitability past yc startups highlighted growth downplaying profitability saw sign shooting small reinvesting  market correction vcs keen startups  sustainable faster wo need endless funding succeed today startups mentioned profitable  months specific markets account money spent trying expand
+yet altman told investment hotter today seen vcs aggressively pushing invest spot year says yc telling startups raise profitability faster anticipation frosty fundraising climate believes correction trickled  demo day altman mentioned  billion cruise self driving tech acquisition bolstered investors hard tech companies
+sixty companies launched today  noted record advance (that bit early days media coverage  we’ve honored request look  talk about
+nurx  uber birth control
+getting birth control  quite difficult  needs means getting doctor  comfortable speaking doctor nurx pick birth control doctors writes prescription ships directly
 
-MagicBus – Google shuttles for everyone:
-Commuting between cities and suburbs can be a pain. MagicBus tries to be the best of both worlds — affordable and fast. MagicBus vehicles can fit up to 14 people and guarantees riders few stops. The transportation between cities to suburbs market is $1 trillion, according to the company. MagicBus says it is growing 50 percent month over month, with 48 percent of riders using the service every day. Read more about MagicBus on TechCrunch here.
+magicbus  google shuttles everyone
+commuting cities suburbs  pain magicbus tries  best worlds  affordable fast magicbus vehicles fit  people guarantees riders stops transportation cities suburbs market  trillion according company magicbus says growing  percent month month  percent riders using service day read magicbus techcrunch here
 
-Paystack – Online payments for African businesses:
-Despite solid Internet penetration, most payments in the 180 million-person country of Nigeria are done offline. Paystack lets businesses accept payments via credit card, debit card, money transfer and mobile money on their websites or mobile apps. The integration takes just 30 minutes, rather than 3 weeks, and reduces the payment process from 7 steps to 2 steps. Paystack costs businesses $0.50 plus 1.9 percent for local cards and 3.9 percent for international cards. By unlocking online payments, Paystack could help African businesses thrive with the next generation of customers.
+paystack  online payments african businesses
+despite solid internet penetration payments  million person country nigeria offline paystack lets businesses accept payments credit card debit card money transfer mobile money websites mobile apps integration takes just  minutes  weeks reduces payment process  steps  steps paystack costs businesses  plus  percent local cards  percent international cards unlocking online payments paystack help african businesses thrive generation customers
 
-Tovala – Smart oven with a companion subscription meal service:
-This is a set-and-forget smart oven that can automatically cook meals “to perfection.” When you put one of their tech-enabled meals into their oven, it knows the exact timing/temperatures required to cook your meal. They also have a subscription plan that sends ready-to-cook meals to your door. They have raised $240,000 on Kickstarter.
+tovala  smart oven companion subscription meal service
+this set forget smart oven automatically cook meals perfection tech enabled meals oven knows exact timing/temperatures required cook meal subscription plan sends ready cook meals door raised  kickstarter
 
-Redspread – Development software:
-Downtime costs companies a lot of money — about $26.5 billion in lost revenue, to be exact. As it turns out, human error is the biggest cause of downtime. That’s where Redspread, which builds collaborative deployment tools, comes in. Redspread launched three weeks ago.
+redspread  development software
+downtime costs companies lot money   billion lost revenue  exact turns human error biggest cause downtime redspread builds collaborative deployment tools comes redspread launched weeks ago
 
-Gecko Robotics – Industrial safety inspections done by robots:
-U.S. power plants spend $15 billion a year doing safety inspections of their industrial infrastructure. But these inspections can take seven days, with plants losing $1 million a day in business, and they’re dangerous. Gecko Robotics has designed its own safety inspection robot that can climb walls and do dangerous jobs fast and cheap. For $50,000 to $100,000, it can do a 7-day inspection in just a single day, while collecting more data and not putting lives at risk. Gecko expects to be profitable this year and plans to expand to adjacent industries soon. The startup is driven by a desire to eliminate the tragic stories of safety inspectors falling to their their deaths.
+gecko robotics  industrial safety inspections robots
+us power plants spend  billion year doing safety inspections industrial infrastructure  inspections seven days plants losing  million day business dangerous gecko robotics designed safety inspection robot climb walls dangerous jobs fast cheap    day inspection just single day collecting data putting lives risk gecko expects  profitable year plans expand adjacent industries soon startup driven desire eliminate tragic stories safety inspectors falling their deaths
 
-Kisan Network – Marketplace for Indian farmers:
-This is an online marketplace for farmers in India to sell directly to institutional buyers, which the team says is a $200 billion industry. The farmer — say a potato farmer — uploads details of his harvest. A buyer — like, say, a potato chip maker — finds them potatoes on their marketplace and purchases them.
+kisan network  marketplace indian farmers
+this online marketplace farmers india sell directly institutional buyers te says  billion industry farmer  say potato farmer  uploads details harvest buyer  like say potato chip maker  finds potatoes marketplace purchases them
 
-Outschool – Class marketplace for homeschoolers:
-Learning can come in many different ways, especially outside of the classroom. Outschool is a class marketplace for homeschoolers that offers classes and field trips for kids around topics like anatomy, space and photography. Outschool says it’s on track to sell $14,000 worth of classes per month. (Update: clarified Outschool’s current monthly sales; the wording was previously a bit ambiguous) 
+outschool  class marketplace homeschoolers
+learning come different ways especially outside classroom outschool class marketplace homeschoolers offers classes field trips kids topics like anatomy space photography outschool says track sell  worth classes month (update clarified outschool current monthly sales wording previously bit ambiguous 
 
-Cover  – Get insurance by taking a photo:
-Getting insurance can be a hassle, but with Cover, you just take a photo of your car, home, pet, jewelry, speedboat or race horses. Right now, Cover farms out these leads to other insurance companies and is collecting $190,000 per month in referrals fees. But next it’s getting licensed to sell insurance directly so it can keep all the commissions, which amount to a $22 billion per year market in the U.S. By making insurance buying mobile, Cover could recruit a new generation of customers focused on convenience.
+cover   insurance taking photo
+getting insurance  hassle  cover just photo car home pet jewelry speedboat race horses right cover farms leads insurance companies collecting  month referrals fees  getting licensed sell insurance directly commissions  billion year market making insurance buying mobile cover recruit new generation customers focused convenience
 
-Rappi – Grocery delivery in Colombia:
-Rappi aims to be a combination of Instacart and Postmates for Latin America. It charges customers a 70 cent fee for delivery, while paying delivery people roughly $2/hour — a generous and competitive rate for the area, according to the company’s Latin American founders.
+rappi  grocery delivery colombia
+rappi aims  combination instacart postmates latin america it charges customers  cent fee delivery paying delivery people roughly /hour  generous competitive rate area according company latin american founders
 
-Toymail – Mobile phones built for kids:
-Ninety-five percent of kids under the age of 10 in the U.S. don’t have cell phones, but parents want to stay in touch with them. They just don’t want kids playing on their phones too much or contacting strangers. So Toymail, which sold $10 million-worth of an alarm clock that runs away from you, has built plush doll toys that are actually phones. Kids can use them to send voice messages to their parents, other family members or friends with Toymail phones. Selling hardware to these kids could be a $3 billion business, but Toymail is planning an app store full of games, stories and educational apps that it will sell, too. Amazon is already signed up as a developer. Toymail could make buying a cell phone for your toddler safe. Read more about Toymail on TechCrunch.
+toymail  mobile phones built kids
+ninety percent kids age  cell phones  parents want stay touch just want kids playing phones contacting strangers toymail sold  million worth alarm clock runs away built plush doll toys actually phones kids use send voice messages parents family members friends toymail phones selling hardware kids   billion business  toymail planning app store games stories educational apps sell amazon signed developer toymail make buying cell phone toddler safe read toymail techcrunch
 
-Chatfuel – Chatbot platform:
-Connecting with your followers and fan base in meaningful ways continues to be a challenge for businesses. With Chatfuel, those looking to build and engage an audience can use the native interface to create bots that help facilitate conversations. More than 130,000 bots have been created on the platform. Publishers, like TechCrunch and Forbes, can build on Chatfuel and deploy to any messengers. To date, Chatfuel sees more than 1 million daily active users.Read more about Chatfuel on TechCrunch here.
+chatfuel  chatbot platform
+connecting followers fan base meaningful ways continues  challenge businesses chatfuel looking build engage audience use native interface create bots help facilitate conversations  bots created platform publishers like techcrunch forbes build chatfuel deploy messengers date chatfuel sees more than  million daily active usersread chatfuel techcrunch here
 
-Varden Labs — Self driving shuttles for private campuses:
-These are self-driving shuttles (sort of like big golf carts) for private campuses like colleges and company headquarters. They have paid pilots ongoing at six college campuses. Their shuttle costs $50,000 per year to operate. Its three founders met while majoring in engineering at the University of Waterloo.
+varden labs  self driving shuttles private campuses
+these self driving shuttles (sort like big golf carts private campuses like colleges company headquarters paid pilots ongoing college campuses shuttle costs  year operate founders met majoring engineering university waterloo
 
-Stitch — Slack for doctors:
-Messaging platforms are taking off in just about every industry. Stich is a healthcare messaging platform for healthcare, doctors, nurses, social workers, pharmacists and others. It’s HIPPA-compliant and integrates with electronic health records. It’s growing 40 percent month over month with more than 400 organizations already signed up for Stitch. The secret to the growth, they say, is the focus on nursing homes, rehab facilities, pharmacies and urgent care centers. Stitch claims it has a lot of engagement, with users spending 8 hours a day on it, and sending 20 messages each per day. Read more about Stitch on TechCrunch here.
+stitch  slack doctors
+messaging platforms taking just industry stich healthcare messaging platform healthcare doctors nurses social workers pharmacists hippa compliant integrates electronic health records growing  percent month month  organizations signed stitch secret growth say focus nursing homes rehab facilities pharmacies urgent care centers stitch claims lot engagement users spending  hours day sending  messages day read stitch techcrunch here
 
-Focal Systems – Smart shopping carts: 
-Focal Systems has designed an indoor positioning system that is said to be 14X more accurate than iBeacons and 20X cheaper. The startup retrofits old shopping carts with a camera phone and their positioning system so the carts know where they are in the store. The phone can help shoppers navigate the store and show contextual, targeted ads right as they pass by the advertised product on the shelf. Focal Systems’ demos have shown they can raise revenue by $100,000 per month. The company charges $2,500 per month per store and splits the ad revenue with the store 50/50. It already has a deal lined up with Safeway grocery stores that could bring in $66 million in a year. Walking through brick-and-mortar stores feels stuck in the past. By updating the experience with indoor positioning and screens, it could get easier and much more lucrative for merchants.
+focal systems  smart shopping carts 
+focal systems designed indoor positioning said  x accurate ibeacons x cheaper startup retrofits old shopping carts camera phone positioning carts know store phone help shoppers navigate store contextual targeted ads right pass advertised product shelf focal systems demos shown raise revenue  month company charges  month store splits ad revenue store / deal lined safeway grocery stores bring  million year walking brick mortar stores feels stuck past updating experience indoor positioning screens easier lucrative merchants
 
-STILT – Loans for non-US students and working professionals:
-After coming to the U.S. as educated, legal citizens, Stilt’s founders realized how difficult it was for immigrants to get loans due to a lack of U.S. credit history. Stilt focuses on providing loans for them: $431K of loans so far, $60K of which has been paid back, with 0 percent defaults to date.
+stilt  loans non students working professionals
+after coming educated legal citizens stilt founders realized difficult immigrants loans lack credit history stilt focuses providing loans k loans far k paid  percent defaults date
 
-PetCube – Dropcam for pets:
-People are obsessed with their pets and want peace of mind that they’re okay when left alone at home. In the last 15 months, PetCube has made $2.5 million revenue selling its home camera for pet owners. In total, the company has sold 20,000 units at a retail price of $199. PetCube sells its product in more than 400 stores, including Nordstrom, Best Buy and Brookstone, with over half of its sales coming from retail. This year, PetCube is launching a subscription service, as well as launching a connected treat dispenser. Read more about PetCube on TechCrunch here.
+petcu  dropc pets
+people obsessed pets want peace mind okay left home  months petcu  million revenue selling home camera pet owners total company sold  units retail price  petcu sells product  stores including nordstrom best buy brookstone half sales coming retail year petcu launching subscription service launching connected treat dispenser read petcu techcrunch here
 
-Goodybag – Easy catering for offices:
-Goodybag makes it simple to order food for your office, a $30 billion a year market in the U.S. But rather than mess with low-margin on-demand delivery, Goodybag simply facilitates the ordering. It’s earning about 10 percent on transactions, giving it $5.5 million in annual revenue run rate, of which it keeps $600,000. The startup has already made its Austin market profitable and can hit break-even in 6 months as it expands to new cities. With 93 percent retention and $350 shopping carts (10X that of consumer food ordering), Goodybag has found a part of the food ordering market that can actually earn money.
+goodybag  easy catering offices
+goodybag makes simple order food office  billion year market  mess low margin demand delivery goodybag simply facilitates ordering earning  percent transactions giving  million annual revenue run rate keeps  startup austin market profitable hit break  months expands new cities  percent retention  shopping carts (x consumer food ordering goodybag food ordering market actually earn money
 
-StyleBee — On-demand beauticians:
-Blowouts, makeup and men’s haircuts on demand. Pick a job and tell them where you are, and they send a vetted stylist to you. Sixty percent of StyleBee customers use it once a month. They’ve hit a $1 million run rate in the past 12 months in SF alone, with margins of around 35 percent per job. Read more about StyleBee on TechCrunch here.
+stylebee  demand beauticians
+blowouts makeup men haircuts demand pick job tell send vetted stylist percent stylebee customers use month they’ve hit  million run rate past  months sf margins  percent job read stylebee techcrunch here
 
-Airmada — Drone automation platform:
-Automated ground stations for drones, built by Armada, are designed to replace expensive, human operators. Armada ground stations house, charge and launch drones for various types of missions. It’s first deployment is in the Panama Canal, where it delivers parcels from the port to ships for just $300.
+airmada  drone automation platform
+automated ground stations drones built armada designed replace expensive human operators armada ground stations house charge launch drones various types missions deployment panama canal delivers parcels port ships just 
 
-Revl – Stabilized action camera:
-GoPros aren’t getting that much better year after year, so fewer people feel like they need to buy the newest one. But Revl has addressed the biggest problem with action cameras — stabilization. It combines physical and digital stabilization to make its footage extra smooth. Revl also offers automatic editing software so you can share your best moments without having to sit down at a computer for boring manual video editing. The $10 billion action camera market is growing 22 percent every year, but Revl could make it accessible to people who aren’t good at photography or editing. Revl is now on Indiegogo where it’s sold $70,000-worth in the last 4 days. Read more about Revl on TechCrunch.
+revl  stabilized action camera
+gopros getting better year year fewer people feel like need buy newest  revl addressed biggest problem action cameras  stabilization combines physical digital stabilization make footage extra smooth revl offers automatic editing software share best moments having sit computer boring manual video editing  billion action camera market growing  percent year  revl make accessible people good photography editing revl indiegogo sold  worth  days read revl techcrunch
 
-Poppy – On-demand babysitters: 
-On-demand babysitters, all handled over SMS. This month, they’ll handle roughly 500 babysitting appointments — with all growth happening by word-of-mouth, and at a current rate of about 50 percent per month. They currently have 40 vetted sitters available in the Seattle area.
+poppy  demand babysitters 
+on demand babysitters handled sms month they’ll handle roughly  babysitting appointments  growth happening word mouth current rate  percent month currently  vetted sitters available seattle area
 
-UnnyWorld  – A mobile League Of Legends clone: 
-The multiplayer desktop dueling game League Of Legends has hit 27 million daily active users and earns $1 billion a year. UnnyWorld wants to bring a similar game to mobile. It’s designed for short sessions of around 5 minutes so gamers can play on the go. And rather than a keyboard, players can cast spells and coordinate complex attacks with finger gestures. Built by a 12-person squad that’s been together for 5 years, UnnyWorld’s team has already built games with a total of 5.4 million downloads. It’s beta see users playing for 30 minutes per day on average, and the global launch is planned for September. While cloning popular games might not be prestigious, bringing the League Of Legends experience to mobile could be quite lucrative.
+unnyworld   mobile league legends clone 
+the multiplayer desktop dueling game league legends hit  million daily active users earns  billion year unnyworld wants bring similar game mobile designed short sessions  minutes gamers play keyboard players cast spells coordinate complex attacks finger gestures built  person squad  years unnyworld te built games total  million downloads beta users playing  minutes day average global launch planned september cloning popular games  prestigious bringing league legends experience mobile  quite lucrative
 
-Trac – Simple timing for track teams: 
-People collectively spend billions of dollars a year around races; $2 billion goes to race tracking. That’s where Trac comes in. Trac wants to make it easy for any and every race to offer professional-caliber timing at an affordable price. Trac provides chips for runners to place on their shoes, and the time-tracking hardware for the race host to place at the finish line.
+trac  simple timing track teams 
+people collectively spend billions dollars year races  billion goes race tracking trac comes trac wants make easy race offer professional caliber timing affordable price trac provides chips runners place shoes time tracking hardware race host place finish line
 
-WorldCover – Crop insurance for the developing world:
-500 million farmers around the world are at the whimsy of the weather; if it doesn’t rain, their crops don’t grow and they don’t make money. WorldCover insures farmers in developing regions; they use satellites to measure rain fall, and pay out automatically based on the rain data.
+worldcover  crop insurance developing world
+ million farmers world whimsy weather does rain crops grow make money worldcover insures farmers developing regions use satellites measure rain fall pay automatically based rain data
 
-SOUNDBOKS – Powerful outdoor battery-powered speakers:
-Rocking an outdoor party required lots of expensive equipment, technical knowledge and set up time. But SOUNDBOKS is a single, portable suitcase-style speaker that can make dozens of people dance outdoors. It’s practically unbreakable, and has a 60-hour battery that can be swapped out. In the last 20 days, SOUNDBOKS has sold $600,000 worth of its speaker via crowdfunding with a 55 percent margin; it will ship in April. Next, it will release a smaller Jambox-sized competitor, and a bigger Elemental line that it claims can power events for thousands of people. Sonos fixed the same problem for wireless indoor audio and became a billion-dollar revenue business. The outdoor audio market is growing 39 percent annually because people love gathering offline with their friends. If SOUNDBOKS can live up to its hype and can blast music all day long on the go, it could capitalize on the shift to the experiential culture.
+soundboks  powerful outdoor battery powered speakers
+rocking outdoor party required lots expensive equipment technical knowledge set time but soundboks single portable suitcase style speaker make dozens people dance outdoors practically unbreakable  hour battery  swapped  days soundboks sold  worth speaker crowdfunding  percent margin ship april release smaller jambox sized competitor bigger elemental line claims power events thousands people sonos fixed problem wireless indoor audio  billion dollar revenue business outdoor audio market growing  percent annually people love gathering offline friends soundboks live hype blast music day long capitalize shift experiential culture
 
-MailTime  – Lighweight mobile email client world:
-Email sucks. MailTime is an email messenger that’s trying to make email suck a little bit less by making it as simple as text messaging. MailTime displays your emails as conversations instead of threads. To date, MailTime has seen 100,000 daily active users and is the No. 1 independent email app in China. It’s also gearing up to integrate with the top messenger in China, which has over 200 million users. Read more about MailTime on TechCrunch here.
+mailtime   lighweight mobile email client world
+email sucks mailtime email messenger trying make email suck little bit making simple text messaging mailtime displays emails conversations instead threads date mailtime seen  daily active users  independent email app china gearing integrate messenger china  million users read mailtime techcrunch here
 
-Restocks – Push notifications for the fashion obsessed:
-Restocks tells “superconsumers” when certain sought-after brands (Supreme, Yeezy, etc.) go up for sale. Users tell Restocks which brands they like, and Restocks monitors a wide array of sites. They charge users $25 per year.
+restocks  push notifications fashion obsessed
+restocks tells superconsumers certain sought brands (supreme yeezy sale users tell restocks brands like restocks monitors wide array sites charge users  year
 
-Castle.io – Behavior-based security:
-Passwords are easily stolen, but it’s hard for hackers and bots to replicate a real user’s behavior pattern. Castle tracks the behavior of users on its clients’ websites and apps, and can revoke access from those who are acting suspicious. For example, on an e-commerce site, real users might browse several items before adding something to their cart and checking out. But a hacker would add a ton of items and instantly try to check out, but Castle could block them. Castle now has 150 deployments, protects 400,000 users and is growing 35 percent each week. Each new user it protects also teaches it more about the difference between legitimate behavior and the sketchy patterns displayed by hackers.
+castleio  behavior based security
+passwords easily stolen  hard hackers bots replicate real user behavior pattern castle tracks behavior users clients websites apps revoke access acting suspicious example e commerce site real users browse items adding cart checking  hacker add ton items instantly try check  castle block castle  deployments protects  users growing  percent week new user protects teaches difference legitimate behavior sketchy patterns displayed hackers
 
-Acre Designs  – Affordable, modern zero-energy homes:
-We’ve seen very little innovation in the home space, and Acre Designs wants to change that by making it easy to build net-zero homes that produce their own power. Last year, Acre Designs built two prototypes and secured deposits for six homes worth $2.9 million. Acre Designs sells the kits for $250,000, and makes a 12 percent margin. Builders can then sell the homes for $400,000. Read more about Acre Designs on TechCrunch here.
+acre designs   affordable modern zero energy homes
+we’ve seen little innovation home space acre designs wants change making easy build net zero homes produce power year acre designs built prototypes secured deposits homes worth  million acre designs sells kits  makes  percent margin builders sell homes  read acre designs techcrunch here
 
-VINEBOX – Glass-by-glass wine delivery: 
-Vinebox delivers wine “by the glass.” Rather than delivering full bottles that a user might not like, subscribers receive three individual single-serving containers of wine. They’ve been shipping for 3 months, and have sold ~17,000 glasses. Subscribers can turn around and purchase wines they’ve found they like through the Vinebox app.
+vinebox  glass glass wine delivery 
+vinebox delivers wine glass delivering bottles user like subscribers receive individual single serving containers wine they’ve shipping  months sold  glasses subscribers turn purchase wines they’ve like vinebox app
 
-MeterFeeder – Lets old parking meters accept credit cards: 
-There are 4.5 million parking meters in the U.S. and 90 percent of them only accept coins. MeterFeeder lets cities cheaply upgrade to a system where citizens can pay for parking with a credit card through an app that uses GPS to tell where they are and what to charge. Parking enforcement officers get a tablet they can use to quickly check license plates to see if people have paid through MeterFeeder, and it costs 1/10th of other smart meter systems. And since it gets more people to actually pay for parking rather than risk a ticket, cities earn 30 percent more in parking revenue even as they issue less tickets people hate. MeterFeeder gets a 15 percent cut of all payments, is growing 18 percent per week, now has 3,000 meters in the system and just signed a $1 million annual deal with Pasadena, California. The U.S. parking market was $30 billion last year, and MeterFeeder could bring it into the mobile era. Read more about MeterFeeder on TechCrunch. 
+meterfeeder  lets old parking meters accept credit cards 
+there  million parking meters  percent accept coins meterfeeder lets cities cheaply upgrade citizens pay parking credit card app uses gps tell charge parking enforcement officers tablet they use quickly check license plates people paid meterfeeder costs /th smart meter systems gets people actually pay parking risk ticket cities earn  percent parking revenue issue tickets people hate meterfeeder gets  percent cut payments growing  percent week  meters just signed  million annual deal pasadena california parking market  billion year meterfeeder bring mobile era read meterfeeder techcrunch 
 
-QueueHop  – Tags for self-checkout:
-Waiting in line is the worst, and, it turns out that on average Americans spend two years of their lives waiting in lines. Enter QueueHop, a self-checkout app for retail stores. QueueHop transforms traditional tags into RFID tags to detect whether an item has been purchased. As a shopper, all you do is scan, pay and leave. If you haven’t paid, the tag will set off an alarm as you’re trying to leave the store. QueueHop launched a pilot one week ago and has 11 retailers on board.
+queuehop   tags self checkout
+waiting line worst turns on average americans spend years lives waiting lines enter queuehop self checkout app retail stores queuehop transforms traditional tags rfid tags detect item purchased shopper scan pay leave paid tag set alarm trying leave store queuehop launched pilot week ago  retailers board
 
- Wakie  — Phonecalls with strangers:
-Set a topic… get a phone call from a stranger. Wakie connects people within about 10 seconds, and currently has around 100,000 weekly active users. Their money model focuses on those who want to practice a new language, charging those users for premium subscriptions. At a deeper level, they’re a machine learning company — they analyze the contents of phone calls (and the preceding requests) to better match users. Read our previous coverage of Wakie here.
+ wakie   phonecalls strangers
+set topic… phone stranger wakie connects people  seconds currently  weekly active users money model focuses want practice new language charging users premium subscriptions deeper level machine learning company  analyze contents phone calls (and preceding requests better match users read previous coverage wakie here
 
-Function Of Beauty – Personalized beauty products:
-Americans spend $6 billion a year on shampoo and conditioner, but are frustrated because they can’t find the product that matches their preferences and hair type. Function Of Beauty asks customers a set of questions, then its machines fill bottles with a unique combination of ingredients, and even prints the customer’s name on the bottle. There are over 300 million permutations of Function Of Beauty’s product, and it earns a 50 percent margin on its average $30 order. The startup is growing 45 percent each month, had $20,000 in sales last month and will be net profitable in 5 months. Next, it wants to move into other beauty products, using personalization to provide next-level satisfaction. Read more about Function Of Beauty on TechCrunch. 
+function beauty  personalized beauty products
+americans spend  billion year shampoo conditioner  frustrated ca product matches preferences hair type function beauty asks customers set questions machines bottles unique combination ingredients prints customer bottle  million permutations function beauty product earns  percent margin average  order startup growing  percent month  sales month  net profitable  months wants beauty products using personalization provide level satisfaction read function beauty techcrunch 
 
-LendEDU – Kayak for educational loans:
-The student-loan industry is a big business in the U.S., and a lot of students are in debt. At LendEDU, a marketplace for student-loan refinancing, the goal is to save graduates thousands of dollars by helping them find low-interest rate loans. Since launching six months ago, LendEDU has seen 50 percent net monthly revenue growth. This month, LendEDU is on track to reach $50,000 in monthly revenue and achieve profitability. Read more about LendEdu on TechCrunch here.
+lendedu  kayak educational loans
+the student loan industry big business lot students debt lendedu marketplace student loan refinancing goal save graduates thousands dollars helping low rate loans launching months ago lendedu seen  percent net monthly revenue growth month lendedu track reach  monthly revenue achieve profitability read lendedu techcrunch here
 
- Enflux – Clothes that record workouts:
-Enflux aims to do 3D capture of workouts without requiring a camera. With the data provided by sensors within the (machine-washable!) clothes, they’re able to analyze form and pacing. After opening up pre-orders around 2 weeks ago, they’ve sold over $85,000 worth of clothing. Read our previous coverage of Enflux here.
+ enflux  clothes record workouts
+enflux aims d capture workouts requiring camera data provided sensors (machine washable! clothes able analyze form pacing opening pre orders  weeks ago they’ve sold  worth clothing read previous coverage enflux here
 
-Prompt  — Chatbot platform
-Messaging apps are where people spend their time, and chatbots let them interact with businesses there. Prompt is a chatbot building platform that lets businesses build a chatbot in 15 minutes with 15 lines of code. It can then be deployed instantly to Slack, Line, WeChat, SMS, and soon Facebook Messenger. Prompt’s platform includes authentication, payment processing, language flexibility, and analytics. Prompt gets paid for every message sent, but doesn’t have to pay carrier fees like Twilio does with SMS. That gives Prompt a 95% gross margin. Prompt is already working with Uber, Nest, Yelp, and Dominos. Prompt sees chatbots as successor to apps, and wants to be the universal development platform where they get built. Read more about Prompt on TechCrunch. 
+prompt   chatbot platform
+messaging apps people spend time chatbots let interact businesses prompt chatbot building platform lets businesses build chatbot  minutes  lines code  deployed instantly slack line wechat sms soon facebook messenger prompt platform includes authentication payment processing language flexibility analytics prompt gets paid message sent  does pay carrier fees like twilio does sms gives prompt  gross margin prompt working uber nest yelp dominos prompt sees chatbots successor apps wants  universal development platform built read prompt techcrunch 
 
-Able Health  – Software to get doctors paid for quality care
-Under the affordable care act, one third of medical group’s are held financially accountable for how healthy their patients are. With Able Health, the goal is to make it easier for medical groups to get paid for making their patients healthier. Within two months of launching, Able Health brought on its first enterprise customer, which signed a $100,000 contract.
+able health   software doctors paid quality care
+under affordable care act medical group held financially accountable healthy patients able health goal make easier medical groups paid making patients healthier months launching able health brought enterprise customer signed  contract
 
-Shypmate — P2P shipping for Africa:
-Getting a pair of Nikes from the US to Africa would cost over $200 in shipping fees; Shypmate uses inbound travelers to deliver the same items in 5-10 days for around $20 — you just meet the traveler at the airport to get your package. “And yes,” says founder Chisom Ebinama “it’s legal. Very, very legal.” Read our previous coverage of Shypmate here.
+shypmate  pp shipping africa
+getting pair nikes africa cost  shipping fees shypmate uses inbound travelers deliver items   days   just meet traveler airport package yes says founder chisom ebinama legal very legal read previous coverage shypmate here
 
-UpLabs – Instant access to design and engineering resources
-When designers and developers build something, they don’t reinvent the wheel. They cobble togetehr resources from UI kits, plugins, and pre-made assets. The problem is finding them with traditional Google Search. UpLabs has built a community of 250,000 users curating these resources. If a business needs to make a payment form, they can grab the graphics, HTML, JavaScript, and CSS for the form straight from UpLabs’ 18,000 curated resources. Search on its platform is up 7X from 12 weeks ago and is growing 20% per week, and its quarter-million users are spontaneously hosting meetups around the world. Next, it wants to move into providing lucrative web development and app design services. UpLabs could the be the future of efficient development thanks to its human-curated archive of how to do things right. Read more about UpLabs on TechCrunch. 
- Stealth Worker -Hire security experts 
-Here’s a crazy stat: there’s about $90 billion in unclaimed salaries in the cybersecurity market. There are currently one million open jobs for cybersecurity experts, but it’s difficult to find the right people to fill them. Since launching three months, Stealth Worker’s marketplace for cybersecurity experts has facilitated $114,000 in job bookings, is growing at 105% monthly and is already profitable.
+uplabs  instant access design engineering resources
+when designers developers build reinvent wheel cobble togetehr resources ui kits plugins pre assets problem finding traditional google search uplabs built community  users curating resources business needs make payment form grab graphics html javascript css form straight uplabs  curated resources search platform x  weeks ago growing  week quarter million users spontaneously hosting meetups world wants providing lucrative web development app design services uplabs  future efficient development thanks human curated archive things right read uplabs techcrunch 
+ stealth worker  hire security experts 
+here crazy stat  billion unclaimed salaries cybersecurity market currently million open jobs cybersecurity experts  difficult right people launching months stealth worker marketplace cybersecurity experts facilitated  job bookings growing  monthly profitable
 
-Deako — Smart light switches:
-Sells smartswitches to new home builders, as opposed to selling to consumers. Currently has agreements for $750,000 worth of purchase orders across 9 different builders. They focus on selling easily upgradeable “dumb” switches to home builders, then upsell interested new homeowners on the smart upgrade.
+deako  smart light switches
+sells smartswitches new home builders opposed selling consumers currently agreements  worth purchase orders  different builders focus selling easily upgradeable dumb switches home builders upsell interested new homeowners smart upgrade
 
-Magic Instruments – A guitar anyone can learn to play in minutes
-90% of people who try to learn guitar quit because it’s difficult to learn the 300-year old user interface of vibrating strings. Magic Instruments has built a guitar where you can play chords with one finger. It builds musical intelligence into the software in the guitar so anyone can play songs with just sight-reading. Guitar Hero sold $6 billion worth of fake guitars that don’t even play real music. Magic Instruments thinks it can earn even more selling its $299 guitar and $6 per month subscriptions to content like chords and lyrics of popular songs. It’s launching on Indiegogo on April 18th.
+magic instruments  guitar  learn play minutes
+ people try learn guitar quit difficult learn  year old user interface vibrating strings magic instruments built guitar play chords finger builds musical intelligence software guitar  play songs just sight reading guitar hero sold  billion worth fake guitars play real music magic instruments thinks earn selling  guitar  month subscriptions content like chords lyrics popular songs launching indiegogo april th
 
-Chitter — College social network:
-A live feed for a user’s college, but with a weird twist: top posts are 100% anonymous, but comments use your real identity.
+chitter  college social network
+a live feed user college  weird twist posts  anonymous  comments use real identity
 
-Thunkable – Weebly for mobile apps:
-Building native, mobile apps should be simple for anyone, according to Thunkable. That’s why it has created a drag-and-drop tool for building native, mobile apps. The cloud-based tool features templates, real-time testing and easy deployment to the Google Play store. Thunkable currently has over 90,000 users who have built over 200,000 apps.
- Read more about Thunkable on TechCrunch here. 
+thunkable  weebly mobile apps
+building native mobile apps  simple  according thunkable created drag drop tool building native mobile apps cloud based tool features templates real time testing easy deployment google play store thunkable currently  users built  apps
+ read thunkable techcrunch 
 
-Instabug — Support kit for mobile apps:
-An easy-to-add SDK for a mechanism that allows app users to contact support without leaving the application. Used by Lyft, Soundcloud, BuzzFeed, Shyp, and more. Read our previous coverage of Instabug here
+instabug  support kit mobile apps
+an easy add sdk mechanism allows app users contact support leaving application used lyft soundcloud buzzfeed shyp read previous coverage instabug here
 
-Hykso – Fitbit for boxing and MMA athletes:
-Hykso creates sport sensors for boxers to track the types of punches thrown, how many the boxer has thrown and how fast they’ve thrown them. The Hysko sensor fits on the wrist and comes with an app to show boxing analytics. So far, Hysko has sold $80,000 worth of devices, which it’s selling for $150 a pair.
+hykso  fitbit boxing mma athletes
+hykso creates sport sensors boxers track types punches thrown boxer thrown fast they’ve thrown hysko sensor fits wrist comes app boxing analytics far hysko sold  worth devices selling  pair
 
-Landed — 
-Buying a home today is hard — particularly if you don’t have wealthy parents who can help you with that down payment. Landed helps teachers buy homes by raising debt-free downpayment funds from student’s parents; parents provide money for the down payment in exchange for equity in said homes. They also work with companies and affinity networks.
+landed  
+buying home today hard  particularly wealthy parents help payment landed helps teachers buy homes raising debt free downpayment funds student parents parents provide money payment exchange equity said homes work companies affinity networks
 
-CareSkore – CRM for hospital follow-ups
-The Affordable Care Act forces hospitals to pay when their lack of follow-up care leads to preventable readmission of patients. Right now, these readmissions cost hospitals $36 billion per year. But CareSkore’s system helps hospitals make follow-up calls to the right patients at the right time and ask them the right questions to catch complications before they spiral into expensive health problems. CareSkore found the hospitals it demoed with saw a 42% reduction in readmissions. It sells its CRM prodcut for $500,000 per year per hospital, creating a $10.8 billion annual market that’s suddenly appeared because of the Affordable Care Act. CRM has helped businesses make more money, now it’s going to make patients healthier.
+careskore  crm hospital follow ups
+the affordable care act forces hospitals pay lack follow care leads preventable readmission patients right readmissions cost hospitals  billion year  careskore helps hospitals make follow calls right patients right time ask right questions catch complications spiral expensive health problems careskore hospitals demoed saw  reduction readmissions sells crm prodcut  year hospital creating  billion annual market suddenly appeared affordable care act crm helped businesses make money going make patients healthier
 
-SnapEDA – Electronic design automation site:
-If you wanted to make a smartwatch or drone, you’d have to spend days creating the digital model for each chip on your circuit board. With SnapEDA, an electronics parts library, all you do is download the model, and then drag and drop it into your design. Already, companies like Nest, Google, Boeing, General Electric and Sony are using SnapEDA and they’re downloading thousands of models every month. SnapEDA costs $1,200 a year for a subscription.Read our SnapEDA coverage here.
+snapeda  electronic design automation site
+if wanted make smartwatch drone you’d spend days creating digital model chip circuit board snapeda electronics parts library download model drag drop design companies like nest google boeing general electric sony using snapeda downloading thousands models month snapeda costs  year subscriptionread snapeda coverage here
 
-Zenysis — Data systems for developing country goverments:
-Data infrastructure in the developing world is a mess. That means even when they have the money and man-power to distribute vaccines or recover from a large scale emergency, they don’t know where to start or how to manage the projects. Zenysis offers data management systems for developing nations, and is now in a $1 million pilot program with the Ethiopian government. Zenysis found all the fragmented data on vaccinations, got 100% of it integrated, and made the distribution process efficient. With 150 developing nations plus big organizations like the Gates Foundation as potential customers, Zenysis could make a profit while preventing the next Ebola crisis.
+zenysis  data systems developing country goverments
+data infrastructure developing world mess means money man power distribute vaccines recover large scale emergency know start manage projects zenysis offers data management systems developing nations  million pilot progr ethiopian government zenysis fragmented data vaccinations got  integrated distribution process efficient  developing nations plus big organizations like gates foundation potential customers zenysis make profit preventing ebola crisis
 
-Skymind  — Open source deep learning software:
-Skymind builds an open source deep learning engine for enterprise Hadoop users, providing AI-driven solutions for things like fraud detection, product recommendations, and facial recognition. They’ve built Deeplearning4J, a set of deep-learning algorithms for Java developers.
+skymind   open source deep learning software
+skymind builds open source deep learning engine enterprise hadoop users providing ai driven solutions things like fraud detection product recommendations facial recognition they’ve built deeplearningj set deep learning algorithms java developers
 
-AlphaFlow  – Schwab for real estate investing:
-AlphaFlow wants to make it easy for real estate investors to build and manage their portfolios across P2P platforms. It lets you browse deals from across the industry, find good investments and create deal alerts. Currently, AlphaFlow has 850 investors managing over $80 million in investments on the platform.
+alphaflow   schwab real estate investing
+alphaflow wants make easy real estate investors build manage portfolios pp platforms lets browse deals industry good investments create deal alerts currently alphaflow  investors managing  million investments platform
 
-HaloLife – Online funeral planning
-7,000 people die a day in American, and their families spend $21 billion a year on their funerals, burials, and cremations. But there’s no way to book this online or get any price transparency. That forces families to visit funeral providers in person, and puts them at risk of getting ripped off or making a bad decision in haste. Halolife lets families select the service they want and where they want it, and the startup finds them the optimal funeral provider and price. It takes 7.5%, which means it has a $1.5 billion annual market opportunity. Funerals shouldn’t be a time for frustrating shopping. Halolife makes planning a goodbye for a loved one peaceful.
+halolife  online funeral planning
+ people die day american families spend  billion year funerals burials cremations  way book online price transparency forces families visit funeral providers person puts risk getting ripped making bad decision haste halolife lets families select service want want startup finds optimal funeral provider price takes  means  billion annual market opportunity funerals  time frustrating shopping halolife makes planning goodbye loved peaceful
 
-Lynks — Efficient import ecommerce for countries that lack it:
-“E-commerce in Egypt sucks!” says Lynks’ Egyptian founder — citing import product markup of over 2x. Lynks lets Egyptian customers paste in shopping links for any US site, and handles all customs and shipping logistics and explains all involved fees up front.
+lynks  efficient import ecommerce countries lack it
+e commerce egypt sucks! says lynks egyptian founder  citing import product markup x lynks lets egyptian customers paste shopping links site handles customs shipping logistics explains involved fees front
 
-Secful – Smart API defense:
-A lot of businesses these days depend on some sort of API. With Secful, businesses can prevent API attacks in real-time through custom-tailored security. Secful is an automated solution that can detect any abnormal activity within your API and identify the hacker profile.
+secful  smart api defense
+a lot businesses days depend sort api secful businesses prevent api attacks real time custom tailored security secful automated solution detect abnormal activity api identify hacker profile
 
-Truebill – Manage your subscription payments:
-Many people forget the subscriptions they’re paying for, and don’t know how they could save money by switching between different providers. Truebill makes it easy to manage your media, digital content, and physical good subscriptions. You connect you back account or credit card, and it shows you everything you’re paying for on a recurring basis so you can instantly cancel ones you don’t want. The average user cancels at least one subscription, leading to hundreds of dollars in savings. Truebill plans to use its data on rates, subscription lengths, and why people cancel to make recommendations on subscriptions and collect referral fees. For example, it could suggest you cancel ComCast cable and sign up for Netflix, Hulu, and HBO GO. The average number of subscriptions people pay for has doubled from 5.5 to 11 in the last 18 months as more businesses use recurring billing to rack up reliable revenue. It already has 10,000 users. Truebill puts the power back in the hands of the subscriber. Read more about Truebill on TechCrunch. 
+truebill  manage subscription payments
+many people forget subscriptions paying know save money switching different providers truebill makes easy manage media digital content physical good subscriptions connect account credit card shows you paying recurring basis instantly cancel ones want average user cancels subscription leading hundreds dollars savings truebill plans use data rates subscription lengths people cancel make recommendations subscriptions collect referral fees example suggest cancel comcast cable sign netflix hulu hbo average number subscriptions people pay doubled    months businesses use recurring billing rack reliable revenue  users truebill puts power hands subscriber read truebill techcrunch 
 
-Streamup — Live Stream Video and Chat Platform:
-Streamup gives pro-grade live editing tools and advanced chat controls to encourage them to livestream their own shows — things like cooking programs, or fan Q&As with bands. They have 22mm monthly active users.
+streamup  live stre video chat platform
+streamup gives pro grade live editing tools advanced chat controls encourage livestre shows  things like cooking programs fan q&as bands mm monthly active users
 
- MineralSoft – Mineral rights software: MineralSoft provides automated revenue management for minerals like gas and oil. Since launching its enterprise product in January, MineralSoft has brought in $12,000 in monthly recurring revenue.
+ mineralsoft  mineral rights software mineralsoft provides automated revenue management minerals like gas oil launching enterprise product january mineralsoft brought  monthly recurring revenue
 

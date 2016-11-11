@@ -1,8 +1,8 @@
-Microsoft’s Gabe Aul hinted today at faster releases of new builds of the company’s Windows 10 operating system.
-The company’s public testing program has attracted more than 2 million users to date. However, according to Aul, there are “lots of questions” regarding when a new build will be released. Given that Microsoft is more than willing to drop new code in between keynote releases, like its original enterprise preview, and its coming developer preview, the question matters.
-According to Aul, there are several internal rings that employ even less-baked software than is released to Microsoft’s self-selected testing community. Here’s his diagram:
+microsoft ga aul hinted today faster releases new builds company windows  operating system
+the company public testing progr attracted  million users to date according aul lots questions regarding new build  released given microsoft willing drop new code keynote releases like original enterprise preview coming developer preview question matters
+according aul internal rings employ even baked software released microsoft self selected testing community diagram
 
-There are more internal tiers than external, unsurprisingly.
-According to Aul, Microsoft may have been “too conservative about pushing builds to the Fast ring for Windows Insiders.” Perhaps. Aul’s group, according to the executive, has had “serious conversations last week […] about a ‘Ludicrous Speed’ ring,” which he then asserts is “no joke.”
-I highlight the above not strictly for its Windows 10 impact, but also to underline how Windows might be constructed in the future. If Microsoft wants to move faster with builds now, it might move faster in the future. That makes the current Windows 10 pace perhaps slower than what we will see next.
-Anyhoo, summing the above, Microsoft is doubling down on its plan to get new operating system code into the market more quickly than before.
+there internal tiers external unsurprisingly
+according aul microsoft have been conservative pushing builds fast ring windows insiders aul group according executive conversations week … about ‘ludicrous speed’ ring asserts joke
+i highlight strictly windows  impact  underline windows  constructed future microsoft wants faster builds faster future makes current windows  pace slower next
+anyhoo summing microsoft doubling plan new operating code market quickly before

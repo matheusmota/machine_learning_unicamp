@@ -1,18 +1,18 @@
 
 
-Snapchat could be used by over 1 billion daily active users in time and substantially accelerate how many videos and photos people share and consume. But there’s more to be done and questions to be answered.
-Even Twitter’s massive growth excitement for years was characterized by the challenge of finding mass sustained appeal — “Why say what I had for lunch?” Now, Snapchat’s massive growth with millions of passionate users is characterized by some persistent user misunderstanding of Snapchat use cases — some ask, “Why show something I did if it gets deleted?” And there are unexplored adaptations to broaden the appeal of Snapchat Stories and strengthen chat. 
-Snapchat is uniquely positioned as “default delete” — meaning that all posts eventually are deleted after viewing or after 24 hours, whereas other popular social services by default make  your posts available indefinitely. It creates a space where you feel free to share your day with less judgment since there aren’t “likes” visible to friends on each post.
-But you do know who chooses to view your Snapchat Stories, so there’s feedback and a sense of intimacy that inspires more sharing and a lot of sharing videos.
-However, messaging is arguably the core of the social experience now and even more so going forward. A reason is that messaging has become used by more people than social feeds and because messaging can help enable a range of different activities including applications and commerce.
-The chat portion of Snapchat is inherently harder to use than other chat apps because notifications don’t show text content, and text chatting requires an extra swipe since the app defaults to the camera. Will Snapchat go for over 1 billion actives, and/or will the range of opportunities inside one app require focusing on a particular opportunity set? 
-Below are 21 ways that Snapchat can try to answer questions about engagement, growth and commerce. I don’t know what constraints and/or priorities are relevant for Snapchat’s product, and of course Snapchat has the details and data that are crucial to understanding what’s happening and deciding what to do.
-Snapchat’s engagement measured by video views grew massively in 2015, from 2 billion daily views in May 2015 to 7 billion daily views recently. But that’s a number of actions reportedly counted including videos shown from 0 seconds, and that number is out of date because the amount of videos shared and watched on mobile continues to increase rapidly and Snapchat is still growing fast. Perhaps the more important metric is about time spent watching. 
-Fullscreen, by default, helps people see and consume more videos, and Snapchat has that. Fullscreen means there’s no need to scroll, so the person can focus on media and whether to watch or skip, rather than trying to get the media to fit the screen with the right gestures.
-The opportunity for Snapchat is to enable each person to share a bunch of clips that become a daily video summary for each person — in Snapchat, that’s the “Stories” product so far. In the future, I think people will want easy ways to share their lived experiences — meaning a close representation of the activities and feelings of what’s actually happening — increasingly with video then virtual reality and more. 
-So the question is, how close is Snapchat to the product that people in the future will use to share their lived experience, and what does Snapchat need to do to get there and adapt over time?
-Simplify recording video by default with one tap
-Some people may not want to press and hold to record video. I think eventually the default is going to be video first because people want videos to see more of what’s happening and mobile bandwidth increases. So require long-press to take a photo, and one tap starts recording video with another tap to stop. There are many reasons to not do this, but more default video may be a long-term necessity for someone. Or, consider a button for each of taking a photo or starting to record video.
+snapchat  used  billion daily active users time substantially accelerate videos photos people share consume   questions  answered
+even twitter massive growth excitement years was characterized challenge finding mass sustained appeal  say i lunch snapchat massive growth millions passionate users characterized persistent user misunderstanding snapchat use cases  ask i did gets deleted unexplored adaptations broaden appeal snapchat stories strengthen chat 
+snapchat uniquely positioned default delete  meaning posts eventually deleted viewing  hours popular social services default make  your posts available indefinitely creates space feel free share day judgment likes visible friends post
+ know chooses view snapchat stories feedback sense intimacy inspires sharing lot sharing videos
+however messaging arguably core social experience going forward reason messaging  used people social feeds messaging help enable range different activities including applications commerce
+the chat portion snapchat inherently harder use chat apps notifications text content text chatting requires extra swipe app defaults camera snapchat  billion actives and/or range opportunities inside app require focusing particular opportunity set 
+below  ways snapchat try answer questions engagement growth commerce i know constraints and/or priorities relevant snapchat product course snapchat details data crucial understanding happening deciding do
+snapchat engagement measured video views grew massively   billion daily views   billion daily views recently  number actions reportedly counted including videos shown  seconds number date videos shared watched mobile continues increase rapidly snapchat growing fast important metric time spent watching 
+fullscreen default helps people consume videos snapchat fullscreen means need scroll person focus media watch skip trying media fit screen right gestures
+the opportunity snapchat enable person share bunch clips  daily video summary person  snapchat stories product far future i think people want easy ways share lived experiences  meaning close representation activities feelings actually happening  increasingly video virtual reality 
+so question close snapchat product people future use share lived experience does snapchat need to adapt time
+simplify recording video default tap
+some people want press hold record video i think eventually default going  video people want videos happening mobile bandwidth increases require long press photo tap starts recording video tap stop reasons  default video  long term necessity consider button taking photo starting record video
  
  
  
@@ -22,70 +22,70 @@ Some people may not want to press and hold to record video. I think eventually 
  
  
  
-Create easy ways to keep watching Stories without picking the next person
-When you’re done with viewing one Story, you have to go find another Story to tap to view. Let the user just keep tapping and automatically open the next Story. If a Story isn’t done yet, let the user swipe right to left to skip to the next person’s Story. 
-The opportunity here is to see if this would substantially improve the core flow of how people watch Stories. This could really make an impact.
+create easy ways watching stories picking person
+when viewing story story tap view let user just tapping automatically open story story let user swipe right left skip person story 
+the opportunity substantially improve core flow people watch stories really make impact
 
-Increase the number of preview thumbnails on the Stories list
-There isn’t enough information to decide which Stories to view. Provide more thumbnails to help give some idea of what the Story is about.
-
- 
-Promote Stories on the Camera view
-Compelling content is missed. Show friend profile photos on the Camera instead to attract to the Stories screen with one tap to quickly view their Story.
-
-Increase video sharing and watching by increasing video length
-People talk into the end of videos, so content is missed, and people just post another follow-up video. So extend the maximum length to 15 seconds or 20 seconds or even 1 minute.
-Use the algorithmic Stories feed
-The Stories list becomes a long list of people you have to look hard to find who you want to watch. Prioritize people watched often and use other ranking factors.
-Give feedback about how long people watch Stories to inform what to post
-You know someone watched but you have no idea which was compelling enough to watch all the way through. Show those stats and more and better content may be produced. Or only show people who have watched 80 percent or more of a video so not too detailed. Aggregate data important for popular accounts.
+increase number preview thumbnails stories list
+there information decide stories view provide thumbnails help idea story about
 
  
-Notify users about soon to delete Stories of close ties or specific friends
-Enable users to subscribe to notifications about Stories that are nearing deletion in a couple of hours in case the user doesn’t return.
+promote stories camera view
+compelling content missed friend profile photos camera instead attract stories screen tap quickly view story
 
-Offer to share to “Close Friends” for more intimacy
-The social graph expands to the point of people choosing to share less over time. So automatically create a “Close Friends” list based on mutual interaction of messaging/viewing Stories/etc., and allow user choice to change the list. Posting to the “Close Friends Story” is visible to Close Friends.
+increase video sharing watching increasing video length
+people talk end videos content missed people just post follow video extend maximum length  seconds  seconds  minute
+use the algorithmic stories feed
+the stories list  long list people look hard want watch prioritize people watched use ranking factors
+give feedback long people watch stories inform post
+you know watched  idea compelling watch way stats better content  produced people watched  percent video detailed aggregate data important popular accounts
 
-Enable users to save their videos/photos to the Camera Roll by default with ability to choose to not save any videos/photos
-This will encourage sharing while still allowing the user to keep their media privately for people who want that. Alternatively, allow the user to choose to privately save these posts in a Snapchat account stored online rather than the Camera Roll.
-Enable senders to decide whether their chat shows text in a recipient’s notification 
-Using Snapchat’s chat product is an extra tap or more because notifications don’t include the text. Chat still default-deletes when viewed.
+ 
+notify users soon delete stories close ties specific friends
+enable users subscri notifications stories nearing deletion couple hours case user does return
 
-Long-press a Snapchat Story to quickly send a ghost icon as a private reply to a friend and encourage more sharing
-The number of ghosts sent also helps rank recommended Stories to view both for friends and to discover public content. The reason for using a ghost is for simple and fun feedback.
+offer share close friends intimacy
+the social graph expands point people choosing share time automatically create close friends list based mutual interaction messaging/viewing stories/etc allow user choice change list posting close friends story visible close friends
 
-While Snapchat’s core users understand the product, there is a persistent misunderstanding among people who have either not yet downloaded or downloaded and just haven’t returned. 
-Stories in the media about popular Snapchat Stories accounts do some to educate people about the use cases, but a strength of Snapchat is about sharing among friends on Stories and one-to-one intimate sharing. There’s a lot to be done in the Snapchat product to enhance that growth and realize its potential. Otherwise, it’s just going to be a lot harder to re-educate people later. 
-Tag users with easy swipe up to follow
-Some users mention other accounts in Stories, but actually adding those users requires multiple actions. Instead, use @ to tag a username then allow swiping up to easily tap to add that user all without having to stop watching the Story. Very easy experience and major possible impact on helping grow the graph.
+enable users save videos/photos camera roll default ability choose save videos/photos
+this encourage sharing allowing user media privately people want alternatively allow user choose privately save posts snapchat account stored online camera roll
+enable senders decide whether their chat shows text recipient notification 
+using snapchat chat product extra tap notifications include text chat default deletes viewed
 
-Enable discovery of people’s public Stories by using hashtags to create more Live Events
-There is a lot of content that people are creating publicly but have no way to discover. Live Events are a great start. Help people build audiences with hashtags.
+long press snapchat story quickly send ghost icon private reply friend encourage sharing
+the number ghosts sent helps rank recommended stories view friends discover public content reason using ghost simple fun feedback
 
-Let users see someone’s public Stories before following them on Snapchat
-You have to add someone and do multiple swipes, including finding that person’s name, if they have posted in your Stories list. Simplify this by allowing to view Stories before adding.
+while snapchat core users understand product persistent misunderstanding  people downloaded downloaded just returned 
+stories media about popular snapchat stories accounts educate people use cases  strength snapchat sharing  friends stories intimate sharing lot  snapchat product enhance growth realize potential just going  lot harder educate people later 
+tag users easy swipe follow
+some users mention accounts stories  actually adding users requires multiple actions instead use @ tag username allow swiping easily tap add user having stop watching story easy experience major possible impact helping grow graph
 
-Recommend people to follow after following someone
-It’s hard to find who you should follow on Snapchat, and many don’t know that you can follow on Snapchat. Introduce recommended people to follow when a user taps to follow a given user.
-Suggest people to follow on the Stories list
-Finding suggestions of Contacts is hidden in the account area. There’s a great opportunity to introduce some promotion of who a user may want to follow.
+enable discovery people public stories using hashtags create live events
+there lot content people creating publicly  way discover live events great start help people build audiences hashtags
 
-Enable users to share Stories that last more or less than 24 hours
-Twenty-four hours isn’t a use case that captures all scenarios where people still want a default delete experience. Provide alternate times to delete for more timely posts such as 30 minutes through more memorable posts for 7 days, 30 days, or maximum 6 months. This is relevant for growth because there aren’t any posts to be seen beyond 24 hours, but there can be.
+let users public stories following snapchat
+you add multiple swipes including finding person posted stories list simplify allowing view stories adding
 
-Make a low-bandwidth feature to show photo frames instead of videos
-There are so many videos on Snapchat that downloading the videos can take too long and so users abandon Snapchat. Show multiple frames that can be tapped through instead, with an extra tap to choose to download the video version.
+recommend people follow following someone
+it hard follow snapchat know follow snapchat introduce recommended people follow user taps follow given user
+suggest people follow stories list
+finding suggestions contacts hidden account area great opportunity introduce promotion user want follow
 
-Snapchat understandably has been focused on growth and engagement, though there was news recently about Snapchat building an advertising API and seeking more ability to provide targeted advertising. In the future as there are more and more videos being watched, certainly there’s increased opportunity for branded and more video advertising. 
-But there also remains an opportunity for app install advertising, and as the notion of app install goes away as the idea of an install changes with the evolution of mobile platforms, then advertising focused on a specific target action is important. Snapchat’s strength of full screen content makes it well-suited for advertising that has a chance to convey its message immediately and without being obscured, and similarly users are one tap away from skipping the ad or one swipe away from learning more about the advertisement.
-Include promoted Stories in the Stories list
-Advertising only appears in Discovery and Live Events. Include promoted Stories that users can opt-in to viewing.
+enable users share stories  hours
+twenty four hours use case captures scenarios people want default delete experience provide alternate times delete timely posts  minutes memorable posts  days  days maximum  months relevant growth posts  seen  hours  be
 
-Offer app installs and more action advertising 
-The tap is an action already used by Snapchat to skip to the next thing. Swiping up with a clear call to action, including quick-following an account or getting more information, is user friendly and there’s clear intent for the advertiser.
+make low bandwidth feature photo frames instead videos
+there videos snapchat downloading videos long users abandon snapchat multiple frames  tapped instead extra tap choose download video version
 
-Snapchat certainly has many opportunities, and saying “no” to many ideas that seem good is important as Snapchat focuses on what really matters. Still, there’s a need to try and experiment to gain some understanding of what provides a great user experience and contributes to building a long-term sustainable service.
-I also think that these design ideas are relevant for existing and new social services because I expect that users will increasingly want to view photos/videos in fullscreen, and so there’s a need to navigate without necessarily turning their phone from landscape or portrait position. 
-I think that viewing posts of one friend chronologically — as Snapchat Stories does — magnifies the enjoyment because it connects multiple points in a daily experience. The human mind fills in details of going from point A to point B and so on.
-Don’t confuse Snapchat as being framed as a place people go to share frivolous videos. Rather, the long-term vision is one where people feel comfortable sharing their daily lived experience, and the opportunity for that is as fundamental as life and the desire for each person to share their story. So, will those stories be shared to Snapchat Stories, or elsewhere in the long run, and how? This is to be determined.
+snapchat understandably focused growth engagement news recently snapchat building advertising api seeking ability provide targeted advertising future more videos watched certainly increased opportunity branded video advertising 
+ remains opportunity app install advertising notion app install goes away idea install changes evolution mobile platforms advertising focused specific target action important snapchat strength screen content makes suited advertising chance convey message immediately obscured similarly users tap away skipping ad swipe away learning advertisement
+include promoted stories stories list
+advertising appears discovery live events include promoted stories users opt viewing
+
+offer app installs action advertising 
+the tap action used snapchat skip thing swiping clear action including quick following account getting information user friendly clear intent advertiser
+
+snapchat certainly opportunities saying ideas good important snapchat focuses really matters need try experiment gain understanding provides great user experience contributes building long term sustainable service
+i think design ideas relevant existing new social services i expect users increasingly want view photos/videos fullscreen need navigate necessarily turning phone landscape portrait position 
+i think viewing posts friend chronologically  snapchat stories does  magnifies enjoyment connects multiple points daily experience human mind fills details going point point b on
+do confuse snapchat framed place people share frivolous videos long term vision people feel comfortable sharing daily lived experience opportunity fundamental life desire person share story stories  shared snapchat stories long run  determined

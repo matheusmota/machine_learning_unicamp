@@ -1,14 +1,14 @@
-If you’re a regular person looking to shoot some video, it’s hard to complain about the many, many options available. Heck, the iPhone camera is good enough at this point that it’s been used to shoot a critically acclaimed feature film.
-But unless you’re a video professional, there’s still one big limitation — you’re probably recording with a single camera. Sure, that’s fine if you’re looking to capture something brief, but if you’re filming a longer event (say, a concert, or a baseball game), being locked into single viewpoint can get pretty dull, pretty quickly.
-That’s why Livestream is announcing a new product at this year’s Consumer Electronics Show, called the Movi. It creates the illusion that you’ve captured the event from multiple cameras, rather than a single, pocket-sized device.
-To use it, you put the camera in place, then use your iPhone (only iPhones will be supported initially) to edit on-the-fly. Movi will automatically detect faces and other points of interest, so you just tap to cut between the different musicians at a concert or the different speakers at a press conference. You can also manually create points of interest or zoom at-will.
-Conversely, if you want to be completely hands-off, you can have Movi do the editing automatically — it probably won’t have the smarts of a human editor, but it can detect when someone’s speaking or when there’s other activity of interest.
-“No one wants to go home and edit for hours in FinalCut Pro … and certainly no one can afford to show up at an event with three cameras and cameramen,” said Livestream founder Max Haot.
+if regular person looking shoot some video hard complain many options available heck iphone camera good point used shoot critically acclaimed feature film
+ unless video professional big limitation  probably recording single camera sure fine looking capture brief  filming longer event (say concert baseball game locked single viewpoint pretty dull pretty quickly
+that livestre announcing new product at year consumer electronics called movi creates illusion you’ve captured event multiple cameras single pocket sized device
+to use camera place use iphone (only iphones  supported initially edit fly movi automatically detect faces points just tap cut different musicians concert different speakers press conference manually create points zoom will
+conversely want  completely hands movi editing automatically  probably wo smarts human editor  detect speaking activity interest
+no wants home edit hours finalcut pro … certainly afford event cameras cameramen said livestre founder max haot
 
-He added that Livestream is launching Movi as a separate brand because you don’t actually need to share this footage live — Movi will integrate with the company’s existing livestreaming services, but you can also just record the video and share later.
-To be clear, you’re still shooting with one physical camera, so ultimately, you’re limited to the footage that a single camera can capture. However, when Haot demonstrated Movi for me (mostly using pre-shot footage, but also using a live camera to prove that it works), it really did offer a lot of the visual variety and energy that you get from a multi-camera setup.
-Haot also said Movi users might eventually be able to buy two or more physical cameras and cut between them. That won’t be available at release, however, partly to avoid confusion: “We obviously didn’t want people to buy five cameras or think they need five cameras.”
+he added livestre launching movi as separate brand actually need share footage live  movi integrate company existing livestreaming services  just record video share later
+to  clear shooting physical camera ultimately limited footage a single camera capture haot demonstrated movi (mostly using pre shot footage  using live camera prove works really did offer lot visual variety energy multi camera setup
+haot said movi users might eventually  able buy physical cameras cut wo  available release partly avoid confusion obviously did want people buy cameras think need cameras
 
-On its own, the Movi battery is only estimated to last for an hour. If you need to record for longer than that, you can plug it in, or you could buy the Movi Boost, an accessory that offers 10 hours of battery life and could also make it easier to mount or carry the camera.
-Livestream plans to ship the product in April with a $399 price tag. It’s currently available for a $199 pre-order.
+on movi battery estimated hour need record longer plug buy movi boost accessory offers  hours battery life make easier mount carry camera
+livestre plans ship product april  price tag it currently available  pre order
 

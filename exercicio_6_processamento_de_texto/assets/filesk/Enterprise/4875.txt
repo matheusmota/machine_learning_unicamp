@@ -1,13 +1,13 @@
-Apperian, a mobile applications management (MAM) firm from Boston, announced a $12 million round today led by Malaysia-based First Floor Capital.
-Bessemer Venture Partners, Kleiner Perkins Caufield & Byers, North Bridge Venture Partners, Intel Capital and CommonAngels Ventures also participated. Today’s investment brings the total raised to date to just over $39 million dollars.
-This is the first time Apperian has sought funding since a modest $4 million round back in January, 2013.
-Mobile Applications Management is a term for provisioning software developed in-house. You could call it a private app store.
-Apperian actually started out as an enterprise mobile applications developer back in 2009. To give you some context of the market back then, the first iPhone hit the market in June, 2007, while the first Android phone appeared in September, 2008. By 2009, there probably weren’t a ton of enterprise customers looking for custom mobile applications except for the most experimental of the bunch.
-Yet, Apperian endured and developed into an enterprise app store company when customers began asking for an alternative to launching their custom apps in public app stores from Apple and Google.
-While Apperian tends to compete with Mobile Device Management (MDM) vendors like AirWatch (which was sold to VMware) and Good Technology, which was sold to BlackBerry just last week, the company differentiates itself from these vendors by allowing customers to deploy outside of an MDM system, CEO Brian Day explained.
-The company believes this gives them a leg up with customers that want to deploy custom apps to partners, consultants and other non-employees who would likely be reluctant to let these companies have access to their phones.
-While leading with an Asian investment company might seem out of the ordinary, Day said his company went this route for a couple of reasons. First of all, it wanted favorable terms and valuation that wouldn’t require board-level involvement. While the company wouldn’t disclose its valuation, Day did indicate it was an up round from its previous investment announcements.
-Secondly, First Floor gives the Boston company an in-road into Asia where it has very little presence right now. While its development office is in Spain, and that has helped build a presence in the EU, so far Apperian has had only small deals in Asia. It’s hoping that by connecting with an Asian firm, this will help gain entrée into this market.
-Since the last funding round, the market seems to have caught up with Apperian. Today it’s seeing much larger deals, with the average deal size having doubled since the last round, some on the high end with as many as 100,000 users, Day said.
-Customers include Aetna, AT&T, Emory Healthcare, Reed Elsevier, Toyota and Walgreens
-The company has 67 employees and it expects to add another 12-14 by the end of the year using this funding.
+apperian mobile applications management (m firm boston announced  million round today led malaysia based floor capital
+bessemer venture partners kleiner perkins caufield & byers north bridge venture partners intel capital commonangels ventures participated today investment brings total raised date just  million dollars
+this time apperian sought funding modest  million round january 
+mobile applications management term provisioning software developed house private app store
+apperian actually started out as enterprise mobile applications developer  context market iphone hit market june  android phone appeared september   probably ton of enterprise customers looking custom mobile applications experimental bunch
+yet apperian endured developed enterprise app store company customers began asking alternative launching custom apps public app stores apple google
+while apperian tends compete mobile device management (mdm vendors like airwatch (which sold vmware good technology sold blackberry just week company differentiates vendors by allowing customers deploy outside mdm ceo brian day explained
+the company believes gives leg customers that want deploy custom apps partners consultants non employees who would likely  reluctant let companies access phones
+while leading asian investment company ordinary day said company went route couple reasons wanted favorable terms valuation require board level involvement company disclose valuation day did indicate round previous investment announcements
+secondly floor gives boston company road asia little presence right development office spain helped build a presence eu far apperian has had small deals asia hoping connecting asian firm help gain entrée market
+since funding round market caught apperian today seeing larger deals average deal size having doubled round high end  users day said
+customers include aetna at&t emory healthcare reed elsevier toyota walgreens
+the company  employees expects add   end year using funding

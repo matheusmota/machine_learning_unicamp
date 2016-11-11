@@ -1,7 +1,7 @@
-Key escrow — the process of keeping a set of keys for yourself “just in case” — has always been the U.S. government’s modus operandi when it comes to security. From the disastrous Clipper chip to today, the government has always wanted a back door into encryption and security. That plan backfired for the TSA.
-The TSA, as you’ll remember, offers a set of screener-friendly locks. These locks use one of seven master keys that only the TSA can use — until 2014. In an article in The Washington Post, a reporter included a shot of all seven keys on a desk. It wasn’t long before nearly all the keys were made available for 3D printing and, last week, security researchers released the final key.
-At last week’s HOPE Conference in New York, hackers calling themselves DarkSim905, Johnny Xmas, and Nite 0wl explained how — and why — they cracked the TSA keys.
-“This was done by legally procuring actual locks, comparing the inner workings, and finding the common denominator. It’s a great metaphor for how weak encryption mechanisms are broken — gather enough data, find the pattern, then just ‘math’ out a universal key (or set of keys),” said Johnny Xmas. “What we’re doing here is literally cracking physical encryption, and I fear that metaphor isn’t going to be properly delivered to the public.”
-The keys, should you be interested, are here and can be printed on a 3D printer.
-The TSA, for their part, doesn’t care, telling The Intercept that “The reported ability to create keys for TSA-approved suitcase locks from a digital image does not create a threat to aviation security. These consumer products are ‘peace of mind’ devices, not part of TSA’s aviation security regime.”
-In other words, you might as well not use locks at all.
+key escrow  process keeping set keys just case   government modus operandi comes security disastrous clipper chip today government  wanted door encryption security plan backfired tsa
+the tsa you’ll remember offers set screener friendly locks locks use seven master keys tsa use   article washington post reporter included shot seven keys desk long nearly keys available d printing week security researchers released final key
+at week hope conference new york hackers calling darksim johnny xmas nite wl explained   cracked tsa keys
+this legally procuring actual locks comparing inner workings finding common denominator great metaphor weak encryption mechanisms broken  gather data pattern just ‘math’ universal key (or set keys said johnny xmas doing literally cracking physical encryption i fear metaphor going  properly delivered public
+the keys  interested  printed d printer
+the tsa does care telling intercept reported ability create keys tsa approved suitcase locks digital image does create threat aviation security consumer products ‘peace mind’ devices tsa aviation security regime
+in words use locks all

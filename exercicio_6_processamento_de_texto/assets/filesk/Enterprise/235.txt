@@ -1,8 +1,8 @@
-Redbooth, makers of project management and collaboration software, announced a new Apple TV app today that brings their service directly to Apple TV.
-We mostly think of Apple TV as a consumer device, designed to give us access to entertainment and games or to project the contents of one of our Apple devices onto a bigger screen. That changed to some extent last year when Apple announced the Apple TV App Store, and opened the door to the possibility of enterprise apps for the device.
-While it was possible to use Redbooth (or any enterprise app) on Apple TV using the screen-sharing feature, this gives native access without any fussing.
-“As a collaboration app designed specifically for Apple TV, we’re delivering a groundbreaking, streamlined experience that allows you to skip the screen-sharing, ditch the dongles and start planning quickly and beautifully in the living room or the board room,” Redbooth CEO Dan Schoenbaum explained in a statement.
-The Redbooth Apple TV app has a few features designed to take advantage of being on the Apple device. First of all, it’s been optimized for a larger screen. Once you log in, you get access to all of your projects and tasks, just as you would on the desktop or mobile versions of the product. There’s also some additional content including training, best practices and productivity tips — all available from the app.
-The Redbooth for Apple TV app is available today in the Apple TV App Store.
-While the Redbooth product can be used for business for conducting online meetings and project planning, it can also be used for projects with a more consumer focus such as planning a wedding or a trip.
-The company was formed in 2008 and raised just under $20 million to date.
+redbooth makers project management and collaboration software announced new apple tv app today brings service directly apple tv
+we think apple tv consumer device designed access entertainment games project contents one of apple devices bigger screen changed extent last year apple announced apple tv app store and opened door possibility enterprise apps device
+while possible use redbooth (or enterprise app apple tv using screen sharing feature gives native access fussing
+as collaboration app designed specifically apple tv delivering groundbreaking streamlined experience allows skip screen sharing ditch dongles start planning quickly beautifully living room board room redbooth ceo dan schoenbaum explained statement
+the redbooth apple tv app features designed advantage apple device optimized larger screen log in access projects tasks just desktop mobile versions product additional content including training best practices productivity tips  available app
+the redbooth apple tv app available today apple tv app store
+while redbooth product  used business conducting online meetings project planning  used projects consumer focus planning wedding trip
+the company formed  raised just  million date

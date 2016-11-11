@@ -1,9 +1,9 @@
-Cloud-based collaboration tool Frame.io has raised $10M in Series A funding led by Accel, with participation from SignalFire, FirstMark Capital, and Shasta Ventures. Actor Jared Leto, who was a seed investor in the company, has also invested in the Series A as well as actor Kevin Spacey.
-Frame.io is a collaboration tool for video creators and compares themselves to a InVision or Github for video. The service lets video creators upload footage, organize them into storyboards to map out the editing process, and of course comment and share feedback with your whole team. Previously this workflow would have been heavily fragmented with most creators using a mix of apps like Dropbox, Vimeo and email to fill in the gaps.
-The service supports annotations, threaded comments on film, and time stamped comments. That combined with the fact it supports 150 different file formats means it can be basically used by any and all video teams.
-We covered the service early last year when it first launched, and after reaching 30k in MRR over the first 90 days the company went on to raise a $2.2M seed round from Accel and win an Apple Design Award for its iPhone app at the most recent WWDC.
+cloud based collaboration tool frameio raised m series funding led accel participation from signalfire firstmark capital shasta ventures actor jared leto seed investor company invested series actor kevin spacey
+frameio collaboration tool video creators compares to a invision github video service lets video creators upload footage organize storyboards map editing process course comment share feedback te previously workflow heavily fragmented creators using mix apps like dropbox vimeo email gaps
+the service supports annotations threaded comments film time stamped comments combined fact supports  different file formats means  basically used video teams
+we covered service early year launched reaching k mrr  days company went raise m seed round accel win apple design award for iphone app recent wwdc
 
-While Jared Leto and Kevin Spacey should be able to get Hollywood on board with Frame.io, the company has actually found its own way in the corporate world.
-Similarly to how InVision quickly took over the collaborative design space, Frame.io has already grabbed a ton of big name clients including Facebook, Snapchat, PayPal, and even our video team here at TechCrunch.
-The company attributes this fast customer adoption to the fact that more and more companies are creating video – they say that 40% of their customers weren’t creating video five years ago.
-But as everyone knows in the age of mobile videos have become the de-facto method for companies to convey information to customers, and Frame.io seemingly had the right product at the right time to solve a need for these companies.
+while jared leto kevin spacey  able hollywood board frameio company actually way corporate world
+similarly invision quickly took collaborative design space frameio grabbed ton big clients including facebook snapchat paypal video te techcrunch
+the company attributes fast customer adoption fact that more companies creating video  say  customers creating video years ago
+ knows age mobile videos  facto method companies convey information customers frameio seemingly right product right time solve need companies

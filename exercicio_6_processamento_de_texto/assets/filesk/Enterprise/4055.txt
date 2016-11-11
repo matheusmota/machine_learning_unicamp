@@ -1,13 +1,13 @@
-Windows Phone sales aren’t doing well. According to the latest IDC data, 7.4 million Windows Phone units shipped in the second quarter of 2014. That’s down from 8.2 million in the year-ago quarter.
-Microsoft’s smartphone platform saw its market share fall from 3.4 percent to 2.5 percent in the year period. In comparison, the lager smartphone market grew from 240.5 million units in the second quarter of 2013, to 301.3 million units in the second quarter of 2014.
-So, as the smartphone market grew, Windows Phone shrank.
-The 300 million smartphone number is interesting, as the 300 million unit mark is a notable measuring stick for something else: yearly PC shipments. As PC sales have declined, the market for the computing segment has reached something akin to stability at the 300 million per year rate. This means that smartphones are now about four times more popular than PCs, on a global basis, in terms of sales. Of course, you replace your smartphone more often than you do your laptop, but, the comparison is worth some meditation.
-All this mixes the following way: Microsoft’s market share in the PC game is massive. But for the larger Windows platform to grow, the only workable market is smartphones. And there it is going backwards, both in terms of units sold and market share.
-Ergo, Windows is shrinking.
-To his credit, Microsoft’s CEO Satya Nadella recently commented on this directly, saying that his company controls only 14% of the larger device market, despite its massive PC market share. So, the company’s leader groks the market dynamics. It’s the numbers that are tough.
-In broad terms, presuming 90 percent market share for Microsoft is PCs, about 67.5 million Windows PCs were sold in the most recent quarter. Using the 7.4 million Windows Phone figure, we can see that smartphone shipments for Microsoft were just under 10 percent of the combined Windows Phone and Windows device figures in the second quarter.
-It will be interesting to track that ratio, which is currently about 1:10.
-The faster Larger Windows grows, the greater that ratio will be — at 2:10, for example, Windows Phone — keeping PCs stable for this bit — would sell at around the 15 million unit rate per quarter, or about 5 million per month.
-The faster Windows Phone grows, the faster Windows grows. We should lay bets on what the ratio of Windows Phone:Windows PC sales will be in a few years. The irony is that if PCs decline further, it will bolster the Windows Phone side of the equation.
-As an aside: Based on some pretty simplistic math, I came to a slightly higher number for shipments in the second quarter. But whenever we are digging through growth figures, it doesn’t hurt to be conservative. 
-IMAGE BY FLICKR USER DELL INC. UNDER CC BY 2.0 LICENSE (IMAGE HAS BEEN CROPPED) 
+windows phone sales doing according latest idc data  million windows phone units shipped second quarter   million year ago quarter
+microsoft smartphone platform saw market share fall  percent  percent year period comparison the lager smartphone market grew  million units second quarter   million units second quarter 
+so smartphone market grew windows phone shrank
+the  million smartphone number interesting  million unit mark notable measuring stick  yearly pc shipments pc sales declined market computing segment reached akin stability  million year rate this means smartphones times popular pcs global basis terms sales course replace smartphone laptop  comparison worth meditation
+all mixes following way microsoft market share pc game massive  larger windows platform grow the only workable market smartphones going backwards terms units sold market share
+ergo windows shrinking
+to credit microsoft ceo satya nadella recently commented directly saying company controls only  larger device market despite massive pc market share company leader groks market dynamics numbers tough
+in broad terms presuming  percent market share microsoft pcs  million windows pcs sold recent quarter using  million windows phone figure smartphone shipments microsoft just  percent combined windows phone windows device figures second quarter
+it  interesting track ratio currently 
+the faster larger windows grows greater ratio    example windows phone  keeping pcs stable bit  sell at  million unit rate per quarter  million month
+the faster windows phone grows faster windows grows lay bets ratio windows phonewindows pc sales  years irony pcs decline bolster windows phone equation
+as aside based pretty simplistic math i came slightly higher number shipments second quarter  digging growth figures does hurt  conservative 
+image flickr user dell inc under cc  license (image cropped 

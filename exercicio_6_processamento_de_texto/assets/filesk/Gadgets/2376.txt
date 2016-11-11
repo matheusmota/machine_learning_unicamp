@@ -1,12 +1,12 @@
-Seven rounds of betas weren’t enough — many iOS users are reporting on Apple’s support forums that a bug is affecting their devices. When they click on links in Safari, Chrome, Mail, Messages, Notes and others, the app freezes and crashes. If you’re one of them, here’s a fix that might solve your issues.
-Update: Apple says it’s working on a software fix for the issue:
-It looks like this issue is related to Universal Links. With iOS 9, Apple introduced Universal Links, a brand new way to handle links with native apps. App developers, such as YouTube, can register domain names to open web links directly into an app, bypassing Safari.
-That’s why when you click on a youtube.com/somethingsomething link, iOS opens the YouTube app instead of loading a web page in Safari. This is a nifty feature, except when app developers abuse it.
-Sergey Roshchin published a video demonstrating today’s bug. His iPad is working fine. But then, he installs the Booking.com app, and Safari becomes unusable. When he clicks on a link, it hangs, and then crashes.
-Booking.com associates its app with all sorts of domains — too many domains to be precise. With 2.4MB worth of domain-name-to-deep-link entries, Safari and other apps crash when iOS checks links against its Universal Link database because this database is too big. A tipster also told me that the Voyages-SNCF app also generates crashes on iOS 9.3. Update: Voyages-SNCF doesn’t have universal links, so the app shouldn’t cause any issue.
-And yet, the Booking.com app was updated on March 17, before the release of iOS 9.3. It’s safe to assume that something has changed with iOS 9.3 causing app crashes when handling these links.
-The WebKit team released a huge update with iOS 9.3 and OS X 10.11.4. Safari 9.1 contains many changes under the hood. Maybe the Universal Link bug is related to this WebKit update — maybe not.
-Either way, if you’re encountering this bug, Apple will probably fix it in its next bug fix update. In the meantime, you should delete the Booking.com app and… wait. It won’t fix your problems instantly as iOS checks Universal Links every now and then. But at least, your iPhone will work again tomorrow.
-Update: Deleting Booking’s app might not even be enough.
+seven rounds betas  ios users reporting apple support forums bug affecting devices click links safari chrome mail messages notes app freezes crashes fix solve issues
+update apple says working software fix issue
+it looks like issue related universal links ios  apple introduced universal links brand new way handle links native apps app developers youtu register domain names open web links directly app bypassing safari
+that click youtubecom/somethingsomething link ios opens youtu app instead loading web page safari nifty feature app developers abuse it
+sergey roshchin published video demonstrating today bug ipad working fine  installs bookingcom app safari  unusable clicks link hangs crashes
+bookingcom associates app sorts domains  domains  precise mb worth domain deep link entries safari apps crash ios checks links universal link database database big tipster told voyages sncf app generates crashes ios  update voyages sncf does universal links app cause issue
+and bookingcom app updated march  release ios  safe assume changed ios  causing app crashes handling links
+the webkit te released huge update ios  os x  safari  contains changes hood universal link bug related webkit update  not
+either way encountering bug apple probably fix bug fix update meantime delete bookingcom app and… wait wo fix problems instantly ios checks universal links  iphone work tomorrow
+update deleting booking app  enough
 
-Update: Booking.com has sent me the following statement:
+update bookingcom sent following statement

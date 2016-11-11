@@ -1,9 +1,9 @@
-With the sale of marijuana either for recreational or medicinal purposes becoming legal in more and more states, new and existing retailers are struggling to find ways to keep track of inventory while remaining compliant with various state and federal laws.
-Former Outright co-founders, a cloud-based financial management application, are tackling this problem with their next venture, Green Bits. Green Bits launched in the Startup Battlefield at Disrupt 2015 and is an iPad-based pot-focused point of sale (POS) solution.
-Green Bits is designed to integrate seamlessly into a store’s workflow to help them meet customer demands with speed, accuracy and, perhaps most importantly, automated compliance, by integrating with the Alaska MCB, Colorado MED, OLCC, and WSLCB Traceability APIs.
-Green Bits has achieved a 376 percent growth rate in the past year, and now serves 60 percent of all pot shops in Washington state, including all 10 of the top-revenue-generating stores in the state, and 22 of the top 25.
-Perhaps even more impressively, the company boasts a 0 percent churn rate… well, mostly.
-The team tells TechCrunch that Green Bits did temporarily lose one customer to a competitor. However, within months of switching POS providers, the customer came back after they realized just how much better the Green Bits system was for their needs.
-The company was cash flow positive in Q1 2016, and is processing approximately $700 million in sales this past year. Green Bits has grown from 4  to 12 employees and expects that number to be closer to 25 by the year’s end.
-Several states have marijuana-related questions on the ballot in 2016, and with support for marijuana reaching more than 60 percent in recent polls, the budding marijuana industry is only going to soar… well, higher.
-We can’t wait to see the next success stories at the Startup Battlefield at Disrupt SF 2016, which takes place September 12-14 at San Francisco’s Pier 48. Tickets to Disrupt SF are still available to purchase, and you can get your hands on tickets to the show here.
+with sale marijuana recreational medicinal purposes legal more states new existing retailers struggling ways track inventory remaining compliant various state federal laws
+former outright founders cloud based financial management application tackling problem venture green bits green bits launched startup battlefield disrupt  ipad based pot focused point sale (pos solution
+green bits designed integrate seamlessly store workflow help meet customer demands speed accuracy importantly automated compliance by integrating the alaska mcb colorado med olcc wslcb traceability apis
+green bits achieved  percent growth rate past year serves  percent pot shops washington state including  revenue generating stores state  
+perhaps impressively company boasts  percent churn rate… mostly
+the te tells techcrunch green bits did temporarily lose customer competitor however months switching pos providers customer came after they realized just better green bits needs
+the company was cash flow positive q  processing approximately  million sales past year green bits grown   to  employees expects number  closer  year end
+several states marijuana related questions ballot  support marijuana reaching  percent recent polls budding marijuana industry going soar… higher
+we ca wait success stories startup battlefield disrupt sf  takes place september   san francisco pier  tickets disrupt sf available purchase hands tickets here

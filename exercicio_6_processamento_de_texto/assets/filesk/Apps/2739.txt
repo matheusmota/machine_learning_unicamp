@@ -1,12 +1,12 @@
-A growing number of e-commerce businesses today are assisting their customers over SMS and mobile messaging. There are even SMS-based services, like Magic, Operator, GoButler, and others targeting the emerging “conversational shopping” market. Now, e-commerce platform Shopify is aiming to help its merchants better serve their customers via mobile messaging with the launch of a dedicated iOS keyboard app called Shopkey that offers instant access to their product catalog.
-The company is currently dubbing Shopkey an “experiment,” and rightly so – this more casual sort of interaction between shopper and merchant is new to both parties. Many online shoppers still think the only way to reach a merchant is via phone or email, if not in person.
-The Shopkey app is carving out an interesting niche in the App Store. While we’ve seen a number of iOS keyboard apps for consumers who want an easier way to send GIFs or want to theme their keyboard using crazy colors, those apps focused on a niche business crowd are still few and far between.
-That being said, Shopify today has a sizable user base to pitch its keyboard app to – the company has over 200,000 merchants, and the company tells TechCrunch these tend to be primarily iOS users. That’s why it launched Shopkey on iOS first, as it often does with other mobile app releases.
-After installation, Shopkey will allow merchants to search across their entire product catalog right from their smartphone’s keyboard, then send links to products along with product photos to customers via any messaging app they’re using.
-That means merchants can communicate with and sell to their customers on any platform that makes sense for their business – SMS/iMessage, or native messaging apps like Whatsapp, Messenger, Hangouts, or WeChat, for example.
-Of course, merchants could also use the app to more easily post links and photos to social media sites as well, like Facebook, Instagram, Twitter, and Pinterest.
-The links lead to the merchant’s online store, powered by Shopify, which is mobile-optimized for easy checkout on smartphones.
-Being able to serve a mobile audience is more important than ever for online merchants, as the channel continues to see rapid growth. Case in point: mobile shopping grew by 47 percent this past holiday season, whereas the year prior, it was up only 25 percent.
-This growth is a combination of factors – consumers are more comfortable shopping on their phones, and retailers have adapted to consumers’ need with mobile-friendly websites and apps along with streamlined checkout flows.
-Shopkey isn’t Shopify’s only recent effort in the m-commerce space, however. The company also recently launched an app called Sello that lets anyone create an online store from their phone.
-Shopkey is live now on iTunes as a free download. 
+a growing number e commerce businesses today are assisting customers sms mobile messaging sms based services like magic operator gobutler targeting emerging conversational shopping market e commerce platform shopify aiming help merchants better serve customers mobile messaging launch dedicated ios keyboard app called shopkey offers instant access product catalog
+the company currently dubbing shopkey experiment rightly  casual sort interaction shopper merchant new parties online shoppers think way reach merchant phone email person
+the shopkey app carving interesting niche app store we’ve seen number ios keyboard apps consumers want easier way send gifs want theme keyboard using crazy colors apps focused niche business crowd far between
+that said shopify today sizable user base pitch keyboard app  company  merchants company tells techcrunch tend  primarily ios users launched shopkey ios does mobile app releases
+after installation shopkey allow merchants search entire product catalog right smartphone keyboard send links products product photos customers messaging app using
+that means merchants can communicate sell customers platform makes sense business  sms/imessage native messaging apps like whatsapp messenger hangouts wechat example
+of course merchants could use app easily post links photos social media sites like facebook instagr twitter pinterest
+the links lead merchant online store powered shopify mobile optimized easy checkout smartphones
+being able serve mobile audience important online merchants channel continues rapid growth case point mobile shopping grew  percent past holiday season year prior  percent
+this growth combination factors  consumers comfortable shopping phones retailers adapted consumers need mobile friendly websites apps streamlined checkout flows
+shopkey shopify recent effort m commerce space company recently launched app called sello lets  create online store phone
+shopkey live itunes free download 

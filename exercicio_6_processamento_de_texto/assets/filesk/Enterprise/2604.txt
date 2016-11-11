@@ -1,7 +1,7 @@
-Today at Disrupt NY, ContainerShip took the stage to show off its technology built to help companies better deploy containerized applications to different hosting services. ContainerShip is part of a larger wave of containerization companies that want to make it simpler to place apps onto, for example, various cloud providers.
-In a phone call, the ContainerShip team stated that its goal as a company was to help others “make [their] infrastructure portable.”
-ContainerShip has an open-source focus, but with a commercial bent. Although the company’s core technology is open source, the startup will offer a paid product called ContainerShip Cloud, which will charge on a per-seat basis.
-Key to the ContainerShip pitch is portability. The company bets that developers wish that switching hosting providers were easier. However, the technical complexity of such a move can be difficult. To remedy that, ContainerShip takes all the work onto its own shoulders, so that developers can deploy their applications onto new cloud providers, or even onto new regions of their current provider.
-The company expects that its first customers will be small to medium-sized startups, but did note to TechCrunch that what it has built is also useful to larger, enterprise-scale companies.
-For now, its tech is free, with the company’s founders indicating that, while they intend to “charge eventually,” immediate commercialization isn’t a goal.
-If your eyes glaze over when Docker is brought up, I understand. But as worlds of larger companies start to move off of legacy, on-premises tech, there is a large greenfield opportunity in the market. And, as Docker is hardly losing steam, ContainerShip might be in a good spot to sell some pickaxes.
+today disrupt ny containership took stage show off technology built help companies better deploy containerized applications different hosting services containership larger wave containerization companies want make simpler place apps example various cloud providers
+in phone containership te stated its goal company help make infrastructure portable
+containership open source focus  commercial bent although the company core technology open source startup offer paid product called containership cloud charge seat basis
+key containership pitch portability company bets developers wish switching hosting providers were easier technical complexity  difficult remedy containership takes work shoulders developers deploy applications new cloud providers new regions current provider
+the company expects customers  small medium sized startups  did note techcrunch built useful larger enterprise scale companies
+for its tech free company founders indicating that intend charge eventually immediate commercialization a goal
+if eyes glaze docker brought i understand  worlds of larger companies start legacy premises tech large greenfield opportunity market docker hardly losing ste containership  good spot sell pickaxes

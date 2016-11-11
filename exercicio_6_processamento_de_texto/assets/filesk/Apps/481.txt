@@ -1,24 +1,24 @@
 
 
-Finland-based mobile payment app Tapp Commerce has raised $9 million to expand its operations in Southeast Asia for users without a bank account or credit card.
-Mobile phones have emerged as the dominant alternative payment method to cash for buying and selling goods and services in emerging markets. And with a service akin to alternative payment providers like M-Pesa and Pagatech in Africa and a slew of alternative payment platforms in Southeast Asia, it’s a technology that the region understands well.
-Headquartered in the Finnish city of Turku, with product development in Helsinki and offices around Asia, Tapp’s Series A round was raised from Australia-based Amma Private Equity — an early-stage investment network — and brings the total amount invested in the company to $12.9 million.
-With the new funds, Tapp will strengthen operations in Indonesia and expand to new markets. The company currently employs a staff of 77.
-“Tapp will use the funding to expand faster into Philippines, Thailand and Vietnam, with an eye to also open up Myanmar by the end of 2016. Funds will also be used in consumer acquisition efforts and continuing to build platform services which continue to reward for participation and create stickiness in our end user value chain,” said Warren Sample, the CEO of Tapp.
-Tapp Commerce’s consumer app, Tapp Market, allows people without bank accounts or credit cards to upload cash on the app to buy goods and services online via a network of sellers in emerging markets.
-With Tapp, users can prepay for electricity, tuition fees, microinsurance, airtime and music. Anyone can become an agent — someone who can accept cash in exchange for digital currency —  with data and some cash.
-Again, this is a market that’s already fairly crowded. Ayannah, backed by Golden Gate Ventures and other local venture capitalists; 1Pay in Vietnam; and 2C2P all aim to provide payment services for the underbanked.
+finland based mobile payment app tapp commerce has raised  million expand operations southeast asia users bank account credit card
+mobile phones emerged dominant alternative payment method cash buying selling goods services emerging markets service akin to alternative payment providers like m pesa pagatech africa slew alternative payment platforms in southeast asia technology region understands well
+headquartered finnish city turku product development helsinki offices asia tapp series round raised australia based amma private equity  early stage investment network  brings total invested company  million
+with new funds tapp strengthen operations indonesia expand new markets company currently employs staff 
+tapp use funding expand faster philippines thailand vietn eye open myanmar end  funds  used consumer acquisition efforts continuing build platform services continue reward participation create stickiness end user value chain said warren sample ceo tapp
+tapp commerce consumer app tapp market allows people bank accounts credit cards upload cash on app buy goods services online network sellers emerging markets
+with tapp users prepay electricity tuition fees microinsurance airtime music   agent  accept cash exchange digital currency   with data cash
+again market fairly crowded ayannah backed golden gate ventures and local venture capitalists pay in vietnam and cp aim provide payment services underbanked
 
-On the street level, Tapp wants to emulate existing — cash-based — consumer behavior in local markets. The company’s sales strategy is to onboard trusted local shop owners to give shoppers an option to convert their coins and bills — through the app — into digital currency in order to expand their buying options.
-For businesses, Tapp’s main partners are merchants, such as insurance and electricity companies. Tapp has 134 merchant partners in Indonesia and the Philippines. In April, the company partnered with Indonesia-based insurance company Jaya Proteksi, a member of ACE Group, to provide microinsurance customers in Indonesia.
-The app currently works only on Android and is used by more than 30,000 vendors with 3 million buyers in Southeast Asia, according to a press release.
-The worldwide mobile payment volume in 2015 was $450 billion, and is expected to surpass $1 trillion in 2019. According to McKinsey, 2.5 billion adults worldwide — of which 2.2 billion live in the developing world — do not have a bank account. Couple this with the fact that smartphone adoption is increasing at a rapid rate in the emerging markets.
-With the mobile phone becoming a popular payment vehicle across the globe, countries like Indonesia and the Philippines are in dire need of independent payment solutions that do not require credit cards or bank accounts.
-“P2P mobile payments and mobile wallets are a great way to enable digital financial inclusion in these developing countries,” said Smrithi Konanur, a Global Product Manager for Payments, Web and Mobile at HPE Data Security.
-Most mobile payment alternatives to bank accounts and credit cards are SMS-based. Tapp is competing for the market share against local players such as Kudo and Cyrusku in Indonesia and LoadCentral in the Philippines.
-Tapp’s most formidable competitor is Vietnam-based MoMo, which recently landed a $28 million investment from Standard Chartered (SCB) and Goldman Sachs.
+on street level tapp wants emulate existing  cash based  consumer behavior local markets company sales strategy onboard trusted local shop owners shoppers option convert coins bills  app  digital currency order expand buying options
+for businesses tapp main partners merchants insurance electricity companies tapp  merchant partners indonesia philippines april company partnered indonesia based insurance company jaya proteksi member ace group provide microinsurance customers indonesia
+the app currently works android used  vendors  million buyers southeast asia according press release
+the worldwide mobile payment volume   billion expected surpass  trillion  according mckinsey  billion adults worldwide   billion live developing world  bank account couple fact smartphone adoption increasing rapid rate emerging markets
+with mobile phone popular payment vehicle glo countries like indonesia philippines dire need independent payment solutions require credit cards bank accounts
+pp mobile payments mobile wallets great way enable digital financial inclusion developing countries said smrithi konanur global product manager payments web mobile hpe data security
+most mobile payment alternatives bank accounts credit cards sms based tapp competing market share local players kudo cyrusku indonesia loadcentral philippines
+tapp formidable competitor vietn based momo which recently landed  million investment standard chartered (scb goldman sachs
 
-One of the reasons why Google, Apple and Samsung — popular in the West — will remain less attractive to users in parts of Asia or Africa is their need for a credit card and reliance on existing banking infrastructures. That’s why companies you’ve never heard of, except for Alipay in China and M-Pesa in Africa, have a fighting chance.
-Platforms and apps that tap into the existing cash economy without involving banks or credit card companies can be expected to thrive.
-“The basic issue in the developing world is that more people have a Facebook account than a bank account. Credit cards are actually irrelevant as only basic banking services are required. We learned that only 23 percent of people in the Philippines have a bank account. Most transactions today are carried out in cash,” said Ron Hose, the CEO of Coins.ph, a mobile wallet in the Philippines.
-Although there’s plenty of hype around a cashless future, with Sweden taking the lead, some countries are bucking the trend. In Indonesia alone there are 250 million people, but only 7-8 percent have a credit card and the amount of credit cards will likely reduce because of the country’s recent decree requiring credit card providers to submit transaction details.
+one reasons google apple samsung  popular west  remain attractive users parts asia africa need credit card reliance existing banking infrastructures companies you’ve heard alipay china m pesa africa fighting chance
+platforms apps tap existing cash economy involving banks credit card companies  expected thrive
+the basic issue developing world people facebook account bank account credit cards actually irrelevant basic banking services required learned  percent people philippines bank account transactions today carried cash said ron hose ceo coinsph mobile wallet philippines
+ plenty hype cashless future sweden taking lead countries bucking trend indonesia  million people    percent credit card credit cards likely reduce country recent decree requiring credit card providers submit transaction details

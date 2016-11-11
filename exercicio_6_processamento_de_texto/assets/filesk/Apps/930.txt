@@ -1,18 +1,18 @@
-If you’re looking for a new way to discover great indie music without having to spend hours digging through SoundCloud or Spotify playlists, a new app called Wonder can help. The app is the mobile extension of Wonder.fm, a music site created by We Are Hunted’s co-founder Stephen Phillips, who sold his earlier startup to Twitter where it later – and briefly – served as the basis of Twitter Music.
-Phillips has since stepped back from Wonder.fm, which launched back in 2014, and now serves as an advisor. Today, Wonder is managed by David Lowry, a co-founder at Hydric Media, which is where the mobile app got its start.
-Lowry previously worked at We Are Hunted, as did his business partner at Hydric Media, Eoin McCarthy.
-Hydric Media may not be a household name known to consumers, but this technology studio has worked with some of the world’s biggest brands in the music business, including Spotify, eMusic, Sony, Bose, Viacom’s MTV, Gracenote, Echo Nest, and others. The company focuses on client work – building apps and other branded experiences, as well as offering consultation on app development projects.
-For example, Hydric Media worked with Spotify on its efforts to collaborate with other brands. It did product development work for Echo Nest prior to its Spotify acquisition. It built the MTV Artists app for Viacom, the eMusic Android app, and more.
+if looking new way discover great indie music having spend hours digging soundcloud spotify playlists new app called wonder help app mobile extension wonderfm a music site created by are hunted founder stephen phillips sold earlier startup twitter later  briefly  served basis twitter music
+phillips stepped wonderfm launched  serves advisor today wonder managed david lowry founder hydric media mobile app got start
+lowry previously worked hunted did business partner hydric media eoin mccarthy
+hydric media  household known consumers  technology studio worked world biggest brands music business including spotify emusic sony bose viacom mtv gracenote echo nest company focuses client work  building apps branded experiences offering consultation app development projects
+for example hydric media worked with spotify efforts collaborate brands did product development work echo nest prior spotify acquisition built mtv artists app viacom emusic android app more
 
-Client work continues to be the focus of Hydric Media, despite the launch of Wonder.
-As Lowry explains to TechCrunch, Wonder was meant to showcase what the company is capable of producing on mobile – they didn’t intend for it to really take off as a hot, new consumer app of its own.
-“Wonder is like our calling card – it shows what we can do, not only on the tech side in terms of discovery, recommendation and the backend, but also the front end,” he says.
-Apple, however, began featuring Wonder on the App Store’s homepage shortly after its launch this month, which has sent the startup thousands of downloads. (It’s in the “teens” of thousands, notes Lowry). The app is also available on Android, but not as popular.
-The way Wonder works to surface the best new indie tunes comes from being built on top of SoundCloud’s platform. The app uses a combination of tech and human curation to determine which tracks should be featured.
-On the tech side, Wonder goes deeper than looking at metrics such as SoundCloud “likes” or plays. It also looks at other data, including likes per play, likes per hour, and more. In addition, if a track from an artist that’s previously been in the top five appears, that would be noted, too.
-Wonder’s human curators – in-house employees who also work on other Hydric Media projects – vet the tracks Wonder’s algorithm suggests twice per day, acting as gatekeepers of a sort.
-“Our tech highlights to our curators what tracks we deem interesting,” Lowry explains. “We tried doing it tech only, but we weren’t getting the quality we wanted.”
-The curators don’t create the charts, however – they don’t have the power of editors. “The data takes over and actually determines the charts,” Lowry notes.
-Because the app is meant as more of a demonstration of Hydric Media’s talent, and because it’s built on top of SoundCloud, the company has no immediate plans to try to have the app make money. The firm will continue to focus on its various client projects, which allow it to fund Wonder’s current development. The company has not taken in outside funding.
-That said, Hydric Media does have plans to expand Wonder’s brand in the future. Its chart data is now being used to program a playlist of indie music on Spotify under the Wonder.fm brand, which will be refreshed weekly. There are only a few dozen people following this playlist today, and the algorithm behind it is still being refined, Lowry notes. That’s why the company hasn’t made a big announcement about it at this time.
-Wonder is a free app for both iOS and Android.
+client work continues  focus hydric media despite launch wonder
+as lowry explains techcrunch wonder meant showcase company capable producing mobile  did intend really hot new consumer app own
+wonder like calling card  shows tech terms discovery recommendation backend  end says
+apple began featuring wonder app store homepage shortly launch month sent startup thousands downloads (it teens thousands notes lowry app available android  popular
+the way wonder works surface best new indie tunes comes built soundcloud platform app uses combination tech human curation determine tracks  featured
+on tech wonder goes deeper looking metrics soundcloud likes plays looks data including likes play likes hour more in addition track artist previously appears  noted too
+wonder human curators  house employees work hydric media projects  vet tracks wonder algorithm suggests twice day acting gatekeepers sort
+our tech highlights curators tracks deem interesting lowry explains tried doing it tech but we getting quality wanted
+the curators create charts  power editors data takes actually determines charts lowry notes
+because app meant demonstration hydric media talent built soundcloud company immediate plans try app make money firm continue focus various client projects allow fund wonder current development company taken outside funding
+that said hydric media does plans expand wonder brand future chart data used progr playlist indie music spotify wonderfm brand  refreshed weekly dozen people following playlist today algorithm refined lowry notes company big announcement time
+wonder free app ios android

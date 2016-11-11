@@ -1,23 +1,23 @@
-Typing on small screens can still be challenging, but today’s keyboard apps still focus on text entry over speech, despite the advances in voice-based computing and the increasing accuracy of speech recognition technology. Baidu wants to change that, with a new keyboard app called TalkType that prioritizes voice input over typing. The app was developed by Baidu Research, the Silicon Valley and Beijing-based division of Chinese search company Baidu, and the app will compete with similar third-party keyboards from both Google and Microsoft.
-While search apps like Google’s have placed the microphone more prominently in an effort to increase people’s usage of voice input, keyboard apps still generally default to a traditional alphanumeric text input interface.
-TalkType is different because it places a large microphone front-and-center in the application. That’s not to say it gives up the keyboard, by any means – naturally, there are still times when it makes more sense to type than talk, but the app’s user interface makes voice the starting point and first option.
-“TalkType is the first full-function smartphone keyboard that is ‘voice first,’ not ‘voice also,'” explains Bijit Halder, project leader in Baidu Research’s Silicon Valley AI Lab, in an announcement about the launch. “Unlike conventional smartphone keyboard designs, where voice is targeted for occasional use and delegated to a small mic icon, TalkType is designed to make voice the primary mode,” he says.
-Using voice input, you can not only turn your speech into text, you can also use voice commands to add punctuation to your sentences, like “comma,” “period,” “question mark,” and “exclamation point.”
-The app also offers word suggestions as you speak. You can select single words or multiple words or sentences, moving either one or two fingers across the app’s trackpad.
+typing small screens  challenging  today keyboard apps focus text entry speech despite advances voice based computing increasing accuracy speech recognition technology baidu wants change new keyboard app called talktype that prioritizes voice input typing app developed baidu research silicon valley beijing based division chinese search company baidu app will compete similar party keyboards google microsoft
+while search apps like google placed microphone prominently effort increase people usage voice input keyboard apps generally default traditional alphanumeric text input interface
+talktype different places large microphone center in the application say gives keyboard means  naturally times makes sense type talk  app user interface makes voice starting point option
+talktype function smartphone keyboard ‘voice first’ ‘voice also' explains bijit halder project leader baidu research silicon valley ai lab announcement launch unlike conventional smartphone keyboard designs voice targeted occasional use delegated small mic icon talktype designed make voice primary mode says
+using voice input turn speech text use voice commands add punctuation sentences like comma period question mark exclamation point
+the app offers word suggestions speak can select single words multiple words sentences moving fingers app trackpad
 
  
-While the traditional keyboard may be de-emphasized in the new app, it’s not diminished. It supports multiple text entry methods, including swipe.
-It also includes emojis and a “QuickShare” feature that lets you more easily send rich media through the app, like GIFs (powered by Giphy) or location information, like restaurants or shops from Yelp, among other things.
-You can also share your current location with a friend via the app, and the company says the feature will be expanded with more functionality over time.
+while traditional keyboard  emphasized new app diminished supports multiple text entry methods including swipe
+it includes emojis quickshare feature lets easily send rich media app like gifs (powered giphy location information like restaurants shops from yelp  things
+you share current location friend app company says the feature  expanded functionality over time
 
-QuickShare brings to mind the integrated search and sharing capabilities found in Gboard, Google’s first mobile keyboard application. Similar to TalkType, Gboard lets you pull up restaurants, and other business info, then text it to friends. Integrated GIF sharing is included as well, as is a Google search engine for sharing other news, flight info, weather, and more.
-Microsoft also recently rolled out the same feature set to its keyboard, Word Flow.
-But both Microsoft and Google’s apps focus on touch-based input – Microsoft with an innovative “wheel” interface for one-handed typing, for example.
-Baidu’s TalkType instead starts you with voice, then allows you to navigate between different input methods – like speech, alphabet, symbols, and emoji – via its Quick Action bar. Here, you’ll also find other important buttons, like the return and delete keys.
-You can also customize the app using built-in themes.
+quickshare brings mind integrated search sharing capabilities gboard google mobile keyboard application similar talktype gboard lets pull restaurants business info text friends integrated gif sharing included google search engine sharing news flight info weather more
+microsoft also recently rolled feature set keyboard word flow
+ microsoft google apps focus touch based input  microsoft innovative wheel interface handed typing example
+baidu talktype instead starts voice allows navigate between different input methods  like speech alphabet symbols emoji  its quick action bar you’ll important buttons like return delete keys
+you customize app using built themes
 
-TalkType was developed by Baidu Research, which is led by Chief Scientist Dr. Andrew Ng. Dr. Ng, a leading machine learning and deep learning expert. Dr. Ng previously co-developed Google Brain, a large-scale deep learning system built on top of Google’s cloud computing infrastructure.
-At Baidu since 2014, Dr. Ng has been working on Deep Speech, a deep learning-based speech recognition system. The company says that Deep Speech can be nearly three times faster and even more accurate than typing, citing a recent study from Stanford, University of Washington and Baidu Research. The study pitted Deep Speech’s results against a group of texters ages 19 to 32, who were entering text on their iPhones by hand.
-Baidu Research has released other projects, like an AR platform DuSee and AI assistant Duer, but never a keyboard.
-With the keyboard, Baidu claims sensitive information like emails and passwords entered via typing never leave the device, but the voice data is sent over a secure connection for transcription, as is a standard practice. This data is never shared, the company says.
-TalkType, which was previously available to preview in its unfinished state, is a free download on Google Play.
+talktype developed baidu research led chief scientist dr andrew ng dr ng leading machine learning deep learning expert dr ng previously developed google brain large scale deep learning built google cloud computing infrastructure
+at baidu  dr ng working deep speech deep learning based speech recognition company says deep speech  nearly times faster accurate typing citing recent study stanford university washington baidu research study pitted deep speech results group texters ages   entering text iphones hand
+baidu research released projects like ar platform dusee and ai assistant duer  keyboard
+with keyboard baidu claims sensitive information like emails passwords entered typing leave device  voice data sent secure connection transcription standard practice data shared company says
+talktype previously available preview in its unfinished state free download on google play

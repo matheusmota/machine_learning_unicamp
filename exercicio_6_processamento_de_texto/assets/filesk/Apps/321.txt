@@ -1,9 +1,9 @@
-Today has been a massive Apple update day. The company released iOS 10, tvOS 10 and also watchOS 3. After announcing it at WWDC, it’s finally here — and it’s a huge update.
-I won’t mention all the changes with watchOS 3. Instead, I’ll focus on three topics — speed, app switching and watch face switching.
-With watchOS 3, your favorite apps stay in memory so it feels much faster when you launch it. How fast you might ask? Nearly instantaneous, even on the original Apple Watch. And I can confirm that you’ll definitely feel the difference in action.
-In addition to this much-needed improvement, Apple has changed the behavior of the side button. Instead of opening up the Friends screen, the side button now lets you switch between your favorite apps in a Dock view. It feels like using the app switcher on iOS, but much faster.
-These two modifications have turned me into an Apple Watch app user again. I’ve never stopped wearing my Apple Watch, but the key features have always been reading the time and getting notifications on my wrist.
-I found glances not really helpful and the home screen too hard to use — you don’t want to spend 30 seconds digging for an app and launching it. But with the Dock, I’ve set up my favorite apps and I use them quite a lot. It’s easy to open them, they load quickly and they work well for quick interactions.
-Finally, changing your watch face was a bit cumbersome with watchOS 2. You had to deep press on your watch, then scroll, then select. Now, you can swipe left and right to switch from one watch face from another.
-Instead of using the same watch face every day, I find myself changing it up depending on what I’m wearing, turning the Apple Watch into a versatile fashion accessory. People who like switching bands will like this feature as well.
-If you want to download watchOS 3, plug in your Apple Watch, go to the Apple Watch app on your iPhone and install the update. It’s going to take a while, so I recommend doing it at home where you can leave your watch on the charging cable.
+today massive apple update day company released ios  tvos  watchos  announcing wwdc finally  huge update
+i wo mention changes watchos  instead i’ll focus topics  speed app switching watch face switching
+with watchos  favorite apps stay memory feels faster launch fast ask nearly instantaneous original apple watch i confirm you’ll definitely feel difference action
+in addition needed improvement apple changed behavior button instead opening friends screen button lets switch favorite apps dock view feels like using app switcher ios  faster
+these modifications turned apple watch app user i’ve stopped wearing apple watch  key features  reading time getting notifications wrist
+i glances really helpful home screen hard use  want spend  seconds digging app launching  dock i’ve set favorite apps i use quite lot easy open load quickly work quick interactions
+finally changing watch face bit cumbersome watchos  deep press watch scroll select swipe left right switch watch face another
+instead using watch face day i changing depending i’m wearing turning apple watch versatile fashion accessory people like switching bands like feature well
+if want download watchos  plug apple watch apple watch app iphone install update going i recommend doing home leave watch charging cable

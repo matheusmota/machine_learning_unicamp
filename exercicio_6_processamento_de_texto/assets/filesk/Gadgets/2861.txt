@@ -1,8 +1,8 @@
-3D Touch was just a first step. AppleInsider has spotted a new patent that would add a proximity sensor layer into your iPhone display. It would open up a brand new field of interactions for your phone with new hovering gestures.
-Behind the scenes, Apple is thinking about integrating tiny infrared sensors inside a multi-touch display. Pixels would emit infrared light and monitor reflected signals. If the infrared light bounces back, it means that there is a finger above this area of the display.
-As always with Apple patents, the company doesn’t exclude using this technology with trackpads and keyboards. It would be a good way to disable a trackpad if a large portion of the trackpad is covered with your wrist. But this technology makes more sense with iPhone displays.
-Apple has already added another layer of interactions with 3D touch. Before 3D Touch, you could only tap, swipe and pinch on your display. Now there are two levels of pressure-sensitive gestures as well. And hovering gestures would add another set of gestures.
-For instance, it could replace the long press gesture that lets you trigger the magnifying glass and move your cursor in a text area. It could also let Apple remove the proximity sensor that turns off your display when you are calling someone.
-And of course, it would make a lot of sense to use this technology with the Apple Pencil. For example, you could hover over a drawing and press a button to erase an area. Samsung has already integrated hovering gestures into the Galaxy Note phones.
-In 2013, Apple acquired PrimeSense, the company behind the original Kinect sensor. Today’s patent shows that Apple is still working on new ways to interact with your devices without physically making contact. But it’s unclear if or when Apple plans to use this patent in production devices.
+d touch just step appleinsider spotted new patent add proximity sensor layer iphone display open brand new field interactions phone new hovering gestures
+behind scenes apple thinking integrating tiny infrared sensors inside multi touch display pixels emit infrared light monitor reflected signals infrared light bounces means finger area display
+as  apple patents company does exclude using technology trackpads keyboards  good way disable trackpad large portion trackpad covered wrist  technology makes sense iphone displays
+apple added layer interactions d touch d touch tap swipe pinch display levels pressure sensitive gestures hovering gestures add set gestures
+for instance replace long press gesture lets trigger magnifying glass cursor text area let apple remove proximity sensor turns display calling someone
+and course make lot sense use technology apple pencil example hover drawing press button erase area samsung integrated hovering gestures galaxy note phones
+in  apple acquired primesense company original kinect sensor today patent shows apple working new ways interact devices physically making contact  unclear apple plans use patent production devices
 

@@ -1,21 +1,21 @@
-In the list of things that we want science to solve I suspect the creation of a wireless 5.1 speaker system that is easy to use and set up ranks up there in between a cure for shingles and the colonization of Mars. Thankfully, there are people on the job.
-Enclave Audio has been working on a wireless 5.1 sound system since 2013 and they recently released their first product at CES, the CineHome HD. The kit, which costs $1,100, is an an all-in-one solution with center speaker/receiver, two front speakers, two smaller rear speakers, and a subwoofer. Setup is simple: you connect the center speaker/switcher to the TV via HDMI and then plug in up to three HDMI-compatible devices. You can also plug an optical cable into the back or connect to the system via Bluetooth.
-You then plug in all of the satellite speakers. Each speaker is fairly small – the rear satellites are about 4 inches tall and unobtrusive while the subwoofer is 17 inches tall. Each speaker connects to the center receiver wirelessly and automatically – there is no pairing process – and in theory the system will stay connected and power on out of standby when you’re ready to watch TV or play a game.
-That’s basically it. Enclave doesn’t offer much in the way of position tuning beyond a noise generator to test each speaker in turn and the on screen setup is as spartan as the rest of the kit. It took me a about fifteen minutes to set things up in a spacious basement rumpus room and, aside from finding outlets for each power supply attached to each speaker, setup was worry-free.
-I’m honestly pleased with the CineHome. It is a clever solution to a thorny problem and considering Sonos charges $1,700 for their solution and Klipsch charges over $5,000 for theirs the price for the Enclave is just right.
-However there is a fairly annoying problem that might not be an issue for folks with more outlets on their walls. Enclave is using 2×3 inch wall warts for each speaker. This means you can only a fit a few on a power strip and if you have other stuff plugged in you’re out of luck. It’s the age-old dilemma: how can you make truly wireless speakers without wires? Sonos fixes this by putting the power supply into the speaker and offering a smaller cable rather than a wall wart. Enclave doesn’t.
-Further, the system takes a bit of time to connect and start playing and the on-screen display is a bit laggy. It’s not bad enough to completely discount the system as a whole but it’s still slightly problematic. The remote control isn’t very responsive, either, which makes things seem laggier. It’s not a showstopper, but it’s a something to consider.
-The home-theatre-in-a-box world is full of contenders vying for the space below your table. You can get really cheap wired systems for a few hundred dollars and you can get something like a Sonos for much, much more. Enclave offers two benefits: the price and the wireless speakers. The speakers themselves are just fine in terms of audio reproduction and the kit supports Dolby DTS 5.1 Digital Surround as well as other digital standards which means you’re going to hear the surround with enough clarity to count. These aren’t audiophile-quality speakers but they will make your movies sound great.
-In the end a kit like the CineHome is a no-brainer if you’re trying to avoid (too many) wires. There are no truly wireless speakers. You always have to power them. Therefore a solution like Enclave’s is the next best thing and it works well. You’re getting a good, compact system with a nice frequency range and enough separation between front and back to feel like you’re in the middle of the action. The power supply issues notwithstanding Enclave did a good job with this product and they will be expanding their product by allowing you to add extra speakers for 7.1 sound down the line. The CineHome is a good start and a promising product like that could mean the end of wires if not the end of shingles and/or the colonization of Mars. A TV watch can dream, can’t she?
-$1,100 5.1 wireless speaker system in a box
-Black speakers
-5-inch tall rear speakers, 8-inch tall front speakers
-Pros
-Easy setup
-Inexpensive
-True 5.1 sound
-Cons
-Frustratingly large power supply
-Limited ports
-Slow to “boot”
-Product Page
+in list things want science solve i suspect creation wireless  speaker easy use set ranks cure shingles colonization mars thankfully people job
+enclave audio working wireless  sound  recently released product ces cinehome hd kit costs  an solution center speaker/receiver speakers smaller rear speakers subwoofer setup simple connect center speaker/switcher tv hdmi plug hdmi compatible devices plug optical cable connect bluetooth
+you plug satellite speakers speaker fairly small  rear satellites  inches tall unobtrusive subwoofer  inches tall speaker connects center receiver wirelessly automatically  pairing process  theory stay connected power standby ready watch tv play game
+that basically enclave does offer way position tuning noise generator test speaker turn screen setup spartan rest kit took minutes set things spacious basement rumpus room aside finding outlets power supply attached speaker setup worry free
+i’m honestly pleased cinehome clever solution thorny problem considering sonos charges  solution klipsch charges  theirs price enclave just right
+however fairly annoying problem  issue folks outlets walls enclave using × inch wall warts speaker means fit power strip stuff plugged luck age old dilemma make truly wireless speakers wires sonos fixes putting power supply speaker offering smaller cable wall wart enclave does not
+further takes bit time connect start playing screen display bit laggy bad completely discount  slightly problematic remote control responsive makes things laggier showstopper  consider
+the home theatre box world contenders vying space table really cheap wired systems dollars like sonos much enclave offers benefits price wireless speakers speakers just fine terms audio reproduction kit supports dolby dts  digital surround digital standards means going hear surround clarity count audiophile quality speakers  make movies sound great
+in end kit like cinehome brainer trying avoid (too wires truly wireless speakers  power solution like enclave best thing works getting good compact nice frequency range separation feel like middle action power supply issues notwithstanding enclave did good job product  expanding product allowing add extra speakers  sound line cinehome good start promising product like mean end wires end shingles and/or colonization mars tv watch dre ca she
+  wireless speaker box
+black speakers
+ inch tall rear speakers  inch tall speakers
+pros
+easy setup
+inexpensive
+true  sound
+cons
+frustratingly large power supply
+limited ports
+slow boot
+product page

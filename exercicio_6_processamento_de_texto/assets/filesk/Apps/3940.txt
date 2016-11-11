@@ -1,16 +1,16 @@
-San Francisco-based Branch International, or Branch.co, raised $9.2 million to bring digital financial services to mobile phone users in Sub-Saharan Africa. Andreessen Horowitz led the Series A round.
-Branch’s free-to-download Android app is a kind of “branchless bank for the next generation,” says founder and CEO Matt Flannery.
-The app asks users for permission to access and analyze data stored in their phones, like how much money they spend each month on a mobile plan, or who they call most often. From this data, Branch.co learns and predicts who is likely to be a good borrower, and can give users a credit line from $2.50 to $500 in about 10 seconds.
-The app works without asking users for a credit history like they’d need to get a credit card from a traditional bank.
-Branch.co employs a team of six data scientists and engineers in San Francisco, with a larger team of 30 employees in Nairobi, Kenya.
-Its app is gaining popularity with people who are sole proprietors and entrepreneurs, especially farmers, drivers and merchants, Mr. Flannery said, who can borrow as little as $2 up to a few hundred dollars to repay within a few days or a few weeks.
-Previously, Flannery co-founded and was Chief Executive Officer of the non-profit lending platform Kiva.org.
-Flannery said he chose to create Branch.co as a for-profit business because philanthropic fundraising can be a huge distraction for tech companies. And top engineering talent is attracted to organizations that offer competitive salaries and benefits, unusual for a non-profit.
-“Our service is already reaching the middle class in Kenya,” Flannery said, “But I’m building this with the intention that it will serve everyone much the way that Twitter started out as a thing that people used at South by Southwest, but ended up playing a big role in the Arab Spring.”
-The Series A investment marks two firsts for Andreessen Horowitz: It’s the first deal managed by General Partner Alex Rampell since he joined the firm, and the fund has never backed a U.S.-based company that serves Sub-Saharan Africa as its primary market.
-Rampell said, “Lots of entrepreneurs try to do things with financial services for un-banked or under-banked people in the U.S. and Western Europe, but this need is nowhere near what it is in the developing world.”
-Even with apps like Square, Venmo, Apple Pay or Tilt available domestically, less than one-third of smartphone users in the U.S. said in a survey published last year by the Federal Reserve (Consumers and Mobile Financial Services 2015) that they made a payment via mobile phone.
-By contrast, a majority of people who have mobile phones in Sub-Saharan Africa make payments with them as a going concern, especially via remittance platforms like M-Pesa.
-Plus, smartphone adoption is on a meteoric rise there. GSMA Intelligence estimates Sub-Saharan Africa will add more than 400 million new smartphone connections by 2020, bringing the installed base to more than half a billion at that point.
-Andreessen Horowitz was joined in the Series A investment by Branch.co’s earlier seed backers, Khosla Impact Fund and Formation 8.
-Flannery plans to use the funding on hiring and to roll out Branch.co in and beyond Kenya.
+san francisco based branch international branchco raised  million bring digital financial services mobile phone users sub saharan africa andreessen horowitz led series round
+branch free download android app kind branchless bank generation says founder ceo matt flannery
+the app asks users permission access analyze data stored phones like money spend month mobile plan data branchco learns predicts likely  good borrower users credit line    seconds
+the app works asking users credit history like they’d need credit card traditional bank
+branchco employs te data scientists engineers san francisco larger te  employees nairobi kenya
+its app gaining popularity people sole proprietors entrepreneurs especially farmers drivers merchants mr flannery said borrow little  dollars repay days weeks
+previously flannery founded chief executive officer non profit lending platform kivaorg
+flannery said chose create branchco profit business philanthropic fundraising  huge distraction tech companies engineering talent attracted organizations offer competitive salaries benefits unusual non profit
+our service reaching middle class kenya flannery said  i’m building intention serve way twitter started thing people used south southwest  ended playing big role arab spring
+the series investment marks firsts andreessen horowitz deal managed general partner alex rampell joined firm fund backed based company serves sub saharan africa primary market
+rampell said lots entrepreneurs try things financial services banked banked people western europe  need near developing world
+even apps like square venmo apple pay tilt available domestically smartphone users said survey published year federal reserve (consumers and mobile financial services  payment mobile phone
+by contrast majority people mobile phones sub saharan africa make payments going concern especially remittance platforms like m pesa
+plus smartphone adoption meteoric rise there gsma intelligence estimates sub saharan africa add  million new smartphone connections  bringing installed base half billion point
+andreessen horowitz joined series investment branchco earlier seed backers khosla impact fund formation 
+flannery plans use funding hiring roll branchco in kenya

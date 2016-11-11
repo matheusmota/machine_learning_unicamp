@@ -1,16 +1,16 @@
-Video has been one of the fastest-growing content categories on Facebook of late, with 4 billion daily video views on the site as of last quarter. Now, the social network wants to expand that even more.
-Facebook has confirmed that it has quietly started to test a “Watch Later” button for videos on the desktop — a little tab that appears as an overlay in the upper right corner of the video when you pass your mouse over it, or scroll past it — to get you to save and consume more of the videos that appear in your feed.
-The new feature puts Facebook’s video user experience more on par with that of YouTube, Facebook’s great rival in the category. YouTube also offers a “Watch Later” feature for its videos (seen here on the right).
-Facebook’s Watch Later comes almost exactly a year after Facebook rolled out Save, an Instapaper-like feature to tag links to articles, places and media so that you can look at them later. As with saved stories and other links, videos you tag to Watch Later get collated in your “Saved” folder, which appears in the left column on desktop and in the “More” menu on mobile.
-Watch Later goes a step beyond what Facebook was doing before, and as an option for videos it is much more more direct. The “save” option was originally launched in two places: as a button in the lower right corner, and in the drop-down menu in the upper-right-hand corner of a post.
-The button option seems to appear only on non-video posts, and on videos the drop-down option is not particularly user-friendly: You have to think about saving a video in the first place, then navigate to the corner, click to open the menu, and click again to save. (This is also what you still have to do on mobile, as seen here on the right.)
-I suspect that means the save feature hasn’t been used all that much on videos.
-Watch Later, on the other hand, is much more visible. It appears on a video in bright white lettering if you mouse over the video while watching it — and (perhaps more relevantly) the button also pops up as you are scrolling past a video when you browse your feed for something interesting.
-As with the bigger Save feature, Watch Later is generally a way for Facebook to get users to dwell a little longer on the site, and to engage with more of the content posted by their friends and others that they follow on the social network.
-More specifically, however, it plays into a much bigger emphasis that Facebook is making to grow its video business, and the lucrative rich-media ads that would come along with it.
-Despite video ads being a magnet for big brands and big advertising dollars, Facebook has been relatively slow in rolling them out.
-Those 15-second autoplay video ads that seem so ubiquitous today, for example, only appeared for the first time in March 2014. And in its last earnings call, COO Sheryl Sandberg noted that it was still early for video, and that the format of ads will essentially follow how people use Facebook.
-In the meantime, Facebook has been making various tweaks to improve not just the video experience for us users, but also the data behind how videos are viewed.
-In June, the company doubled down on this front, releasing in one day both a new video analytics dashboard for Page owners with more granular data about how their videos fare; and a new change to its News Feed algorithm to highlight videos that tend to be watched unmuted, in full screen, and HD.
-In that vein, a Watch Later button could serve two purposes for Facebook. It would provide one more way of capturing audience for videos (and video ads). And it could help Facebook collect new data points on what videos are interesting enough to save, if not to view right away.
+video fastest growing content categories facebook late  billion daily video views site quarter social network wants expand more
+facebook has confirmed quietly started test a watch later button videos desktop  a little tab that appears overlay in the upper right corner video pass mouse scroll past  save consume more videos appear feed
+the new feature puts facebook video user experience par youtube facebook great rival category youtu offers watch later feature videos (seen right
+facebook watch later comes almost exactly year facebook rolled save instapaper like feature to tag links articles places media look later saved stories links videos tag watch later collated saved folder appears left column desktop menu mobile
+watch later goes step facebook doing option videos is much more direct the save option originally launched places button lower right corner and in drop menu upper right hand corner post
+the button option seems to appear non video posts videos drop option particularly user friendly think saving video place navigate corner click open menu click save (this mobile seen right
+i suspect means save feature has been used videos
+watch later hand visible appears video bright white lettering mouse the video watching  (perhaps relevantly button also pops scrolling past video when browse feed interesting
+as bigger save feature watch later generally way facebook users dwell little longer site engage content posted friends follow social network
+more specifically plays bigger emphasis facebook making grow video business lucrative rich media ads come it
+despite video ads magnet big brands big advertising dollars facebook relatively slow rolling out
+those  second autoplay video ads ubiquitous today example only appeared time march  earnings coo sheryl sandberg noted early video format ads essentially follow people use facebook
+in meantime facebook making various tweaks improve just video experience users  data behind videos viewed
+in june company doubled releasing day new video analytics dashboard page owners with more granular data videos fare new change news feed algorithm highlight videos tend  watched unmuted screen hd
+in vein watch later button serve purposes facebook provide way capturing audience videos (and video ads help facebook collect new data points videos interesting save view right away
 

@@ -1,25 +1,25 @@
 
 
-Instead of the touches and swipes that power most of our screen-based computing devices, many of the core Apple Watch capabilities — like checking the time — are powered by gestures.
-The use of gestures as a user interface may seem like a novelty to many, but, from the research we did over the last six months, it’s a game changer — a lot of the data and insights we gathered with the Wristly panel of more than 2,400 Apple Watch users corroborate it.
-A majority of the panel members were checking their notifications via the watch regularly, which by definition means they’re not looking for that information on their phone:
-“I realized I have come to COMPLETELY rely on my watch for all my Notifs/Glances. I don’t even know anymore how I would get by with only my phone.”
-“With every text message, Facebook notification, email notification I get to decide whether it needs my attention without my phone.”
-In fact, more than 90 percent of our panel said they use their iPhone less often now that they have Apple Watch:
-“EVERY time I don’t have to fish my phone out, I like my Apple Watch more.”
-Actual numbers back this up. Over the last month, Wristly collaborated with Kevin Holesh, the creator of the Moment app that tracks iPhone usage. More than 200 panelists installed the app and provided their tracking-log data. Wristly contrasted their relative usage to non-Apple Watch owners, as provided by Moment.
+instead touches swipes power screen based computing devices core apple watch capabilities  like checking time  powered gestures
+the use gestures user interface like novelty  research did months game changer  lot data insights gathered wristly panel  apple watch users corroborate it
+a majority panel members checking notifications watch regularly definition means looking information phone
+i realized i come completely rely watch notifs/glances i know anymore i phone
+with text message facebook notification email notification i decide needs attention phone
+in fact  percent panel said use iphone apple watch
+every time i fish phone i like apple watch more
+actual numbers back month wristly collaborated kevin holesh creator moment app tracks iphone usage  panelists installed app provided tracking log data wristly contrasted relative usage non apple watch owners provided moment
 
-We found that an average Apple Watch user is using his or her iPhone quite a bit more than non-Apple Watch users: 26+ percent more time per day. This data point can be explained by the stage of market development, whereby an Apple Watch user is by definition among the power users of mobile; similarly, owners of the new iPhone 6s consume more than older iPhones users. Other market research companies such as Kantar are also measuring these differences.
-But what is insightful and somewhat contradictory to this data point is that those same Apple Watch owners open/pick up their iPhone at least 20 percent less than non-Apple Watch owners.
-This quantifies the anecdotal reporting from our panel; wearing an Apple Watch helps reduce the number of notifications and interruptions from your iPhone, and helps users remain focused on what is happening in the moment. And as more mainstream consumers start wearing Apple Watch, we can extrapolate that, over time, it will help users spend less time glued to their mobile screens.
-Our panel consistently shares high usage rate of Siri and the other voice capabilities of the Apple Watch. In early June, the survey measured 65 percent of the users reporting using it more than expected. And we recently noted that Voice to Text was the second favorite way to respond to incoming messages. It also regularly garners rave reviews from our panelists when asked about their experience with Siri on the Apple Watch:
-“Walking down the street carrying a cup of coffee in each hand, I was able to raise my wrist slightly and say ‘Hey Siri call…’ without having to set the coffees down and without having to touch the watch whatsoever!”
-“Scheduled a haircut on my iPhone while picking up lunch…I lifted up my wrist, ‘Hey Siri…’ and it was done. Love those little moments.”
-This seamless coordination of voice and movement creates a user experience that will be extremely difficult for competitors to beat — particularly those that lack an integrated hardware/software platform.
-Aside from the practicality of using the Apple Watch for certain use cases (e.g., checking notifications), there is a positive social impact from a hands-free computing interface:
-“I find that it helps me keep my iPhone in my pocket and stay more engaged in conversation/work on a daily basis and that is what I enjoy most about it.”
-“Catching an email while out with everyone and not being yelled at for always being on my phone. Little flick of the wrist can be done without drawing attention to yourself.”
-There’s certainly an added element of safety that the UX provides, too. After all, the National Safety Council estimates that there are more than 1.5 million crashes per year attributable to cell phone use while driving:
-“Being able to drive in my car and not have to take my phone out of my pocket, unlock it, and open up an app I want to use. I can check the weather quickly and easily while driving.”
-If the Apple Watch can put even a small dent in those numbers, it’s a great thing.
-Who would have thought a simple flick of the wrist would be a killer app? Still, there is so much more potential for Apple Watch’s gesture-based UX — and the coming months will surely bring many more third-party apps that will begin to take full advantage of it.
+we average apple watch user using iphone quite bit non apple watch users + percent more time day this data point  explained stage market development apple watch user definition  power users mobile similarly owners new iphone s consume older iphones users market research companies kantar measuring differences
+ insightful somewhat contradictory data point apple watch owners open/pick iphone  percent non apple watch owners
+this quantifies anecdotal reporting panel wearing apple watch helps reduce number notifications interruptions iphone helps users remain focused happening moment mainstre consumers start wearing apple watch extrapolate time help users spend time glued mobile screens
+our panel consistently shares high usage rate siri voice capabilities apple watch early june survey measured  percent users reporting using expected and we recently noted voice text second favorite way respond incoming messages regularly garners rave reviews panelists asked experience siri apple watch
+walking street carrying cup coffee hand i able raise wrist slightly say ‘hey siri call…’ without having set coffees having touch watch whatsoever!
+scheduled haircut iphone picking lunch…i lifted wrist ‘hey siri…’ love little moments
+this seamless coordination voice movement creates user experience  extremely difficult competitors beat  particularly lack integrated hardware/software platform
+aside practicality using apple watch certain use cases (eg checking notifications positive social impact hands free computing interface
+i helps iphone pocket stay engaged conversation/work daily basis i enjoy it
+catching email yelled  phone little flick wrist  drawing attention yourself
+there certainly added element safety ux provides national safety council estimates  million crashes year attributable cell phone use driving
+being able drive car phone pocket unlock open app i want use i check weather quickly easily driving
+if apple watch small dent numbers great thing
+who thought simple flick wrist  killer app potential apple watch gesture based ux  coming months surely bring party apps begin advantage it

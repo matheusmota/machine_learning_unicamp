@@ -1,13 +1,13 @@
-Match Group, a spinoff of IAC that owns properties like Tinder and OKCupid, has filed to go public.
-The Dallas-based company is reporting trailing twelve months revenue of $1 billion ending June 30 this year, and revenue of $483.9 million for the first half of 2015. It had net earnings of $49 million in the first half of 2015, and trailing 12 month net earnings of $177.5 million. In 2014, it generated $888.3 million in revenue and $148.4 million in net earnings — so the company isn’t necessarily growing that quickly.
-The company says it has 59 million monthly active users, and about 4.7 million paid members, using its dating products as of the end of the third quarter this year. Match Group’s products are in 38 languages across more than 190 countries, the company said in its S-1 filing. The company had 1,600 full-time employees and 3,300 part-time employees around the world as of the end of the second quarter this year.
-The company is listing under the Nasdaq as MTCH, with the IPO being led by JP Morgan, Allen & Company, and Bank of America Merrill Lynch. The company has filed to raised up to $100 million, though that number may change.
-Domestically, the company continues to grow. It brought in $285.4 million in revenue in North America in the first half of the year, up from $257.2 million in the first half of 2014. But international growth is a bit of a different story.
-The company derives a large portion of its revenue from international audiences. However, it appears that those incomes may have peaked, and are in decline. In the two half-year periods disclosed, one from 2014, and one form 2015, Match saw its direct revenue from abroad slow from $137.6 million to $129.9 million. That slip impacts the company’s growth rate. Notably, its domestic growth did manage to prevent a fall in aggregate revenue, but if the company can’t convert its domestic success to other locales, its future growth rates could be negatively impacted.
-Why did Match’s revenue from international sources fall? According to its SEC filing, ARPPU, or average revenue per paying user fell abroad from $0.70 in the first half of 2014, to $0.56 in the first six months of 2015. Domestic ARPU over the same time held steady at $0.60 over the same comparative periods.
+match group spinoff iac owns properties like tinder okcupid filed public
+the dallas based company reporting trailing months revenue  billion ending june  year revenue  million half  it net earnings  million half  trailing  month net earnings  million  generated  million revenue  million net earnings  company necessarily growing quickly
+the company says  million monthly active users  million paid members using dating products end quarter year match group products  languages  countries company said s  filing company had  time employees  time employees world end second quarter year
+the company listing nasdaq mtch ipo led jp morgan allen & company bank america merrill lynch the company filed raised  million number change
+domestically company continues grow brought  million revenue north america half year  million half   international growth bit different story
+the company derives large portion revenue international audiences appears incomes peaked decline half year periods disclosed  form  match saw direct revenue abroad slow  million  million slip impacts company growth rate notably domestic growth did manage prevent fall aggregate revenue  company ca convert domestic success locales future growth rates  negatively impacted
+why did match revenue international sources fall according sec filing arppu average revenue paying user fell abroad  half   months  domestic arpu time held steady  comparative periods
 
-“Tinder was launched in 2012, and has since risen to scale and popularity faster than any other product in the dating category,” the company said in its S-1 filing.
-One interesting risk factor is Tinder’s relationship with Facebook, as the app pulls profile information from Facebook.
-The company also plans to increase advertising sell-through for Tinder, which the company says is below 2% of available ad inventory. Historically, that hasn’t been a principal focus for Match Group, the company said in its S-1 filing.
-“We believe that there is meaningful upside to our current revenue levels if we achieve these objectives,” the company says in its filing.
+tinder launched  risen scale popularity faster product dating category company said s  filing
+one interesting risk factor is tinder relationship facebook app pulls profile information facebook
+the company plans increase advertising sell tinder company says  available ad inventory historically principal focus match group company said s  filing
+we believe meaningful upside current revenue levels achieve objectives company says filing
  

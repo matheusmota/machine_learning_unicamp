@@ -1,11 +1,11 @@
-Amazon’s game streaming service Twitch is getting more social. The new “Friends” feature teased in April has now launched into beta, allowing users to search for, add, and view a list of friends, see when they’re online, and easily chat with them. The company says it has sent out the first round of beta invitations, and is now allowing users to add friends by sending requests, which also double as a way to gain access to a beta invite.
-This process lets Twitch slowly ramp up the number of users with access to Friends on its service, instead of having everyone come online all at the same time.
-The feature itself is straightforward and easy to use. You can use the new search bar on the left to locate your friends and send requests. You’ll also be shown a list of recommended friends based on those you’ve interacted with in the past on the site. When your friend accepts the request, you’ll then be able to see when they’re online and send them a “whisper” (a private message).
-Plus, once you have access to the feature, you can respond to friend requests in order to bring your own group of friends on board, too.
-Users can add up to 500 friends, and you’re able to send whispers to other users with a single click, the company says.
+amazon game streaming service twitch getting social new friends feature teased april launched beta allowing users search add and view list friends online easily chat company says sent round beta invitations allowing users add friends sending requests double way gain access beta invite
+this process lets twitch slowly ramp number users access friends service instead having come online time
+the feature straightforward easy use use new search bar left locate friends send requests you’ll  shown list recommended friends based you’ve interacted past site friend accepts request you’ll  able online send whisper (a private message
+plus access feature respond friend requests order bring group friends board too
+users add  friends able send whispers users single click company says
 
-The addition of the Friends feature comes at a time when Twitch has been expanding its social networking aims. It is, in fact, the third social feature the company has added over the past several months.
-Earlier, Twitch launched a Channel Feed, to allow broadcasters a way to more easily post and distribute their content to their entire audience in one place. And it added other social features like Party Chat and Whispers.
-The latter took a popular feature from global chat (you used to have to type /w before a username to send a direct message), and made it more accessible to users. Since its late December debut, Twitch says users have sent over 300 million whispers on its network.
-With additions like the Friends list, online status, a “do not disturb” option, and direct messaging capability, Twitch is branching out to become a more competitive player in the busy social messaging space, where top apps like Messenger, WhatsApp and Snapchat today dominate.
-And as an Amazon-owned property, this move is significant, too, as it positions the e-commerce giant to establish its own footprint in the social networking space.
+the addition friends feature comes time twitch expanding social networking aims fact social feature company added past months
+earlier twitch launched channel feed allow broadcasters way easily post distribute content entire audience place added social features like party chat whispers
+the took popular feature global chat (you used to type /w username send direct message accessible users late december twitch says users sent  million whispers network
+with additions like friends list online status disturb option direct messaging capability twitch branching  competitive player busy social messaging space apps like messenger whatsapp snapchat today dominate
+and amazon owned property significant positions e commerce giant establish footprint social networking space

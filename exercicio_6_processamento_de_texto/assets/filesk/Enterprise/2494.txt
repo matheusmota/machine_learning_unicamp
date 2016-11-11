@@ -1,19 +1,19 @@
-Ping Identity announced a platform approach to identity management today at the Cloud Identity Summit in San Diego that includes the ability to get your second authentication factor using an Apple Watch.
-The idea behind the platform is to put identity at the center of the security model and enable users — whether employees, partners or customers — to have access to applications, regardless of the device, based on who they are.
-Ping has been using an identity-driven approach since its inception, but CEO and founder Andre Durand says the difference is the platform they’ve conceived to bring security and identity together.
-“Security and identity have been different worlds,” he said. “We’re trying to drive security through identity.”
-Security has always been about controlling access, but “the assets have flown the coop,” Durand pointed out. What he means is that mobility has changed security, and security has struggled to change with it. Ping wants to protect the assets as they move through the world instead of the perimeter.
-They are doing this with a three-pronged approach that starts with the smartphone at the center.
-The first part of the platform involves context and it’s using the smartphone to drive that understanding. For instance, are you in a known location or unknown location? Is your behavior consistent with what you’ve done in the past?
-One big issue around security solutions is putting an undue burden on the user to implement the security. Ping is shooting for automation wherever possible so that the policy is implemented without the user having to do anything, Durand explained.
-“We want to improve the authentication reliance without new things the users has to do. The user doesn’t have to do anything to be known,” he said. Everyone has a set of of known behaviors and the system can learn what those are and adjust the security parameters accordingly.
-The second piece is tying together several standard authentication protocols including OAuth, SAML and OpenID Connect to enable a federated approach to sign-on regardless of the protocol. This allows users to sign in once and have access across a variety of services, whether they live in the cloud or on-premises.
-The final piece involves using data to adjust security policy as needed based on the situation and not on a static set of rules. “We’re not leveraging intelligence to make [ security] smart,” he said.
-“It should be mapped to risky behavior. If it’s risky, it should dynamically change the access,” Durand explained.
-As an example, if a user has access to Dropbox, but is suddenly saving sensitive business documents to his or her account in a way that doesn’t match previous behavior, that could be a red flag. The security should adjust accordingly and block access until a human can figure out if it’s truly worrisome behavior.
-This is all driven by two-factor authentication, which can come in a variety of guises including the traditional text-based approach. You sign on using your PC or laptop, then get a text with your second sign on. You enter the second ID and you’re good to go.
-Ping has also come up with a new way using the Apple Watch. You sign on to Ping, then your watch buzzes. You activate it and tap the sign on card on your Watch. It’s a clever way of using the Watch in a useful way to simplify security.
+ping identity announced platform approach identity management today cloud identity summit san diego includes ability second authentication factor using apple watch
+the idea platform identity center security model enable users  employees partners customers  access applications regardless device based are
+ping using identity driven approach inception  ceo founder andre durand says difference platform they’ve conceived bring security identity together
+security identity different worlds said trying drive security identity
+security  controlling access  assets flown coop durand pointed means mobility changed security security struggled change it ping wants protect assets world instead perimeter
+they doing pronged approach starts smartphone center
+the platform involves context using smartphone drive understanding instance known location unknown location behavior consistent you’ve past
+one big issue security solutions putting undue burden user implement security ping shooting automation possible policy implemented user having durand explained
+we want improve authentication reliance new things users user does to  known said set of known behaviors learn adjust security parameters accordingly
+the second piece tying standard authentication protocols including oauth saml openid connect to enable federated approach sign regardless protocol allows users sign in once access variety services live cloud premises
+the final piece involves using data adjust security policy needed based situation static set rules leveraging intelligence make  security smart said
+it  mapped risky behavior risky dynamically change access durand explained
+as example if a user access dropbox  suddenly saving sensitive business documents account way does match previous behavior  red flag security adjust accordingly block access human figure truly worrisome behavior
+this driven factor authentication come variety guises including traditional text based approach sign using pc laptop text second sign enter second id and good go
+ping come new way using apple watch sign ping watch buzzes activate tap sign card watch clever way using watch useful way simplify security
 
-If you don’t have any of those devices or you don’t want to introduce them into your environment, Ping also works with Yubikeys, a small hardware authentication tool.
-Ping is trying to redefine itself to offer a more comprehensive policy-based approach to security with authentication at its core. While it is not necessarily breaking new ground (except perhaps that Apple Watch piece), it has put together a broad approach to authentication. What’s more, because it’s policy driven, it removes much of the burden that has traditionally fallen on the end user.
-Ping Identity has been around since 2002 and has raised $115 million, the most recent being Series G for $35 million in September, 2014.
+if devices want introduce environment ping works yubikeys small hardware authentication tool
+ping trying redefine offer comprehensive policy based approach security authentication core necessarily breaking new ground (except apple watch piece broad approach authentication policy driven removes burden traditionally fallen end user
+ping identity  raised  million recent series g  million september 

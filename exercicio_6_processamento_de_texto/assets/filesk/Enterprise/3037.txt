@@ -1,16 +1,16 @@
-Facebook revealed the final piece in its scalable data redesign today, one that completes its vision of redefining traditional hardware and software to make it more flexible to meet the needs of Facebook’s scale.
-To that end, they announced a new open-source modular switch platform called 6-pack.
-The key piece to understand is that Facebook has focused on separating the hardware and software, making each part of the system fully programmable, thereby giving Facebook the flexibility it requires.
-Facebook plans to contribute the entire design to the Open Compute project, where engineers will be free to build, configure and design these components as they see fit.
-Last June, Facebook began this journey by redesigning the top of rack switch ( the so-called Wedge), and developing a version of Linux called FBoss to run it. This was the first step in separating the hardware from the software, which was key to building the more flexible network required for computing at Facebook scale.
-This enabled Facebook to treat the switch like it was a programmable server because it had its own operating system and could operate independently. This was essential because they needed to separate the hardware and software from the network as a whole and allow engineers to deal with each piece as a separate programmable entity.
-But they couldn’t stop there. As they built the data center of the future, they also needed to completely rethink network topology, and how information moves in the network. This required creating an entirely new data center fabric that was flexible enough to deal with Facebook’s massive computing requirements without getting bogged down.
-As Frederic Lardinois wrote of the new Altoona data center last fall, “With Facebook’s new approach, however, the entire data center runs on a single high-performance network. There are no [traditional] clusters, just server pods that are all connected to each other.”
-This led to the final requirement: how to deal with modular switches that weren’t situated at the top of the rack, but within the fabric itself. Today’s announcement solves that final problem by introducing a monster fully open modular switch based on Wedge, that like the top of rack switch, has separated the hardware and software from the network, and given Facebook total flexibility on how to program and run it.
+facebook revealed final piece scalable data redesign today completes vision redefining traditional hardware software make flexible meet needs facebook scale
+to end announced new open source modular switch platform called  pack
+the key piece understand facebook focused separating hardware software making of the fully programmable giving facebook flexibility requires
+facebook plans contribute entire design open compute project engineers  free build configure design components fit
+last june facebook began journey redesigning rack switch ( called wedge developing version linux called fboss run step separating hardware software key building the more flexible network required computing facebook scale
+this enabled facebook treat switch like programmable server operating operate independently essential because needed separate hardware software network allow engineers deal piece separate programmable entity
+ stop built data center future needed completely rethink network topology information moves network required creating entirely new data center fabric flexible deal facebook massive computing requirements getting bogged down
+as frederic lardinois wrote new altoona data center fall facebook new approach entire data center runs single high performance network traditional clusters just server pods connected other
+this led final requirement deal modular switches situated rack  fabric today announcement solves final problem introducing monster fully open modular switch based wedge like rack switch separated hardware software network given facebook total flexibility progr run it
 
-Facebook describes it as follows:
-You may wonder why Facebook went to all this trouble, but it believed it needed to build the entire network from scratch because in its view, commercial offerings were just too limiting for the speed and scale a company like Facebook must have.
-“One of the things we saw in the network industry was that it wasn’t open enough,” Matt Corddry, director of hardware engineering at Facebook explained. “It’s difficult to expand and grow our technology with commercial networking equipment. We didn’t have enough visibility and control. A lot of the commercial approaches, they are closed, with software and hardware combined,” he said.
-The only option was to redesign the data center from the bottom up, which is what they effectively have done, and this gives them the speed and visibility inside the equipment they need to develop tools much more quickly. 
-As for putting all these resources on this, then open sourcing it, Corddry says it’s simply part of Facebook’s vision for scalable computing.
-“Fundamentally we see part of our mission is to make the world more open and connected. There is no secret mission or hidden agenda, it’s just part of our mission,” he said.
+facebook describes follows
+you wonder facebook went trouble  believed needed build entire network scratch view commercial offerings just limiting speed scale company like facebook have
+one things saw network industry was open matt corddry director hardware engineering facebook explained difficult expand grow technology commercial networking equipment did visibility control lot commercial approaches closed software hardware combined said
+the option redesign data center effectively gives speed visibility inside equipment need develop tools quickly 
+as putting resources open sourcing corddry says simply facebook vision scalable computing
+fundamentally mission make world open connected secret mission hidden agenda just mission said

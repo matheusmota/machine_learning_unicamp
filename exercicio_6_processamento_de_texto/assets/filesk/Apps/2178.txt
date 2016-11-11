@@ -1,16 +1,16 @@
-Imgur is the most popular startup no one talks about. The image sharing and upvoting site has a stunning 150 million monthly users that view 60 billion memes, Cat GIFS, sob stories, and science explainers per month. But considering 82% of them spend over 3 hours per week on Imgur, and 17% spend over 10 hours, you could definitely consider Imgur addictive. People endlessly browse its home page of the most viral images in search of something hysterical, heartfelt, or mind-blowing.
-Yet in the 6 years it’s been running, Imgur never had someone dedicated to over seeing the engineering that keeps the site from buckling under the load. Imgur’s insanely busy CEO and founder Alan Schaaf originally coded the site, but now he has to manage the business, recruiting, community management and more.
-So Imgur just hired its first VP of engineering, and he’s already working on a new way to make sure you never leave.
-Ron Benson has a PhD in neural network artificial intelligence from CalTech, and was the former VP of Engineering at Walmart eCommerce. At both, he learned how to build recommendation engines that understand the relationship between images, and what someone wants to see next based on what they just looked at.
-Now he’ll be building a recommendation engine for Imgur. The 60-person startup actually employs 31 engineers, so their new VP will have plenty of help.
-One way to do recommendations would be through image recognition. Imagine that if you upvoted a cat GIF, Imgur could instantly recommend you look at another. Or if you enjoy a meme like Insanity Wolf or Socially Awkward Penguin, you could be pointed towards more of those.
+imgur popular startup talks image sharing upvoting site stunning  million monthly users that view  billion memes cat gifs sob stories science explainers month  considering  spend  hours week imgur and  spend  hours definitely consider imgur addictive people endlessly browse home page viral images search hysterical heartfelt mind blowing
+yet  years running imgur dedicated seeing engineering keeps site buckling load imgur insanely busy ceo founder alan schaaf originally coded site  manage business recruiting community management more
+so imgur just hired vp engineering working new way make sure leave
+ron benson phd neural network artificial intelligence caltech vp engineering walmart ecommerce learned build recommendation engines understand relationship images wants based just looked at
+now he’ll  building recommendation engine imgur  person startup actually employs  engineers new vp plenty help
+one way recommendations  image recognition imagine upvoted cat gif imgur instantly recommend look enjoy meme like insanity wolf socially awkward penguin  pointed those
 
-Imgur could also match users by preference. Then if you upvote an image and then another, Imgur could recommend the second one to people similar to you who upvoted the first.
-The comments on Imgur could also be mined for signals that indicate a post will be popular with a lot of people. “We know the stuff that ends up on Most Viral [the Imgur homepage] is just the tip of the iceberg” Schaaf tells me. Lots of great content gets lost just because it’s posted at the wrong time when no one’s looking.
+imgur match users preference upvote image imgur recommend second people similar upvoted first
+the comments imgur  mined signals indicate post  popular lot people know stuff ends viral imgur homepage just tip iceberg schaaf tells lots great content gets lost just posted wrong time looking
 
-Right now, Imgur isn’t designed to be personalized. Schaaf calls the homepage a “shared experience” because everyone sees the same images there. This unites Imgurians, allowing them to develop inside jokes and unwritten rules, and rally for worthy causes.
-Imgur is a way for people to escape from their IRL struggles and find a sense of community. So in a way, all the time spent there is good. Still, it’d be nice to see Imgur donating to or researching Internet addiction.
-For better or worse, Imgur proudly touts itself as the “Highest concentration of millennial men on the Internet”. But as Imgur grows, its userbase will naturally become more diverse with wider ranging tastes.
-A recommendation engine could let users find their own unique rabbit holes to dive down. That means if you want a laugh after getting chewed out at work, or need to hear about someone else’s tragedy to make you feel less alone after a breakup, you could do something other than browse the chaotic home page.
-“The mission is to lift the spirits of the world a few moments every day” Benson tells me. “We need to figure out how to do that.”
-[Image Credit: The Internet by College Humor]
+right imgur designed  personalized schaaf calls homepage shared experience sees images unites imgurians allowing develop inside jokes unwritten rules rally worthy causes
+imgur way people escape irl struggles sense community way time spent good it’d  nice imgur donating researching internet addiction
+for better worse imgur proudly touts highest concentration millennial men internet  imgur grows userbase naturally  diverse wider ranging tastes
+a recommendation engine let users unique rabbit holes dive means want laugh getting chewed work need hear  tragedy make feel breakup browse chaotic home page
+the mission lift spirits world moments day benson tells need figure that
+image credit internet college humor

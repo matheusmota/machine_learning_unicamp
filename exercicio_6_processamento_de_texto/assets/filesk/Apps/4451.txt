@@ -1,13 +1,13 @@
-iOS app Driving Curve is an easy way to track your driving performance without having to fiddle with additional devices.
-Some high-profile driving apps, like Automatic, a Y Combinator alum and Techstars-backed Dash, offer their own hardware to connect with smartphones. Other use a Bluetooth-enabled on-board devices (OBD), which plugs into an adapter under the steering wheel.
-Driving Curve, on the other hand, is meant as simple alternative for people who are curious about their driving performance, but don’t want to deal with an OBD or a more complicated set of features just yet.
-“All you need is a smartphone, which dramatically lowers the entry barrier and grows our user base quickly,” says Tim Huang, who founded the app along with Duoyuan Chen. “We focus on quantified human behavior rather than machine behavior.”
-To use the app, you simply press its start button just before you start driving. It tracks your speed based on data from GPS satellites and the iPhone’s motion sensors.
-When you arrive at your destination, stop the app and it automatically analyzes and records information about your acceleration, braking speed, fuel usage, and route distance.
-Driving Curve is currently part of the TMI incubator program in Taipei, Taiwan. Other notable startups there include interactive toy company Roam and Wander, which recently joined 500 Startups, and Codementor, a Techstars Seattle pick.
-Driving Curve’s founders are still working on a monetization model, but they say that the popularity of smartphones will allow them to collect data that can be useful for a wide range of companies.
-There are other driving apps out there that don’t use an OBD, like MotorMate by Confused.com and Aviva Drive, are both meant to help drivers get discounts on their car insurance. 
-While Driving Curve could potentially be used by insurers, taxi companies, and delivery services to make sure their drivers are following traffic laws, the app is mainly meant as a self-diagnostic tool with a gaming element.
-You can collect points and badges for safe driving and compare your performance with other users. If you drive poorly, the app will dish out insults, like telling you that you drive like a bank robber, before giving you tips on how to improve your performance.
-Since I live in a city and don’t own a car, I tested Driving Curve while taking cabs in Taipei and Seoul and found that it captures speed and distance traveled accurately. One of my rides got a “speed ninja” warning, even though the driver wasn’t going particularly fast. He did have to stop frequently because of rush hour traffic, however, which can wear out brakes.
-The disadvantage of Driving Curve is that you have to be connected to the Internet for its GPS check-ins. On the other hand, it is fun and easy to use and I can see the appeal for people who don’t want to fiddle with another device in addition to their smartphone. It’s also great for backseat drivers (like me) who take taxis or ride-sharing services frequently and want to make sure that their drivers are not only driving safely, but also taking the most efficient routes.
+ios app driving curve easy way track driving performance having fiddle additional devices
+some high profile driving apps like automatic y combinator alum techstars backed dash offer hardware connect smartphones use bluetooth enabled board devices (obd plugs adapter steering wheel
+driving curve hand meant simple alternative people curious driving performance  want deal obd complicated set features just yet
+all need smartphone dramatically lowers entry barrier grows user base quickly says tim huang founded app duoyuan chen focus quantified human behavior machine behavior
+to use app simply press start button just start driving tracks speed based data gps satellites iphone motion sensors
+when arrive destination stop app automatically analyzes records information acceleration braking speed fuel usage route distance
+driving curve currently tmi incubator progr taipei taiwan notable startups include interactive toy company ro wander recently joined  startups codementor techstars seattle pick
+driving curve founders working monetization model  say popularity smartphones allow collect data  useful wide range companies
+there driving apps use obd like motormate confusedcom aviva drive meant help drivers discounts car insurance 
+while driving curve potentially  used insurers taxi companies delivery services make sure drivers following traffic laws app mainly meant as self diagnostic tool gaming element
+you collect points badges safe driving compare performance users drive poorly app dish insults like telling you drive like bank robber giving tips improve performance
+since i live city car i tested driving curve taking cabs taipei seoul captures speed distance traveled accurately rides got speed ninja warning driver going particularly fast did stop frequently rush hour traffic wear brakes
+the disadvantage driving curve  connected internet gps check ins hand fun easy use i appeal people want fiddle device addition smartphone it great backseat drivers (like taxis ride sharing services frequently want make sure drivers driving safely  taking efficient routes

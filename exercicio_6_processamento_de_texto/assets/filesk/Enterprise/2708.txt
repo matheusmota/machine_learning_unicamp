@@ -1,11 +1,11 @@
-Microsoft today announced that it has acquired Datazen, a mobile business intelligence and data visualization service.
-Datazen, which launched about three years ago, allows businesses to create mobile dashboards from data in Microsoft Excel, but also from other cloud and enterprise database sources. To run Datazen, enterprises need to run Windows Server, IIS and .NET behind their firewalls, as well as Datazen’s server software.
-The company offers apps for Windows, Windows Phone, iOS, Android and the web. According to today’s announcement, all of its products will remain available for the time being and the team will continue to work on Datazen’s server and client products.
-Starting today, Microsoft SQL Server Enterprise Edition customers (version 2008 and up) can already download Datazen’s server software at no cost.
-“Datazen is positioned as a mobile BI solution for customers who need a solution that is implemented on-premises,” the Datazen team writes today. “As such, it will complement Power BI, Microsoft’s cloud-based business analytics service.”
+microsoft today announced acquired datazen mobile business intelligence data visualization service
+datazen launched years ago allows businesses create mobile dashboards data microsoft excel  cloud enterprise database sources run datazen enterprises need run windows server iis net firewalls datazen server software
+the company offers apps windows windows phone ios android web according today announcement products remain available time te continue work datazen server client products
+starting today microsoft sql server enterprise edition customers (version  download datazen server software cost
+datazen positioned mobile bi solution customers need solution implemented premises datazen te writes today complement power bi microsoft cloud based business analytics service
 
-Microsoft will likely integrate Datazen’s technologies and expertise into its Power BI product, but it’s unclear what the roadmap for this integration looks like. If Microsoft’s latest acquisitions are any indication, there is a chance that the company will take some of Datazen’s mobile applications and rebrand them as Power BI for iOS or Android.
+microsoft likely integrate datazen technologies expertise power bi product  unclear roadmap integration looks like microsoft latest acquisitions indication chance company datazen mobile applications rebrand power bi ios android
 
-“This acquisition accelerates our Power BI strategy to help organizations create a data culture with easy-to-use, accessible tools to extract maximum value from data – from anywhere, on any device,” Microsoft cloud and enterprise director Kamal Hathi writes in today’s announcement. He also notes that SQL Server customers “love Datazen, because it is optimized for SQL Server Analysis Services and the overall Microsoft platform […].”
-Microsoft has put quite a bit of focus on its business intelligence platforms lately as the amount of data that business create continues to increase rapidly. Today’s acquisition fits right into this trend.
+this acquisition accelerates power bi strategy help organizations create data culture easy use accessible tools extract maximum value data  device microsoft cloud enterprise director kamal hathi writes today announcement he notes sql server customers love datazen optimized sql server analysis services overall microsoft platform …
+microsoft quite bit focus business intelligence platforms lately data business create continues increase rapidly today acquisition fits right trend
 

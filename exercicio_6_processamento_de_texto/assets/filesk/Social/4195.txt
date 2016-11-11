@@ -1,7 +1,7 @@
-They’ve got new tales to tell. After five years running Storify, which lets you collect social media updates into narrative timelines, co-founders Burt Herman and Xavier Damman are leaving the startup which was acquired by Livefyre in 2013.
-They’re passing the reins to several original Storify members, who will keep the service running. Herman’s plan is to focus on raising his newborn son, while Damman will build out his open-source whisteblowing tool Tipbox.
-Storify had a rapid rise as a buzzy service designed for navigating the churning seas of social. While big platforms like Facebook and Twitter want you to share as much as possible, Storify helps you make sense of it all. Storify found a loyal following among journalists who could piece together snippets of first-hand reports, media, news and analysis to give both high-level and deep understanding of complex, evolving topics.
-Storify had raised $2 million from investors, including Great Oaks and Khosla Ventures before being acquired by Livefyre. The commenting platform allowed Storify to operate independently, and recently it’s been developing tools for collaboration and brands.
-Storify’s ongoing support for new journalism will be led by Product Manager Bo Hee Kim, Lead Engineer Philippe Modard, Community Manager Skyler Rogers and Engineer Devon Govett, plus recently added Engineer Max Malin.
-With the world warming up to real-time social media, there’s more water in the firehose than ever. Storify’s importance keeps growing as news continues to shift from top-down broadcasts to crowdsourced sharing.
-For a look at what can be done with Storify, here’s one about Spock, may he rest in peace.
+they’ve got new tales tell after years running storify lets collect social media updates narrative timelines founders burt herman xavier damman leaving startup acquired livefyre 
+they passing reins original storify members service running herman plan focus raising newborn son damman build open source whisteblowing tool tipbox
+storify rapid rise buzzy service designed navigating churning seas social big platforms like facebook twitter want share possible storify helps make sense storify loyal following  journalists piece snippets hand reports media news analysis high level deep understanding complex evolving topics
+storify raised  million investors including great oaks khosla ventures acquired livefyre commenting platform allowed storify operate independently recently developing tools collaboration brands
+storify ongoing support new journalism  led by product manager bo hee kim lead engineer philippe modard community manager skyler rogers engineer devon govett plus recently added engineer max malin
+with world warming real time social media water firehose storify importance keeps growing news continues to shift broadcasts crowdsourced sharing
+for look  storify spock rest peace

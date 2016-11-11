@@ -1,9 +1,9 @@
-Say you’ve got an experiment or prototype satellite that you want to expose to the ravages of space. Sure, you could launch it with a bunch of others, but what if you need it back afterwards? NanoRacks has you covered.
-The company — well, actually, the crew of the ISS — has just officially deployed the NanoRacks External Platform, which will allow anyone with the cash to send something up to space, let it feel the effects of microgravity and radiation and then have it returned to Earth in one piece.
-You could do this previously, but it wasn’t easy. You’d have to work something out with NASA to have it placed on the space station’s exterior, or figure out some exotic reentry plan. Now you can just rent a space in the NanoRacks platform.
+say you’ve got experiment prototype satellite want expose ravages space sure launch bunch  need nanoracks covered
+the company  actually crew iss  just officially deployed nanoracks external platform allow  cash send space let feel effects microgravity radiation returned earth piece
+you previously  easy you’d work nasa placed space station exterior figure exotic reentry plan just rent space nanoracks platform
 
-There are limitations, of course. This isn’t for schoolkids to send up a potato to see how it does out there. Your project needs to be in a Cubesat form factor, though you can rent several spaces in a row for bigger experiments — 2U, 3U, etc. Pricing starts at $100,000 for an exterior platform payload  for commercial purposes — then power, insurance and stays longer than 30 days are extra. Expect a discount for educational programs. (This paragraph previously listed pricing that is for the internal NanoRacks lab, and has been updated.)
-Still, it’s a comparatively fuss-free way to put something in space. Specifics can be found at the FAQ.
+there limitations course schoolkids send potato does project needs  cubesat form factor rent spaces row bigger experiments  u u pricing starts  exterior platform payload  commercial purposes  power insurance stays longer  days extra expect discount educational programs (this paragraph previously listed pricing internal nanoracks lab updated
+still comparatively fuss free way space specifics  faq
 
-You might be wondering: What does NASA get out of it? Well, they can use it, for one thing — it’s a handy setup for experimentation, and NanoRacks told TechCrunch that there’s been interest from government organizations. Perhaps it’s easier to just pay up rather than fight through all the red tape and get it up there as an official NASA partner.
-There’s limited space on the NREP: two racks, each with 16U capacity. That said, they aren’t booked yet. NanoRacks said they have plenty of payloads booked for the next couple of years, but if you feel the need to send something to space, there’s still room up there.
+you  wondering does nasa use thing  handy setup experimentation nanoracks told techcrunch government organizations easier just pay fight red tape official nasa partner
+there limited space nrep racks u capacity said booked nanoracks said plenty payloads booked couple years  feel need send space room there

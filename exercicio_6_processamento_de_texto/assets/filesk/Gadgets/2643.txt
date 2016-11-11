@@ -1,7 +1,7 @@
-Editor’s note: A previous version of this post had the headline “Bill Gates Says Apple Should Unlock The iPhone” but Gates appeared on Bloomberg after this report was published, and attempted to clarify his intentions. You can watch the whole interview here where he backpedals a bit.
-Bill Gates is siding with the FBI and says Apple should unlock the phone of the San Bernardino shooter. In an interview with FT, the Microsoft founder simply reiterates the Justice Department’s claim that this is a one-off case and the FBI is not asking for a general unlocking tool.
-“This is a specific case where the government is asking for access to information,” Bill Gates told The Financial Times. “They are not asking for some general thing, they are asking for a particular case,”
-“It is no different than [the question of] should anybody ever have been able to tell the phone company to get information, should anybody be able to get at bank records,” he said. “Let’s say the bank had tied a ribbon round the disk drive and said ‘don’t make me cut this ribbon because you’ll make me cut it many times’.”
-Gates’ comments stands in stark contrast to those made by executives at Google, Facebook and much of Silicon Valley, who have applauded Tim Cook’s hardline stance against opening this particular iPhone.
-Just yesterday Tim Cook released another letter, this time to Apple employees, where he called for the FBI order to be dropped and thanking Apple employees for working on security features that protect customer data.
+editor note previous version post headline gates says apple unlock iphone  gates appeared bloomberg report published attempted clarify intentions watch interview backpedals bit
+bill gates siding fbi says apple unlock phone san bernardino shooter interview ft microsoft founder simply reiterates justice department claim case fbi asking general unlocking tool
+this specific case government asking access information gates told financial times asking general thing asking particular case
+it different question anybody able tell phone company information anybody  able bank records said let say bank tied ribbon round disk drive said ‘do make cut ribbon you’ll make cut times
+gates comments stands stark contrast executives google facebook silicon valley applauded tim cook hardline stance opening particular iphone
+just yesterday tim cook released letter time apple employees called fbi order  dropped thanking apple employees working security features protect customer data
 

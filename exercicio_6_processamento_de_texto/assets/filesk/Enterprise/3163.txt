@@ -1,13 +1,13 @@
-Dataiku, a French startup that makes software to help teams of data scientists process and make sense of big data, announced €3.2M in Series A funding today — that’s approximately $3.6M USD.
-Alven Capital and Serena Capital jointly led the round.
-The company’s product is called Data Science Studio, which provides soup-to-nuts services for data science teams. The software can work with so-called dirty data, clean it up, then process it using the data and algorithms, the data scientists select, and finally present visualizations of the resulting data sets.
-The startup has been around since February, 2013, and CEO Florian Douetteau says they were able to bootstrap for the first couple of years because they began selling the software and were profitable early on, which is certainly refreshing.
-Douetteau said that the software is designed for teams, rather than an isolated data scientist. “When you’re building for a team,” Douetteau explained, “it’s about enabling common sharing of data, processes, data sets [and so forth].” This allows team members to reuse various components of the data, making for a much more efficient use of resources.
-He says the software could also be useful to others in an organization who might make use of big data such as business analysts, statisticians and developers.
-The company is still small, but it’s growing. They offer freemium and paid versions. Douetteau says he currently has 20 paying customers including retailers and insurance companies, which he described as medium to large companies. The free version has several hundred customers.
-We are not talking huge traction yet, but it’s a product that could be slightly ahead of its time. Most companies don’t have teams of data scientists yet. Based on conversations with people in the industry, I’ve heard many are lucky if they have one or two.
-But over time, as big data gains greater importance to companies, they will have little choice but to invest in data science teams and as they do, software like this will likely become increasingly critical.
-For now, Douetteau says they are leaving the product generic and letting customers decide how to use it. He says the most popular use cases are scenarios like analyzing customer churn and modeling traffic and logistics.
-Douetteau came from Exalead, a French search startup that was purchased by Dassault Systèmes in 2010 for €135M (which was approximately $165M USD at the time). He says in recent years, the French startup system has begun to come to life with new entrepreneurs coming on the scene and a funding ecosystem starting to develop. He says France is an attractive place to start a business because there is access to capital and a group of highly trained, available engineering talent (not to mention, it’s France).
-Among the areas that are attracting activity are connected devices (Internet of Things) and big data, where Douetteau’s company has planted a stake.
-It’s early days for sure for Dataiku, but the company is taking aim at a growing market and attempting to solve a set of problems that could develop into a much bigger business.
+dataiku french startup makes software help teams of data scientists process make sense big data announced €m series funding today  approximately m usd
+alven capital serena capital jointly led round
+the company product called data science studio provides soup nuts services data science teams software work called dirty data clean process using data algorithms data scientists select finally present visualizations resulting data sets
+the startup february  and ceo florian douetteau says able bootstrap couple years began selling the software profitable early certainly refreshing
+douetteau said software designed teams isolated data scientist building te douetteau explained enabling common sharing data processes data sets forth allows te members reuse various components data making efficient use resources
+he says software  useful to others an organization make use big data business analysts statisticians developers
+the company small  growing offer freemium paid versions douetteau says currently  paying customers including retailers insurance companies described medium large companies free version customers
+we talking huge traction  product  slightly ahead time companies teams data scientists based conversations people industry i’ve heard lucky two
+ time big data gains greater importance companies little choice  invest data science teams software like likely become increasingly critical
+for douetteau says leaving product generic letting customers decide use says popular use cases scenarios like analyzing customer churn modeling traffic logistics
+douetteau came exalead french search startup purchased dassault systèmes  €m (which approximately m usd time says recent years french startup begun come life new entrepreneurs coming scene funding ecosystem starting to develop says france is an attractive place start business access capital group highly trained available engineering talent (not mention france
+ areas attracting activity connected devices (internet things big data douetteau company planted stake
+it early days sure dataiku  company taking aim growing market attempting solve set problems develop bigger business

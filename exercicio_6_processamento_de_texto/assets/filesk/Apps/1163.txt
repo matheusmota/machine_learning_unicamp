@@ -1,17 +1,17 @@
-PayPal’s first acquisition after it separated from eBay in 2015 was of a young startup called Modest, which had built a platform for small businesses to integrate buy buttons across third-party apps. Now, PayPal is taking the wraps off a new product that will integrate Modest’s technology.
-PayPal Commerce — as the new service is called — launches today in closed beta, setting the stage for how PayPal could potentially reboot its platform for the next generation of the Internet and the 179 million customers already using PayPal.
-“Ten Internets ago when PayPal was started, it was all these tools that no one had built yet to bring commerce to the internet. My first startup used PayPal,” said Harper Reed, the co-founder of Modest (and before that, the CTO of the Obama campaign and Threadless), who is head of commerce at PayPal’s Braintree.
-“Now there is a lot of competition and people doing really neat stuff. We want PayPal to be that foundational level again. It’s doing the same thing that PayPal did back in the day, creating building blocks for small retailers to focus on what the future of commerce will look like.”
-PayPal Commerce is based around a set of APIs. Third-party services will be integrated in the back end to the Commerce platform.
-Then, merchants will be able to pick and choose where they would like their buy buttons to appear — be that email, social shares, blogs, articles, ads, apps, or wherever.
-While in the past, online shopping was largely carried either on businesses’ own websites or on shopping portals, PayPal Commerce is tapping into the idea of “omnicommerce.”
-Wherever people are going on the Internet, wherever they may come across a company’s products on social media or elsewhere, they can now buy those things. And PayPal will provide merchants with a one-stop set of tools to be able to do that (while also using the PayPal network to process that transaction).
-If this sounds a little familiar, that’s because it sort of is. This is not unlike a product unveiled by Stripe last September called Stripe Relay.
-PayPal is launching now in a closed beta and is not talking partners just yet, but there are a few places where PayPal has already been enabling experiences like this and those sound like they were gearing up for Commerce and will be included, such as Pinterest’s Buyable Pins and transportation services with Uber via Facebook Messenger.
-Stripe has made a little more headway.
-Stripe’s merchant customers include Best Buy, Adidas, PacSun, Warby Parker, Saks Fifth Avenue, Wish, Tuft & Needle, Teespring, Hello, Glossier and FabFitfun. The apps included are Twitter, ShopStyle and Spring. Its technology partners are SAP and InMobi “to extend the reach of Relay to hundreds of new retailers and to an ad network with over 30,000 mobile applications across 1 billion devices,” a Stripe spokesperson tells me. Merchants have uploaded over 7 million products to Relay.
-PayPal’s closed beta state also means it’s not getting too specific on what kind of percentages it will take for transactions made using integrations via PayPal Commerce, or any of the other nitty gritty.
-As a point of reference, Modest charged a monthly fee to its larger customers — $200 — and a percentage of transactions for smaller businesses.
-One thing that caught my attention is that PayPal Commerce is being thought of as an “agnostic” and open platform, Reed said, which means that users who buy with these may not even need PayPal accounts to complete the transactions.
-The other is that while people can sign up to become a part of the beta, it will be interesting to see how PayPal rolls this out to existing customers when it full launches: potentially it could simply turn it on for everyone.
-For now, it sounds like the open platform could mean a thinner margin than PayPal’s core product, with the tradeoff being a much bigger funnel of purchases to improve the returns. “The main ideas for us are scale, stability and audience,” Reed said.
+paypal acquisition separated ebay  was young startup called modest built platform for small businesses to integrate buy buttons across party apps paypal taking wraps new product integrate modest technology
+paypal commerce  new service called  launches today closed beta setting the stage paypal potentially reboot platform generation internet  million customers using paypal
+ten internets ago paypal was started tools built bring commerce internet startup used paypal said harper reed founder modest (and cto obama campaign threadless head commerce paypal braintree
+now lot competition people doing really neat stuff want paypal  foundational level doing thing paypal did day creating building blocks small retailers focus future commerce will look like
+paypal commerce based set apis party services will  integrated end commerce platform
+then merchants  able pick choose like buy buttons appear   that email social shares blogs articles ads apps wherever
+while past online shopping largely carried businesses websites shopping portals paypal commerce tapping idea omnicommerce
+wherever people going internet come company products social media buy things paypal provide merchants stop set tools  able (while using paypal network process transaction
+if sounds little familiar sort unlike product unveiled stripe september called stripe relay
+paypal launching closed beta talking partners just  places paypal enabling experiences like sound like gearing commerce  included pinterest buyable pins and transportation services uber facebook messenger
+stripe little headway
+stripe merchant customers include best buy adidas pacsun warby parker saks fifth avenue wish tuft & needle teespring hello glossier fabfitfun apps included are twitter shopstyle spring technology partners are sap inmobi extend reach relay hundreds new retailers ad network  mobile applications  billion devices stripe spokesperson tells me merchants uploaded  million products relay
+paypal closed beta state means getting specific kind percentages transactions using integrations paypal commerce nitty gritty
+as point reference modest charged monthly fee larger customers    percentage transactions smaller businesses
+one thing caught attention paypal commerce thought as an agnostic open platform reed said means users buy need paypal accounts complete transactions
+the people sign  beta  interesting paypal rolls existing customers launches potentially simply turn everyone
+for it sounds like open platform could mean thinner margin paypal core product tradeoff bigger funnel purchases improve returns main ideas for are scale stability audience reed said

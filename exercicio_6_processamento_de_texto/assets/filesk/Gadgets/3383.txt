@@ -1,7 +1,7 @@
-Did you know that when you get frustrated with your computer you move your mouse more slowly? Your computer knows. In fact, researchers at BYU have figured out tell-tale signs of frustration, anger, and confusion in users just by looking at their mouse movements.
-The team discovered that when users were “upset or confused” the mouse did not move in a curved path or straight across the screen and instead became “jagged and sudden.” Angry people moved their mouse more slowly.
-“Using this technology, websites will no longer be dumb,” said BYU researcher Professor Jeffrey Jenkins. “Websites can go beyond just presenting information, but they can sense you. They can understand not just what you’re providing, but what you’re feeling.”
-“It’s counterintuitive; people might think, ‘When I’m frustrated, I start moving the mouse faster,” Jenkins said. “Well, no, you actually start moving slower.”
-The system takes data points from your mouse movements in real time and can correlate these with mood. He expects that web designers will be able to use this tech to improve their sites, automatically sensing when a user becomes confused while clicking around the page.
-Jenkins has started a small company that holds the license to the research and he will be working to make websites smarter. He can also assess a person’s anger using a mobile device based on the swipes and taps made on the screen.
-“Traditionally it has been very difficult to pinpoint when a user becomes frustrated, leading them to not come back to a site,” he said. “Being able to sense a negative emotional response, we can adjust the website experience to eliminate stress or to offer help.”
+did know frustrated computer mouse slowly computer knows fact researchers byu figured tell tale signs frustration anger confusion users just looking mouse movements
+the te discovered users upset confused mouse did curved path straight screen instead  jagged sudden angry people moved mouse slowly
+using technology websites longer  dumb said byu researcher professor jeffrey jenkins websites just presenting information  sense understand just providing  feeling
+it counterintuitive people think ‘when i’m frustrated i start moving mouse faster jenkins said actually start moving slower
+the takes data points mouse movements real time correlate mood expects web designers  able use tech improve sites automatically sensing user  confused clicking page
+jenkins started small company holds license research  working make websites smarter assess person anger using mobile device based swipes taps screen
+traditionally difficult pinpoint user  frustrated leading come site said able sense negative emotional response adjust website experience eliminate stress offer help

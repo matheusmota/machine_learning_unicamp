@@ -1,17 +1,17 @@
-SwiftKey, the smart keyboard app maker acquired by Microsoft for $250 million earlier this year, is now testing its next product, a predictive keyboard app called Swiftmoji. As you may have guessed by the name, this new app focuses on helping you quickly find and type the appropriate emoji to complement your text-based conversations.
-The app has just launched into a private beta test on Google Play, which means you can only try it if you opt in to become a beta tester.
-SwiftKey tells us that only a small number of people will be accepted into the beta.
-The company has not yet made a formal announcement about the app’s debut, and declined to provide more information when asked for details like its ETA to a public launch, plans for other platforms, and more.
-That being said, according to the app’s description on Google Play, Swiftmoji will automatically suggest the right emoji based on what you’ve just typed. These can be presented to you in one of two ways. One is the “Emoji Prediction Row,” which places a row of emoji suggestions just above the keyboard’s word suggestions. This row of icons can also be undocked and dragged around the screen, turning the suggested emoji into floating icons similar to Facebook’s chat heads.
-The app, like SwiftKey’s main keyboard, takes advantage of the company’s A.I. technology to understand the context of what you’re typing, as its emoji suggestions will update as you continue to type.
-The advantage to using a keyboard like this is that it can make the process of adding emoji to your conversations quicker. However, having it constantly updating with new emoji predictions could also make it a bit more distracting, thanks to the colorful nature of these little icons.
-In addition to emoji predictions, the keyword also offers word suggestions, the ability to customize your keyboard size, the option to use “flow” input (dragging your finger across the screen), and it lets you turn on or off other features like autocorrect, auto space prediction, quick periods (via double taps), and automatic capitalization.
-It’s not clear at this time if SwiftKey still considers this an experiment, or if it does have a roadmap that includes a public launch.
-If the former, it wouldn’t the first time that the company has trialed a new idea in the wild. In the past, it has released over experimental keyboards like SwiftKey Clarity, which focused on multi-word autocorrect, and SwiftKey Neural Alpha, which used neural networks instead of predictive algorithms to improve its words suggestions.
-These and others are products emerging from SwiftKey’s R&D hub “SwiftKey Greenhouse,” which tests new ideas to see how users respond. Notably, Swiftmoji is not listed on the Greenhouse site.
-While making access to emoji easier may seem like a silly thing to focus on, it’s actually fairly critical to text-based conversations. Emoji can help add back in the emotional context and meaning that’s lost when we’re unable to speak directly with another person and watch for facial cues.
-Fast access to emoji is also one of the touted features in Google’s newly launched iOS keyboard, Gboard, where emoji are available via keyword search, instead of just through scrolling.
-SwiftKey says it’s now looking into how information about Swiftmoji’s beta leaked and declined to say when it will make a public announcement.
-“Our official comment at this time is 🤐,” TechCrunch was told.
-In the meantime, interested testers can try to join the beta here. If you can’t get in, you can sign up to be informed of its public launch here.
-Update, 3:30 PM ET: Post updated with more information provided by company about the size of the beta test group. 
+swiftkey smart keyboard app maker acquired microsoft  million earlier year testing product predictive keyboard app called swiftmoji guessed new app focuses helping quickly type appropriate emoji complement text based conversations
+the app just launched private beta test google play means try opt  beta tester
+swiftkey tells small number people  accepted beta
+the company formal announcement app declined provide information asked details like eta public launch plans platforms more
+that said according app description google play swiftmoji automatically suggest right emoji based you’ve just typed  presented ways emoji prediction row which places row emoji suggestions just keyboard word suggestions row icons  undocked dragged screen turning suggested emoji floating icons similar facebook chat heads
+the app like swiftkey main keyboard takes advantage company ai technology understand context typing as its emoji suggestions update continue type
+the advantage using keyboard like make process adding emoji to your conversations quicker having constantly updating new emoji predictions make it a bit distracting thanks colorful nature little icons
+in addition emoji predictions keyword offers word suggestions ability customize keyboard size option use flow input (dragging finger screen lets turn features like autocorrect auto space prediction quick periods (via double taps automatic capitalization
+it clear time swiftkey considers experiment does roadmap includes public launch
+if time company trialed new idea wild past released experimental keyboards like swiftkey clarity focused multi word autocorrect swiftkey neural alpha used neural networks instead predictive algorithms improve words suggestions
+these are products emerging swiftkey r&d hub swiftkey greenhouse tests new ideas to see users respond notably swiftmoji listed greenhouse site
+while making access emoji easier like silly thing focus actually fairly critical text based conversations emoji help add emotional context meaning lost unable speak directly person watch facial cues
+fast access emoji touted features google newly launched ios keyboard gboard emoji available keyword search instead just scrolling
+swiftkey says looking how information swiftmoji beta leaked declined say make public announcement
+our official comment time 🤐 techcrunch told
+in meantime interested testers try to join beta ca sign  informed public launch here
+update  pm et post updated information provided company size beta test group 

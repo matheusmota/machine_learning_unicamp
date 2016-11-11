@@ -1,9 +1,9 @@
-Internet performance management company Dyn has raised $50 million in Series B funding.
-Dyn was founded back in 2001, with its first product being a DNS service called DynDNS. Over time, it’s expanded into a broader suite of products that allow companies including Pfizer, Visa, Netflix and Twitter to monitor their online availability, security and speed.
-In addition to the funding, the company is announcing the launch a new platform that CEO Jeremy Hitchcock said will combine online traffic steering with data and analytics to create “a more comprehensive view” of performance.
-For a long time, the company was bootstrapped, waiting more than a decade before raising its $38 million Series A, and then waiting another three-plus years before raising this Series B.
-Dyn says it will reach more than $100 million in annualized recurring revenue later this year, Hitchcock said it’s still primarily a “customer-funded business,” but the time was right to raise more money: “We see a real space for us to go faster and capture more of our opportunity.”
+internet performance management company dyn has raised  million series b funding
+dyn founded  product dns service called dyndns time expanded broader suite products allow companies including pfizer visa netflix twitter monitor online availability security speed
+in addition funding company announcing launch new platform ceo jeremy hitchcock said combine online traffic steering data analytics create comprehensive view performance
+for long time company bootstrapped waiting more decade raising  million series waiting plus years raising this series b
+dyn says reach  million annualized recurring revenue later year hitchcock said primarily customer funded business but the time right raise money real space faster capture opportunity
 
 
-“[This investment] really underscores this whole migration is taking place into the cloud and this hybrid world where it’s getting more complicated and more complex,” he said. “You’re accessing dozens of different technologies behind-the-scenes and each of those interactions has to work just as seamlessly.”
-The Series B was led by Pamplona Capital Management.
+this investment really underscores this migration taking place cloud hybrid world getting more complicated and complex said accessing dozens different technologies behind scenes interactions work just seamlessly
+the series b led pamplona capital management

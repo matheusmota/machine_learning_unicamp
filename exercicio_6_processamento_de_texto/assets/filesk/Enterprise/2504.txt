@@ -1,17 +1,17 @@
-When Yhat, the company that has developed solutions to help organize data scientist teams, graduated from the Y Combinator, winter 2015 class, the founders had a goal to raise a million dollars to keep growing the company when they returned to New York.
-They may have aimed too low.  The team actually was able to raise $1.5 million in their oversubscribed round, thanks to the interest in their technology.
-Being part of Y Combinator enabled the founders to meet people in Silicon Valley — really one of the goals when they applied. The company already had east coast finance connections, but the founders hoped to build a network in Silicon Valley too. Being part of YC opened the door to meeting the right people, Yhat CEO and co-founder Austin Ogilvie explained.
-“Y Combinator was an excellent way to build a west coast network of entrepreneurs and experienced software investment operators,” he said.
-The Post-YC financing objective was a $1 million raise and was mostly focused on meeting these  strategic west coast angel investors. In particular they hoped to attract enterprise SaaS executives.
-And they found some good ones in Tikhon Bernstam, who co-founded Scribd and Parse; Ilya Sukhar, another Parse co-founder; and Justin Kan, who founded Twitch. These are experienced entrepreneurs and that’s precisely what Ogilvie and his co-founder Greg Lamp were hoping for.
-In fact, they got a mix of over 20 investors, including several backers from the first seed round. Currently Yhat has 14 customers. Ogilvie joked that his company is “a mighty team of 9” right now, but there are plans to expand.
-The company doesn’t plan to sit still in the wake of Y Combinator, which he described as a whirlwind of activity.”The whole YC conclusion was overwhelming in a  good way, but I’m glad to be back and focussing all of my attention on my business,” Ogilvie said.
-With money in hand, co-founder Lamp flew to New York to get more office space. Over the next six months, they plan to hire at least 4 new employees.
-The company has two products at the moment, ScienceOps and ScienceBox. The former, as they explained to TechCrunch last winter, “they developed as a solution designed to help teams of data scientists work and communicate more effectively with one another as they built projects on top of popular data science tools like R and Python.”
-“Largely that road map [for ScienceOps] is centered around the idea of helping enterprises, understand the efficacy of the predictive models they are using in day-to-day decision making,” Ogilvie explained.
-This will allow customers to measure the quality of the rules and predictive models they are using for their business decisions. He offers these examples: “How good are my product recommendations today vs. last week vs. last year?” or “How is our newly minted credit scoring model performing and are we seeing those lower credit loss rates we expect?”
-The next version of ScienceOps is in early beta with wider rollout expected some time in the third quarter this year. Early customers are giving favorable reports, he said.
-ScienceBox was the second product and designed to help smaller teams of data scientists
-Ogilvie also gave a glimpse of a future product that’s not quite ready for release called ScienceCluster. It will enable data science teams to build clusters made up of multiple servers. This will unleash power that should create entirely new use cases.
-It’s a crazy, fast-growing market and it takes a lot of education to explain the products to large organizations, many of which are just beginning to dabble in data science, he says.
-Yhat has some funds now to keep it going, but Ogilvie made it clear he’s in it for the long haul. He wants to see his company grow and develop into a much larger organization.
+when yhat company developed solutions help organize data scientist teams graduated y combinator winter  class founders goal raise million dollars growing company returned new york
+they aimed low  the te actually was able raise  million oversubscribed round thanks technology
+being y combinator enabled founders meet people silicon valley  really goals applied company east coast finance connections  founders hoped build network silicon valley yc opened door meeting right people yhat ceo founder austin ogilvie explained
+y combinator excellent way build west coast network entrepreneurs experienced software investment operators said
+the post yc financing objective  million raise focused meeting  strategic west coast angel investors particular hoped attract enterprise saas executives
+and good ones in tikhon bernst founded scribd parse ilya sukhar parse founder justin kan founded twitch experienced entrepreneurs precisely ogilvie founder greg lamp hoping for
+in fact they got mix  investors including backers seed round currently yhat  customers ogilvie joked company mighty te  right  plans expand
+the company does plan sit still in wake of y combinator described as a whirlwind activitythe yc conclusion overwhelming  good way  i’m glad  focussing attention business ogilvie said
+with money hand founder lamp flew new york office space months plan hire  new employees
+the company products moment scienceops sciencebox explained techcrunch winter developed solution designed help teams data scientists work communicate effectively built projects popular data science tools like r python
+largely road map scienceops centered idea helping enterprises understand efficacy predictive models using day day decision making ogilvie explained
+this allow customers measure quality the rules predictive models they using for their business decisions offers examples good product recommendations today vs week vs year newly minted credit scoring model performing seeing lower credit loss rates expect
+the version scienceops is in early beta wider rollout expected time quarter year early customers giving favorable reports said
+sciencebox second product designed help smaller teams data scientists
+ogilvie gave glimpse future product quite ready release called sciencecluster enable data science teams build clusters of multiple servers unleash power create entirely new use cases
+it crazy fast growing market takes lot education explain products large organizations just beginning dabble data science says
+yhat funds going  ogilvie clear long haul he wants company grow develop larger organization

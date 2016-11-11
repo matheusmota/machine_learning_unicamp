@@ -1,18 +1,18 @@
-While smartphone users continue to be obsessed with snapping photos of everything around them/every angle of their person, developers will continue to come up with new ways to share those photos. And so the photo-sharing apps keep on coming.
-A new app called Dudr, created by a German startup, launched last week on iOS with the idea of mimicking the effect of giving a group of friends a bunch of disposable cameras to snap photos at the same event.
-Dudr’s gamification element is amped up by a requirement that these conjoined digital photo shoots are time-limited to 24 hours and that participants can only take 24 shots apiece.
-The team behind the app previously created another photo-focused service, called picjerry, which is a photo agency for smartphone users to try to sell the photos they take on their phones. Dudr is being funded by that other business, but is a spin-off — and potentially a startup in its own right — if the concept takes off, says CEO Bernd Schmekel.
-The team has patented a location-based trigger system to simplify setting up a time-limited group photo shoot on Dudr. It works by users simultaneously pressing and holding a button in the app when they are in the same location (the app uses GPS for this).
-Once all participants have appeared on screen, the button can be released and the shared photo channel is created. Dudr then starts tracking the time remaining till the end of a photo session, counting down till the 24 hours are up. After the time’s up everyone in the photo shoot gets a link to view all the shots — their own and everyone else’s.
-If a group of friends wants to add people who are not in their immediate vicinity to a Dudr, this can be done in a more typical way — by sending an invite link to a specific Dudr via SMS, email, social media, etc.
-At this bootstrapped stage, it’s safe to say Dudr is skeletal in terms of features and pretty rough round the edges, design wise. (It was apparently hacked together by the team in just 24 hours.) But if the core concept resonates, they could be onto something sticky.
-Last month another group-sharing app, called Stichy, launched — also looking to make it easier for groups to quasi-privately share media around events they all attended. Bottom line: not everyone wants to post everything on Facebook/Instagram et al. all the time. And partial sharing to specific groups of people on Facebook still sucks.
-The idea for Dudr came to Schmekel after his best friend returned from a holiday to the World Cup in Brazil last year.
-“He stayed there with his 3 DUDES in an apartment near Ipanema-Beach. They bought 10 quicksnaps (disposable cameras) — one for every day with 24 shots. After their vacation nobody could remember what actually happened. A week after, I was invited to their photo-show evening! All the DUDES were so excited, there were pictures… OMG…..!” is how Schmekel explains the Dudr origin story, via email.
-“I saw the potential for an app that provided a way to \”time-delay\” the viewing of photos from an event or place, and together with my coding team developed the DUDR app — 24 SHOTS in 24 HOURS!” he adds.
-Despite the dude-ish name and ‘bro-focused’ feel of the app right now, Schmekel says he sees potential for it to appeal outside lads’ holidays/outings — for other types of events such as gigs and weddings. So Dudr is not just intended for bros, even if it sounds like it might be.
-The app is free to download. Future monetization ideas might include getting brands to pay to start world channels. “Like Budweiser starts a world channel and is looking for the best beer drinker — or Nike looks for your sports activity!” says Schmekel.
-There may also be potential for premium in-app services for users, if they — for instance — want to find others to add on the app outside their own friend circle, he adds.
-It’s worth noting that photos taken with Dudr are not ephemeral. On the contrary they are permanently stored on the company’s servers. “In the future we give the users the possibility to get a download link — especially for weddings this is useful,” adds Schmekel.
-Indeed, the current v1 of the app does not even allow dudes to delete any of the photos they take, although Schmekel says that feature might well be added in future.
-In the meanwhile, dudes, be careful what you Dudr.
+while smartphone users continue  obsessed with snapping photos them/every angle person developers continue come new ways share photos photo sharing apps coming
+a new app called dudr created german startup launched week on ios with idea of mimicking effect giving group of friends bunch disposable cameras snap photos event
+dudr gamification element amped up by a requirement conjoined digital photo shoots time limited  hours participants  shots apiece
+the te app previously created another photo focused service called picjerry photo agency for smartphone users try sell photos phones dudr funded that other business  a spin  potentially startup right  concept takes says ceo bernd schmekel
+the te patented location based trigger simplify setting time limited group photo shoot dudr works users simultaneously pressing holding button app location (the app uses gps this
+once participants appeared screen button be released shared photo channel created dudr then starts tracking time remaining till end photo session counting till  hours time up everyone photo shoot gets link view shots  else
+if group friends wants add people are not immediate vicinity dudr  typical way  sending invite link specific dudr sms email social media etc
+at bootstrapped stage safe say dudr is skeletal terms features and pretty rough round edges design wise (it apparently hacked te just  hours  core concept resonates  sticky
+last month group sharing app called stichy launched  looking make easier groups quasi privately share media events attended bottom line wants post facebook/instagr et al time partial sharing specific groups people facebook sucks
+the idea dudr came schmekel best friend returned holiday world cup brazil year
+he stayed  dudes apartment near ipanema beach bought  quicksnaps (disposable cameras  day  shots vacation remember actually happened a week i invited photo evening! dudes excited pictures… omg…! how schmekel explains dudr origin story email
+i saw potential app provided way \time delay\ viewing photos event place coding te developed dudr app   shots  hours! adds
+despite dude ish ‘bro focused’ feel app right schmekel says he sees potential appeal outside lads holidays/outings  types events gigs weddings so dudr just intended bros sounds like be
+the app free download future monetization ideas include getting brands pay to start world channels like budweiser starts world channel looking best beer drinker  nike looks sports activity! says schmekel
+there may  potential premium app services users  instance  want to add app outside friend circle adds
+it worth noting photos taken dudr ephemeral contrary permanently stored company servers future users possibility download link  especially weddings useful adds schmekel
+indeed current v app does allow dudes delete photos they  schmekel says feature  added future
+in dudes  careful dudr

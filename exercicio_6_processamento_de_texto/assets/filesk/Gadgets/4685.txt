@@ -1,7 +1,7 @@
-Buying and running a bitcoin miner is either a labor of love or an effort at profit… but rarely both. 21.co, for their part, seems to have reached an interesting parity.
-Their new Bitcoin Computer is a Raspberry Pi 2 connected to a bitcoin mining rig. It is available for pre-order now on Amazon for $399. They also include a WiFi adapter and a 128GB SD card with a copy of the blockchain preinstalled.
-21.co is a secretive bitcoin company founded by Balaji S. Srinivasan. This is their first consumer product.
-The system allows you to buy and sell goods and mine bitcoin on a low-power 21 Bitcoin Chip. You can also use the computer to sell “anything to anyone” with Bitcoin using a Micropayments system and you can connect to it via any terminal.
-Writes Srinivasan:
+buying running bitcoin miner labor love effort profit…  rarely reached interesting parity
+their new bitcoin computer raspberry pi  connected bitcoin mining rig available pre order amazon  include wifi adapter gb sd card copy blockchain preinstalled
+co secretive bitcoin company founded balaji s srinivasan consumer product
+the allows buy sell goods bitcoin low power  bitcoin chip use computer sell  bitcoin using micropayments connect terminal
+writes srinivasan
 
-Why does this exist? It looks like 21’s effort to release an entry-level and very usable Bitcoin miner for the rest of us. While it’s trivial to make your own BTC miner, adding the micropayment systems to the mix make things a lot more interesting. This is also a solid move by Srinivasan to prove that they are ready to rock and roll in the consumer space. We’re expecting the company to start launching a chipset for mining bitcoin inside cellphones and the like but this is a nice start.
+why does exist looks like  effort release entry level usable bitcoin miner rest trivial make btc miner adding micropayment systems mix make things lot interesting solid srinivasan prove ready rock roll consumer space expecting company start launching chipset mining bitcoin inside cellphones like  nice start

@@ -1,6 +1,6 @@
-Following its Windows 10 event, Microsoft announced this morning that the next version of Office is called Office 2016 and will be generally released in the second half of this year. The company didn’t announce much more about Office 2016 today, but you know what to expect, given the history of the product.
-The promised release is currently most notable for keeping alive a traditional focus on mouse and keyboard input. The company has recently made quite a lot of noise about exploring other forms of user input in its software. Most obvious of that trend was the initial release of Windows 8.
-Microsoft is also building a set of Office apps for Windows, designed to accept touch input that the company calls “Office for Windows 10.” These apps will be similar to what the company has built for other mobile-friendly platforms and will be free for smaller Windows 10 devices. Microsoft providing free builds of Office for some devices is not new; the company did something similar with Windows RT.
-Office for Windows 10 will be out in an early form in “coming weeks,” according to the company.
-So Microsoft is wrapping up its march of touch-focused builds of Office for mobile platforms, including its own, and also kicking out a desktop-friendly build of Office this year. Those releases, paired with the go date of Windows 10 mean that the company’s two most public products will be refreshed in tandem.
-It’s going to be a busy year in Redmond.
+following windows  event microsoft announced morning the next version office is called office   generally released second half year the company did announce office  today  know expect given history product
+the promised release currently notable keeping alive traditional focus mouse keyboard input company recently quite lot noise about exploring other forms user input software obvious trend initial release windows 
+microsoft building set office apps windows designed accept touch input company calls office windows  apps  similar company built mobile friendly platforms  free smaller windows  devices microsoft providing free builds office devices new company did similar windows rt
+office windows   early form coming weeks according company
+so microsoft wrapping march touch focused builds office mobile platforms including kicking desktop friendly build office year releases paired date of windows  mean company public products  refreshed tandem
+it going  busy year redmond

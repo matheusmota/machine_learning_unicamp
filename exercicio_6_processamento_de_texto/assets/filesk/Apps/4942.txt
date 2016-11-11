@@ -1,13 +1,13 @@
-It’s no “street view for cats,” but Google’s newly launched Street View mobile app does promise to make it easier to explore Google Map’s immersive, 360-degree imagery as well as contribute your own photos to improve the overall Google Maps experience.
-The app, which is actually an update and rebrand of Google’s older “Photo Sphere Camera,” combines the same feature set that was available previously, which included the ability to create panoramic “photo spheres” and share them back to Google Maps, along with new features, like an improved ability to explore photo spheres shared by others as well as browse through Google Street View collections.
-As you may recall, Google introduced the Photo Sphere Camera just over a year ago, with the goal of giving users a fun tool to take panoramic photos, while also offering Google a way to tap into that user-generated content for its own purposes.
-However, that app ended up having niche appeal – after all, there were already a number of third-party tools for taking panoramic photos, and iOS itself includes a panoramic photo feature, too. The app is currently ranked #363 in the Photo & Video category on the iTunes App Store. Or, in other words, it hasn’t been a breakout hit.
-For comparison’s sake, Google Maps is the #8 most downloaded iOS app of all time.
-That’s why it makes sense that Google is now attempting to leverage its better-known “Maps” brand and the popular Street View feature with this app’s makeover.
+it street view cats  google newly launched street view mobile app does promise make easier explore google map immersive  degree imagery contribute your own photos to improve overall google maps experience
+the app actually update rebrand google older photo sphere camera combines feature set available previously included ability create panoramic photo spheres share google maps new features like improved ability explore photo spheres shared browse google street view collections
+as recall google introduced photo sphere camera just year ago goal giving users fun tool panoramic photos offering google way tap user generated content for purposes
+however app ended having niche appeal  number party tools taking panoramic photos ios includes panoramic photo feature app currently ranked # photo & video category itunes app store words breakout hit
+for comparison sake google maps # downloaded ios app time
+that makes sense that google is now attempting leverage better known maps brand popular street view feature app makeover
 
-With the Street View app, users can do more than just snap their own panoramic photos and share them back to Google or to online communities. They can also explore the “photo spheres” others have taken from around the world right alongside Google’s own Street View Collections. (Before, you could only view others’ photo spheres.)
-This makes the app, previously more of a specialized camera with photo-sharing features, something that could inch into the utilities space where it could see more regular use.
-After all, while it may be fun to virtually explore the world – like by scaling the rock wall El Capitan in Yosemite or by hiking Mt. Fuji, as Google suggests – it also seems to be a practical tool for just scoping out a new location you’re planning to visit, without being weighed down by all the extraneous features found in the flagship Google Maps app.
+with street view app users just snap panoramic photos share google online communities explore photo spheres taken world right alongside google street view collections (before view photo spheres
+this makes app previously specialized camera photo sharing features inch utilities space regular use
+after  fun virtually explore world  like by scaling the rock wall el capitan yosemite hiking mt fuji google suggests   practical tool just scoping new location planning visit weighed extraneous features flagship google maps app
 
-In addition to letting you shoot panoramic photos using your smartphone, the updated Street View map also works with newer, spherical cameras like the Ricoh Theta S or NCTech iris360, notes Google. These cameras may not appeal to all users, as 360-degree photos and videos aren’t exactly an everyday need. But they may make sense for those looking for simpler, more portable solutions for recording 360-degree shots without needing complicated camera arrays like a GoPro rig.
-The updated Street View app is live now on iTunes and Google Play.
+in addition letting shoot panoramic photos using smartphone updated street view map works newer spherical cameras like ricoh theta s or nctech iris notes google cameras appeal users  degree photos videos not exactly everyday need  make sense looking simpler portable solutions recording  degree shots needing complicated camera arrays like a gopro rig
+the updated street view app is live now on itunes google play

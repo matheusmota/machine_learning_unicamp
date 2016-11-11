@@ -1,5 +1,5 @@
-Airpost, a startup that helps IT managers monitor their employees’ cloud applications, announced this morning that it has been acquired by Box.
-Airpost founder and CEO Navid Nathoo’s blog post makes this sound like a talent acquisition. The Airpost team will be joining Box (which went public just under a month ago), while the Airpost service will be shut down on March 1.
-A Box spokesperson confirmed the news via email.
-Here’s how Nathoo explains the deal:
-I haven’t been able to find much press coverage of Airpost on TechCrunch or elsewhere, but Nathoo writes that the company was founded two years ago. (It was incubated at the enterprise-focused Alchemist Accelerator.) The goal was to help IT managers make peace with the cloud by giving them “the visibility and confidence they needed to securely adopt and deploy cloud applications into their organization.”
+airpost startup helps managers monitor employees cloud applications announced morning acquired box
+airpost founder ceo navid nathoo blog post makes sound like talent acquisition airpost te  joining box (which went public just month ago airpost service  shut march 
+a box spokesperson confirmed news email
+here nathoo explains deal
+i able much press coverage airpost techcrunch  nathoo writes company founded years ago (it incubated enterprise focused alchemist accelerator goal help managers make peace cloud giving visibility confidence needed securely adopt deploy cloud applications organization

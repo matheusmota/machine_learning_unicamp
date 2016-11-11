@@ -1,7 +1,7 @@
-VLC, the venerable and widely used multi-platform video player, received a major update on Android today, adding a number of highly requested features while managing to actually reduce the number of permissions it needs. That seems like an infallible sign of a trustworthy developer right there.
-With version 2.0, compatibility now stretches all the way from Android 2.2 (that was “Froyo,” remember?) to N, whether that will end up meaning nougat, nilla wafer, or something terrible.
-One of VLC’s original standout features (we’re talking a decade and more ago — some of you surely remember) has always been network playback — and with 2.0, that’s “mostly done ,” says the VideoLAN blog post.
+vlc venerable widely used multi platform video player received major update android today adding number highly requested features managing actually reduce number permissions needs like infallible sign trustworthy developer right there
+with version  compatibility stretches way android  (that froyo remember n end meaning nougat nilla wafer terrible
+one vlc original standout features (we talking decade ago  surely remember  network playback    says videolan blog post
 
-DLNA/UPnP, Windows network sharing, FTP, SFTP, and NFS protocols are supported. The app will also now automatically find subtitles via the network, either your own or via OpenSubtitles, and there’s better support for right-to-left and complex-layout subtitles.
-Video playlists, multi-window support, and a playback history (don’t worry, you can turn it off) also made it into this major release. VLC is also now a unified package across phones, tablets, and Android TV devices, so you can swap between interfaces at will.
-This release will surely be a welcome one to old-school VLC users like myself, offering more options for Android-based TV playback and, really, just the satisfaction that one of the most solid pieces of software out there is still going strong. And it’s still free, of course.
+dlna/upnp windows network sharing ftp sftp nfs protocols supported app automatically subtitles network opensubtitles better support right left complex layout subtitles
+video playlists multi window support playback history (do worry turn major release vlc unified package phones tablets android tv devices swap interfaces will
+this release surely  welcome old school vlc users like offering options android based tv playback really just satisfaction solid pieces software going strong free course

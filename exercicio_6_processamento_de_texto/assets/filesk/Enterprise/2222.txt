@@ -1,13 +1,13 @@
-Workday, the 10 year old company that specializes in finance and human resources software in the cloud, announced a new program today called Workday Ventures, an investment arm focusing on startups with a machine learning bent.
-It intends to fund 10-12 companies this year with executives Dan Beck, senior vice president of technology products and Adeyemi ‘Ade’ Ajao, vice president of technology product strategy running the program.
-It has already funded several companies including Thinair, a security service; Unbabel, an online translation tool; Metanautix, a company creating tools to make sense of big data and Jobr, a mobile tool for searching and applying for jobs.
-As early stage startups with an emphasis on machine learning, these are the types of companies Workday is hoping to work with.
-The company began thinking about this last fall when it released a product called Insight with a greater focus on analytics, Beck explained. It launched a program called Startup Friday and invited entrepreneurs to come in and talk about their machine learning-focused companies.
-Workday decided it wanted to formalize their relationship with some of these companies and Workday Ventures was born.
-Why concentrate on machine learning? If the last 10 years were about moving from client-server to the cloud, the next 10 are going to be about data science and machine learning, Beck explained. “We wanted to be closer to that,” he said.
-“We bring a different perspective than a Sand Hill venture capital firm. We are operators, entrepreneurs. We’ve been there,” Beck said.
-Unlike a typical venture capital firm, Workday isn’t setting up a fund with a specific amount of money looking for a set return on its investments. Instead, it sees this as a strategic, rather than a financially motivated project, Ajao explained.
-The company wouldn’t disclose how much money they are talking about, but Ajao said the individual investments are big enough to be significant, yet small enough that Workday wouldn’t control the startup. In fact, he says they tend to work with more formal venture capital firms like Sequoia, Google Ventures and Greylock who lead the investments.
-Workday, is looking for a standard bargain for this type of approach. It offers startups access to its executives for advice, its marketing clout and introduces these young companies to Workday’s substantial customer base.
-In exchange, Workday gets access to the agility and knowledge these young companies can offer. The company sees machine learning in particular as a big part of its business moving forward, and it hopes to learn from these startups, as much as they learn from working with Workday.
-Workday Ventures researches the companies, brings them in and makes an investment decision in a couple of days. For now, the program has only one full time staffer, but the company says it’s early days. The thinking is to have Workday executives run the program and then see how it goes, adding staff as needed over time.
+workday  year old company specializes finance human resources software cloud announced new progr today called workday ventures investment arm focusing startups machine learning bent
+it intends fund   companies year executives dan beck senior vice president technology products and adeyemi ‘ade’ ajao vice president of technology product strategy running program
+it funded several companies including thinair security service unbabel online translation tool metanautix company creating tools to make sense big data jobr mobile tool searching applying jobs
+as early stage startups emphasis machine learning types companies workday hoping work with
+the company began thinking fall released product called insight with greater focus analytics beck explained launched a progr called startup friday and invited entrepreneurs come talk machine learning focused companies
+workday decided it wanted formalize relationship companies workday ventures born
+why concentrate on machine learning  years moving client server cloud  going be about data science machine learning beck explained wanted  closer said
+we bring different perspective a sand hill venture capital firm operators entrepreneurs we’ve beck said
+unlike typical venture capital firm workday setting a fund specific money looking set return investments instead sees strategic financially motivated project ajao explained
+the company disclose money talking  ajao said individual investments are big  significant small workday control startup fact says tend work formal venture capital firms like sequoia google ventures greylock lead investments
+workday looking standard bargain type approach offers startups access executives advice marketing clout introduces young companies workday substantial customer base
+in exchange workday gets access agility knowledge young companies offer company sees machine learning particular big its business moving forward hopes learn startups learn working workday
+workday ventures researches companies brings makes investment decision couple days progr time staffer  company says early days thinking have workday executives run progr goes adding staff needed time

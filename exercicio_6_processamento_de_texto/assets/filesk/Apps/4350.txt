@@ -1,16 +1,16 @@
-So you’ve shot some cool video footage — congrats! But if it needs any editing, you’ve still got a lot of work ahead of you.
-Or you could try out a startup called VidMob, which is building a marketplace for professional video editors. The company has been beta testing its products, with plans to launch an iOS soon, and an Android app later on.
-VidMob is also announcing that it has raised $2 million in seed funding from Foundation Capital and Acadia Woods Partners, plus various media executives and the venture arm of ad agency Mother New York.
-Founder and CEO Alex Collmer said that he decided to launch the service because of the growing amount of video content online (in his words, “the web was quickly become a video medium”), as well as the growing number of smartphones, GoPro cameras and other devices that are capable of shooting that footage.
-New tools have also emerged on the editing side, such as Animoto and Magisto, but Collmer argued that they “sort of fall flat.”
-“The algorithm simply doesn’t know if my kid scored a goal or he fell on his face,” he said. “It doesn’t know if the joke that I said landed or if everyone is laughing at me.”
-In Collmer’s view, automated editing tools can’t replace the knowledge and judgment of human editors — but at the same time, you may not know any editors yourself, or you might not have the money to pay the sometimes hefty editing fees.
+so you’ve shot cool video footage  congrats!  needs editing you’ve got lot work ahead you
+or try startup called vidmob building marketplace professional video editors company beta testing products plans launch ios soon android app later on
+vidmob announcing raised  million seed funding foundation capital acadia woods partners plus various media executives venture arm ad agency mother new york
+founder ceo alex collmer said decided launch service growing video content online (in words web quickly  video medium growing number smartphones gopro cameras devices capable shooting footage
+new tools emerged editing animoto magisto  collmer argued sort fall flat
+the algorithm simply does know kid scored goal fell face said does know joke i said landed laughing me
+in collmer view automated editing tools ca replace knowledge judgment human editors   time know editors money pay hefty editing fees
 
-With VidMob, you can directly upload clips from your phone, then different editors can bid to work on your project. Once the bids are in, you can look at editors’ past work and select the one who seems like the right fit (or is charging the right price).
-Collmer said the prices will vary depending on the length and complexity of the project — ultimately, they’re up to the editors themselves. But as an example, he said that if a restaurant owner wanted to create a promotional video from footage shot in their establishment, it might only take 10 seconds to upload the footage and cost only $30.
-At the same time, Collmer that he’s not just trying to “match up people with overseas editors who can edit your stuff together on the cheap.” Instead, VidMob could help people with editing talent and experience find new opportunities to make money, regardless of whether or not they’re employed as an editor.
-“One thing that we focus on is having this be a positive force for employment,” he said. “We think that this can create millions of jobs.”
-Collmer added that VidMob will also make its technology available through APIs, which could make it easier for other online marketplaces to add video content.
+with vidmob directly upload clips phone different editors bid work project bids look editors past work select like right fit (or charging right price
+collmer said prices vary depending length complexity project  ultimately editors  example said restaurant owner wanted create promotional video footage shot establishment  seconds upload footage cost 
+at time collmer just trying match people overseas editors edit stuff cheap instead vidmob could help people editing talent experience new opportunities make money regardless not they employed editor
+one thing focus having  positive force employment said think create millions jobs
+collmer added vidmob make technology available apis make easier online marketplaces add video content
 
-The current plan is to launch VidMob on iOS at the end of October. Collmer is hoping to have thousands of editors on-board by then.
+the current plan launch vidmob ios end october collmer hoping thousands editors board then
 

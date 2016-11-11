@@ -1,24 +1,24 @@
-“Get ’em while they’re young” is a battle cry for every company. The younger your users are, the more you can evolve with them over time and keep them locked in to using your products. When I was in school (old person voice), Apple had a huge presence by doing educational partnerships which was ridiculously smart for branding. The hope was that kids would go home and beg mom and dad to get an Apple computer just like they used in school. For Apple, the longterm planning clearly paid off.
-Google wants a piece of that pie of course by offering a suite of software products fit for education (to go along with its Chromebook computers and tablet hardware). Apple computers weren’t cheap, even with a discount, and Google offers computers that are affordable enough to put in every kid’s hand. This is how Google will unseat Microsoft as the go-to enterprise software suite.
-The company says that its Google Apps for Education platform sports 40M active teachers and students. The program was introduced in 2007 and just nabbed the 10th-largest school district (Fairfax, Virginia) in the company as a client.
-In preparation for students and teachers going back to schools, Google Apps has unleashed a few features that surprisingly haven’t been put into the product until now. They’ll be in every version of the products, not just education:
-The helpful Research tool in Apps finally come to Android, so you can add links and images to your docs without having to hop around to a browser, copy and paste and you know the drill.
+get ’em young battle company younger users evolve time locked using products i school (old person voice apple huge presence doing educational partnerships ridiculously smart branding hope kids home beg mom dad apple computer just like used school apple longterm planning clearly paid off
+google wants piece pie course offering suite software products fit education (to chromebook computers tablet hardware apple computers cheap discount google offers computers affordable kid hand google unseat microsoft enterprise software suite
+the company says google apps education platform sports m active teachers students progr introduced  just nabbed th largest school district (fairfax virginia company client
+in preparation students teachers going schools google apps unleashed features surprisingly product they’ll  version products just education
+the helpful research tool apps finally come android add links images docs having hop browser copy paste know drill
 
-Now on to the part that I’m not completely buying: “Talk To Docs” aka voice typing. Google has taken the powerful voice to speech technology it uses for search and Google Now and piped that into Docs. Now you can dictate your notes or the paper you’re working on. Sounds great, except I can’t imagine 10 kids in a class talking to their computers (or someone sitting at their desk at work doing the same).
-It makes no sense, as it would disrupt the flow of the class. Even back in a dorm or at home, you’d have to be alone to sit there and talk to your computer without bothering someone. I’m not sold on this, but I hear that the kids love anything having to do with voice.
+now i’m completely buying talk docs aka voice typing google taken powerful voice speech technology uses search google piped docs dictate notes paper working sounds great i ca imagine  kids class talking computers (or sitting desk work doing same
+it makes sense disrupt flow class dorm home you’d  sit talk computer bothering i’m sold  i hear kids love having voice
 
-Knowing who changed what in a doc is a pain in the ass to figure out. It’s important when collaborating with a team to know exactly what changed, what it said before and who did it. Knowing that context lets things get done faster. In school, at work or at home.
-Simply hover over changes to get all of the context.
+knowing changed doc pain ass figure important collaborating te know exactly changed said did knowing context lets things faster school work home
+simply hover changes context
 
-Kids…you may never ever have to learn what a pivot table is. I mean, unless you’re going into finance or a field that relies heavily on numbers. Google introduced “Explore in Sheets” today which pop up insights automatically based on the contents of the sheet that you open. You can highlight different sets of info and the charts will change dynamically. It’s pretty cool.
-The idea is that Google can use its computational cloud power to find trends in huge docs full of numbers before you can. And while this doesn’t replace having your own data analyst, it can surely get you started or point things out to you right away.
-My colleague Frederic calls this “Microsoft Power BI lite.”
+kids…you learn pivot table i mean unless going finance field relies heavily numbers google introduced explore sheets today pop insights automatically based contents sheet open highlight different sets info charts change dynamically it pretty cool
+the idea google use computational cloud power trends huge docs numbers does replace having data analyst surely started point things right away
+my colleague frederic calls microsoft power bi lite
 
-The most useful product in the Apps suite to me is Google Forms. I’ve used it for parties, collecting addresses to send wedding invites to and everything that requires a few fields of information.
-Today, Google gave the whole product a swift kick in the butt with a cleanup that helps you make the form itself not look so ugly. Forms is clearly an important product to Google’s suite. Whew. I’m telling you, these things used to look like Geocities sites. Thank you, Google.
+the useful product apps suite google forms i’ve used parties collecting addresses send wedding invites requires fields information
+today google gave product swift kick butt cleanup helps make form look ugly forms clearly important product google suite whew i’m telling things used look like geocities sites thank google
 
-Whenever you open up Microsoft Word you see a bunch of templates. This user experience is quite helpful when starting a new doc from scratch. Google agreed and has tossed templates into play for Docs, Sheets and Slides.
-They’re exactly what you’d expect, giving you templates for work, education, letters or making a resume. Super user friendly.
+whenever open microsoft word bunch templates user experience quite helpful starting new doc scratch google agreed tossed templates play docs sheets slides
+they exactly you’d expect giving templates work education letters making resume super user friendly
 
-Getting kids to use these tools is the easy part; schools have been making teachers and students use whatever they tell them to for years. The hard part is keeping the kids locked in for the long run. With today’s changes, all of the Google Apps products are a bit more useful, a bit prettier and require a lot less learning. These types of changes must be continual to keep the funnel of new users full. The teams have already made over 100 tweaks this year alone.
-The formula is simple, but a challenge to carry out. Happy students become happy workers. Google Apps go with them wherever they go.
+getting kids use tools easy schools making teachers students use tell years hard keeping kids locked long run today changes google apps products bit useful bit prettier require lot learning types changes  continual funnel new users teams  tweaks year alone
+the formula simple  challenge carry happy students  happy workers google apps go with go

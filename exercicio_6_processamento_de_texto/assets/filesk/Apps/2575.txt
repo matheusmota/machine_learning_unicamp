@@ -1,27 +1,27 @@
-MixRadio, the radio music service that was transferred from Nokia to Microsoft and then bought by messaging app company Line last year, is finally available for iOS and Android. The service, which began life in 1999 when British artist Peter Gabriel founded it as OD2, was only been available for Microsoft (née Nokia) Lumia handsets until now.
-Since Microsoft’s Windows Phone is a distant third in the mobile platform war — Kantar estimates it accounts for less than five percent of phones sold in the U.S. — many people will be unfamiliar with MixRadio, so let’s take a step back for a second.
-The service is an internet radio, similar in style to Pandora. It’s free to use, and it monetizes with advertising, which appears in an ad unit at the bottom of the tab — that’s a lot more subtle than Pandora, but it is early days for MixRadio.
-The UK-baed service boasts a 35 million track catalog and comes with over 10,00 pre-made playlists, that includes your regular genre-based compilations and hand-crafted track lists from a range of artists, including Lana Del Rey, Rihanna and Lady Gaga. Pandora is limited to the U.S., Australia and New Zealand — I have to summon my VPN to use it in Thailand, which is tricky on mobile — but MixRadio is far more global with users in 31 countries.
+mixradio radio music service transferred nokia microsoft then bought messaging app company line year finally available ios android service began life  british artist peter gabriel founded od was only been available microsoft (née nokia lumia handsets now
+since microsoft windows phone distant mobile platform war  kantar estimates it accounts percent phones sold  people  unfamiliar mixradio let step second
+the service internet radio similar style pandora free use it monetizes advertising appears ad unit tab  lot subtle pandora  early days mixradio
+the uk baed service boasts  million track catalog comes  pre playlists that includes regular genre based compilations hand crafted track lists range artists including lana del rey rihanna lady gaga pandora limited australia new zealand  i summon vpn use thailand tricky mobile  but mixradio far global users  countries
 
-Like its illustrious competitor, MixRadio doesn’t you to rewind songs/playlists, while it also limits the number of skips you can make per playlist per hour. Interestingly though, MixRadio allows users to store parts of their playlist offline for playback without an internet connection. There is also an option to get more details on each artist, and you can buy tracks outright from third-parties stores (iTunes on iOS) too.
-MixRadio claims to have “millions” of monthly active users through its distribution via Lumia devices — it didn’t provide a figure for its total registered userbase — but launching on iOS and Android brings the potential to vastly increase that figure, even if it is fairly late to the scene and only a radio service.
-“I’ve said consistently that for a music service to be relevant, it must be on all major platforms,” MixRadio CEO Jyrki Rosenberg told TechCrunch in an interview. “We still consider Windows Phone to be an important platform — particularly given our deal to pre-load the app on Lumia devices.”
-There’s already Pandora and Apple’s iTunes Radio, competitors like Spotify, Deezer offer limited versions of their services for free, and Tidal, Rdio and others offering users a monthly subscription service — is there really a need for Yet Another Music Service?
-While it may mirror in some ways Pandora, Rosenberg said he believes that MixRadio differs from the competition with its focus on personalization and mobile. (For now, there is no desktop or web app.)
-“The music industry is transitioning from physical to digital sales, and from downloading to streaming,” he said. “But we are focused on people, they want simplicity of use and a high level of personalization.
-“[When] we began to develop [it was] for mobile, whereas other competitors started from the computer screen,” Rosenberg added.
+like illustrious competitor mixradio does rewind songs/playlists also limits number skips make playlist hour interestingly mixradio allows users store parts playlist offline playback internet connection option details artist buy tracks outright parties stores (itunes ios too
+mixradio claims millions monthly active users distribution lumia devices  did provide figure total registered userbase   launching ios android brings potential vastly increase figure fairly late scene radio service
+i’ve said consistently music service  relevant  major platforms mixradio ceo jyrki rosenberg told techcrunch interview consider windows phone to  important platform  particularly given deal pre load app lumia devices
+there pandora apple itunes radio competitors like spotify deezer offer limited versions services free tidal rdio offering users monthly subscription service  really need music service
+while mirror ways pandora rosenberg said believes mixradio differs competition its focus personalization mobile (for desktop web app
+the music industry transitioning physical digital sales downloading streaming said  focused people want simplicity use high level personalization
+when we began develop mobile competitors started computer screen rosenberg added
 
-Rosenberg argued that internet radio remains “a massive opportunity” for the sheer simplicity that it offers.
-“Many services are very focused on enthusiast users,” he explained. “Everyone loves music but everyone has a different taste — we believe most users would love a service that plays music that they like, but how many people have time [to create and develop their own playlists].”
-The MixRadio CEO is bullish on the possibilities that analysing data and algorithms can service users up music that they’ll appreciate based on their music history, and a few selections that the app prompts you to make when you open it for the first.
-I have a pretty weird eclectic taste, live in one of the many countries not supported by Pandora, and find that Spotify, Deezer and Rdio work well when I know what I want to listen to, but struggle to surface new music. For those reasons, the past few days of testing MixRadio for iOS has given me something different, but at times mixing together a bunch of different tunes hasn’t been ideal.
-The fact that many of its rival service are not available across all countries gives MixRadio some advantage. Though it remains to be seen what proportion of people in markets like India will pay for legitimate services, as I pointed out last week.
+rosenberg argued internet radio remains massive opportunity sheer simplicity offers
+many services focused enthusiast users explained loves music  different taste  believe most users love service plays music like  people time create develop playlists
+the mixradio ceo bullish possibilities analysing data algorithms service users music they’ll appreciate based music history selections app prompts make open first
+i pretty weird eclectic taste live countries supported pandora spotify deezer rdio work i know i want listen  struggle surface new music reasons the past days testing mixradio ios given different  times mixing bunch different tunes ideal
+the fact that many rival service are available countries gives mixradio some advantage remains  seen what proportion people markets like india pay legitimate services i pointed week
 
-Asia is an area where MixRadio’s alliance with Line could be interesting, although for now there is no integration between the music app and chat service with 205 million monthly active users.
-“We’ve been part of a global company,” Rosenberg said, “And now we have a parent with a strong footprint in Asia. We expect [this launch will give us] growth in Asia in addition to Western markets.”
-Rosenberg was light on specific details of how Line will use MixRadio, but with the Japanese company testing its own TV service in Southeast Asia and a paid-for streaming service for kids in Japan, it is clear that it is looking to introduce entertainment services as part of its push to turn its messaging app into a platform.
-“We’re not announcing integrations [with Line], but we are talking a lot with them on future innovative,” he said.
-More immediately though, MixRadio appears to have evolution plans of its own. Though he wouldn’t be drawn into revealing specific details, Rosenberg coyly said that iOS and Android apps “are very interesting starting point for us.”
-“We’re not announcing any other tiers,” he said, when asked on plans to introduce free play options to MixRadio. “But everything is possible.”
-One partnership that MixRadio can talk about is with HTC. It is working with the smartphone maker to power the music component of its BlinkFeed service.
-You can find MixRadio for iOS here, and MixRadio for Android here.
+asia area mixradio alliance line  interesting  integration music app chat service  million monthly active users
+we’ve global company rosenberg said parent strong footprint asia we expect launch growth asia addition western markets
+rosenberg light specific details line use mixradio  japanese company testing tv service southeast asia and paid streaming service kids japan clear looking introduce entertainment services its push turn its messaging app platform
+we announcing integrations line  talking lot future innovative said
+more immediately mixradio appears evolution plans  drawn revealing specific details rosenberg coyly said ios android apps are very interesting starting point us
+we announcing tiers said asked plans introduce free play options to mixradio  possible
+one partnership mixradio talk htc working smartphone maker power music component its blinkfeed service
+you mixradio ios mixradio android here

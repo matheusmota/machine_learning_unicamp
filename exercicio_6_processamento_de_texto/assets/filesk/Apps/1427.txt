@@ -1,33 +1,33 @@
-Peeple, the controversial people-rating application that lets its users rate and review anyone, is not a hoax or vaporware, as many suspected following the media backlash surrounding the unveiling of the company’s intentions last fall. The Washington Post even called the app “terrifying,” given that the app didn’t plan to allow users to opt out of being reviewed — a feature that remains in the version that launched this week.
-With the app’s debut, the company is trying to present itself as having a more positive aim and image, with gestures toward anti-bullying and settings for hiding unwanted recommendations. However, there are still valid concerns that the company is planning to profit by selling access to the hidden negative reviews left on its platform.
-In case you missed it the first time around, the Calgary-based startup comes from Julia Cordray and Nicole McCullough — both non-technical founders who outsourced the app’s development to Y Media Labs. The app was described as a “Yelp for humans.” That is, you can sign up to leave reviews of anyone you know — from co-workers and bosses to exes and friends or even local service pros.
-McCullough’s LinkedIn profile said she was inspired to create Peeple as a means of vetting people, like contractors, babysitters or neighbors. Of course, services for rating professionals and businesses, including Google’s business reviews, Yelp, ZocDoc, Angie’s List and others have existed for some time. Peeple’s differentiator was that it wanted to venture into the personal space, as well.
-It was unclear at the time if the founders were genuinely naive of the problems such an app could incite, or if they were smartly playing up the “all press is good press” angle to encourage viral buzz about the service.
-But when the app didn’t launch as expected in late 2015, it was written off as vapor and simply forgotten.
-Now Peeple has actually gone live.
-In a press release, the founders wrote of how much they were harassed following the bad press the app received, which they said was “ironic” as the complaints involved concerns about the potential for cruel bullying, threats and abuse that could take place on its platform.
-The company also said it made several changes in light of those concerns, including giving users full control over what goes on their profile, offering the ability to deactivate their profile and more. The company noted, too, that “no one can add you to the app” — making it sound as if being reviewed on Peeple is an opt-in experience.
-That’s not entirely true, however.
-Peeple’s own website says you can still write “recommendations” (i.e. reviews, but not necessarily positive ones) for anyone who’s not on the app, then choose to invite that person to join Peeple.
-In other words, even if you’re not participating, someone could write your review. Sure, that review might not be public, but it exists in a digital format on the company’s servers.
-If you choose to join Peeple, you can decide which reviews appear on your profile.
-The concerning aspect to Peeple is that it’s considering offering access to these hidden and negative reviews as a paid subscription.
+peeple controversial people rating application lets users rate review  hoax or vaporware suspected following media backlash surrounding unveiling company intentions fall washington post called app terrifying given app did plan allow users opt reviewed  feature that remains version launched week
+with app company trying present having positive aim image gestures anti bullying settings hiding unwanted recommendations valid concerns company planning to profit by selling access hidden negative reviews left platform
+in case missed time the calgary based startup comes from julia cordray nicole mccullough  non technical founders outsourced app development y media labs app was described yelp humans can sign to leave reviews  know  workers bosses exes friends local service pros
+mccullough linkedin profile said inspired create peeple means vetting people like contractors babysitters neighbors course services rating professionals businesses including google business reviews yelp zocdoc angie list existed time peeple differentiator wanted venture personal space well
+it unclear time founders genuinely naive problems app incite smartly playing press good press angle encourage viral buzz service
+ app did launch expected late  it written vapor and simply forgotten
+now peeple actually gone live
+in press release founders wrote harassed following bad press app received said ironic complaints involved concerns potential cruel bullying threats abuse place platform
+the company said changes light concerns including giving users control goes profile offering ability deactivate profile company noted too that add app  making sound reviewed peeple opt experience
+that entirely true however
+peeple website says you write recommendations (ie reviews  necessarily positive ones  app choose invite person join peeple
+in words participating write review sure review  public  exists digital format company servers
+if choose join peeple decide which reviews appear profile
+the concerning aspect peeple considering offering access hidden negative reviews paid subscription
 
-Called the “Truth License,” Peeple says that paying users would be able to read anything that has been written about a person, whether or not the person published the reviews on their profile.
-Or, to sum up: Peeple’s plan is to profit by selling access to everyone’s negative reviews.
-Co-founder Cordray clarified to TechCrunch that the Truth License is not actually live, but is something the company is “considering” as a future feature alongside other in-app purchases like in-app search credits, gifts and personality testing.
-That being said, the fact that it’s on the table at all — and promoted in the company’s press release — should give users pause for concern.
-Not only that, but the company doesn’t seem to have a solid plan to proactively prevent cyber bullying through the service. Its terms apparently prohibit things like “profanity, bullying, health references, disability references, confidential information, mentioning other people in a recommendation that you are not currently writing a recommendation for, name calling, degrading comments, abuse, derogatory comments, sexual references, racism, legal references, hateful content, sexism” and more.
-But Peeple’s Terms are hard to read, as they’re only linked to in the app itself, and are several pages long. But this snippet should give you an idea of what Peeple is really up to, noting that:
-“Once Content is published it may not be able to be removed,” and that by joining, “you hereby irrevocably grant to Peeple the continuous, non-exclusive, royalty-free right to use your Content for any purpose whatsoever and in any format. These rights shall be assignable, transferable, and licensable by Peeple.” 
-Um, no?
+called truth license peeple says paying users  able read anything written person person published reviews profile
+or sum peeple plan profit selling access negative reviews
+co founder cordray clarified techcrunch truth license actually live  company considering future feature alongside app purchases like app search credits gifts personality testing
+that said fact table  promoted company press release  users pause concern
+not  company does solid plan proactively prevent cyber bullying service terms apparently prohibit things like profanity bullying health references disability references confidential information mentioning people recommendation currently writing recommendation calling degrading comments abuse derogatory comments sexual references racism legal references hateful content sexism more
+ peeple terms hard read linked app pages long  snippet idea peeple really noting that
+once content published  able  removed joining irrevocably grant peeple continuous non exclusive royalty free right use content purpose whatsoever format rights shall  assignable transferable licensable peeple 
+um no
 
-In practice, it doesn’t seem that Peeple plans to actively police users on the service, either. Asked what Peeple would do if someone violated the terms by creating a fake Facebook account (that is, for the sake of publishing negative reviews without being associated with them directly), Cordray responded that the fake accounts would be removed.
-But, she added, “keep in mind we ask for your help in combating this by reporting and blocking users.”
-And let’s remember that to block and report users, you have to be a user — which mean you’ve agreed to Peeple’s terms.
-In short, it appears the plan is to reactively handle abuse claims, much like larger social services like Twitter do (and struggle with) today. But for a service that involves providing a blank slate for the sole purpose of letting users write people recommendations, not having some basic, automated moderation system in place to at least block profanity and other keywords is either a glaring oversight or an intentional (and callous) decision.
-If the latter, it’s likely one that’s designed to beef up the company’s private database of bad reviews marked for sale.
-I mean, this whole thing is in such bad taste that even though the app is live, it’s hard to believe that we’re still not being trolled here somehow.
-(Unfortunately, it’s impossible to test the app without agreeing to Peeple’s onerous Terms, so we chose to opt out. Though a fake Facebook account would allow for testing this app safely, creating that account would violate Facebook’s terms, which we are declining to do.)
-One possible spot of hope is that Apple has a policy against apps that promote harassment (i.e. Section 14.1 of its Review Guidelines), so it’s possible that the company will actually step in at some point to ban Peeple from its App Store.
-Peeple is live on the iOS App Store for the time being. (TechCrunch is choosing to not provide a direct link.)
+in practice does seem that peeple plans actively police users service asked peeple violated terms creating fake facebook account (that sake publishing negative reviews associated directly cordray responded fake accounts  removed
+ added mind ask help combating reporting blocking users
+and let remember block report users  user  mean you’ve agreed peeple terms
+in short appears the plan reactively handle abuse claims like larger social services like twitter (and struggle today  service involves providing blank slate for the sole purpose letting users write people recommendations having basic automated moderation place block profanity and other keywords glaring oversight intentional (and callous decision
+if likely designed beef company private database bad reviews marked sale
+i mean thing bad taste app live hard believe trolled somehow
+(unfortunately impossible test app agreeing peeple onerous terms chose opt fake facebook account allow testing app safely creating account violate facebook terms declining do
+one possible spot hope that apple policy apps promote harassment (ie section  review guidelines possible company will actually step point ban peeple app store
+peeple live on ios app store time (techcrunch choosing not provide direct link

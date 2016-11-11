@@ -1,12 +1,12 @@
-It’s been a big week for Amazon’s connected speaker Echo. First the company rolled out a way to order pizza just by asking Echo’s virtual assistant to place an order for you. It then added the much-requested Spotify to the list of supported streaming music services. And today, Amazon has announced integration with on-demand car service, Uber.
-The feature is being made available by way of a third-party app, which you can add to your Echo speaker from the “Skills” section in the Alexa companion app. After you enable the Uber skill and link it to your Uber account, you’ll be able to ask Alexa to order you a ride just by making a voice request.
+it big week amazon connected speaker echo company rolled way order pizza just asking echo virtual assistant place order added requested spotify list supported streaming music services today amazon announced integration demand car service uber
+the feature available way party app add echo speaker skills section alexa companion app enable uber skill link uber account you’ll  able ask alexa order ride just making voice request
 
-Or you can direct Alexa to order you a specific ride option, like the low-cost Uber X. In that case, you would say “Alexa, ask Uber to request an Uber X.” And you can ask “Alexa, how far away is my Uber?”
-Amazon also notes that this feature will be available via Alexa on Fire TV as well as Echo, which is not the case with all of Alexa’s “Skills.”
-The company has been making great strides when it comes to the type of apps rolling out to its Alexa “app store” (the Skills section), having rapidly grown its selection of add-on’s to over 130 in recent weeks. While the initial lineup included goofy and low-quality apps like trivia games or joke apps, later additions proved more promising.
-Today, Alexa supports apps like 7-Minute Workout app; news and weather apps from bigger names like AccuWeather, AOL, HuffPost, and others; an app that reminds you where you’ve parked your car and how much gas you have left from Automatic; various apps to check local transit schedules; event guides from Bandsintown.com and StubHub; stock quotes from Fidelity; a family locator from Glympse; a universal translator app; and, as of this week, a pizza ordering app from Domino’s. To name a few!
-The problem the company has not yet addressed – and one that makes it difficult for users to actually take advantage of all these integrations – is that, often, Alexa still requires users to speak their requests using very specific phrases.
-For example, instead of being able to say, “Alexa, order pizza” you have to tell it to “open Domino’s and place my EasyOrder.” That’s not…well…easy.
-At least with the new Uber integration, it appears there are far more options in terms of the various request phrases you can use to order your car.
-The Uber integration is live now in the Alexa Skills section, says Amazon.
-Below is the feature in action:
+or direct alexa order specific ride option like low cost uber x case say alexa ask uber request uber x ask alexa far away uber
+amazon notes feature  available alexa tv echo case alexa skills
+the company making great strides comes type apps rolling alexa app store (the skills section having rapidly grown selection add  recent weeks initial lineup included goofy low quality apps like trivia games joke apps later additions proved promising
+today alexa supports apps like  minute workout app news weather apps bigger names like accuweather aol huffpost app reminds you’ve parked car gas left automatic various apps check local transit schedules event guides bandsintowncom stubhub stock quotes fidelity family locator glympse universal translator app and week pizza ordering app domino few!
+the problem company addressed  makes difficult users actually advantage integrations  alexa requires users speak requests using specific phrases
+for example instead able say alexa order pizza tell open domino place easyorder not…well…easy
+at new uber integration appears far options terms various request phrases use order car
+the uber integration live alexa skills section says amazon
+below feature action

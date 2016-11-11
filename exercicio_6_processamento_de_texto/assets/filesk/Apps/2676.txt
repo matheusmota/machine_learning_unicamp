@@ -1,9 +1,9 @@
-Beijing Weiying Technology, the maker of a movie ticket booking platform that is embedded in WeChat, China’s largest messaging app, has raised a $105 million series B. Investors include WeChat owner Tencent and Wanda Group, one of China’s largest movie theater operators.
-Weiying’s app, WePiao, can be accessed through WeChat, as well as QQ, Tencent’s instant messaging platform. This allows users to buy tickets using payment information they have already stored in their accounts.
-In the U.S., where Facebook Messenger has only recently begun to roll out e-commerce and payment features, it can be hard to imagine how many services are already integrated into Asian messaging apps.
-Other online payment and e-commerce services available on WeChat include utility bill payments, taxi-booking and a new pilot program that lets users find local services, make medical appointments and even file a police report.
-Though WeChat currently claims 500 million monthly active users, making it China’s most popular messaging app, it is facing monetization challenges, as the growth of its key gaming business slows.
-Integrating more services, like ticket booking and utility payments, not only gives WeChat other ways to make revenue, but also helps with user retention, because people will continue to log into the app as the quickest way to take care of errands even after they get tired of messaging or playing games.
-The same approach is being taken by other Asian messaging services like Line, which is transforming itself into a “lifestyle platform” by adding a host of new features like food ordering, taxi booking and streaming music.
-Movie tickets are a promising vertical. The amount of people in China who pay for movie tickets online grew 42.9 percent in 2014, while the number of bookings paid through mobile phones jumped 109 percent, reports research firm Entgroup. In September 2014, Beijing Weiying CEO David Lim told Hollywood Reporter that the company had sold 4 million tickets despite launching just eight months earlier.
-h/t Tech In Asia
+beijing weiying technology maker movie ticket booking platform embedded wechat china largest messaging app raised  million series b investors include wechat owner tencent wanda group china largest movie theater operators
+weiying app wepiao  accessed wechat qq tencent instant messaging platform allows users buy tickets using payment information stored accounts
+in facebook messenger recently begun roll e commerce payment features  hard imagine services integrated into asian messaging apps
+other online payment e commerce services available wechat include utility payments taxi booking and new pilot progr lets users local services make medical appointments file police report
+though wechat currently claims  million monthly active users making china popular messaging app facing monetization challenges growth key gaming business slows
+integrating services like ticket booking utility payments gives wechat ways make revenue  helps user retention people continue log app quickest way care errands tired messaging playing games
+the approach taken asian messaging services like line transforming lifestyle platform adding host new features like food ordering taxi booking streaming music
+movie tickets promising vertical people china pay movie tickets online grew  percent  number bookings paid mobile phones jumped  percent reports research firm entgroup september  beijing weiying ceo david lim told hollywood reporter company sold  million tickets despite launching just months earlier
+h/t tech asia

@@ -1,14 +1,14 @@
-The internet is a wonderful thing. It’s a place for new and fresh ideas, forums for people to discuss them. And well, ways to find ones that had been dropped. One idea that was dropped was Google’s attempt to start what sounds a whole lot like Lyft and Uber.
-The project was called “Google Ride Finder” and it was announced on May 31st, 2005. It got a little bit of coverage, too.
-Here’s what the announcement said about the service, which was a part of Google Labs:
+the internet wonderful thing place new fresh ideas forums people discuss ways ones dropped idea dropped google attempt start sounds lot like lyft uber
+the project called google ride finder announced st  got little bit coverage too
+here announcement said service google labs
 
-And yes, Google knew that the key to this business would be bringing on a massive fleet, so here was their pitch to drivers:
-In fact, they promised to get back to you within a week! That’s speedy. A lot of the language discusses limos and taxis, so it would be interesting to learn how deeply Google thought about deploying say, your car, as a part of the fleet.
+and yes google knew key business  bringing massive fleet pitch drivers
+in fact promised to week! speedy lot language discusses limos taxis  interesting learn deeply google thought deploying say car fleet
 
-Google Ride Finder never took off, and disappeared around 2009. Here’s it’s tiny entry in Wikipedia (under Google Maps):
-The project’s FAQ section is a real hoot in retrospect, as it patched together some of the issues that modern companies have solved with technology and mobile GPS advancements:
+google ride finder took disappeared  tiny entry wikipedia (under google maps
+the project faq section real hoot retrospect patched issues modern companies solved technology mobile gps advancements
 
-I’d personally like to see the return of Google Ride Finder…especially if it doesn’t have a human driver. That’s a discussion for another day, because one look at this data from NPR might scare the crap out of anyone who drives for a living:
+i’d personally like return google ride finder…especially does human driver discussion day look data npr scare crap  drives living
 
-Imagine if Google had stuck to this business. I mean, Uber has raised $8.21B, with one of its investors being a friendly Mountain View neighbor, GV (Google Ventures).
-Now pardon me, I feel old.
+imagine google stuck business i mean uber raised b investors friendly mountain view neighbor gv (google ventures
+now pardon i feel old

@@ -1,7 +1,7 @@
-Salido, a startup that describes itself as “the restaurant operating system,” is announcing that it has raised $2 million in additional funding.
-This round from strategic investors doubles the $2 million in seed funding that Salido announced last year. Phil Suarez, who partnered with French chef Jean-Georges Vongerichten to launch well-known restaurants including ABC Kitchen and the eponymous Jean-Georges, led the new funding.
-Founded by Shu Chowdhury, Salido started out as a point-of-sale system for restaurants and has expanded to a broader set of tools that allows restaurants to manage their customer data, their workforce and their inventory. Chowdhury said that at first, this approach “was very unpopular because it wasn’t sexy,” but it’s become more compelling, particularly because of the comprehensive data that Salido has been able to collect.
+salido startup describes restaurant operating announcing raised  million additional funding
+this round strategic investors doubles  million seed funding salido announced year phil suarez partnered french chef jean georges vongerichten launch known restaurants including abc kitchen eponymous jean georges led new funding
+founded shu chowdhury salido started point sale restaurants expanded broader set tools allows restaurants manage customer data workforce inventory chowdhury said approach unpopular sexy   compelling particularly comprehensive data salido able collect
 
-“Our goal is to fix the inside of the restaurant,” Chowdhury said. “We know that the feature set and the data model that we’ve built addresses the needs of the restaurant. We don’t believe reservations is a business, it’s a feature. We don’t believe ordering is a business, it’s a feature.”
-For example, he said that Salido has restaurants’ menu information, “I can easily open it up to online ordering,” which can also mean connecting with reservation systems like OpenTable.
-In addition to working with high-end restaurants, Salido also has customers from the more casual side, including Num Pang and ‘Wichcraft. Chowdhury isn’t saying how many restaurants Salido is currently working with, but he did note that the system has processed $27 million to date for more than 1 million total guests.
+our goal fix inside restaurant chowdhury said know feature set data model we’ve built addresses needs restaurant believe reservations business feature believe ordering business feature
+for example said salido restaurants menu information i easily open online ordering mean connecting reservation systems like opentable
+in addition working high end restaurants salido customers casual including num pang ‘wichcraft chowdhury saying restaurants salido currently working  did note processed  million date  million total guests

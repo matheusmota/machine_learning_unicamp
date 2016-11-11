@@ -1,20 +1,20 @@
-Slack was being cheeky when yesterday it said voice chat would start testing “very, very soon”. Today the new “Calls” feature starting rolling out on Slack for desktop and on the Chrome browser.
-It lets you start a private Slack Call or launch a conference call in a channel that anyone can join with a click. And in keeping with Slack’s lighthearted style, once you’re chatting, you can send visual emoji reactions that appear overlaid on your profile picture to others on the call.
-Slack confirms to me that the feature is currently rolled out to less than 50% of users. Team admins can check if it’s available to them and turn it on here.
-Slack already offered integrations with voice calling apps like Skype, Google Hangouts, Zoom, and Bluejeans, but those required a separate installation and were quite clunky by comparison. Slack Calls just need to be enabled by your team’s admin, are super easy to use, and blend naturally into the Slack experience.
+slack cheeky yesterday said voice chat start testing very soon today new calls feature starting rolling slack desktop chrome browser
+it lets start private slack launch conference channel  join click keeping slack lighthearted style chatting send visual emoji reactions appear overlaid profile picture call
+slack confirms feature currently rolled  users te admins check available turn here
+slack offered integrations voice calling apps like skype google hangouts zoom bluejeans  required separate installation quite clunky comparison slack calls just need  enabled te admin super easy use blend naturally slack experience
 
-Slack says that video chat is also in the works, which it first announced last year after acquiring Screenhero. But now it’s on the official roadmap, though the company plans to get voice chat rolled out on all devices first.
-First, you’ll have to download the latest version of Slack for desktop and make sure your team’s admin has enabled Calls in the Team Settings. You’ll then see a phone icon at the top of your one-on-one threads and channels.
-Tap the phone icon and a Slack Call pings your private message partner with a pop-up window beckoning them to answer. Once you’re in a call, you can change your microphone settings (unlike Skype which makes you set that before a call) or add more people to the call.
+slack says video chat works announced year acquiring screenhero  official roadmap company plans voice chat rolled devices first
+first you’ll download latest version slack desktop make sure te admin enabled calls te settings you’ll phone icon one threads channels
+tap phone icon slack pings private message partner pop window beckoning answer once you change microphone settings (unlike skype makes set add people call
 
-Slack didn’t bring all its emoji along, but the Smiley-face button reveals a few you can tap to silently let Call partners know how you feel. The emoji pop up on top of your profile picture in the corner. It’s like a visual nod over the phone. They say something you agree with, and you hit the heart or smile so they know without interrupting them.
+slack did bring emoji  smiley face button reveals tap silently let partners know feel emoji pop profile picture corner like visual nod phone say agree hit heart smile know interrupting them
 
-On channels, hitting the Call button prompts you name the call and then wait for others to join.
+on channels hitting button prompts wait join
 
-Your channel partners will see a button to join in the text thread so anyone available can quickly jump on.
-And just for giggles, tapping the main avatar in your call causes it to pulse satisfyingly.
+your channel partners button join text thread  available quickly jump on
+and just giggles tapping main avatar causes pulse satisfyingly
 
-When I spoke to Slack’s VP Of Product April Underwood yesterday, she told me the use case for Slack Calls was that “If I’m DMing someone in Slack and we want to switch to have a quick voice conversation, it addresses that problem.”
-Now she’s issued this statement, saying
-Apparently voice calling was one of the most heavily requested options from Slack’s 2.3 million daily active users and 570,000 paid subscribers. Yesterday’s customer conference and the release of hotly anticipated features could help boost Slack’s momentum as it reportedly looks to raise at least another $150 million.
-By becoming more of a full-service communication suite rather than just a text chat tool, Slack might be able to convince more companies to pay for it — especially because businesses might already be spending money to have voice chat. Slack Calls could threaten Skype and Google Hangouts, which increasingly feel inconvenient.
+when i spoke slack vp product april underwood yesterday told use case slack calls i’m dming slack want switch quick voice conversation addresses problem
+now issued statement saying
+apparently voice calling heavily requested options slack  million daily active users  paid subscribers yesterday customer conference release hotly anticipated features help boost slack momentum reportedly looks raise  million
+by service communication suite just text chat tool slack  able convince companies pay  especially businesses  spending money voice chat slack calls threaten skype google hangouts increasingly feel inconvenient

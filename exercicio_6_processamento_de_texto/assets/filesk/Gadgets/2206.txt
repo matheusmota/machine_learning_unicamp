@@ -1,6 +1,6 @@
-It sounds like something out of Star Trek: a patch thinner than a band-aid that you slap on your arm and, within moments, it lights up with heart rate, blood sugar, and so on — then peels off a few days later. That’s the goal of work by researchers at the University of Tokyo, who have invented an ultra-thin “E-skin” that can protect flexible electronics and make things like on-skin displays possible.
-Electronics have been stuck to the skin before, of course, or drawn on with conductive ink, but even substrates just a millimeter thick are limited in flexibility. The research headed by Takao Someya and Tomoyuki Yokota drops that thickness by an order of magnitude.
+it sounds like star trek patch thinner band aid slap arm moments lights heart rate blood sugar  peels days later goal work researchers university tokyo invented ultra e skin protect flexible electronics make things like skin displays possible
+electronics stuck skin course drawn conductive ink  substrates just millimeter thick limited flexibility research headed takao someya tomoyuki yokota drops thickness order magnitude
 
-The displays shown above are proof of the concept: they require electrodes instead of being powered by body heat or flexible batteries, and of course don’t actually read anything just yet.
-“What would the world be like if we had displays that could adhere to our bodies and even show our emotions or level of stress or unease?” asks Someya in a news release accompanying the paper, which was published Friday in Science Advances.
-Probably very creepy. But there are also tons of legitimate medical and consumer applications towards which research like this advances us.
+the displays shown proof concept require electrodes instead powered body heat flexible batteries course actually read just yet
+what world  like displays adhere bodies emotions level stress unease asks someya news release accompanying paper published friday science advances
+probably creepy  tons legitimate medical consumer applications research like advances us

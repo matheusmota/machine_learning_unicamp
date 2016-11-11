@@ -1,13 +1,13 @@
-Giphy, the search engine for all things gif, has today released a new app called Giphy Cam that lets users create their own gifs to send or share on social media.
-“Giphy has always wanted to solve the problem of finding gifs online and making it easy to share them anywhere, which is clear from our work with messenger apps and communications platforms,” said Julie Logan, Queen Glitter Bomb at Giphy. “The next natural step was focusing on creation. Now that people can find great gifs, we want them to be able to create their own moments and share those, too.”
-With Giphy Cam, users can record a short gif that is shareable via text message, or across social media platforms like Instagram, Twitter and Pinterest. Users also have the option to save them to their camera roll.
-The new app also lets users add fun effects and filters to their gifs. For example, you can add a super pixelated filter to the gif, or a black and white filter, or a fun overlay that makes it rain cash or tips up a cocktail. Cheers!
-However, unlike other media creation tools, Giphy Cam doesn’t have a consumption layer. There is no feed within the app, nor is there a follow/friend structure in place.
-“It’s not a social network,” Logan tells me. “It’s a creation tool.”
-Gifs created within Giphy Cam are meant to be sent out into the world.
-The maximum length of a gif is five seconds.
-When sharing via iMessage or Twitter, where .gif files are supported, the Giphy compression software maintains the .gif file structure. However, when sharing to a platform like Instagram (that doesn’t support gifs), Giphy switches the file over to a looping video so that users can still share.
-Giphy launched out of betaworks back in 2013 with the first search engine exclusively built for gifs. Integrating with various media platforms, Giphy made it easy to embed these gifs and share them across the web and social media.
-Over time, Giphy has grown to be somewhat collossal, raising $17 million at an $80 million valuation in January of this year. The company has also integrated with Slack, Gmail, and Facebook Messenger to turn gifs into yet another communications medium.
-With Giphy Cam, users can add to the growing trove of gifs available to share on the web.
-If you want to check out Giphy Cam, head over to the App Store.
+giphy search engine things gif today released new app called giphy c lets users create gifs send share social media
+giphy  wanted solve problem finding gifs online making easy share clear work messenger apps communications platforms said julie logan queen glitter bomb giphy natural step focusing creation people great gifs want  able create moments share too
+with giphy c users record short gif shareable text message social media platforms like instagr twitter pinterest users option save camera roll
+the new app lets users add fun effects filters gifs example add super pixelated filter gif black white filter fun overlay makes rain cash tips cocktail cheers!
+however unlike media creation tools giphy c does consumption layer feed app follow/friend structure place
+it social network logan tells creation tool
+gifs created giphy c meant  sent world
+the maximum length gif seconds
+when sharing imessage twitter gif files supported giphy compression software maintains gif file structure sharing platform like instagr (that does support gifs giphy switches file looping video users share
+giphy launched betaworks  search engine exclusively built gifs integrating various media platforms giphy easy embed gifs share web social media
+over time giphy grown  somewhat collossal raising  million  million valuation january year company integrated slack gmail facebook messenger turn gifs communications medium
+with giphy c users add growing trove gifs available share web
+if want check giphy c head app store

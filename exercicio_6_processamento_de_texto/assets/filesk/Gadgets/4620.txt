@@ -1,6 +1,6 @@
-CliniCloud, a company that is building a connected home medical kit, has just announced a $5M seed funding round and a new retail partnership with Best Buy. The round was led by Tencent and Ping An Ventures.
-Founded by Dr. Hon Weng Chong and Dr. Andrew Lin, Clinicloud is a device that digitally records respiratory and cardiovascular sounds.
-The devices records these biometrics by utilizing a stethoscope and non-contact infrared thermometer, both of which connect to your phone. Measurements recorded with these devices are then displayed inside the CliniCloud app, where the data can either be analyzed or sent directly to a doctor.
-The company also has a partnership with Doctor on Demand, which will let users video chat a doctor and allow them to use CliniCloud to access heart and lung sounds in real time, as if you were at the office in person.
-Additionally, CliniCloud is working on implementing machine learning to eventually automatically diagnose illnesses using the device. The company explained that respiratory and cardiovascular sounds alone can help identify a large number common conditions, including Asthma, Pneumonia, and Congestive Heart Failure.
-The device will be available online in October, and in over 500 Best Buy stores starting in November.
+clinicloud company building a connected home medical kit has just announced m seed funding round a new retail partnership best buy round was led tencent ping ventures
+founded dr hon weng chong dr andrew lin clinicloud device digitally records respiratory cardiovascular sounds
+the devices records biometrics utilizing a stethoscope non contact infrared thermometer connect phone measurements recorded devices displayed inside clinicloud app data  analyzed sent directly doctor
+the company partnership doctor demand let users video chat doctor allow use clinicloud access heart lung sounds real time office in person
+additionally clinicloud working implementing machine learning eventually automatically diagnose illnesses using device the company explained that respiratory cardiovascular sounds help identify large number common conditions including asthma pneumonia congestive heart failure
+the device  available online october  best buy stores starting november

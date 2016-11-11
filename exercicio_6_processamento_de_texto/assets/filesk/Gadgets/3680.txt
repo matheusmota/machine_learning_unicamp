@@ -1,8 +1,8 @@
-Indie developer Twisted didn’t expect that kind of feedback. After announcing its unofficial PlayStation 4 remote play app for PC, hundreds of people wrote articles about the upcoming release. And it seems like even Sony heard about it as the company confirmed that it is working on a Mac and PC app for PS4 remote play.
-This isn’t uncharted territory for Sony as you can already stream your games to your PlayStation Vita and some Sony phones. You can also buy a PlayStation TV to stream your PS4 games to another TV.
-But what if you only have one TV but still want to play Destiny on your desktop computer while the kids watch the TV? Shuhei Yoshida from Sony Computer Entertainment told his Twitter followers that this feature is coming soon:
-If you have an Xbox One, Microsoft recently enabled remote play for your PC. But you need to run Windows 10, which is unfortunate for Mac users. But if you have the right setup, you can play Xbox One games at 60 frames per second in 1080p on your PC.
-As always, latency and image quality depend on the robustness of your local network. You might not get 60 FPS if your computer and Xbox One all use Wi-Fi for example. But if you’re using Ethernet all the way, it should work pretty well.
-When it comes to PS4 remote play, today’s news also means that Sony will have to improve controller support for PC and Mac. The PS4 controller uses Bluetooth and USB, which means that your existing PS4 controller should work with your PC.
-But it also has a touchpad, which is harder to support. Expect official drivers for OS X and Windows in the coming months.
-Via Engadget
+indie developer twisted did expect kind feedback announcing unofficial playstation  remote play app pc hundreds people wrote articles upcoming release like sony heard company confirmed working mac pc app ps remote play
+this uncharted territory sony stre games playstation vita sony phones buy playstation tv stre ps games tv
+ tv  want play destiny desktop computer kids watch tv shuhei yoshida sony computer entertainment told twitter followers feature coming soon
+if xbox microsoft recently enabled remote play pc  need run windows  unfortunate mac users  right setup play xbox games  frames second p pc
+as  latency image quality depend robustness local network  fps computer xbox use wi fi example  using ethernet way work pretty well
+when comes ps remote play today news means sony improve controller support pc mac ps controller uses bluetooth usb means existing ps controller work pc
+ touchpad harder support expect official drivers os x windows coming months
+via engadget

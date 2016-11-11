@@ -1,10 +1,10 @@
-Which emojis do New Yorkers use more than other U.S. states?  How diverse is California’s emoji usage? Do Alaskans dream of emoji fish?
-Predictive keyboard maker SwiftKey, whose software now runs on some 250 million devices worldwide, has crunched the data on its U.S.’ users’ emoji usage to answer just such burning queries, looking at the usage of more than a billion emoji via its SwiftKey Cloud back-up and syncing service.
-So if you were ever curious about the pictorial preoccupations of your fellow Americans — and the horse latitudes of August are a great time to ponder such zeitgesity questions of the digital milieu — wonder no more.
-What does SwiftKey’s emojinalysis tell us? Unsurprisingly, California rates highly for the taxi emoji. Thanks Travis. Meanwhile the wine emoji is most popular in Washington — presumably because of the all those visiting European diplomats… And the sad emoji gets used most in New Jersey. Awww.
-And while New Yorkers tap on party- and female-related emoji more than average, Californians are sending LGBT and people emoji categories more often than other states.
-Meanwhile, the state that both uses violence- and drugs-related emoji more than average, and insects and flowers less than average is… wait for it… Ohio.
-Other tidbits: Vermont really digs emoji poop. And Nevada is preoccupied with eggplant.
-In addition to creating an interactive map depicting its United States of Emoji, SwiftKey is updating its iOS predictive keyboard app with some emoji extras — showing U.S. users their “emoji state”; aka the US state their emoji use most resembles.
-Plus two additions for all iOS users: a “top emoji” feature, which displays which emoji the person uses most often; and what they’re calling a “signature emoji” (currently in beta): aka the emoji that user uses more than other people.
-Doing more with emoji is not only zeitgeisty, it should help SwiftKey fend off competition from emoji-centric keyboard rivals — which have proliferated since Apple opened up the system keyboard to third parties, back in iOS 8.
+which emojis new yorkers use states  how diverse california emoji usage alaskans dre emoji fish
+predictive keyboard maker swiftkey software runs  million devices worldwide crunched data users emoji usage to answer just burning queries looking usage billion emoji swiftkey cloud syncing service
+so curious pictorial preoccupations fellow americans  horse latitudes august are a great time ponder zeitgesity questions digital milieu  wonder more
+what does swiftkey emojinalysis tell unsurprisingly california rates highly taxi emoji thanks travis wine emoji popular washington  presumably visiting european diplomats… and the sad emoji gets used new jersey awww
+and new yorkers tap on party  female related emoji average californians sending lgbt people emoji categories states
+meanwhile the state uses violence  drugs related emoji average insects flowers average is… wait it… ohio
+other tidbits vermont really digs emoji poop nevada preoccupied eggplant
+in addition creating an interactive map depicting its united states emoji swiftkey updating ios predictive keyboard app emoji extras  showing users emoji state aka state emoji use resembles
+plus two additions ios users emoji feature displays emoji person uses calling signature emoji (currently beta aka emoji user uses people
+doing emoji zeitgeisty help swiftkey fend competition emoji centric keyboard rivals  proliferated apple opened keyboard parties ios 

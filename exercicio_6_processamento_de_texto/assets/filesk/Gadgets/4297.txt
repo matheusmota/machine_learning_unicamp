@@ -1,6 +1,6 @@
-An ingenious hack could allow unwanted access to Siri commands by simply sending radio waves to a pair of unshielded iPhone earbuds. While the hack is needlessly complex – the hacker could simply go over and press the headphone button by hand – it is an interesting exploit.
-Researchers at French security organization ANSSI have discovered a way to send radio waves to microphones attached to iOS or Android devices. The waves, which are silent, simulate the button press associated with, say, waking up Siri and then can simulate voice commands. Once the phone is awake the commands could allow the hacker to send personal messages, access apps, and open the wallet.
-Their findings appear in a paper published in Electromagnetic Compatibility.
-“We present a smart use of intentional electromagnetic interference, resulting in finer impacts on an information system than a classical denial of service effect. As an outcome, we introduce a new silent remote voice command injection technique on modern smartphones,” wrote the researchers José Lopes Esteves and Chaouki Kasmi.
-Once again, this is a complex attack and it is definitely not a pressing concern for most of us. However, you can prevent access by turning off Siri in the Allow Access When Locked selection in Touch ID & Passcode settings on iOS.
-The researchers recommend that manufacturers shield their earbuds more actively, thereby preventing RF interference.
+an ingenious hack allow unwanted access siri commands simply sending radio waves pair unshielded iphone earbuds hack needlessly complex  hacker simply press headphone button hand  interesting exploit
+researchers french security organization anssi discovered way send radio waves microphones attached ios android devices waves silent simulate button press associated say waking siri simulate voice commands phone awake commands allow hacker send personal messages access apps open wallet
+their findings appear paper published electromagnetic compatibility
+we present smart use intentional electromagnetic interference resulting finer impacts information classical denial service effect outcome introduce new silent remote voice command injection technique modern smartphones wrote researchers josé lopes esteves chaouki kasmi
+once complex attack definitely pressing concern prevent access turning siri allow access locked selection touch id & passcode settings ios
+the researchers recommend manufacturers shield earbuds actively preventing rf interference

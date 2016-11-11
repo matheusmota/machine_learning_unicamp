@@ -1,6 +1,6 @@
-The FBI, which just a few days ago was attempting to convince the country of its helplessness in the face of encrypted iPhones, has generously offered its assistance in unlocking an iPhone and iPod for a prosecutor in Arkansas, the Associated Press reports.
-TechCrunch has contacted the prosecutor’s office for details, which for the moment are thin on the ground — but the timing seems unlikely to be a coincidence. It was only Monday that the FBI announced it had successfully accessed a phone after saying for months that it couldn’t possibly do so — and that Apple was endangering national security by refusing to help.
+the fbi just days ago attempting convince country helplessness face encrypted iphones generously offered assistance unlocking iphone ipod prosecutor arkansas associated press reports
+techcrunch contacted prosecutor office details moment ground   timing unlikely  coincidence monday fbi announced successfully accessed phone saying months possibly  apple endangering national security refusing help
 
-If the unlocking process being used by the FBI is so trivial that it can be offered on short notice to anybody asking nicely, that deeply contradicts the narrative the Justice Department has been building regarding the limitations of law enforcement in accessing encrypted phones.
-Again, the specific details of the devices (model, OS version, etc.) are unknown, as is the exact nature of the FBI’s offered assistance. Until the court, prosecutor’s office, or defender files or volunteers further information (and we’ll be asking), this is fairly up in the air.
+if unlocking process used fbi trivial  offered short notice anybody asking nicely deeply contradicts narrative justice department building regarding limitations law enforcement accessing encrypted phones
+again specific details devices (model os version unknown exact nature fbi offered assistance court prosecutor office defender files volunteers information (and we’ll  asking fairly air
 

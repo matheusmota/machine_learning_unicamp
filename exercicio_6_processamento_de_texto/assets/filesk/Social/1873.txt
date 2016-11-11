@@ -1,5 +1,5 @@
-There’s a funny Facebook glitch telling people they’ve been friends on Facebook for 46 years, even though Facebook has only been around since 2004. My good friend, who hasn’t even been alive for 46 years, sent the following screenshot to me:
+there funny facebook glitch telling people they’ve friends facebook  years facebook  good friend alive  years sent following screenshot me
 
-She texted me, “46 years ago?!?! Fb you crazy! Trying to make me feel old, they are succeeding.”
-Anyway, this appears to be a widespread glitch across Facebook, with a good number of people taking to Twitter to share screenshots of their 46-year-long friendships, according to Facebook. Word on the street is that it’s due to some bug relating to Unix time, also known as Epoch time, which counts how many seconds have elapsed since Jan. 1, 1970. That was about 46 years ago.
-Facebook spokesperson Chelsea Kohler provided TechCrunch with the following statement: “We’ve identified this bug and the team’s fixing it now so everyone can ring in 2016 feeling young again.”
+she texted  years ago!! fb crazy! trying make feel old succeeding
+ appears to  widespread glitch facebook good number people taking twitter to share screenshots  year long friendships according facebook word street bug relating unix time known epoch time counts seconds elapsed jan   that was  years ago
+facebook spokesperson chelsea kohler provided techcrunch following statement we’ve identified bug te fixing ring  feeling young again

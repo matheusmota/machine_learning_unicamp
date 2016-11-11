@@ -1,7 +1,7 @@
-Sticking tiny robots into your body sounds fun but what happens when those robots run out of battery and start to explode? While this may not always be the case, it could happen.
-Luckily researchers at Hokkaido University’s Department of Chemistry have created a crystalline assembly that moves autonomously when exposed to blue light. This means you can simply flash lights at these minuscule bots to make them swim through the bloodstream towards their intended target.
-The crystal is made of an organic compound, azobenzene, and oleic acid – essentially a dye component and cooking oil. When exposed to blue light the compounds “repetitively convert from one form to the other.”
-“The scientists tested if this would influence the structure of the azobenzene-oleic acid crystal, which contained unequal amounts of cis- and trans-azobenzene,” wrote the researchers.
-The resulting robots may not look like much but they do start swimming in the right conditions, a feature that could be useful in future implementations of micro-robotic technology.
-“The ability to self-organize rhythmic motions, such as the repetitive flipping motion we observed, is one of the fundamental characteristics of living organisms”, said researcher Yoshiyuki Kageyama. “This mechanism can be used in the future to develop bio-inspired molecular motors and robots that will find applications in wide areas, including medicine.”
-There aren’t plans to commercialize the technology… yet. Small, light-powered robots swimming around your body sounds a lot more fun that tiny, squid-like battery-powered monstrosities. Just ask Neo.
+sticking tiny robots body sounds fun  happens robots run battery start explode   case happen
+luckily researchers hokkaido university department chemistry created crystalline assembly moves autonomously exposed blue light means simply flash lights minuscule bots make swim bloodstre intended target
+the crystal organic compound azobenzene oleic acid  essentially dye component cooking oil exposed blue light compounds repetitively convert form other
+the scientists tested influence structure azobenzene oleic acid crystal contained unequal amounts cis  trans azobenzene wrote researchers
+the resulting robots look like  start swimming right conditions feature  useful future implementations micro robotic technology
+the ability self organize rhythmic motions repetitive flipping motion observed fundamental characteristics living organisms said researcher yoshiyuki kageyama mechanism  used future develop bio inspired molecular motors robots applications wide areas including medicine
+there plans commercialize technology… small light powered robots swimming body sounds lot fun tiny squid like battery powered monstrosities just ask neo

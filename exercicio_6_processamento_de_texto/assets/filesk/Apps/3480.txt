@@ -1,6 +1,6 @@
-Gmail has had a “to-do” feature for the longest time, but it was pretty useless, as it was a simple standalone, one-off feature that probably graduated from Labs at one point. It was never integrated. Luckily the team is fixing that today.
-Google is rolling out the ability to add reminders in Google Calendar for iOS and Android (web soon).
+gmail feature longest time  pretty useless simple standalone feature probably graduated labs point integrated luckily te fixing today
+google rolling ability add reminders google calendar ios android (web soon
 
-Why this took so long is a pretty good question, but hey it’s better late than never. Here’s what the team had to say about the update:
-The feature surfaces all of the information you need to get the task done, like an address or phone number. You can also create a Reminders from Inbox, Keep and Google Now. So basically, you can say “Remind me to take out the trash today at 1pm” and it’ll slap up on your calendar just like that. Very Siri-like.
+why took long pretty good question  hey better late te say update
+the feature surfaces information need task like address phone number create reminders inbox google basically say remind trash today pm it’ll slap calendar just like siri like
 

@@ -1,26 +1,26 @@
-You can say anything on Yik Yak, as long as it’s not a competing app’s name. The anonymous app has quietly built a system that downvotes any mentions of several other apps for college kids including Fade, Sneek, and Unseen until no one can see them.
-By adding one downvote per minute, Yik Yak makes it look like other anonymous users dislike these posts. But tests in isolation demonstrate that it’s Yik Yak itself suppressing its competitors. And once a post gets five downvotes, it becomes completely invisible.
-Yik Yak’s app for posting anonymous little text snippets to people nearby blew up with college students over the last year and has raised $73.5 million. It shouldn’t need these shady tactics.
-Calls, texts, and emails to Yik Yak received no reply before press time.
-[Update 5pm PST: Yik Yak’s co-founders Brooks Buffington and Tyler Droll have responded to me via phone, but only agreed to speak on background and not to be quoted. They say they will send me a written statement soon. When asked about their side of the situation, they did not apologize, but said their intention wasn’t to suppress competitors. They say the downvoting is part of an anti-spam tool, and the minute-by-minute downvotes are designed to give posts chance to be upvoted by the community. They did admit that the tool was blunt and premature, and that they would work to improve it to delete fewer innocent posts.
-At 5:45pm, Droll sent this statement: “We did not design a system to prevent other companies from gaining buzz on Yik Yak. To maintain a positive experience on the app, we do take action to help prevent people from spamming our users. Unfortunately our tool isn’t perfect, and we’re actively working to make it more precise.”
-My take is that even if it was designed to stop spam, and even if there were instances of employees or fans of these competitors aggressively promoting these apps on Yik Yak, this method of downvoting to death any post containing their names was inappropriate. There are plenty of more accurate ways to deter spam, like blocking specific device IDs.
-Spamming Yik Yak would be extremely difficult anyways since posts only appear to users with a few miles. A company would need coordinated spamming by tons of people around the country to make a dent.
-Well-funded, popular startups should be held to a higher standard than throwing the baby out with the bath water.]
-I spoke with Fade CEO David Stewart a few days ago, and he showed me the downvoting in the wild. Here’s a GIF I made from one of his example videos, and a full video from Fade showing the downvoting happening live can be seen further below.
-Yik Yak could claim that this is an anti-spam tool, designed to prevent other startups from blasting their names all over Yik Yak to piggyback on its growth. Many social networks delete spam, and it’s completely ethical. Technically, the company’s Terms Of Use permit it to “refuse, delete or remove any Submissions; with or without cause and with or without notice, for any reason or no reason.”
-But there’s no explicit prohibition of talking about other apps. And Yik Yak isn’t just downvoting aggressive promotions of competitors like “I love CollegeAppX, it’s the best. Download it now!!!” It’s downvoting any mention, including casual organic mentions by mutual users, and even ones that have nothing to do with apps.
-If you write something on Yik Yak like “watching the sunset fade” or “Big dude in low-cut jeans. That cannot be unseen”, the posts will still get auto-downvoted. The system sure seems designed to keep any other company from gaining buzz on Yik Yak.
-This minute-by-minute downvoting into oblivion is arguably more nefarious than what Yik Yak used to do, which was immediately delete any post that mentioned a competitor. That at least made it obvious what was happening. By gradually downvoting, Yik Yak misleads users into thinking the hate was coming from their peers.
-I ran my own test, and sure enough, my post got a downvote each minute until it was destroyed.
-This censorship contradicts Yik Yak’s stated mission of giving users an “organic, unfiltered feed of news”. The company’s COO and co-founder Brooks Buffington wrote that Yik-Yak is “delivering organic and unfiltered truths, which cannot be said for other news mediums.”
-…Except you still see mentions of The Washington Post in The New York Times. And while Facebook may be giving more visibility to videos uploaded to its platform than links to YouTube, it’s not such a blatant anti-competitive practice that hurts underdog businesses.
-One of those businesses is Fade, an app designed for college kids to share photos and videos that are visible for 24 hours, but can gain or lose an hour of visibility if other users like or dislike them.
-Fade, recently started getting reports from its users about what happened if they tried to mention Fade on Yik Yak. So the startup alerted me and made this video. It shows exactly how Yik Yak is suppressing its competitors, and how after receiving a fifth systematic downvote at the five-minute mark, posts containing the names of competitors disappear from the feed:
-In response to being blocked, later today Fade will add a “Not Yik Yak” button to the page in its app where users can share to other social networks. Tapping the button shows Yik Yak’s logo affixed on photos of Kim Jong-un to protest Yik Yak’s censorship.
+you say yik yak long competing app anonymous app quietly built downvotes mentions apps college kids including fade sneek unseen them
+by adding downvote minute yik yak makes look like anonymous users dislike posts  tests isolation demonstrate yik yak suppressing competitors and post gets downvotes  completely invisible
+yik yak app posting anonymous little text snippets people nearby blew college students year raised  million need shady tactics
+calls texts emails yik yak received reply press time
+update pm pst yik yak founders brooks buffington tyler droll responded phone  agreed speak background  quoted say send written statement soon asked situation did apologize  said intention suppress competitors say downvoting anti sp tool minute minute downvotes designed posts chance  upvoted community did admit tool blunt premature work improve delete fewer innocent posts
+at pm droll sent statement did design prevent companies gaining buzz yik yak maintain positive experience app action help prevent people spamming users unfortunately tool perfect actively working make precise
+my designed stop sp instances employees fans competitors aggressively promoting apps yik yak method downvoting death post containing names inappropriate plenty accurate ways deter sp like blocking specific device ids
+spamming yik yak  extremely difficult anyways posts appear users miles company need coordinated spamming tons people country make dent
+well funded popular startups  held higher standard throwing baby bath water
+i spoke fade ceo david stewart days ago showed downvoting wild gif i example videos video fade showing downvoting happening live  seen below
+yik yak could claim anti sp tool designed prevent startups blasting names yik yak piggyback growth social networks delete sp completely ethical technically company terms use permit refuse delete remove submissions cause notice reason reason
+ explicit prohibition talking apps and yik yak just downvoting aggressive promotions competitors like i love collegeappx best download now!!! it downvoting mention including casual organic mentions mutual users ones apps
+if write yik yak like watching sunset fade big dude low cut jeans  unseen posts auto downvoted sure designed company gaining buzz yik yak
+this minute minute downvoting oblivion arguably nefarious yik yak used immediately delete post mentioned competitor obvious happening gradually downvoting yik yak misleads users thinking hate coming peers
+i ran test sure post got downvote minute destroyed
+this censorship contradicts yik yak stated mission giving users organic unfiltered feed news company coo founder brooks buffington wrote yik yak delivering organic unfiltered truths  said news mediums
+…except mentions washington post new york times facebook  giving visibility videos uploaded platform links youtu blatant anti competitive practice hurts underdog businesses
+one businesses fade app designed college kids share photos videos visible  hours  gain lose hour visibility users like dislike them
+fade recently started getting reports users happened tried mention fade yik yak startup alerted and made video shows exactly yik yak suppressing competitors receiving fifth systematic downvote minute mark posts containing names competitors disappear feed
+in response blocked later today fade add yik yak button page app users share social networks tapping button shows yik yak logo affixed photos kim jong protest yik yak censorship
 
-Not only is Yik Yak arguably blocking competitors in a way that’s unfair, its dragnet is deleting innocent posts by its own users.
-There’s really no excuse for the latter, considering Yik Yak has plenty of money after raising a $62 million Series B round of funding in November from prestigious VCs like Sequoia Capital and Kevin Colleran. It could surely hire community managers to weed out spam from competitors without silencing organic mentions.
-Yik Yak want to be the world’s unfiltered anonymous back channel — an important communications utility. One of its big challenges has been fighting the faceless trolls and jerks that abuse these kinds of spaces. It once had to shut down at high schools to keep kids from insulting each other.
-But as long as it’s blick-blocking mentions of competitors, it is Yik Yak that’s become the cyberbully.
-#YakGate
+not yik yak arguably blocking competitors way unfair dragnet deleting innocent posts users
+there really excuse considering yik yak plenty money raising  million series b round funding november prestigious vcs like sequoia capital kevin colleran surely hire community managers weed sp competitors silencing organic mentions
+yik yak want  world unfiltered anonymous channel  important communications utility big challenges fighting faceless trolls jerks abuse kinds spaces shut high schools kids insulting other
+ long blick blocking mentions competitors is yik yak  cyberbully
+#yakgate

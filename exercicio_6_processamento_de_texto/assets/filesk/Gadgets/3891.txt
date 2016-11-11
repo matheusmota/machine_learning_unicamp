@@ -1,5 +1,5 @@
-Pulling a 3D print out of your printer is usually a process fraught with conflict. Who will do it? Can you hire someone? Why does it have to be so painful? Has the deity abandoned us Earth people, leaving us to fend for ourselves in a cold, unfeeling universe? Probably not, but it’s still a pain in the butt.
-You see, normal 3D printers extrude onto a smooth build plate treated with either a chemical or covered in tape. The print usually sticks mightily to the surface and requires a scraper to remove. That’s where Fleks3D comes in.
-The system is basically a bendy build plate. When your print is finished you simply flex the plate a little and the item pops off. If that seems weirdly obvious that’s because it is. The plates are made for different styles of printer including Ultimaker and Makerbot and cost about $25. They plan to ship in February.
-The team has already delivered hundreds of units after a previously successful Kickstarter campaign and this effort adds improved performance and new printers to the mix. It’s a great little product and could mean the difference between pulling your 3D print off smoothly or with wails of anguish associated with deep grief and suffering. Your call.
-via 3DPrint
+pulling d print printer usually process fraught conflict hire does  painful deity abandoned earth people leaving fend cold unfeeling universe probably  pain butt
+you normal d printers extrude smooth build plate treated chemical covered tape print usually sticks mightily surface requires scraper remove fleksd comes in
+the basically bendy build plate print finished simply flex plate little item pops weirdly obvious plates different styles printer including ultimaker makerbot cost  plan ship february
+the te delivered hundreds units previously successful kickstarter campaign effort adds improved performance new printers mix great little product mean difference pulling d print smoothly wails anguish associated deep grief suffering call
+via dprint

@@ -1,51 +1,51 @@
-Could Facebook’s experimental group, Facebook Creative Labs, finally have a hit on its hand with its private, photo-sharing app Facebook Moments? The early data looks promising. The app, which lets you get photos from friends and share photos in return, while also organizing them privately on your phone for safe-keeping, seems to have solved one of the long-standing challenges with photo sharing: getting copies of the photos you didn’t take.
-The app is currently performing better in its category (“Photo & Video”) than nearly any of the Facebook Creative Labs efforts, including Paper, Slingshot, Rooms, Hello, Riff and others.
-Moments, for those unfamiliar, scans your camera roll, runs facial recognition, and suggests you send people the photos they’re in. It can also recognize landscapes and other photos you took from a shared outing and recommend you pass them on to people who were there.
-Ever since smartphones became our camera of choice, a number of startups have tried to address the problems with photo sharing by launching various tools and services allowing users to privately share photos with friends outside of the context of larger, more visible social networks.
-In some cases, these came in the form of closed, mini-social networks, group messaging apps, or collaborative photo album builders. In other cases, the apps were more utilitarian in nature.
+could facebook experimental group facebook creative labs finally hit hand private photo sharing app facebook moments early data looks promising app lets photos friends and share photos return organizing privately phone safe keeping solved long standing challenges photo sharing getting copies photos did take
+the app currently performing better category (photo & video nearly facebook creative labs efforts including paper slingshot rooms hello riff others
+moments unfamiliar scans camera roll runs facial recognition suggests send people photos recognize landscapes photos took shared outing recommend pass people there
+ever smartphones  our camera choice number startups tried address the problems with photo sharing launching various tools services allowing users privately share photos friends outside context larger visible social networks
+in cases came form closed mini social networks group messaging apps collaborative photo album builders cases apps utilitarian nature
 
-But the majority of these collaborative photo-sharing apps have failed – even those that initially gained traction and attention, like the clever Flock app from Bump (above), which was later acquired by Google; or Lasso, created by an original Photobucket founder, who later sold his app back to Photobucket then returned to the company.
-Others competing include an app called Memoir, which focuses on more predictive photo-sharing behaviors, as well as a new app called Shoto, to name a couple more.
-But the problem with these apps, in so many cases, has been one of scale. Sure, you may sign up as an early adopter, but convincing others to do the same is always difficult.
-Facebook, meanwhile, has the power and heft to solve the “scale” problem.
-With roughly 1.5 billion monthly active users, 844 million of whom use the service daily, nearly everyone you know is on Facebook. That means the company can leverage its larger social network to both market Facebook Moments more visibly, as well as subtly encourage adoption through integrations with Facebook’s core features, like Notifications.
-It’s also pushing Moment’s notifications through Messenger, which is currently the #1 Free app on the App Store.
-Anecdotally speaking (scroll down for hard data!), I’ve witnessed Facebook Moments gaining traction. I had a feeling that Moments was starting to do well when I discovered that several of my “normal” friends (i.e. non-technical, everyday smartphone owners) were using it. Often, these are the people who are last to adopt new technology, and sometimes never bother at all with social apps they don’t understand, like Foursquare and Snapchat, for example.
-“Oh, just send the photos to me on Moments,” a neighbor said, after asking me to share some photos from an outing. (You’re on Moments?, I thought.)
+ majority collaborative photo sharing apps failed  initially gained traction attention like clever flock app bump (above later acquired google lasso created original photobucket founder later sold app photobucket then returned company
+others competing include an app called memoir which focuses predictive photo sharing behaviors as a new app called shoto couple more
+ problem apps cases been one scale sure sign early adopter  convincing  difficult
+facebook power heft solve scale problem
+with roughly  billion monthly active users  million use service daily nearly know facebook means company leverage its larger social network market facebook moments visibly subtly encourage adoption integrations facebook core features like notifications
+it pushing moment notifications messenger currently # free app app store
+anecdotally speaking (scroll hard data! i’ve witnessed facebook moments gaining traction i feeling moments starting do well i discovered normal friends (ie non technical everyday smartphone owners using people adopt new technology bother social apps understand like foursquare snapchat example
+oh just send photos moments neighbor said asking share photos outing (you moments i thought
 
-Later, with only a little peer pressure, I convinced a couple of friends to download the app onto their phones, even though they’re usually the kind of people who don’t bother with apps at all.
-Another, also less tech-inclined, friend muttered to me about how she “keeps seeing” Facebook Moments in her Notifications feed.
-“All my friends are using it. I know I’ll have to download it eventually,” she said with a sigh.
-Accepting an app’s download as inevitable? As a foregone conclusion?
-Well, that may not be the spirit Facebook would like to see when encouraging user adoption, but there’s certainly something to be said for the “shove it down their throat” method Facebook is now capable of employing.
-After all, just look what it did for Messenger – Facebook’s standalone messaging app that Facebook forced everyone to download by ripping out chat from its main Facebook app. That app has soared in the days since and is now consistently in the top 10 free apps, if not No. 1 or No. 2, on the iTunes App Store.
-Moments is getting a big push from Facebook, which speaks to the company’s belief that this app has “hit” potential.
-Currently, photo-sharing activity in Moments gets published as a Facebook notification which brings it visibility; Moments themselves can be turned into mini-videos that can be posted directly on Facebook Timelines to encourage viral spread; and Facebook has even gone so far as to actively promote it at the top of the Facebook mobile app’s News Feed – an app install ad of its very own.
-This News Feed promotion is pretty rare for Facebook. The company has watched dozens of apps and features die off, preferring natural selection to clear out those that couldn’t succeed on their own. So for Moments to make an appearance here means that it has likely crossed some sort of threshold of satisfaction where Facebook believes it’s helping you, not annoying you, with the promotion.
+later little peer pressure i convinced couple of friends to download app phones usually kind people who do bother apps all
+another tech inclined friend muttered keeps seeing facebook moments notifications feed
+all friends using it i know i’ll download eventually said sigh
+accepting app download inevitable foregone conclusion
+well  spirit facebook like encouraging user adoption  certainly  said shove throat method facebook capable employing
+after just look did messenger  facebook standalone messaging app facebook forced everyone download ripping chat main facebook app app soared days and is consistently  free apps   itunes app store
+moments getting big push facebook speaks company belief app hit potential
+currently photo sharing activity moments gets published facebook notification brings visibility moments can  turned mini videos  posted directly facebook timelines to encourage viral spread facebook gone far actively promote facebook mobile app news feed  app install ad own
+this news feed promotion pretty rare facebook company has watched dozens apps features die preferring natural selection clear succeed moments make appearance means likely crossed sort threshold satisfaction facebook believes it helping annoying with the promotion
 
-The payoff, Facebook hopes, is widespread adoption. So far, that appears to be working.
-Facebook Moments has not yet experienced the usual peak related to media coverage and early adoption followed by a rapid decline as users try the new app, then disappear, never to return. Instead, the app has been holding steady in the charts, even flirting with the top ranks at times.
-What makes Facebook Moments compelling for users is its simplicity. Behind its minimalist interface, Facebook has actually packed in a number of powerful features, including the ability to group photos from the same event (i.e., date, place and time).
-And it takes advantage of facial recognition – similar to the technology that powers Facebook’s tag suggestions – to recommend a list of friends you should sync a group of photos to. This comes across as smarts, not creepiness, as it’s a subtle implementation that speeds up usage.
+the payoff facebook hopes widespread adoption so far appears  working
+facebook moments experienced usual peak related media coverage early adoption followed a rapid decline as users try new app disappear return instead app holding steady charts flirting ranks times
+what makes facebook moments compelling users its simplicity minimalist interface facebook actually packed number powerful features including ability group photos event (ie date place time
+and takes advantage facial recognition  similar technology powers facebook tag suggestions  recommend list of friends sync group of photos comes smarts creepiness subtle implementation that speeds usage
 
-When you’re ready to share photos, it only takes a second to check or uncheck those you want to include in a batch, and an auto-completing search box lets you quickly add more friends to receive the bundle. To share, you swipe a group of photos to the right – much like you do on Tinder, which makes the interface easy to use. And to dismiss a group, you swipe left.
-As a recipient, Moments also does everything right. Photos are private by default – they’re not posted to Facebook. However, you are notified via Facebook of the incoming share – even if you’re not yet a Moments user. This is likely prompting some viral adoption. Moments is also being spread through Messenger – when a friend shares photos with you in Moments, you’ll receive a notification in Facebook’s messaging app that includes a preview.
-Finally, Moments acknowledges that users have worlds outside of Facebook. The app lets you download the photos to your own phone, or share individual photos back to other social networks.
+when ready share photos takes second check uncheck want include batch auto completing search box lets quickly add friends receive bundle share swipe group photos right  like tinder makes interface easy use to dismiss group swipe left
+as recipient moments does right photos private default  posted facebook are notified facebook incoming share  moments user likely prompting viral adoption moments spread messenger  friend shares photos moments you’ll receive notification facebook messaging app includes preview
+finally moments acknowledges users worlds outside facebook app lets you download photos phone share individual photos social networks
 
-Though Moments works well, that’s not to say the app is perfect. There are things it could do better.
-For example, when setting it up on a new phone, it dove way too deep into my photo archive offering to sync photos from years ago. There should be a setting that lets you sync photos from “this moment forward,” instead of forcing you to dismiss dozens of batch suggestions.
-The “says thanks” option is also so small it’s easy to miss. And the app doesn’t push hard enough when it comes to making suggestions about what to share back – it would be great if it merged photos into a single album after it discovers you and friends synced your own sets of photos from the same event, but didn’t collaborate on an album, for instance.
-Finally, offering an easy way to build an album that’s “synced” to family and friends via email or web would be a handy addition for including the handful of people who aren’t Facebook members, or aren’t regular users. (Like grandma and grandpa.)
-It’s too early to dub the app a breakout success, but Facebook’s efforts in boosting Moments have been paying off. The app has climbed from ranking in the low 200s in the “Photo & Video” category on the App Store in the days and weeks after its launch this summer, and is now fighting its way into the top 50, or even top 20, at times.
-Last week it was nearly breaking into the top 50; this week it’s declined a bit to the 70s. Today, it’s No. 64.
-Thanks to its News Feed promotion, Facebook Moments even climbed into the top 20 Photo & Video rankings this month.
-It’s worth also noting that the “Photo & Video” category is one of the most competitive on the App Store (for non-game apps), as its top ranks are filled with a number of the most popular consumer-facing applications, like YouTube, Instagram, Snapchat, Instagram’s Layout, Google Photos, Photoshop, Shutterfly and others.
-At times, Moments has passed well-known apps like Flickr, Giphy, YouTube Capture, and others.
+though moments works say app perfect things better
+for example setting new phone dove way deep photo archive offering sync photos years ago  setting lets sync photos moment forward instead forcing dismiss dozens batch suggestions
+the says thanks option small easy miss the app does push hard comes making suggestions share   great merged photos into single album discovers friends synced sets photos event  did collaborate album instance
+finally offering easy way build album synced family friends email web  handy addition for including handful people facebook members regular users (like grandma grandpa
+it early dub app breakout success  facebook efforts boosting moments paying app climbed ranking low s photo & video category app store days weeks launch summer is now fighting way   times
+last week nearly breaking  week declined bit s today 
+thanks news feed promotion facebook moments climbed  photo & video rankings month
+it worth noting photo & video category competitive app store (for non game apps ranks filled number of popular consumer facing applications like youtu instagr snapchat instagr layout google photos photoshop shutterfly and others
+at times moments passed known apps like flickr giphy youtu capture others
  
 
 
  
-Meanwhile, despite some early press and traction, several of Facebook Creative Labs’ other apps quickly fell off the radar. Some apps like Slingshot and Riff are ranked in the quadruple digits for their category; others are ranked in the hundreds. Only Paper and Groups have legs at all, at #73 (“News”) and #62 (“Social Networking”), respectively. Moments has stayed ahead of Paper, and passed Groups on days it gets a push.
-For a number of reasons, Moments may have a shot at becoming one of Facebook’s first internally-built app “hits.”
-With this release, Facebook is taking advantage of strong facial recognition technology tied to its identity system, leveraging its in-house design talent, and then combines that with Facebook’s cross-promotional capabilities and sizable user base. The app plays to Facebook’s social strengths, just like competitor Google’s newer Photos app plays to its search capabilities and tech prowess, the latter which it uses to automate the building animations and galleries.
-Of course, if Facebook stops promoting Moments, we could see declines related to the semi-forced downloads Facebook had been hoisting on its larger user base through Facebook’s notifications and Messenger. That would indicate Moments’ growth was more the result of promotional efforts, and less related to viral adoption, or organic sharing. Time will tell what’s true, but for now, Facebook Moments is an app to watch.
+meanwhile despite early press traction several of facebook creative labs apps quickly fell radar apps like slingshot riff ranked quadruple digits category ranked hundreds paper groups legs at # (news # (social networking respectively moments stayed ahead paper passed groups days gets push
+for number reasons moments shot facebook internally built app hits
+with release facebook taking advantage of strong facial recognition technology tied identity leveraging its in house design talent combines facebook cross promotional capabilities and sizable user base app plays facebook social strengths just like competitor google newer photos app plays search capabilities tech prowess uses automate building animations galleries
+of course facebook stops promoting moments declines related the semi forced downloads facebook had been hoisting larger user base facebook notifications messenger indicate moments growth result promotional efforts related to viral adoption organic sharing time tell true  facebook moments app watch

@@ -1,9 +1,9 @@
-Slowly but surely, the FBI is releasing information about the method it used to unlock Farook’s iPhone 5c involved in the San Bernardino shooting. Now that the Justice Department has dropped the case, the FBI doesn’t have to disclose the mysterious method it used.
-First, the FBI disclosed this alternative method to some U.S. senators. And FBI director James Comey gave a few more hints. According to CNN, Comey said in a speech that the method doesn’t work on all iPhones.
-In particular, he said that it doesn’t work with iPhone 5s or the newest models. So the FBI can’t simply just hack into an iPhone 6s using the tool it just bought.
-iOS 8 and later comes with encryption features that make it much harder to get access to an iPhone’s content. But Farook’s iPhone was running iOS 9 on an iPhone 5c. So it looks like the tool works with iOS 9, but not on recent iPhones.
-The iPhone 5c doesn’t have a Touch ID sensor or a secure enclave. The first iPhone with a Touch ID sensor was the iPhone 5s. So it could be related to the Touch ID sensor or not.
-But there’s one thing for sure — the FBI hasn’t told Apple. Given that the FBI might take advantage of this security hole for future cases, it doesn’t want Apple to fix it too quickly.
-“We tell Apple, then they’re going to fix it, then we’re back where we started from,” he said according to CNN. “We may end up there, we just haven’t decided yet.”
-This is a shameful strategy as it exposes the data of millions of iPhone users to hackers and intelligence services around the world. Also, we have to trust the FBI’s word because no security expert has seen its method yet. And it’s hard to trust the FBI after this case…
+slowly  surely fbi releasing information method used unlock farook iphone c involved san bernardino shooting justice department dropped case fbi does disclose mysterious method used
+first fbi disclosed alternative method senators fbi director james comey gave hints according cnn comey said speech method does work iphones
+in particular said does work iphone s newest models fbi ca simply just hack iphone s using tool just bought
+ios  later comes encryption features make harder access iphone content  farook iphone running ios  iphone c looks like tool works ios   recent iphones
+the iphone c does touch id sensor secure enclave iphone touch id sensor iphone s  related touch id sensor not
+ thing sure  fbi told apple given fbi advantage security hole future cases does want apple fix quickly
+we tell apple going fix started said according cnn end just decided yet
+this shameful strategy exposes data millions iphone users hackers intelligence services world trust fbi word security expert seen method hard trust fbi case…
 

@@ -1,7 +1,7 @@
-Google is launching a new privacy tool for Google Apps Unlimited users today. The new Data Loss Prevention feature will make it easier for businesses to make sure that their employees don’t mistakenly (or not so mistakenly) email certain types of sensitive information to people outside of the company.
-Businesses that subscribe to this plan for their employees now have the option to turn on this tool and select one of the new predefined rules that, for example, automatically reject or quarantine any email that contains a social security or credit card number. Businesses can choose from these predefined rules and also set up custom detectors (a confidential project keyword, for example). Google says its working on adding more predefined rules, too.
+google launching new privacy tool for google apps unlimited users today new data loss prevention feature will make easier businesses make sure employees mistakenly (or mistakenly email certain types sensitive information people outside company
+businesses subscri plan employees option turn tool select new predefined rules example automatically reject quarantine email contains social security credit card number businesses choose predefined rules set custom detectors (a confidential project keyword example google says working adding predefined rules too
 
-Google created a set of pre-defined rules for data like social security numbers in the U.S., Canada and France, driver’s license and National Health Service numbers in the U.K., as well as for all credit card numbers, bank routing numbers and Swift codes for bank account numbers.
+google created set pre defined rules data like social security numbers canada france driver license national health service numbers uk credit card numbers bank routing numbers swift codes bank account numbers
 
-It’s worth noting that Google will scan both the email body and attachments for potential matches.
-Rules can be applied to incoming and outgoing messages. Admins are also able to apply these rules to specific departments and employees. For internal messages, they are also able to add a line like “[Internal Only]” to emails that contain information that would have been rejected if the sender had tried to send this email to an external recipient.
+it worth noting google scan email body attachments potential matches
+rules  applied incoming outgoing messages admins able apply rules specific departments employees internal messages able add line like internal emails contain information rejected sender tried send email external recipient

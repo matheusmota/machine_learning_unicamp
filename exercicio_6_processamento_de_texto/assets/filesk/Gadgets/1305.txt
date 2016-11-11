@@ -1,14 +1,14 @@
-The internet of things, and wearables in particular, may not be quite living up to the hype, but it turns out they may be just the thing for people suffering from Parkinson’s disease. A pair of engineering students from the University of Pennsylvania have started their own company to pursue the possibility.
-Sade Oba and Alfredo Muniz, founders of XEED, grew up near one another in Houston and were interested in health-related applications for technology well before they attended Penn. The suitability of wearable devices for Parkinson’s treatment occurred to them during their engineering studies there (mechanical for Oba, electrical for Muniz).
-“As robotics majors, Alfredo and I were working on a working on a mobile smart home robotic platform,” Oba told me in an email. “People weren’t very receptive to the product when we attempted to commercialize it… We decided to take our advisor’s advice and took a few small sensors from the robot and re purposed them towards precisely tracking movement.”
-Parkinson’s is characterized by intermittent tremors, which can be controlled both through drugs and physical therapy. But it helps to understand when those tremors occur and what the patient’s activities look like outside of visits to the doctor.
+the internet things wearables particular  quite living hype  turns  just thing people suffering parkinson disease pair engineering students university pennsylvania started company pursue possibility
+sade oba alfredo muniz founders xeed grew near houston interested health related applications technology attended penn suitability wearable devices parkinson treatment occurred engineering studies (mechanical oba electrical muniz
+as robotics majors alfredo i working working mobile smart home robotic platform oba told email people receptive product attempted commercialize it… decided advisor advice took small sensors robot purposed precisely tracking movement
+parkinson characterized intermittent tremors  controlled drugs physical therapy  helps understand tremors occur patient activities look like outside visits doctor
 
-XEED’s bracelet-like wearables track the user’s limbs throughout the day, noting both the time and intensity of tremors as well as the extent of their voluntary movements. The data can be accessed by caregivers, but is also sent to a smartphone app that can give instant feedback, suggesting movements or letting users track their progress.
-“Patients can take this information and figure out exactly how they need to adjust their everyday activities to improve their everyday life,” said Oba in a Penn-produced video.
-The data are useful for individuals, their physical therapists, and their physicians, but once aggregated, could also form a highly useful database for researchers.
-“Currently we are designing our third prototype,” Muniz wrote in an email to TechCrunch. “We will be testing the batch of 50 on a small group for two weeks, paying attention to how they put the devices on, whether the LED indicators are useful, whether they remember to charge it, and what modifications need to be done to the phone app.”
-It may be approaching final form, but the XEED device will still require FDA approval, whether it’s classified as an assistive or Class 1 medical device. That means it’ll be quite a while before it’s deployed at large — though smaller-scale studies are certainly going to continue.
+xeed bracelet like wearables track user limbs day noting time intensity tremors extent voluntary movements data  accessed caregivers  sent smartphone app instant feedback suggesting movements letting users track progress
+patients information figure exactly need adjust everyday activities improve everyday life said oba penn produced video
+the data useful individuals physical therapists physicians  aggregated form highly useful database researchers
+currently designing prototype muniz wrote email techcrunch  testing batch  small group weeks paying attention devices led indicators are useful remember charge modifications need  phone app
+it  approaching final form  xeed device require fda approval classified assistive class  medical device means it’ll  quite deployed large  smaller scale studies certainly going continue
 
-As for funding, the pair won Penn’s “President’s Innovation Prize” last year, giving them $200,000 to work with as they iterate on the idea and establish their company.
-“We have also been contacted by a few investors who would be happy to help us if we got in a pinch,” wrote Muniz, “but we are currently seeking NSF and NIH (SBIR) grants.”
-XEED is also partnering with a local Parkinson’s rehabilitation center, and will meet later this month with the Michael J. Fox Foundation to discuss options there as well.
+as funding pair won penn president innovation prize year giving  work iterate idea establish company
+we contacted investors  happy help got pinch wrote muniz  currently seeking nsf nih (sbir grants
+xeed partnering local parkinson rehabilitation center meet later month michael j fox foundation discuss options well

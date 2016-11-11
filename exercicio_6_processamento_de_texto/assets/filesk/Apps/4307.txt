@@ -1,16 +1,16 @@
-With 40% of LinkedIn‘s 300 million users accessing the social network for professionals via mobile devices, the company has been stepping up a gear on its mobile business, adding new apps around specific experiences like job hunting. Today comes the latest development on this front, a new app called LinkedIn Connected.
-Designed as the next generation of its Contacts app — launched a year ago as a kind of personal assistant and now getting retired — Connected will be more than just a place where you can manage your contacts: the idea here is to strengthen relationships with connections you already have.
-It’s another step forward in the company’s bigger bid to be an intelligent layer on top of a basic contacts database — a play on a wider strategy to do more in anticipatory computing, an emerging area in app development that plays on ideas of artificial intelligence and big data to “predict” what a user may want to see or do next.
-“More and more apps should just infer what I need next. It’s like going to your favorite restaurant and they know your name, what you like, and how to cook it. As a result they anticipate what I need before I have to ask,” LinkedIn’s VP of Mobile Joff Redfern writes.
-There are others going after this space as well. Humin, an app yet to be released, is going after a similar concept to LinkedIn’s Connected: it strives to work within a relevant context for the user to help them access their connections in a way that lets them network effectively.
+with  linkedin‘s  million users accessing social network professionals mobile devices company stepping gear mobile business adding new apps specific experiences like job hunting today comes latest development new app called linkedin connected
+designed generation contacts app  launched year ago as kind personal assistant getting retired  connected  just place manage contacts idea strengthen relationships connections have
+it step forward company bigger bid  intelligent layer basic contacts database  play wider strategy anticipatory computing emerging area app development plays ideas artificial intelligence big data predict user want next
+more apps just infer i need like going favorite restaurant know like cook result anticipate i need i ask linkedin vp mobile joff redfern writes
+there going space well humin app  released going similar concept linkedin connected strives work relevant context user help access connections way lets network effectively
  
 
-According to LinkedIn, most users log on to the platform for just a few minutes every morning between 6-10 to check for updates and get key background info on those they might interact with during the day. The idea here is that Connected will not only bring you alerts that will draw you into using the app more, but also extract out the kind of information that you are already proactively searching for such as profile updates, job changes, work anniversaries, birthdays and key business interests.
+according linkedin users log on to platform just minutes morning   check updates key background info interact day idea connected bring alerts draw using app  extract kind information proactively searching as profile updates job changes work anniversaries birthdays key business interests
 
-The app will also allow users to look up key information about a potential connection. LinkedIn believes this to be particularly helpful in adding context to a potential or new connection right before a meeting. It also says users can get reminders about that meeting within the app.
+the app allow users look key information potential connection linkedin believes  particularly helpful adding context potential new connection right meeting says users reminders meeting app
 
-In a way, the use of Connected is not completely a surprise: it’s a return to a brand it picked up in 2011 when it acquired the startup Connected.
-In an average week there are more than 9 million comments, likes and congratulations posted across LinkedIn for updates like job changes, birthdays, being mentioned in the news and work anniversaries, the company tells us.
-Put that together with the kinds of searches people do on the platform every morning and then combine that with an increasing focus on mobile for the company. It seems only natural for LinkedIn to create a separate app that anticipates the desire to get relevant information on those whom they are connected to. It simplifies the process of remembering how you are connected and why before you interact with that person again (or for the first time).
-The new app will only be available in English speaking countries and on iOS for now, though LinkedIn Senior Manager of Corporate Communications, Krista Canfield, did say an Android version is on the roadmap.
-Update: Humin app reference clarified — it’s not a LinkedIn app, but a potential competitor to Connected.
+in way use of connected completely surprise return brand picked in  acquired startup connected
+in average week  million comments likes congratulations posted linkedin updates like job changes birthdays mentioned news work anniversaries company tells us
+put kinds searches people platform morning combine increasing focus mobile company natural linkedin create separate app anticipates desire relevant information connected simplifies process remembering connected interact person (or time
+the new app  available english speaking countries ios linkedin senior manager corporate communications krista canfield did say android version roadmap
+update humin app reference clarified  linkedin app  potential competitor connected

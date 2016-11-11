@@ -1,18 +1,18 @@
-Imagine you’re a red-blooded hacker and you want to break into a corporate network. You find your way in, probably by stealing someone’s credentials. Then you go to work. You move around until you find another lock to pick and slowly, steadily, patiently you go deeper and deeper into the network until you find the prize you’re seeking.
-But what if that picked lock the hacker thought was a way to go further was in fact a trap carefully laid to trick them. That’s precisely what Illusive Networks, a startup from Israeli security incubator Team8 is trying to do.
-The company came out of stealth today with $5 million in Series A funding from Team8, a company we wrote about last fall.
-Illusive knows hackers want to exploit weaknesses in the network, so it takes advantage of that. “Instead of focusing on the malware, focus on the attacker.” says Illusive Networks’ CEO Shlomo Touboul. “He is greedy, he has weaknesses and he makes mistakes.”
-Specifically, Illusive knows the hacker needs to extract data to move to the next step. “Our deceptions are extremely attractive. The hacker sees one and opens the champagne bottle. I’ve got what I need to move [closer] to the database,” Touboul explained.
-The deceptions are cleverly disguised so that hackers won’t recognize them as a trick. Along the way, hackers are given a choice between good data and bad. If they choose the good, they get a bit further, but Illusive knows that eventually it’ll catch them because there are too many deceptions and the odds are on its side.
-In fact, the deceptions are contextual and in line with what a hacker would expect to see. “If he sees a machine named legalserver101 and 101-105 are the real servers and 106-110 are the deceptions, the false ones are compatible with the DNA of the organization. He has to make a move,” he said.
-Even if he gets lucky, Touboul says company research has shown hackers get caught within three hops, which he describes as very early in the process before he can do damage. And hackers simply can’t resist when they see the deception. They’ll keep pushing forward without any knowledge of the trick.
-Touboul likens it to a gambler, who keeps pushing, but the house always wins eventually.
-Once caught, the security team can kick out the intruder or follow them around using forensics tools and figure out where they’re coming from and how they work.
-The tool puts enterprise security in control and gives it power so that it can calmly assess the situation and take the action it wants to take instead of operating in panic mode, says Nadav Zafrir CEO at Team8.
-“What I can tell you is if you get detection early with high fidelity and with the right data, you can make intelligent, calm decisions,” Zafir said.
-“We have customers who don’t pull the plug on the hacker, but let him keep moving and see what he’s doing and better know the nature of the attacker and what he’s after,” Touboul said.
-The company has caught the attention of Google chairman Eric Schmidt, whose venture capital firm Innovation Endeavors helped fund Team8. ”
+imagine you red blooded hacker want break corporate network way probably stealing credentials work you lock pick slowly steadily patiently deeper deeper network you find the prize seeking
+ picked lock the hacker thought way fact trap carefully laid trick precisely illusive networks startup israeli security incubator te trying do
+the company came stealth today  million series funding te company wrote fall
+illusive knows hackers want exploit weaknesses network takes advantage instead focusing malware focus attacker says illusive networks ceo shlomo touboul greedy weaknesses makes mistakes
+specifically illusive knows hacker needs extract data to step deceptions extremely attractive hacker sees opens champagne bottle i’ve got i need closer database touboul explained
+the deceptions are cleverly disguised hackers wo recognize trick way hackers given a choice good data bad they choose good they get bit  illusive knows eventually it’ll catch them because deceptions and the odds its side
+in fact deceptions contextual line hacker expect sees machine named legalserver   real servers and   deceptions false ones are compatible dna organization make said
+even gets lucky touboul says company research shown hackers caught hops describes as very early process he can damage hackers simply ca resist deception they’ll pushing forward without knowledge trick
+touboul likens gambler keeps pushing  house  wins eventually
+once caught security te kick intruder follow using forensics tools figure coming work
+the tool puts enterprise security control gives power it can calmly assess situation action it wants to instead operating panic mode says nadav zafrir ceo team
+what i tell you detection early high fidelity right data make intelligent calm decisions zafir said
+we customers pull plug hacker  let moving doing better know nature attacker touboul said
+the company caught attention google chairman eric schmidt venture capital firm innovation endeavors helped fund te 
 
-“It is critical that we support innovative startups developing creative and disruptive solutions to these threats. Illusive Networks is a perfect example of the kind of “out of the box” thinking necessary to challenge the growing threat of targeted attacks,” Schmidt said in a statement.
-As we have seen, hackers are growing ever more clever and companies need better and more crafty ways to deal with them. Team8 was formed to find better ways to secure the enterprise and Illusive Networks is one of the first companies to emerge from its security foundry.
-It’s certainly a slick way of dealing with intruders and one that defeats them at their own game. If it’s true that the best defense is a good offense, then this solution puts that to the test. If it works as described, it’s truly a creative approach to securing enterprise networks.
+it critical support innovative startups developing creative disruptive solutions threats illusive networks perfect example kind box thinking necessary challenge growing threat targeted attacks schmidt said statement
+as seen hackers growing clever companies need better crafty ways deal te formed better ways secure enterprise illusive networks the first companies to emerge its security foundry
+it certainly slick way dealing intruders defeats game true that the best defense good offense then this solution puts test works described truly creative approach securing enterprise networks

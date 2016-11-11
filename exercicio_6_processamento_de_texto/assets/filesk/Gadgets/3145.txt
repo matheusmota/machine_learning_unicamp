@@ -1,8 +1,8 @@
-There are 3.8 million sports-related head injuries each year, and 47 percent of athletes do not report symptoms of their head injuries, whether out of lack of understanding or a need to feel tough.
-As we’ve learned over the past few years, from the death of NFL athletes like Frank Gifford or the movie Concussion, based on the research of Dr. Bennet Omalu, blows to the head can cause permanent damage to the brain. ForceImpact Tech is looking to prevent this type of damage with their first product, the FITGuard.
-FITGuard is a mouthguard that detects the severity of an impact to the head, and then uses LEDs embedded in the mouthguard to indicate how intense that impact was.
-The lights turn green to show a low-impact blow, whereas blue means there is a moderate risk of injury. Red LED lights signify that the impact was severe enough to immediately remove the player from the field, and does so in a way that coaches, teammates and referees can see without any indication from the player.
-As is standard with most modern gadgets, the FITGuard pairs with a mobile app that can be monitored by a coach or parent, providing real-time insight into an athlete’s injury. This also allows medical professionals to look at the athlete’s history of head injuries and impacts.
-Because FITGuard’s app uses information around the user’s weight, gender, and age, it’s able to be user-specific when it measures the impact of a blow.
-Individuals will be able to purchase the device for $129, but the company is looking to ramp up distribution by selling directly to leagues, teams and universities at a price point under $100. Moreover, they want to partner with insurance companies to ensure that those insurance providers will offer a discount to users of the device.
-ForceImpact Tech plans to ship before the fall season of football this year, and you can learn more about the product here.
+there  million sports related head injuries year  percent athletes report symptoms head injuries lack understanding need feel tough
+as we’ve learned past years death nfl athletes like frank gifford movie concussion based research dr bennet omalu blows head cause permanent damage brain forceimpact tech looking prevent type damage product fitguard
+fitguard mouthguard detects severity impact head uses leds embedded mouthguard indicate intense impact was
+the lights turn green low impact blow blue means moderate risk injury red led lights signify impact severe immediately remove player field does way coaches teammates referees indication player
+as standard modern gadgets fitguard pairs mobile app  monitored coach parent providing real time insight athlete injury allows medical professionals look athlete history head injuries impacts
+because fitguard app uses information user weight gender age able  user specific measures impact blow
+individuals  able purchase device   company looking ramp distribution selling directly leagues teams universities price point  want partner insurance companies ensure insurance providers offer discount users device
+forceimpact tech plans ship fall season football year learn product here

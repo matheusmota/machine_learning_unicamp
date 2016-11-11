@@ -1,9 +1,9 @@
-BuzzFeed just announced that it’s acquiring San Francisco startup GoPop.
-The startup was originally known as Zeega, and it was part of the first class at Matter, the Knight Foundation- and KQED-backed incubator for media startups. GoPop’s current offering is an iOS app for “visual conversation,” combining photos into simple animations (that’s a sample animation of the GoPop team above).
-You can probably see some kinship there already, given BuzzFeed’s well-known fondness for GIFs. It sounds like the acquisition’s aim was to bring on some key team members to help with BuzzFeed’s mobile app development.
-BuzzFeed says GoPop CEO Jesse Shapins will be leading product for the core app team, while his co-founder and CTO James Burns will lead a new experimental app group. Mobile designers and developers Joseph Bergen and Filipe Brandão are also joining. (And yes, they’ll be moving to BuzzFeed’s New York office.)
-“We believe BuzzFeed is rapidly becoming the most impactful global media company, and the opportunity to lead new initiatives as the company expands its mobile footprint was irresistible,” Shapins said in the acquisition release.
-A BuzzFeed spokesperson told me that the GoPop app will be taken down, but the company will host “a public archive of all Pops ever created, where each user will have a web profile with everything they’ve ever made.”
-This is also the first acquisition to come out of Matter (which  announced six new media partners yesterday). Matter managing partner Corey Ford told me via email that it was “incredibly rewarding” to see a team that “started Matter without exposure to mobile-first, user-centered, prototype-driven design process” become so strong that it was acquired by “the most innovative news company on the planet right now.”
-The financial terms of the deal were not disclosed. GoPop had also raised funding from The Knight Foundation and Chris Sacca’s Lowercase Capital.
-Last fall, BuzzFeed acquired startup Torando Labs to build a new data engineering team.
+buzzfeed just announced acquiring san francisco startup gopop
+the startup originally known zeega class matter knight foundation  kqed backed incubator media startups gopop current offering ios app visual conversation combining photos simple animations (that sample animation gopop te above
+you probably kinship given buzzfeed known fondness gifs sounds like acquisition aim bring key te members help buzzfeed mobile app development
+buzzfeed says gopop ceo jesse shapins  leading product core app te founder cto james burns lead new experimental app group mobile designers developers joseph bergen filipe brandão joining (and yes they’ll  moving buzzfeed new york office
+we believe buzzfeed rapidly impactful global media company opportunity lead new initiatives company expands mobile footprint irresistible shapins said acquisition release
+a buzzfeed spokesperson told gopop app  taken  company host public archive pops created user web profile they’ve made
+this acquisition come matter (which  announced new media partners yesterday matter managing partner corey ford told email incredibly rewarding te started matter exposure mobile user centered prototype driven design process  strong it was acquired innovative news company planet right now
+the financial terms deal disclosed gopop raised funding knight foundation chris sacca lowercase capital
+last fall buzzfeed acquired startup torando labs build new data engineering team

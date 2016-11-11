@@ -1,31 +1,31 @@
 
 
-Dear Gmail: Two years ago, you launched an ambitious endeavor with Schema.org to bring a new level of richness to email. Schema.org allowed senders to embed rich meta data in email that allowed any modern email client, not just Gmail, to present actionable items within email.
-From subject-line actions that allow the recipient to rate a product or service without opening the email to real-time updates of airline reservation information within an email, it felt like Gmail was taking the lead in email innovation.
+dear gmail years ago launched ambitious endeavor schemaorg bring new level richness email schemaorg allowed senders embed rich meta data email allowed modern email client just gmail present actionable items email
+from subject line actions allow recipient rate product service opening email real time updates airline reservation information email felt like gmail taking lead email innovation
 
-However, based on queries in Gmail’s support forum, it’s clear that Schema.org has not caught on. And Grid View, Schema.org’s support of a much-anticipated graphical complement to the email subject line, was unceremoniously discontinued with nary a peep early this year.
-Although the Gmail API seems to attract relatively more interest, it only appeals to those who want to integrate their apps with Gmail and not developers who build, design, automate and send email.
-Are developers not interested in email innovation? Or are they simply not attracted to Gmail’s vision of email’s future?
-Gmail and its plethora of rendering quirks is a big reason why developers avoid working on email. Developers like well-defined and documented environments, and email is anything but. Although many email clients suffer from rendering issues, getting an email to display nicely in the various Gmail desktop and mobile clients gives developers the most angst.
-I don’t think you intentionally set out to make email “difficult,” but perhaps with the zeal to innovate, you inadvertently broke email itself. If you want more developers working on Gmail’s developer offerings like Schema.org and the Gmail API, you first need to address the basics — and that is to fix what you’ve broken.
-Gmail is the only email client that doesn’t support <style>. Many developers new to email are surprised that they can’t style their emails using rudimentary web development techniques (with classes and ids). Every CSS style has to be painstakingly inlined in an email . All this just for Gmail alone. Manually inlining CSS is time-consuming, and the alternative of running email through an inliner tool adds an unnecessary step in the development workflow.
-Inlining CSS also significantly increases the size of an email; for a company that prizes efficiency like Google, this is an embarrassment.
+however based queries gmail support forum clear schemaorg caught grid view schemaorg support anticipated graphical complement email subject line unceremoniously discontinued nary peep early year
+ gmail api attract relatively appeals want integrate apps gmail developers build design automate send email
+are developers interested email innovation simply attracted gmail vision email future
+gmail plethora rendering quirks big reason developers avoid working email developers like defined documented environments email   email clients suffer rendering issues getting email display nicely various gmail desktop mobile clients gives developers angst
+i think intentionally set make email difficult  zeal innovate inadvertently broke email want developers working gmail developer offerings like schemaorg gmail api need address basics  fix you’ve broken
+gmail email client does support <style> many developers new email surprised ca style emails using rudimentary web development techniques (with classes ids css style  painstakingly inlined email  just gmail manually inlining css time consuming alternative running email inliner tool adds unnecessary step development workflow
+inlining css significantly increases size email company that prizes efficiency like google embarrassment
 
-The Gmail app is a step back from the native Android app. Android mobile phones used to come installed with an email client that was able to render mobile email nicely. Developers could use media queries to instruct the email client to display specially designed mobile responsive versions that made email readable within the smaller screen. However the Android email client was dropped for the Gmail app in the last version of Android (Lollipop), which does not support media queries.
-Developers have complained about the lack of media query support at conferences, as well as during a Reddit Q&A session conducted by the Inbox by Gmail team. Yet none of the Gmail mobile clients support media queries.
+the gmail app step native android app android mobile phones used come installed email client able render mobile email nicely developers use media queries instruct email client display specially designed mobile responsive versions email readable smaller screen android email client dropped gmail app version android (lollipop does support media queries
+developers complained lack media query support conferences reddit q&a session conducted inbox gmail te gmail mobile clients support media queries
 
-Each Gmail client renders email differently. You may not be aware of this, but each Gmail client has its own set of frustrating quirks. Having to deal with each version of Gmail makes creating email a nail-biting chore:
-To add insult to injury, rending Gmail frequently makes unannounced rendering changes — leaving developers to scramble to figure out workarounds.
-Think about it. If developers spend hours testing their emails to ensure they render nicely in Gmail, how will they find the time to experiment with cool stuff like Gmail’s email enhancements?
+each gmail client renders email differently you  aware  gmail client set frustrating quirks having deal version gmail makes creating email nail biting chore
+to add insult injury rending gmail frequently makes unannounced rendering changes  leaving developers scramble figure workarounds
+think developers spend hours testing emails ensure render nicely gmail time experiment cool stuff like gmail email enhancements
 
-Thankfully, many developers are still passionate about email. And we want innovations like Gmail’s Schema.org enhancements to succeed and be adopted by other email clients. But we need even more developers to be enthusiastic about email.
-Here are some of the steps Gmail can take to make email a more developer-friendly environment:
-First, Gmail, it’s time to support classes and ids in web mail and media queries in mobile apps. Not following standards used to be a Microsoft thing. Guess what? Even Microsoft is committed to fixing their Outlook email issues by reaching out to the email design and developer community.
+thankfully developers passionate email want innovations like gmail schemaorg enhancements succeed  adopted email clients  need developers  enthusiastic email
+here steps gmail make email developer friendly environment
+first gmail time support classes ids web mail media queries mobile apps following standards used  microsoft thing guess microsoft committed fixing outlook email issues reaching email design developer community
  
-Second, it’s time to be more transparent with developers in regards to email rendering. It’s great you have excellent documentation and a dedicated support channel for the Gmail API and Schema.org; now please share how Gmail renders email so developers new to email don’t have to search the web just to figure out how to code a basic email that isn’t broken in Gmail.
-Third, if you need to have your own blend of rendering, at least make it consistent across your clients — and give the email community a channel to report bugs when we find them.
-Lastly, like Schema.org, Google should take the lead in bringing the web mail stakeholders from Yahoo, Microsoft and AOL together toward the support of a common set of CSS and HTML. Full CSS support may not be realistic in a web mail environment, but there is no reason why a consensus cannot be reached on a common subset to make the lives of developers easier.
-Although the iOS mail client lacks a lot of the bells and whistles of the Gmail and Inbox apps, believe it or not, it is the preferred client among email designers and developers. That’s because we’ve found ways to leverage the powerful CSS capabilities to do some really cool stuff in email. Things that most people would swear could only be done in JavaScript, such as collapsible menus, image carousels and even shopping carts in email.
-We’d all love to be bringing the same enthusiasm and creativity to Gmail.
-If only you’d work with us.
-Thanks to @pompeii79 for the Missy Elliott as Gmail inspiration.
+second time  transparent developers regards email rendering great excellent documentation dedicated support channel gmail api schemaorg share gmail renders email developers new email search the web just figure code basic email broken gmail
+third need blend rendering make consistent clients  email community channel report bugs them
+lastly like schemaorg google lead bringing web mail stakeholders yahoo microsoft aol support common set css html css support  realistic web mail environment  reason consensus  reached common subset make lives developers easier
+ ios mail client lacks lot bells whistles gmail inbox apps believe preferred client  email designers developers we’ve ways leverage powerful css capabilities really cool stuff email things people swear  javascript collapsible menus image carousels shopping carts email
+we’d love  bringing enthusiasm creativity gmail
+if you’d work us
+thanks @pompeii missy elliott gmail inspiration

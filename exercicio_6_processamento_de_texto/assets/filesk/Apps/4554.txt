@@ -1,17 +1,17 @@
-Nokia, now lightened of its handset load thanks to Microsoft, has made an acquisition to expand its HERE mapping business, one of the assets that has remained with the Finnish company. It has bought Desti, a mapping startup and app maker that uses artificial intelligence and natural language processing to help people find what they are looking for. Desti is a spin-out from SRI International, the same group that produced Siri, now part of Apple.
-As part of the deal, the existing Desti app will be shut down. Don Zereski, VP of search and discovery at HERE, says it will be wound down “within the next 90 days.” The iOS app has already been pulled from the App Store.
-Instead, the company will be incorporating Desti’s technology into its HERE platform as it looks to add more personalised search to the product “over the balance of this year,” he said in an interview.
-And, as Nokia makes its APIs available to third parties, it will be interesting if it uses the Desti technology for its own services, or chooses to open that up to developers as well.
-Zereski says that while initially the technology will be used in HERE’s own, branded apps, it will also play into the company’s wider API effort. “The Desti backend will beocme a part of the platform over time,” he says.
-The deal is an interesting one because it gives Nokia another way to build out its mapping business and add an intelligent layer on top of it — in this case not just to facilitate more hands-free and mobile-friendly interaction, but also a way of searching Nokia’s location data.
-This will take Nokia into areas beyond mapping and more into services that use location. “Desti technology goes way beyond maps,” Zereski says. He says that the fact that its data trove is organised around natural language will make it easier to search and discover. “Desti has done a terrific job mining the web to collect data about places. It allows users to discover them using the way we speak about them. It lets users discover information in a more intuitive way.”
-Adding more firepower to its mapping business is essential right now for Nokia because the company, now without its core handset business, will need to prove that what is has left can be a sustainable business on its own — or at least be an attractive acquisition for another company interested owning one of the handful of companies that controls primary mapping data.
-Currently HERE is a fairly small part of Nokia operation. In the first quarter of this year, reported at the end of April, HERE had net sales of €209 million ($284 million), down 3% on a year ago and down 18% on the previous quarter. HERE represented less than 10% of Nokia’s overall net sales of €2.7 billion ($3.7 billion).
-One of Nokia’s biggest customers for HERE, at the least for the short/medium term, will be Microsoft, which has signed a four-year licensing deal for the mapping technology for its mobile devices the operating systems that run on them.
-In that regard Nokia is tasked with another challenge: it needs to start laying the groundwork now for how and where it will generate revenue after those four years are up, either from continued business from Microsoft or from other customers — and ideally both.
-Desti could help on that front with its functionality and for how it might be commercialised itself.
-“I don’t expect consumers to pay for services but Desti provides ways to create more commerce models around the product,” Zereski notes. “It will allow consumers to book hotels and restaurants from our products.” He was cut off from saying more on this by one of the PR people sitting in on the call, who cut in to emphasise that this is all theoretical at this point.
-This would of course put Nokia into closer competition with the likes of Google, Yelp and Foursquare — the latter being a partner at the moment.
-Analyst Neil Shah points out, there are a number of places, more immediately, where Desti may get integrated:
-Nokia says it is not disclosing the terms of the deal. We are still trying to find out.
-You can read more about Desti in our profile of the startup when it launched in 2012. The company had raised $2 million from SRI International, Horizons Ventures and Carmel Ventures.
+nokia lightened handset load thanks microsoft acquisition expand mapping business assets remained finnish company bought desti mapping startup app maker uses artificial intelligence natural language processing help people looking desti spin sri international group produced siri apple
+as deal existing desti app  shut don zereski vp search discovery says  wound  days ios app pulled app store
+instead the company  incorporating desti technology platform looks add personalised search product balance year said interview
+and nokia makes apis available parties  interesting uses desti technology services chooses open developers well
+zereski says initially technology  used branded apps play company wider api effort desti backend beocme platform time says
+the deal interesting gives nokia way build mapping business add intelligent layer  case just facilitate hands free mobile friendly interaction  way searching nokia location data
+this nokia areas mapping services use location desti technology goes way beyond maps zereski says says fact data trove organised natural language make easier search discover desti has terrific job mining web collect data places allows users discover using way speak lets users discover information intuitive way
+adding firepower mapping business essential right nokia company core handset business need prove left  sustainable business   attractive acquisition company interested owning handful companies controls primary mapping data
+currently fairly small nokia operation first quarter year reported end april had net sales € million ( million  year ago  previous quarter represented  nokia overall net sales € billion ( billion
+one nokia biggest customers short/medium term  microsoft signed year licensing deal mapping technology mobile devices operating systems run them
+in regard nokia tasked challenge needs start laying groundwork generate revenue years continued business microsoft customers  ideally both
+desti help functionality  commercialised itself
+i expect consumers pay services  desti provides ways create commerce models product zereski notes allow consumers book hotels restaurants products cut saying pr people sitting cut emphasise theoretical point
+this would of course nokia closer competition likes google yelp foursquare  partner moment
+analyst neil shah points number places immediately desti integrated
+nokia says disclosing terms of deal trying out
+you read desti profile startup launched  company raised  million sri international horizons ventures carmel ventures

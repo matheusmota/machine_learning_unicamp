@@ -1,12 +1,12 @@
-Symantec announced overnight it had purchased Blue Coat Systems for $4.65 billion with the hopes of creating an enterprise security juggernaut.
-As part of the deal, Blue Coat CEO Greg Clark will take over the same role at Symantec. The company has been operating since April without one when Michael A. Brown stepped down.
-It was a stunning turn of events for Blue Coat, which was sold just last year to Bain Capital for $2.4 billion. By all reports, Bain intended to take Blue Coat public this year until they received and overwhelming offer from Symantec.
-Bain makes a tidy profit off of the deal just a year after buying Blue Coat and intends to take $750 million of the proceeds and plow it back into the combined business.
-With Blue Coat, the two companies are combining to create an enterprise security giant. The fact is what you have is two large companies with lots of customers and revenue, but that are under pressure from an increasingly competitive security market, hoping that the combined entity can do better than they could alone.
-“Together, we will be best positioned to address the ever-evolving threat landscape, the massive changes introduced by the shift to mobile and cloud, and the challenges created by regulatory and privacy concerns,” Dan Schulman, Chairman of Symantec said in a statement.
-One thing the combined organization has going for it is that Symantec has tended to concentrate on on-premises security, while Blue Coat has emphasized web and cloud security, so there is little overlap in products.
-The bigger is better strategy is similar to the one Dell is taking with its $67 billion deal with EMC, albeit a much larger bet. Interestingly, Silver Lake, which is a big Dell investor is also involved here, doubling its $500 million investment in Symantec to $1 billion as part of the deal.
-The two companies have lots of customers and revenue, but that hasn’t necessarily translated into the financial success you might expect.
-Symantec reported revenue was down 2 percent year over year in each of its two reports this year (Q3 2016 and Q4 2016) . What’s more, the company stock has seen an approximately 27 percent drop over the last year, falling from $24.46 on June 18, 2015 to $17.39 as of Friday (with a low of $16.62 in March).
-As for Blue Coat, Fortune reports that it had $232 million net loss on $598 million in revenue, but attributed much of the loss to recent acquisitions of Perspecsys and Elastica.
-Whether the combined companies will actually perform better than they did separately is an open question. In a time when agility and speed are valued attributes in organizations, creating a larger, less flexible company seems counter to that. One thing the two companies have going for them is lack of overlap, which is unusual in a deal like this, but you have to wonder if scaling up is the right way to go here and whether a large organization can move quickly enough in a rapidly changing market space.
+symantec announced overnight purchased blue coat systems  billion hopes creating enterprise security juggernaut
+as deal blue coat ceo greg clark role symantec company operating april when michael brown stepped down
+it stunning turn events blue coat sold just year bain capital  billion reports bain intended blue coat public year received overwhelming offer from symantec
+bain makes a tidy profit deal just year after buying blue coat and intends  million proceeds plow combined business
+with blue coat companies combining create enterprise security giant the fact large companies lots customers revenue  pressure increasingly competitive security market hoping combined entity better alone
+together  best positioned address evolving threat landscape massive changes introduced shift mobile cloud challenges created regulatory privacy concerns dan schulman chairman symantec said statement
+one thing combined organization going symantec tended concentrate on premises security blue coat emphasized web cloud security little overlap products
+the bigger better strategy is similar one dell taking  billion deal emc albeit larger bet interestingly silver lake big dell investor involved doubling  million investment symantec  billion as deal
+the companies lots customers revenue  necessarily translated financial success expect
+symantec reported revenue  percent year year its two reports year (q  q   company stock seen approximately  percent drop last year falling  june    friday (with low  march
+as blue coat fortune reports had  million net loss  million revenue  attributed loss recent acquisitions of perspecsys elastica
+whether combined companies actually perform better did separately open question time agility speed valued attributes organizations creating larger flexible company counter thing companies going lack overlap unusual deal like  wonder scaling right way large organization quickly rapidly changing market space

@@ -1,7 +1,7 @@
-When we last covered Lully, the YC-Backed startup had just announced the close of a $2.1 million seed round for operations surrounding their flagship product called The Sleep Guardian. That product launched in June of 2015. Today they are launching an updated version—The Sleep Guardian Plus.
-The Sleep Guardian Plus is a small device you place under a child’s mattress. It works by vibrating and thus interrupting unhealthy sleep cycles before reaching the stage of sleep where night terrors typically happen. Apparently it does not disrupt other necessary sleep patterns. In short, the Sleep Guardian Plus automates the existing concept of “scheduled awakenings.”
+when covered lully yc backed startup just announced close  million seed round operations surrounding their flagship product called sleep guardian product launched june  today launching updated versionthe sleep guardian plus
+the sleep guardian plus small device place child mattress works vibrating interrupting unhealthy sleep cycles reaching stage sleep night terrors typically happen apparently does disrupt other necessary sleep patterns short sleep guardian plus automates existing concept scheduled awakenings
 
-Hardware improvements to the product include a smaller profile due to moving the Bluetooth module around.
-Software improvements include:
-Lully claims the new $199 device can reduce the incidence of children’s night terrors by nearly 80%.
+hardware improvements product include smaller profile moving bluetooth module around
+software improvements include
+lully claims new  device reduce incidence children night terrors nearly 
 

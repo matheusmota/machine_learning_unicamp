@@ -1,16 +1,16 @@
-Tamr, a Cambridge, Massachusetts-based startup that helps companies understand and unify all of the disparate databases across a company, announced a $25.2 million Series B round today.
-The investment isn’t from the usual Silicon Valley suspects. It’s a round from a group of strategic investors who really believe in the company’s mission, according to CEO and co-founder Andy Palmer.
-New investors include from Hewlett Packard Ventures, Thomson Reuters, MassMutual Ventures and other unnamed participants. Existing investors NEA and Google Ventures also participated.
-Today’s investment brings the total raised to date to $42.4 million, according to the company.
-Palmer believes that Tamr could have the same impact on the enterprise that Google had on the web. Instead of having an algorithm that goes out and finds web pages, the Tamr algorithm goes out and finds databases.
-It’s a lofty comparison, but he says the problem for larger companies today is that they have all of these databases and have no idea what data they have. Not knowing what you have is a dangerous situation in Palmer’s view because data can walk out the door and the company will have no idea it happened.
-“Most companies have many dozens of Oracle instances, hundreds of databases, and many thousands of tables. There is [currently] no way to catalog and know what’s out there,” Palmer said.
-Tamr can create a central catalogue of all these data sources (and spreadsheets and logs) spread out across the company and give greater visibility into what exactly a company has. This has value on so many levels, but especially on a security level in light of all the recent high-profile breaches. If you do lose something, at least you have a sense of what you lost (unlike with so many breaches).
-“Philosophically we believe this kind of transparency is required. When you don’t know [what you have] you are at higher risk of things disappearing,” Palmer explained.
-This cataloging effort takes quite a bit of hand-holding and currently Tamr engineers are stretched, working with customers and trying to develop the product. The money will help hire additional engineers, as well as sales and marketing personnel to keep the company growing.
-Part of the new funds will also go to help train third parties to work with customers on the service aspect of the sale. “We want to make sure there is a clear process for training partners,” he said.
-In practical terms, the company could help large organizations create a catalog of suppliers to get insight into who exactly they’re paying and the exact terms. This has been a huge problem for large organizations.
-Another use case is seeing those same types of connections with customers. Palmer pointed out that companies have been trying to get this so-called 360 degree view of the customer forever, but pulling all the data from disparate data sources has proven challenging. He believes Tamr could solve this problem.
-The company has a dozen customers including Toyota, GE, Novartis and investor Thomson Reuters.
-Currently, Tamr has a team of 55 people spread across two offices in Cambridge and San Francisco. The latter is a much smaller office, but the company hopes to add 20 to 30 employees to the California office, while increasing the total number of employees to 100 over the next 18 months, he said.
-The company was founded by Palmer and Michael Stonebraker, the same team that launched Vertica Systems, a startup that was sold to HP in 2011.
+tamr cambridge massachusetts based startup helps companies understand unify disparate databases a company announced  million series b round today
+the investment usual silicon valley suspects round group strategic investors really believe company mission according ceo founder andy palmer
+new investors include from hewlett packard ventures thomson reuters massmutual ventures and unnamed participants existing investors nea google ventures participated
+today investment brings total raised date  million according company
+palmer believes tamr impact enterprise google web instead having algorithm goes finds web pages tamr algorithm goes finds databases
+it lofty comparison  says the problem larger companies today databases idea data knowing dangerous situation palmer view data walk door company idea happened
+most companies dozens oracle instances hundreds databases thousands tables currently way catalog know palmer said
+tamr create central catalogue data sources (and spreadsheets logs spread company greater visibility exactly company value levels  especially security level light recent high profile breaches lose sense lost (unlike breaches
+philosophically believe kind transparency required know you higher risk things disappearing palmer explained
+this cataloging effort takes quite bit hand holding currently tamr engineers stretched working customers trying develop the product money help hire additional engineers sales marketing personnel company growing
+part new funds help train parties work customers service aspect sale want make sure clear process training partners said
+in practical terms company could help large organizations create catalog suppliers insight exactly are paying exact terms huge problem large organizations
+another use case seeing types connections customers palmer pointed companies trying called  degree view customer forever  pulling data disparate data sources proven challenging believes tamr solve problem
+the company dozen customers including toyota ge novartis investor thomson reuters
+currently tamr team of  people spread offices cambridge san francisco smaller office  company hopes add  to  employees california office increasing the total number employees   months said
+the company was founded by palmer and michael stonebraker te launched vertica systems startup that was sold hp 

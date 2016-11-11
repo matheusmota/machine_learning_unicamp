@@ -1,12 +1,12 @@
-As a travel enthusiast, it was a problem Ryan Wenger had often encountered: How can a person search for a flight and hotel based on the amount of money they want to spend rather than by destination only? What if you know you want to go somewhere, but just not where you want to go. Setting out to solve this problem, Wenger quit his job as an attorney and founded Wherefor.com (now a team of eight).
-Apparently, the existing Global Distribution Systems (GDS) like Travelport, Sabre, Amadeus and NITA don’t search this way. These are the backend, B2B systems that power the searches of consumer-facing sites like Expedia. They are destination-based and are not set up to search by price for some reason.
-Recognizing this, Wenger and team built their own intellectual property and API to organize and export travel results in this way. The patent-pending method does not scrape sites like Expedia for data. They partnered with Travelport while creating this technology but they own the IP themselves.
+as travel enthusiast problem ryan wenger encountered person search flight hotel based money they want spend destination know want  just want go setting solve problem wenger quit job attorney founded whereforcom (now te eight
+apparently existing global distribution systems (gds like travelport sabre amadeus nita search way backend bb systems power searches consumer facing sites like expedia destination based set search price reason
+recognizing wenger te built intellectual property api organize and export travel results way the patent pending method does scrape sites like expedia data partnered travelport while creating technology  ip themselves
 
-As I listened to info about this startup, I’ll admit the words “wait, nobody has already thought of this?” were echoing in my head, but apparently no one has yet. I spoke with Wenger at SXSW 2016 this week and he summed up their concept with an analogy.
-The GDS players are like punch bowls. The punch is the inventory of flights and hotel reservations. The consumer-facing sites and tools like Expedia are people drinking out of the punch bowl using straws to consume that inventory, but they all use the same kind of straw…because they are not in the business of building straws. Wherefor built a new kind of straw to consume, serve and organize this inventory of flight and hotel information and it does this based on price rather than destination.
-It sounds like a good idea and could be a valuable tool that benefits the travel industry and consumers alike. Patenting their IP will obviously protect them from other sites replicating this system themselves, but the reality is that a small company like Wherefor is likely an acquisition target.
-They currently operate as a responsive website, and have not yet built a native app for iOS or Android.
-They raised $400K as a convertible note and Richard Bangs—co-founder of Expedia—is on their board of advisers.
-Additionally, Wherefor provides financing for trips. So if you can’t afford a $500, four-day, round-trip to Mexico City, you can split that payment over 12 months with no fees. In this way the company seems very focused on lowering travel barriers.
-Wherefor would not provide the name of its financing partner.
+as i listened info startup i’ll admit words wait thought echoing head  apparently yet i spoke wenger sxsw  week summed concept with an analogy
+the gds players like punch bowls punch inventory flights hotel reservations consumer facing sites tools like expedia people drinking punch bowl using straws consume inventory  use kind straw…because business building straws wherefor built new kind straw consume serve organize inventory flight hotel information does based price destination
+it sounds like good idea  valuable tool benefits travel industry consumers alike patenting ip obviously protect sites replicating  reality small company like wherefor likely acquisition target
+they currently operate responsive website built native app ios android
+they raised k convertible note richard bangsco founder expediais board advisers
+additionally wherefor provides financing trips ca afford  day round trip mexico city split payment  months fees way company focused lowering travel barriers
+wherefor would not provide its financing partner
 

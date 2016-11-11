@@ -1,9 +1,9 @@
-Since Dell announced its intention to buy EMC for $67 billion in October, there has been a lot of speculation about how the company was going to pay off the massive $40 billion debt it used to finance the deal.
-I wrote about some of the EMC assets Dell might consider selling to help offset the huge obligation. Other rumors have had the company selling off its PC business to HP, but it turns out there could be more than one way to reduce the amount due.
-Dell has a bunch of pieces that might not be in its future plans, and it could be looking to sell Quest Software and SonicWall, according to a Reuters report. These are two companies Dell bought in 2012 during a bit of an enterprise shopping spree.
-Quest produces software that helps IT manage and work with complex enterprise software packages. Think of a tool to build Microsoft SharePoint applications more rapidly or a diagnostic and monitoring tool for SQL Server and you’ll get the idea.
-As for SonicWall, as the name implies, it’s a firewall product that offers a range of security services including secure remote access, email security and so forth.
-The company could also be shopping Perot Systems, the IT consulting company it bought for $3.9 billion back in 2009, and could fetch between $5 and $6 billion, according to the same Reuters post.
-The potential buyers looking at Quest and SonicWall appear to be a collection of private equity firms including KKR, Thoma Bravo and Vista Equity Partners Management.
-All of these pieces could be considered extraneous in the face of the debt load Dell is facing, and the assets it will acquire once the EMC deal is done. If the company can get back billions for a few pieces that it won’t need, why wouldn’t it do it?
-It also might make sense to leak these potential asset sales as the Dell-EMC deal has come under pressure since it was announced. In particular, the price of VMware stock (in which EMC owns an 80 percent stake) has dropped 30 percent since the announcement. Dell could be sending  a signal to calm the nerves of Wall Street, which has grown increasingly jittery about this deal, causing the price of VMware stock to slide.
+since dell announced intention buy emc  billion october lot speculation company going pay massive  billion debt used finance deal
+i wrote emc assets dell consider selling help offset huge obligation rumors company selling pc business hp  turns  way reduce due
+dell bunch pieces  future plans  looking sell quest software sonicwall according reuters report companies dell bought  bit enterprise shopping spree
+quest produces software that helps manage work complex enterprise software packages think tool build microsoft sharepoint applications rapidly diagnostic monitoring tool sql server you’ll idea
+as sonicwall implies firewall product offers range security services including secure remote access email security forth
+the company  shopping perot systems consulting company bought  billion  fetch   billion according reuters post
+the potential buyers looking quest sonicwall appear  collection private equity firms including kkr thoma bravo vista equity partners management
+all pieces  considered extraneous face debt load dell facing assets acquire emc deal done if the company can get billions pieces wo need it
+it make sense leak potential asset sales dell emc deal come pressure since announced particular price vmware stock (in emc owns  percent stake dropped  percent announcement dell  sending  a signal calm nerves wall street has grown increasingly jittery deal causing price vmware stock slide

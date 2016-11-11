@@ -1,8 +1,8 @@
-SeatGeek is already a solid way to score tickets for live events, but now you can use it to sell those tickets, too.
-In a sense, the tickets on SeatGeek are being resold already, but the model relied on aggregating tickets that were put up for sale on other sites. With today’s launch of the SeatGeek Marketplace, anyone can make their tickets available through SeatGeek itself.
-To sell a ticket, all you need to do is upload your PDF to the SeatGeek site or app, which will then use OCR technology to extract the relevant information. It will even recommend a price for the sale. And once someone makes the purchase, the transfer happens within SeatGeek, and they can just redeem the tickets using their phone.
-“We spent a lot of time automating all of the tricky parts of the process,” said Jack Groetzinger (pictured above with his co-founder Russ D’Souza) . “You don’t have to worry about figuring out what the optimal price is. We will, by default, set a recommended price based on our work to maximize the amount of money you can charge.”
+seatgeek solid way score tickets for live events  use sell those tickets too
+in sense tickets seatgeek resold  model relied aggregating tickets sale sites today launch seatgeek marketplace  make tickets available seatgeek itself
+to sell ticket need upload pdf seatgeek site app use ocr technology extract relevant information recommend price sale makes purchase transfer happens seatgeek just redeem tickets using phone
+we spent lot time automating tricky parts process said jack groetzinger (pictured founder russ douza  worry figuring optimal price default set recommended price based work maximize money charge
 
 
-SeatGeek is adding support for ticket transfers that don’t come with a price tag. If you want to give a ticket to a friend, or if you have a friend’s ticket and don’t want to just stand around waiting for them, you can just send it to their phone.
-The whole process is only supposed to take a few taps. I haven’t sold or shared using SeatGeek, but it was certainly simple to redeem when Groetzinger sent me a ticket. (Sadly, the concert had already passed.)
+seatgeek adding support ticket transfers come price tag want ticket friend friend ticket want just stand waiting just send phone
+the process supposed taps i sold shared using seatgeek  certainly simple redeem when groetzinger sent ticket (sadly concert passed

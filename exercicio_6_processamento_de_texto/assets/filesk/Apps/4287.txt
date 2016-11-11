@@ -1,12 +1,12 @@
-Uber has a car with a bunch of cameras on it driving around collecting images to improve its maps, driving routes, and ETAs, TechCrunch has confirmed. And here are the first photos of it. When asked about an image dug up from a private Uber driver Facebook group by TechCrunch reader Dave Craige (seen below), Uber admitted that this is a mapping vehicle piloted by a human driver, like a Google Street View car, not a self-driving car prototype. The system was originally designed by Microsoft. Uber provided the image above.
-Back in June, we reported that Uber had acquired “assets” from the Microsoft Bing mapping team, including about 100 employees. But Uber refused to detail exactly what those assets included. One thought was mapping data. But now we know that Uber bought the camera-clad car system seen in the photo above from Microsoft. That way it could generate its own data.
-Craige pointed us to the photo below, originally posted by Alana Pratt Thomas. Some Twitter digging revealed other photos of the vehicle dating back as early at September 30:
+uber car bunch cameras driving collecting images improve maps driving routes etas techcrunch confirmed photos asked image dug private uber driver facebook group techcrunch reader dave craige (seen uber admitted mapping vehicle piloted human driver like google street view car self driving car prototype originally designed microsoft uber provided image above
+back june reported uber acquired assets microsoft bing mapping te including  employees  uber refused exactly assets included thought mapping data  know uber bought camera clad car seen photo microsoft way generate data
+craige pointed photo originally posted alana pratt thomas twitter digging revealed photos vehicle dating early september 
  
  
  
-Uber tells me the Uber-branded mapping cars have been on the road for a few months. The data they collect is being used to improve the Uber app’s route suggestions and estimated time of arrival predictions.
-In a statement, an Uber spokesperson told me:
-The Guardian reported in May that people in Pittsburgh had spotted an Uber self-driving car prototype that was also collecting image data, but Uber tells me that was for its separate autonomous vehicle project. Uber has cars on the road in Pittsburgh and Arizona working on self-driving cars.
-Knowing exactly how long it takes to get from one point to another is critical for Uber as it tries to build out complex algorithms for making carpooling efficient. Knowing that a certain alleyway is impassable or that an intersection includes restrictions like ‘no left turns’ will let it better allocate cars to carpoolers, or just give riders a better idea of when to be ready.
-Uber at one point reportedly submitted a bid to buy Nokia’s HERE mapping service, but later dropped out. It has made acquisitions like the Bing assets and deCarta to build out its own mapping expertise. Done right, Uber could give drivers a reliable in-app directions option instead of them instead opening Google’s Maps and Waze apps.
-For now, if you see this on the roads, it doesn’t mean Uber is ready to ditch human independent contractors for artificial intelligence just yet. But those camera arrays on car roofs could eventually make your driver almost as efficient as a robot.
+uber tells uber branded mapping cars road months data collect used improve uber app route suggestions estimated time arrival predictions
+in statement uber spokesperson told me
+the guardian reported people pittsburgh spotted uber self driving car prototype collecting image data  uber tells separate autonomous vehicle project uber cars road pittsburgh arizona working self driving cars
+knowing exactly long takes point critical uber tries build complex algorithms making carpooling efficient knowing certain alleyway impassable intersection includes restrictions like ‘no left turns let better allocate cars carpoolers just riders better idea  ready
+uber point reportedly submitted bid buy nokia mapping service  later dropped acquisitions like bing assets decarta build mapping expertise right uber drivers reliable app directions option instead instead opening google maps waze apps
+for roads does mean uber ready ditch human independent contractors artificial intelligence just  camera arrays car roofs eventually make driver efficient robot

@@ -1,19 +1,19 @@
-Facebook appears to have been blocked in Vietnam as a part of a government-imposed crackdown on social media, amid public protests over an environmental disaster attributed to toxic discharges from a steel complex built by Taiwan’s Formosa Plastics. Dissidents are blaming wastewater from the steel plant for a mass fish death at aquatic farms and in waters off the country’s central provinces. Citizens have been using Facebook to organize rallies, which is likely the cause of the shutdown.
-Instagram also appears to have been affected, according to reports.
-In addition to helping protesters organize, social media has been used to share photos of people at rallies, holding up handwritten signs that read “I choose fish.”
-Citizens are angry both at the steel company and their government’s inaction. Formosa had denied wrongdoing in the matter, and the Deputy Minister of the Environment and Natural Resources said the fish deaths had been caused either by a toxic algae bloom or industrial waste. He also denied that Formosa was to blame.
-Police arrested up to 300 protesters in Ho Chi Minh City’s Paris Square, and many injuries were sustained during that process.
-The UN’s High Commissioner on Human Rights recently referenced these protests in a press release, saying: “We are concerned about the increasing levels of violence perpetrated against Vietnamese protesters expressing their anger over the mysterious mass deaths of fish along the country’s central coast.”
-Protesters tried to rally for the third time on Sunday, but security in Hanoi and Ho Chi Minh City prevented major rallies taking place, Reuters reports. 
-The fish kill began in April, and a government investigation is still underway.
-According to the Israeli proxy service Hola, whose software would be used to route around internet censorship like this (and which is capitalizing on this situation by way of press releases), both Facebook and the photo-sharing app Instagram were blocked on Sunday.
-The company says it experienced a significant surge in downloads following the Facebook blockade.
-“Though security forces have been preventing protesters from gathering in Hanoi and Ho Chi Minh City, many citizens have been using Facebook to exchange information and organize rallies, thus the government is presumed to have shut the website down,” the company wrote on its blog.
+facebook appears been blocked vietn government imposed crackdown social media amid public protests over environmental disaster attributed toxic discharges from a steel complex built taiwan formosa plastics dissidents blaming wastewater steel plant mass fish death aquatic farms waters country central provinces citizens using facebook organize rallies likely cause shutdown
+instagr appears been affected according reports
+in addition helping protesters organize social media has been used share photos people rallies holding handwritten signs read i choose fish
+citizens angry steel company government inaction formosa denied wrongdoing matter the deputy minister environment natural resources said fish deaths caused toxic algae bloom industrial waste denied formosa blame
+police arrested  protesters in ho chi minh city paris square and many injuries sustained process
+the high commissioner human rights recently referenced protests a press release saying concerned increasing levels violence perpetrated vietnamese protesters expressing anger mysterious mass deaths fish country central coast
+protesters tried rally time on sunday  security in hanoi ho chi minh city prevented major rallies taking place reuters reports 
+the fish kill began april government investigation is underway
+according israeli proxy service hola software  used route internet censorship like (and capitalizing situation way press releases facebook photo sharing app instagr blocked sunday
+the company says experienced significant surge downloads following facebook blockade
+though security forces preventing protesters gathering hanoi ho chi minh city citizens using facebook exchange information organize rallies government presumed shut website company wrote blog
 
-We’ve confirmed via app store optimization firm Sensor Tower that mobile VPN applications in the country also saw a huge boost as users there are trying to circumvent the block. (See above chart). This pattern is similar to when WhatsApp was blocked in Brazil, and is a fairly good indication that a Facebook blockage was, indeed, in effect.
-As another source of confirmation of sorts, the Head of PR & Comms for Opera & Asia posted on Twitter that their company saw a surge of VPN users from Vietnam, and suspected a Facebook block was to blame.
-There are a number of Twitter reports of a blockage as well.
-Vietnam’s government has blocked social media off and on over the years, though more recently leaders appeared to be embracing Facebook. In October, Bloomberg reported that Vietnam’s Communist government even set up its own page on the network dubbed “Government Information,” in an effort to reach the 30 million citizens who used the service.
-Facebook has not yet responded to a request for comment.
-It’s unclear at this time if the ban, implemented to crack down on the Sunday protests, is still in effect. It appears it may have been lifted, however, according to websites that track outages like outage.report and DownDetector.
-It’s also unclear if it extended outside of Hanoi and Saigon, where the demonstrations were planned.
+we’ve confirmed app store optimization firm sensor tower mobile vpn applications country also saw huge boost users trying circumvent block (see chart this pattern similar whatsapp blocked brazil fairly good indication facebook blockage effect
+as source confirmation sorts the head pr & comms opera & asia posted on twitter company saw surge vpn users vietn suspected a facebook block blame
+there number of twitter reports of blockage well
+vietn government blocked social media years recently leaders appeared  embracing facebook october bloomberg reported vietn communist government set page network dubbed government information effort reach  million citizens used service
+facebook responded request comment
+it unclear time ban implemented crack sunday protests effect appears lifted according websites that track outages like outagereport downdetector
+it unclear extended outside hanoi saigon demonstrations planned

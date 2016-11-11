@@ -1,8 +1,8 @@
-Foursquare has today unveiled Foursquare 10, a redesigned version of the app that puts search front and center.
-J Crowley, head of product at Foursquare, told TechCrunch that most people get on Foursquare with a clear intent, making the original featured content on the homepage mostly irrelevant.
-“Previous versions of the products were based on the theory that people wanted a laid back user experience, so we showed them top picks and places they should try,” said Crowley. “We learned through research and feedback that our users have clear intent when they open Foursquare, and our new homepage better serves that intent.”
-The new homepage offers a much faster search, with five chiclets that represent the six most popular searches: breakfast, lunch, dinner, nightlife, coffee/tea, and things to do.
-The company is also working to build on the trust it already has from users. Now, when a user posts a review on Foursquare, the app will show how many times that user has actually been to that location. That way, folks reading the reviews will be able to tell which ones come from ‘verified’ users and which aren’t.
-Foursquare is also working to better understand where you are, not only with the results it serves up, but right within the homepage. For example, users who just flew to London will be welcomed to foggy London town with a big banner. The app will also understand when it’s Ice Cream Day or Burger Day and offer a banner to click relevant places.
-The last addition to Foursquare 10 comes with the launch of iOS 10, as Foursquare is adding rich text notifications for folks who are sharing Foursquare places. Instead of a simple link, users will be able to share place previews, complete with photos, without having to unlock their phones.
-You can check out the new Foursquare right here.
+foursquare today unveiled foursquare  redesigned version app puts search center
+j crowley head product foursquare told techcrunch people foursquare clear intent making original featured content homepage irrelevant
+previous versions products based theory people wanted laid user experience showed picks places try said crowley learned research feedback users clear intent open foursquare new homepage better serves intent
+the new homepage offers faster search chiclets represent popular searches breakfast lunch dinner nightlife coffee/tea things do
+the company working build trust users user posts review foursquare app times user actually location way folks reading reviews  able tell ones come ‘verified’ users not
+foursquare working better understand results serves  right homepage example users just flew london  welcomed foggy london town big banner app understand ice cre day burger day offer banner click relevant places
+the addition foursquare  comes launch ios  foursquare adding rich text notifications folks sharing foursquare places instead simple link users  able share place previews complete photos having unlock phones
+you check new foursquare right here

@@ -1,15 +1,15 @@
-Menlo Security, a company with a unique plan to battle malware, emerged from stealth today and also announced $25M in Series B funding.
-The idea is an intriguing one. Many security problems emanate from malware, which can give hackers a path into a system where they can find their way deeper in and eventually compromise the entire network.
-But what if you could prevent the malware from ever reaching an end user machine? Menlo Security is trying to do just that by isolating every email and web page and delivering a safe mirror image to your browser.
-“We isolate all web pages and email in the cloud (either public or private). As content gets isolated, it never makes it to the end point. This eliminates the malware at an architectural level,” Amir Ben-Efraim, co-founder and CEO explained.
-“As you contrast [what we do] with what everyone else is doing (or legacy solutions), all of the security solutions aim to ferret out good from bad. If it’s bad, you stop it. If it’s good, you let it in,” Ben-Efraim said.
-The problem as we’ve seen, is that bad guys are finding ways to sneak past theses forms of detection. Menlo is attempting to offer a different kind of approach.
-All browsers work the same way by rendering HTML code. What Menlo is doing is displaying the live version in the cloud in a virtual container, then rendering a mirror image with benign code on the end user machine in their native browser with no latency, Ben-Efraim claimed.
-If you’re wondering what happens to the containers, the malware contained in the isolation platform, and has no chance of escaping. “We rapidly dispose of these containers. Every time you click a link, it starts a new instance. The malware has no way to persist,” he said.
-It also works with emails, so if you were to click a malware link in an email, the same process would happen again. As the browser opens, the new page is rendered safely and the live malware site remains safely in the cloud container.
-What’s more, it doesn’t use an agent or software, nor does it require modification at the browser level. This lack of special software is one of the key elements that attracted Steve Herrod, managing director at venture capital firm, General Catalyst. “I don’t like investments that require agents or that require you to install something. I don’t think they can be properly administered,” he said.
-Herrod also liked the idea of the isolation platform approach that Menlo Security has defined, which he say is a new category in security. “If nothing hits the end point, that’s the ultimate security,” he said.
-It’s worth pointing out that Bromium has a similar product. Herrod suggested this was different because it was Windows-based and harder to deploy and update, but if you check out the description on the Bromium company website, it sounds very similar and uses the “isolation” language too.
-As for that $25 million in Series B funding, the round was led by new investor Sutter Hill Ventures. Existing investors General Catalyst, Osage University Partners and Engineering Capital also participated.
-The latest funding brings the total raised to date to $35 million, according to Crunchbase.
-The company, which launched in 2013, has dozens of customers, and currently has 50 employees, Ben-Efraim said. He hopes to double that within the next year.
+menlo security company unique plan battle malware emerged stealth today announced m series b funding
+the idea intriguing security problems emanate malware hackers path into their way deeper eventually compromise entire network
+ prevent malware reaching end user machine menlo security trying just isolating email web page delivering safe mirror image browser
+we isolate web pages email cloud (either public private content gets isolated makes end point eliminates malware architectural level amir ben efraim founder ceo explained
+as contrast  doing (or legacy solutions security solutions aim ferret good bad bad stop it good let ben efraim said
+the problem we’ve seen bad guys finding ways sneak past theses forms detection menlo attempting offer different kind approach
+all browsers work way rendering html code menlo doing displaying live version cloud virtual container rendering mirror image benign code end user machine native browser latency ben efraim claimed
+if wondering happens containers malware contained isolation platform chance escaping rapidly dispose containers time click link starts new instance malware way persist said
+it works emails click malware link email process happen browser opens new page rendered safely live malware site remains safely cloud container
+what does use agent software does require modification browser level lack special software key elements attracted steve herrod managing director venture capital firm general catalyst i like investments require agents require install i think  properly administered said
+herrod liked idea isolation platform approach menlo security defined say new category security hits end point ultimate security said
+it worth pointing out that bromium similar product herrod suggested different windows based and harder deploy update  check description bromium company website sounds similar uses isolation language too
+as  million series b funding round led new investor sutter hill ventures existing investors general catalyst osage university partners engineering capital participated
+the latest funding brings total raised date  million according crunchbase
+the company launched  dozens customers currently  employees ben efraim said hopes double year

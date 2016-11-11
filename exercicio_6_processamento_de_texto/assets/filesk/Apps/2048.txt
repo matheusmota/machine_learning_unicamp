@@ -1,20 +1,20 @@
-One of the early startups in the app discovery space, Homescreen.me, is relaunching its service that lets you browse which apps others have installed on their iPhone, and now, Apple Watch, too.
-Despite valiant efforts at creating social networks around apps and app recommendations, one of the best ways to discover those you’ll really like is by word-of-mouth — a friend tells you about an app they’re really enjoying and sells you on why you should use it, too. But word-of-mouth doesn’t necessarily scale.
-In years past, a number of startups tried to work around that problem by launching services that allowed users to browse the iPhone home screens of others, in order to get ideas about popular apps, as well as find undiscovered gems.
+one early startups app discovery space homescreenme relaunching service lets browse apps installed iphone apple watch too
+despite valiant efforts creating social networks apps app recommendations best ways discover you’ll really like word mouth  friend tells app really enjoying sells you use  word mouth does necessarily scale
+in years past number startups tried work problem launching services allowed users browse iphone home screens order ideas popular apps find undiscovered gems
 
-Interest in these sites has faded over time. Though, initially, it’s fun to share your own home screen and check out those from others, users haven’t been motivated to return to the sites and keep updating their screens after they install new apps and things change.
-Homescreen.me hopes to address that problem with its new site, built from the ground up.
-Not to be confused with the betaworks’ project Homescreen.is, which came later, the Homescreen.me website has been around since 2010. It was originally a side project created by Preshit Deorukhkar while he was working on other efforts, including Smoking Apples and Beautiful Pixels.
-His new website is still largely focused on app discovery — something that has become even more of a challenge over the years as the App Store has filled up with applications. There are more than 2 million apps on Apple’s iTunes App Store, and the company just announced a massive revamp of the marketplace, largely to address the problem of developers not being able to find users for their applications.
+interest sites faded time initially fun share home screen check users motivated return sites updating screens after they install new apps things change
+homescreenme hopes address problem its new site built ground up
+not  confused betaworks project homescreenis came later homescreenme website  it originally project created by preshit deorukhkar working efforts including smoking apples beautiful pixels
+his new website is still largely focused app discovery   challenge years app store filled applications are more than  million apps apple itunes app store company just announced massive revamp marketplace largely address problem of developers not being able users applications
 
-Homescreen.me, meanwhile, is returning to the more social approach of solving app discovery.
-The site allows you to share your iPhone home screen, but also your other preferences, as well, including device choice, wallpaper and even how you have your Apple Watch set up.
-As before, it’s fun to browse other home screens and share your own, but more importantly, Deorukhkar says the site will now have a proper roadmap with a number of features still to come. These will be focused on helping to grow its user base and keep people coming back to share their screens and browse those shared by others.
-Today, the site lets you share your iPhone and Apple Watch screen, but in the future it will also introduce iPad support.
-In addition, users will be able to embed their home screens on their own website — something that could prompt them to keep them current.
-However, a few of the more anticipated features could potentially turn the service into something you’ll want to revisit, after the initial buzz wears off.
-The site will introduce a Twitter-like Follower/Following model, so you can be updated by way of email notification when one of your favorite users uploads a new screen. You’ll also be able to track the history of how users’ screens have changed over time. (That should be fun not only for app tracking, but also seeing how iOS itself has evolved.)
-Unfortunately, one of Homescreen.me’s bigger plans — a native iPhone application — got shot down.
-With iOS 9, Apple stopped allowing developers to scrape and track the apps users have installed on their devices, which it felt violated user privacy. (Twitter had notoriously taken advantage of this tracking capability in order to target ads.)
-But Apple attributed Homescreen.me’s App Store rejection to its use of a home screen springboard image in its app, claiming it was Apple’s IP and against brand guidelines. That’s why the startup eventually returned to the web, following the iOS app beta.
-Now Homescreen.me, in conjunction with NFN Labs, has a full team dedicated to its development, and will be a main project for the group going forward. The new site will be ad-supported, as before. You can sign up to try it now, but the official debut isn’t happening until tomorrow morning.
+homescreenme returning social approach solving app discovery
+the site allows share iphone home screen  also your preferences including device choice wallpaper you have your apple watch set up
+as fun browse home screens share  importantly deorukhkar says site proper roadmap number features come  focused helping grow user base people coming share screens browse shared others
+today site lets share iphone apple watch screen  future introduce ipad support
+in addition users  able embed home screens website  prompt current
+however anticipated features potentially turn service you’ll want revisit initial buzz wears off
+the site introduce twitter like follower/following model  updated way email notification favorite users uploads new screen you’ll  able track history users screens changed time (that  fun app tracking  seeing ios evolved
+unfortunately homescreenme bigger plans  native iphone application  got shot down
+with ios  apple stopped allowing developers scrape track apps users installed devices felt violated user privacy (twitter notoriously taken advantage tracking capability order target ads
+ apple attributed homescreenme app store rejection to use home screen springboard image app claiming apple ip brand guidelines startup eventually returned web following the ios app beta
+now homescreenme conjunction nfn labs te dedicated development  main project group going forward new site  ad supported sign try  official happening tomorrow morning

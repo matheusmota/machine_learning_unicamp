@@ -1,15 +1,15 @@
-Every year at I/O, Google’s ATAP division, which is responsible for turning some of the company’s crazier ideas into products, organizes its own small keynote. This year, the company offered updates on a number of projects, including Project Soli, its attempt at building a very small radar sensor that can translate hand movements into digital signals for building new user interfaces for wearables.
-After last year’s I/O demo, the team focused on bringing the project to developers. It first shipped a developer kit to about 60 developers last year. The team said it was encouraged by how those developers used the sensor; they built object recognition tools, musical instruments and more.
-The early kit, though, was really only usable in a controlled environment. It used too much power and while the sensor was small, it did need a fully powered desktop or laptop to run it.
+every year i/o google atap division responsible turning company crazier ideas products organizes small keynote year company offered updates number projects including project soli its attempt building small radar sensor translate hand movements digital signals building new user interfaces wearables
+after year i/o demo te focused bringing project developers shipped developer kit  developers year te said encouraged developers used sensor built object recognition tools musical instruments more
+the early kit really usable controlled environment used power sensor small did need fully powered desktop laptop run it
 
-That’s obviously not useful, so the team challenged itself to run on a smartwatch. To do that, the team redesigned the chip with Infineon to reduce power consumption 22 times — down from 1.2 to 0.054 W now. The footprint is now also 3x smaller.
-Radar typically takes a lot of computational power, but this new version is now 256x more efficient and can still run at 18,000 frames per second.
-With all of this work, the team was able to build Soli into a smartwatch (“And it can even show time!”).
+that obviously useful te challenged run smartwatch te redesigned chip infineon reduce power consumption  times    w footprint x smaller
+radar typically takes lot computational power  new version now x efficient run  frames second
+with work te able build soli smartwatch (and time!
 
-This means you can interact with the watch without touching it — and you can use basic gestures to interact with it. In a demo, the ATAP team showed how you can scroll across messages with pretty amazing precision by just holding your hand over the watch and move closer and further away. You can even use a virtual dial gesture to interact with the watch face — basically just like you would use an analog watch.
-The ATAP team noted that this means you can show more information on the screen, simply because you don’t have to account for the finger covering up the watch face.
-The team noted that Soli isn’t just meant for smartwatches, though. Working with Harman’s JBL brand, the team worked on building prototype speakers with a built-in Soli radar that allows you to control the speaker. The sensor can see up to a distance of 15 meters, so you could control your speaker from a distance, too.
+this means interact watch touching  use basic gestures interact demo atap te showed scroll messages pretty amazing precision just holding hand watch closer away use virtual dial gesture interact watch face  basically just like use analog watch
+the atap te noted means information screen simply account finger covering watch face
+the te noted soli just meant smartwatches working harman jbl brand te worked building prototype speakers built soli radar allows control speaker sensor to a distance  meters control speaker distance too
 
-To further seed the development community, ATAP is going to launch a new beta-quality dev kit for developers next year.
-Sadly, it’s unclear when we’ll see the first products with the Project Soli technology will arrive in stores. But just like ATAP worked with Levi’s on bringing its Project Jacquard smart fabrics to market, it will likely do the same with Soli, as well.
+to seed development community atap going launch new beta quality dev kit developers year
+sadly unclear we’ll first products project soli technology arrive stores  just like atap worked levi bringing project jacquard smart fabrics market likely soli well
 

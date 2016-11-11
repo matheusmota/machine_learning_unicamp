@@ -1,19 +1,19 @@
-Slack is gunning for Skype and Google Hangouts with the 2016 product roadmap it revealed today. The biggest change coming: the ability to seamlessly turn a text chat into a voice or video chat will begin testing “very soon”. This builds on Slack’s January 2015 acquisition of Screenhero, when it said these features would eventually be released.
-[Update 3/2/16: Slack was being cheeky when it said voice chat would be coming “very soon”. Today the Slack Calls feature began rolling out on desktop.]
-At its customer conference in San Francisco, the company outlined what it plans to do to stay ahead of its workplace chat competitors. It already has 2.3 million daily active users, up from 2 million in December, and wants to give them more options to be productive, collaborative, and transparent.
-While that DAU stat might sound low, it’s huge in the enterprise. Considering Slack sees 320 million minutes of active usage per weekday, that breaks down to about 140 minutes of usage per user per weekday.
+slack gunning skype google hangouts  product roadmap revealed today biggest change coming ability seamlessly turn text chat voice video chat begin testing soon builds slack january  acquisition screenhero said features eventually  released
+update // slack cheeky said voice chat  coming soon today slack calls feature began rolling desktop
+at customer conference san francisco company outlined plans to stay ahead its workplace chat competitors  million daily active users  million december wants options  productive collaborative transparent
+while dau stat sound low huge enterprise considering slack sees  million minutes active usage weekday breaks  minutes usage user weekday
 
-Slack VP of Product April Underwood tells me that voice chat on desktop will come first, and then the company will focus on making it work on all its devices and apps. Video will have to wait until after that. Underwood noted that you can already make voice calls via Skype’s Slack integration. But with its own feature, she says the use case will be “If I’m DMing someone in Slack and we want to switch to have a quick voice conversation, it addresses that problem.”
-Slack plans to make a full what-you-see-is-what-you-get formatting tool for messages so you can make sure text looks just right in case a co-worker wants to copy and paste it out. Slack will be improving search operators to make it easier for non-power users to find files and other content.
-Shared Channels will become a bigger part of the Slack experience. They could help you communicate across siloed teams at big companies. Eventually, Slack says it also wants to empower organizations to interface with outside parties like marketing agencies and technology vendors. Slack is also improving its billing system so large teams can quickly get started.
+slack vp product april underwood tells voice chat desktop come company focus making work devices apps video wait underwood noted make voice calls skype slack integration  feature says use case  i’m dming slack want switch quick voice conversation addresses problem
+slack plans make you formatting tool messages make sure text looks just right case worker wants copy paste out slack  improving search operators make easier non power users files content
+shared channels  bigger slack experience help communicate siloed teams big companies eventually slack says wants empower organizations interface outside parties like marketing agencies technology vendors slack improving billing large teams quickly started
 
-To make it easier for developers to build more powerful experiences atop its platform, Slack is also building out its Search, Learning & Intelligence (SLI) division. Beyond the roadmap, Slack spent the conference highlighting teams like NASA’s Jet Propulsion Lab, Charity:Water, and medical researchers who are using Slack to stay in touch.
-Underwood, who Slack promoted to VP of Product in January, opened the day saying she was just going to tell everyone what Slack plans to build rather than being secretive. “We like to be really open and transparent because we want your feedback” says explained.
-Underwood followed the announcements by taking questions from the crowd…though that quickly devolved into attendees asking if their dream features would ever get built.
+to make easier developers build powerful experiences atop platform slack building search learning & intelligence (sli division beyond roadmap slack spent conference highlighting teams like nasa jet propulsion lab charitywater medical researchers using slack stay touch
+underwood slack promoted vp product january opened day saying just going tell slack plans build secretive like  really open transparent want feedback says explained
+underwood followed announcements taking questions crowd…though quickly devolved attendees asking dre features built
 
-The imminent release of voice and video chat could make offices noisier, but it will certainly make Slack more of a comprehensive communication solution rather than a tool plugged into a suite of other products. That might convince companies Slack is worth paying for.
-Given Slack’s focus on making work searchable, it’s easy to imagine that years down the line, Slack could use voice recognition to create transcripts of your voice or video meetings.
-Outside its own product, Slack is fostering an family of third-party apps, integrations, and bots. While others might be able to copy its features, they won’t be able to copy its community, drawn to the network effect of the market leader.’
+the imminent release voice video chat make offices noisier  certainly make slack comprehensive communication solution tool plugged suite products convince companies slack worth paying for
+given slack focus making work searchable easy imagine years line slack use voice recognition create transcripts voice video meetings
+outside product slack fostering family party apps integrations bots  able copy features wo  able copy community drawn network effect market leader’
 
-In December, Slack announced it had 2 million daily active users and 570,000 paid seats. It leveraged that momentum to get its A-list investors to compile an $80 million Slack Fund for investing in its developer ecosystem.
-If Slack’s strategy pans out, it could pull away from the pack and solidify itself as the next staple of the enterprise. Because everyone needs to communicate, Slack could become ubiquitous enough to serve as a social hub and identity layer for other enterprise apps.
+in december slack announced  million daily active users  paid seats leveraged momentum list investors compile  million slack fund investing developer ecosystem
+if slack strategy pans pull away pack solidify staple enterprise needs communicate slack  ubiquitous serve social hub identity layer enterprise apps

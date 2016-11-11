@@ -1,23 +1,23 @@
-Rackspace — the publicly-listed enterprise cloud services company that competes against the likes of Amazon’s AWS, Microsoft and Google — has been in the spotlight after announcing in May that it has hired bankers to help consider offers to parter with or be acquired by another company. However, it could choose a third option: taking itself private.
-Following the likes of Dell in turning away from public market accountability while it focuses on developing its business in a fast-changing tech world, we have heard from a source that Rackspace has been negotiating with a private equity firm to borrow capital for the deal, with a plan to make an official announcement as soon as this week (keep in mind that we’re hurtling to a public holiday in the U.S.).
-“The pressures of being a public company are too much,” another source within the company noted.
-A Rackspace spokesperson says the company does not comment on rumor or speculation. In other words, we have not been able to confirm what the source has told us.
-But it’s an interesting option that does not seem to be off the table even if you read the documents Rackspace has filed.
-While Rackspace hired Morgan Stanley to evaluate offers from third parties, it’s also been consulting the board on “other alternatives which could advance Rackspace’s long-term strategy,” as the 8-K notes.
-Taking the company private, as another opportunity, “has gained sufficient traction” among the board, our source claims.
-The option of going private has come amid at least three acquisition bids, including offers from HP and IBM, the source continues. The HP offer was for up to $43/share. As a point of comparison, right now, Rackspace is at $33.66 with a market cap of just under $4.8 billion. An offer at that premium would value the company at over $6.1 billion.
-The second source confirmed to us that HP was a name floated for a partnership.
-The IBM offer fell through, our first source says — detail that has not been confirmed by IBM directly, even if the bigger sentiment has been seemingly bolstered by other public statements its executives have made.
-Other companies that have been suggested as potential buyers (or partners) include CenturyLink, Cisco, Dell and EMC. Citigroup analysts have estimated that a CenturyLink offer, were one to be made, could come in at around a $44/45-per-share premium.
-If our source is accurate, the news makes some sense simply in the context of what is happening with the company right now.
-Rackspace has been busy building out an open source platform layer called OpenStack on top of its hosting business to differentiate itself and compete better against the Amazons of the world. It offers Open Stack solutions across a range of infrastructure-as-a-service products, including dedicated, “Bare Metal” configurations such as this recent OnMetal addition.
-Offering OpenStack and effectively open sourcing its infrastructure means less engineers and less engineering costs, and it lets Rackspace spend more on support, our source noted. “Rackspace’s whole angle is ‘managed cloud ‘ versus AWS/Azure’s ‘unmanaged cloud.”
-But building out a business in a tech area like cloud-based hosting, which has become very commoditized, is a tough business.
-Infrastructure is cheap and other companies that compete with Rackspace in the business of offering cloud services continue to lower prices. All of this has contributed to Rackspace’s mixed fortunes in the public markets. Its stock price has dropped by nearly 57%, or over $44, since a high in January 2013.
-You could argue, however, that some of that drop has been too harsh and undervaluing Rackspace, given that the company’s been seeing growing revenues and improving margins (both of which were up in the most recent quarter). This is both why the company is an “attractive takeover target,” as our source says, but also possibly why the board has thought the offers being made were too low.
-It’s also a fair enough argument for taking the company private — to move Rackspace away from the “fickle” public market consensus, as one observer has described a potential delisting scenario.
-The last time Rackspace was private, as a startup, it counted companies like Sequoia, Norwest and Red Hat among its investors.
-An HP bid, some have noted, could be in line with a wider strategy at HP to invest heavily in building more cloud services. HP, along with IBM and Red Hat, have been among those endorsing OpenStack.
-Our source had said that an announcement could come this week. The 8-K form warns against expecting quick decisions (indeed, it’s been 1.5 months since that announcement was made). “The company has not set a timetable for completion of this process,” the company writes, “and does not intend to discuss or disclose further developments with respect to this process unless and until the Board approves a specific partnership or transaction.”
-Update: We’ve tried to make clear that we’re reporting an unconfirmed source here, but an interesting angle nonetheless. Dealreporter has taken that one step further and published a note with a far more skeptical view of the idea that Rackspace could potentially be taken private. It says it received a note with some similar wording and disputed the veracity of the source.
-Additional reporting by Ron Miller
+rackspace  publicly listed enterprise cloud services company competes likes amazon aws microsoft google  spotlight after announcing in hired bankers help consider offers parter  acquired company could choose a option taking private
+following likes dell turning away public market accountability while focuses developing its business fast changing tech world heard source rackspace has negotiating private equity firm borrow capital deal plan make official announcement soon week (keep mind hurtling public holiday us
+the pressures public company source company noted
+a rackspace spokesperson says company does comment rumor speculation words able confirm source told us
+ interesting option does  table even if read documents rackspace filed
+while rackspace hired morgan stanley evaluate offers parties consulting board alternatives advance rackspace long term strategy  k notes
+taking company private opportunity gained sufficient traction  board source claims
+the option going private come amid acquisition bids including offers hp ibm source continues hp offer /share point comparison right rackspace  market cap just  billion offer premium would value company  billion
+the second source confirmed hp floated partnership
+the ibm offer fell source says  confirmed ibm directly bigger sentiment seemingly bolstered public statements its executives made
+other companies suggested as potential buyers (or partners include centurylink cisco dell emc citigroup analysts estimated centurylink offer  come / share premium
+if source accurate news makes sense simply context happening company right now
+rackspace busy building open source platform layer called openstack hosting business differentiate compete better amazons world offers open stack solutions range infrastructure service products including dedicated bare metal configurations recent onmetal addition
+offering openstack effectively open sourcing infrastructure means engineers engineering costs lets rackspace spend support source noted rackspace angle ‘managed cloud ‘ versus aws/azure ‘unmanaged cloud
+ building business tech area like cloud based hosting  commoditized tough business
+infrastructure cheap companies compete rackspace business offering cloud services continue lower prices contributed rackspace mixed fortunes public markets stock price has dropped nearly   high january 
+you argue that drop harsh undervaluing rackspace given company seeing growing revenues and improving margins (both recent quarter company attractive takeover target source says  possibly board thought offers low
+it fair argument taking company private  rackspace away fickle public market consensus observer described potential delisting scenario
+the time rackspace private startup counted companies like sequoia norwest red hat  investors
+an hp bid noted  line wider strategy hp to invest heavily building cloud services hp ibm red hat  endorsing openstack
+our source said announcement come week  k form warns expecting quick decisions (indeed  months announcement company set timetable completion process company writes does intend discuss disclose developments respect process unless board approves specific partnership transaction
+update we’ve tried make clear reporting unconfirmed source  interesting angle nonetheless dealreporter taken step published note with a far skeptical view idea rackspace potentially  taken private says received note similar wording disputed veracity source
+additional reporting ron miller

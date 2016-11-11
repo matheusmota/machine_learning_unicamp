@@ -1,11 +1,11 @@
-DWNLD, the publishing platform that takes any website and seamlessly turns it into an app, has today announced the close of a $12 million Series A funding round led by Greylock Partners.
-The platform, which was created by cofounder and CEO Alexandra Keating and cofounder Fritz Lanman, allows any web publisher to easily transfer all of their content over to a native app, without any coding skills whatsoever.
-But beyond that, the DWNLD App Maker gives users the ability to finely customize their apps with various colors, layouts, fonts, etc. so that each DWNLD-created app has its own unique look and feel.
-Of course, DWNLD has a paid product that gives users analytics on their app performance, ways to generate revenue through in-app purchases, advertising and paid downloads, as well as the ability to send more (or unlimited) push notifications, with prices starting at $15/month.
-But DWNLD also offers a free tier that gives the Average Joe the ability to publish their own app, complete with social media integrations, blog content, etc.
+dwnld publishing platform takes website seamlessly turns app today announced close  million series funding round led greylock partners
+the platform created cofounder ceo alexandra keating cofounder fritz lanman allows web publisher easily transfer content native app coding skills whatsoever
+ dwnld app maker gives users ability finely customize apps various colors layouts fonts dwnld created app unique look feel
+of course dwnld paid product gives users analytics app performance ways generate revenue app purchases advertising paid downloads ability send (or unlimited push notifications prices starting /month
+ dwnld offers free tier gives average joe ability publish app complete social media integrations blog content etc
 
-With the new funding, DWNLD has plans to offer a marketplace, so users can easily integrate APIs like Stripe, Twilio, Shopify, and others at cheaper prices (negotiated by DWNLD using the network effect of their thousands of users).
-As part of this most recent funding, Greylock’s John Lilly is joining the board of directors. Interestingly, Lilly is a pioneer of the web (with a rich history at Mozilla), but sees DWNLD as a wonderful way for web publishers to transfer content over to native app format.
-“Mobile has not been good to publishers,” said Lilly. “I’m not of the belief that ‘the web is dead, long live apps,’ but the web is sick. The web is not well right now, and being able to bridge for web to native apps is the key for a lot of these publishers as users begin downloading more and more apps.”
-DWNLD has already published more than 2,000 apps on behalf of their users, and has raised a total of $14 million since launching last year.
-If you want to learn more about DWNLD, head over to the website right here.
+with new funding dwnld plans offer marketplace users easily integrate apis like stripe twilio shopify cheaper prices (negotiated dwnld using network effect thousands users
+as recent funding greylock john lilly joining board directors interestingly lilly pioneer web (with rich history mozilla  sees dwnld wonderful way web publishers transfer content native app format
+mobile good publishers said lilly i’m belief ‘the web dead long live apps  web sick web right able bridge web native apps key lot publishers users begin downloading more apps
+dwnld published  apps behalf users raised total  million launching year
+if want learn dwnld head website right here

@@ -1,7 +1,7 @@
-Spot, a startup that says it can help you find “the best places in the world,” is launching to the public.
-The company emerged from “startup studio” Expa. It’s also announcing today that it has raised $2 million in seed funding from Expa, SV Angel, Ram Shriram, Tim Ferriss, Fenwick & West and others.
-When I spoke to general manager Luke Groesbeck last summer, he said the app would provide recommendations for the best spots in your hometown or whichever city you’re visiting. And it’s not just relying on reviews shared within the app itself. It’s also pulling data about how locations get discussed elsewhere on the web — as Groesbeck put it, “We’re trying to do for the real world what Google has done for the web.”
-When you open the app now, you can see recommendations nearby for food, coffee and drinks. Open a specific profile and you’ll see basic info like hours and location, as well as “expert reviews” from sources like Zagat and Thrillist. You can also save locations and add them to lists. And there’s a strong social component, where you can follow other users and see which friends have saved a given location.
+spot startup says help best places world launching public
+the company emerged startup studio expa it announcing today raised  million seed funding expa sv angel r shrir tim ferriss fenwick & west others
+when i spoke general manager luke groesbeck summer said app provide recommendations best spots hometown whichever city you visiting it not just relying reviews shared app pulling data about how locations discussed web  groesbeck trying real world google web
+when open app recommendations nearby food coffee drinks open specific profile you’ll basic info like hours location expert reviews sources like zagat thrillist save locations add lists strong social component follow users friends saved given location
 
-“Some of our most engaged users are making lists that are more narrative than transactional; they’re more stories than just a grouping of spots,” he said. (You can see some featured lists on the Spot website.)
-While Spot is only available on iOS for now, it’s also taking sign-ups for Android.
+some engaged users making lists narrative transactional stories just grouping spots said (you featured lists spot website
+while spot available ios taking sign ups android

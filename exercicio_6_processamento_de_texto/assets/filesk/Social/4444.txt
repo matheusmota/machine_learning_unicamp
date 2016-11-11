@@ -1,29 +1,29 @@
-More people than ever reacted to last night’s Super Bowl using social media, according to reports from a number of tech companies. Facebook today says that this year’s Super Bowl was the biggest yet on its social network, and YouTube says more people than ever before watched ads and teaser videos on its site. Meanwhile, Twitter set a new record for Super Bowl tweets.
-Across the web, top tech companies, including also YouTube parent Google and TiVo, analyzed how well the big game and its popular TV commercials performed on their networks, revealing trends related to the content and other details about how people watched and engaged with others during the game.
-This year, Facebook launched a real-time experience on its site, offering fans a dedicated page where they could see, among other things, posts from friends and others in their network, photos and videos from new outlets, posts from the NFL and team players, and reactions from others around the world in the Facebook Super Bowl page’s “live feed.”
-This site appears to have helped fuel a big jump in user engagement, the company reports today. Last year, more than 50 million unique users joined the conversation on Facebook. This year, more than 65 million participated.
-In total, users shared 265 million posts, comments and likes, which soared during the game’s final moments to more than 1.3 million unique “People Per Minute” who were posting, commenting, and liking content related to the Super Bowl, says Facebook.
+more people reacted night super bowl using social media according reports number tech companies facebook today says that year super bowl biggest social network youtu says people watched ads teaser videos site twitter set new record super bowl tweets
+across web tech companies including youtu parent google tivo analyzed big game popular tv commercials performed networks revealing trends related content details people watched engaged game
+this year facebook launched real time experience site offering fans dedicated page  things posts friends network photos videos new outlets posts nfl te players reactions world facebook super bowl page live feed
+this site appears helped fuel big jump user engagement company reports today year  million unique users joined conversation facebook year  million participated
+in total users shared  million posts comments likes soared game final moments  million unique people minute posting commenting liking content related super bowl says facebook
 
-That “People Per Minute” metric is something Facebook examined in more detail this year, as competition with Twitter heats up around real-time social conversation.
-For the 2015 Super Bowl, Facebook also revealed a number of related stats, including the game’s “top social moments,” “top five states,” “most mentioned players,” and more.
-They are, as follows:
-On Twitter, the growth and engagement around user conversations wasn’t quite as dramatic as on Facebook. However, the company announced it saw a solid 28.4 million tweets about Super Bowl XLIX yesterday, setting a new record for Super Bowl tweets, even if only a slight increase over last year’s 24.9 million tweets. However, in 2013, Twitter saw 24.1 million tweets – so at least this year’s jump in tweets is larger than before.
-That being said, with the Super Bowl being more of a U.S. obsession, the tweet count alone didn’t break a record for most tweets ever, or even the most sports-related tweets. (For comparison’s sake, the World Cup’s finale saw 32.1 million tweets.)
-Twitter also revealed the moments that generated the biggest peaks in conversation during the live telecast, measured in tweets per minute (TPM):
-The company analyzed top players, too, and it offered an interactive map of the U.S. showing how the game played out on Twitter.
+that people minute metric facebook examined year competition twitter heats real time social conversation
+for  super bowl facebook revealed number related stats including game social moments states mentioned players more
+they follows
+on twitter growth engagement user conversations quite dramatic facebook however the company announced saw solid  million tweets super bowl xlix yesterday setting new record super bowl tweets slight increase year  million tweets  twitter saw  million tweets  year jump tweets larger before
+that said super bowl obsession tweet count did break record tweets sports related tweets (for comparison sake world cup finale saw  million tweets
+twitter revealed moments generated biggest peaks conversation live telecast measured tweets minute (tpm
+the company analyzed players offered an interactive map of showing game played twitter
 
-Google, meanwhile, reported on what Super Bowl fans were searching for across the web and what they were watching on YouTube. Users on Google were searching for content from their second screens, whether those were laptops, tablets or smartphones, in record numbers.
-“People watched more game-day ads and teaser videos on YouTube than ever before,” the company announced this morning on its official blog.
-This year, YouTube also rolled out its first-ever halftime show to keep users engaged further with its network during the big game, and it showcased all the Super Bowl ads on its “AdBlitz 2015″ website, which allowed viewers to watch, vote and share their favorites.
+google reported super bowl fans searching web watching youtube users google searching content second screens laptops tablets smartphones record numbers
+people watched game day ads teaser videos youtu company announced this morning official blog
+this year youtu also rolled halftime users engaged network big game showcased super bowl ads adblitz ″ website allowed viewers watch vote share favorites
 
-According to the data released this morning by Google, people this year spent nearly 4 million hours watching game-day ads and other teasers videos on YouTube, up from 2.2 million hours last year.
-Elsewhere, Google searches reflected users’ interest in getting real-time updates from the game, as well as their desire to get certain questions answered. For example, many asked Google “Why did John Travolta call Idina ‘Adele?’” as well as “How long will it take Idina to sing the National Anthem?” 
-They also searched for top players, including Tom Brady, Marshawn Lynch and Russell Wilson, and for details on thehalftime show. At one point Katy Perry’s performance appeared to reference NBC’s old “The More You Know” PSAs. Google says that searches for the phrase “the more you know” then spiked 190x for 10 minutes afterwards.
+according data released morning google people year spent nearly  million hours watching game day ads teasers videos youtu  million hours year
+elsewhere google searches reflected users getting real time updates game desire certain questions answered example asked google did john travolta idina ‘adele’ long idina sing national anthem 
+they searched players including tom brady marshawn lynch russell wilson details thehalftime show point katy perry performance appeared reference nbc old know psas google says searches phrase know spiked x  minutes afterwards
 
-Google’s YouTube division didn’t release details on how well its own halftime show did, which was created with help from 25 YouTube creators. But the videos posted on AdBlitz’s channel pulled from the show have anywhere from 1,600+ to 10,600+ views at present.
-It seems, perhaps, that YouTube users were more interested in watching the ads. The company ranked those commercials that were most popular on its network, which revealed that Anheuser-Busch won the two top spots:
-Finally, TiVo offered its own take on how the ads performed, gathering its data not from online plays but rather from its viewership data based on actual commercial retention relative to overall program viewership.
-This year, notes TiVo, there were fewer beer ads, but more insurance and movie ads.
-By looking at these numbers, the list of popular ads ranked a little differently than YouTube’s:
+google youtu division did release details halftime did created help from  youtu creators  videos posted adblitz channel pulled + + views present
+it youtu users interested watching ads company ranked those commercials popular network revealed that anheuser busch won spots
+finally tivo offered take on ads performed gathering data online plays  rather from viewership data based actual commercial retention relative overall progr viewership
+this year notes tivo fewer beer ads  insurance movie ads
+by looking numbers list popular ads ranked little differently youtube
 
-TiVo also analyzed the top re-watched moments from the game, and the halftime show, finding that the latter’s viewership numbers exceeded that of the overall game for the fifth year in a row. The top game moments, meanwhile, says TiVo were as follows: “(1) 10:04 p.m. ET the fight in the final seconds of the game, (2) 10:00 p.m. ET Tom Brady and Richard Sherman’s reaction to Malcolm Butler’s goal-line interception and (3) 09:56 p.m. ET Jermaine Kearse’s crazy catch.”
+tivo analyzed watched moments game halftime finding viewership numbers exceeded overall game fifth year row game moments says tivo follows (  pm et fight final seconds game (  pm et tom brady richard sherman reaction malcolm butler goal line interception (  pm et jermaine kearse crazy catch

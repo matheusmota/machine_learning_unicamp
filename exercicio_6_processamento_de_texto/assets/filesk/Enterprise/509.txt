@@ -1,7 +1,7 @@
-Aircall just launched its mobile apps on iOS and Android out of beta. The company announced the first beta of its mobile app at TechCrunch Disrupt in San Francisco. The startup is bringing all the core features of the service to its mobile apps.
-Aircall lets you generate virtual numbers in many countries around the world and share these numbers with the rest of your team so that multiple people can use the same number. For instance, Aircall is quite good when it comes to customer support.
-With the new mobile apps, Aircall customers can receive or make VoIP calls directly on their phone without having to be tied to their desk. Compared to other customer support software, Aircall already doesn’t require any proprietary hardware and uses a software-as-a-service model.
-Aircall lets you share contacts and schedules, assign calls to particular team members and track exactly what’s happening. It’s a great way to know whether your coworkers have dealt with a client already.
-And when someone is calling in, Aircall lets you assign first-line support. If no one is available, Aircall will seamlessly ring other team members.
-Finally, customers have been asking for integrations with CRM, such as Salesforce, and customer support services, such as Zendesk. Aircall hooks up with these services and a bunch of others.
-Based on leaked emails I saw, the startup has been killing it over the past few months — its monthly recurring revenue has been growing very rapidly lately. And with today’s new mobile apps, it adds more flexibility for existing Aircall customers. It’s just a nice addition to the current feature set.
+aircall just launched mobile apps ios android beta company announced beta mobile app techcrunch disrupt san francisco startup bringing all the core features service mobile apps
+aircall lets generate virtual numbers countries world share numbers rest te multiple people use number instance aircall quite good comes customer support
+with new mobile apps aircall customers receive make voip calls directly phone having  tied desk compared customer support software aircall does require proprietary hardware uses software service model
+aircall lets share contacts schedules assign calls particular te members track exactly happening great way know coworkers dealt client already
+and calling aircall lets assign line support available aircall seamlessly ring te members
+finally customers asking integrations crm salesforce customer support services zendesk aircall hooks services bunch others
+based leaked emails i saw startup killing past months  monthly recurring revenue growing rapidly lately today new mobile apps adds flexibility existing aircall customers just nice addition current feature set

@@ -1,5 +1,5 @@
-Skype’s web-based client, along with both IM and video/audio call functionality, is now available to all users in open beta, the company announced today. The web-based version of the popular chat and calling tool came out at the end of last year, with access gated based on an invite system, but now everyone can join in, so long as you’re residing in the U.S. or U.K.
-The Skype web beta is available for Internet Explorer, Chrome, Safari and Firefox, and yet does not work on Chromebooks. Voice and video calling is only available on the browsers listed, including Windows and OS X, and requires that you install a browser plug-in to get those features running.
-Skype on the web has some advantages over the local client: when you’re away from home, for instance, and using an unfamiliar computer. You could also just prefer not to have a native app installed, but regardless of your motivation, having a full-featured web-based version of Skype available is definitely not a bad thing.
-The lack of support for Chrome OS is a bit disappointing, given that it’s one of the major obstacles towards using those devices as more full-featured computer replacements.
-Just head over to Skype.com to get started with the web-based client.
+skype web based client im video/audio functionality available users open beta company announced today web based version popular chat calling tool came end year access gated based invite  join long residing uk
+the skype web beta available internet explorer chrome safari firefox does work on chromebooks voice video calling available browsers listed including windows os x requires install browser plug features running
+skype web advantages local client away home instance using unfamiliar computer just prefer native app installed  regardless motivation having featured web based version skype available definitely bad thing
+the lack of support chrome os bit disappointing given major obstacles using devices featured computer replacements
+just head skypecom started web based client

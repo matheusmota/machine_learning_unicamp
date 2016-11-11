@@ -1,14 +1,14 @@
-If you’ve ever forged a connection with someone because you had the same favorite movie or TV show or book, a new startup called Tastemates has built a social network around that experience.
-Or as CEO Jon Vlassopulos put it, “We’re trying to codify serendipity” — those surprising moments of, “Oh my God, I can’t believe anyone else likes that as much as I do!”
-What does that look like as a product? Well, users are asked to swipe to indicate their taste in entertainment — specifically, indicating whether they liked a given movie, TV show or music.
-Then, as the app gets a better sense of what you like, it will recommend other things you might like. And it will bring up the activity of users with similar tastes, so you can say whether or not you agree with their opinions and even connect directly.
-As Vlassopulos showed me the app, particularly the ways you can filter the other users you see based on things like age and gender, my mind immediately jumped to dating: Is this meant to be a more natural way to connect with potential dates, based on interests rather than just swiping through photos? After all, when you connect with someone on Tastemates, the app even recommends ways to start a conversation based on shared interests.
+if you’ve forged connection favorite movie tv book new startup called tastemates built social network experience
+or ceo jon vlassopulos trying codify serendipity  surprising moments oh god i ca believe   likes i do!
+what does look like product users asked swipe indicate taste entertainment  specifically indicating liked given movie tv music
+then app gets better sense like recommend things like bring activity users similar tastes say agree opinions connect directly
+as vlassopulos showed app particularly ways filter users based things like age gender mind immediately jumped dating meant  natural way connect potential dates based interests just swiping photos connect tastemates app recommends ways start conversation based shared interests
 
-“I wouldn’t say that,” Vlassopulos told me. Not that he’s ruling out dating as a use case, but he said it’s more about finding your tribe, whether that’s for a romantic connection or otherwise.
-And in his view, being a general social app makes it better for dating, too: “Would you rather go to a party that’s a ‘singles party’ or a regular party and there are singles there?”
-Vlassopulos also put a big emphasis on using data that’s explicitly shared in the app — from an advertising perspective, Tastemates doesn’t need to guess what your interests are, because that’s exactly what you’re revealing.
-That approach extends to the updates you see. Instead of just using “a black box of algorithms” (as Vlassopulos put it), there’s a slider that lets you determine how similar people have to be before they show up in your newsfeed.
-In some ways, the swiping experience reminded me of a new app called MightyTV, but Tastemates seems to place a stronger emphasis on the social experience, particularly on connecting with people you don’t already know.
-Of course, you can already share your interests on the big social networks, but Vlassopulos argued that this has been a much less important part of their experience over time. Consider, for example, how prominent your favorite movies and bands were in the Facebook profile of 10 years ago, and how that’s now mostly hidden and ignored.
+i say vlassopulos told ruling dating use case  said finding tri romantic connection otherwise
+and view general social app makes better dating party ‘singles party’ regular party singles there
+vlassopulos big emphasis using data explicitly shared app  advertising perspective tastemates does need guess interests exactly revealing
+that approach extends updates instead just using black box algorithms (as vlassopulos slider lets determine similar people have to  newsfeed
+in ways swiping experience reminded new app called mightytv  tastemates place stronger emphasis social experience particularly connecting people know
+of course share interests big social networks  vlassopulos argued important experience time consider example prominent favorite movies bands facebook profile  years ago hidden ignored
 
-Tastemates is currently available for Android. Vlassopulos said the team is also working on an iPhone app, but he’s particularly excited about Android because of its international reach and because “Google has been very good to work with.”
+tastemates currently available android vlassopulos said te working iphone app  particularly excited android international reach google good work with

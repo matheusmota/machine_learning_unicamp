@@ -1,10 +1,10 @@
-FoKo, the enterprise photo sharing applications that gives companies a private Instagram-like experience, has announced a new desktop version to share items such as CAD drawings, which might not be available from a smartphone.
-Up until now, FoKo has been strictly a smartphone app, but co-founder Eric Sauve said customers were demanding the ability to share pictures that might not be available from a phone, so they created a desktop version that lets users see pictures on a larger screen, and share items that might only be available from the desktop.
-It’s worth noting that the desktop version is not a stand-alone app. You must have the smartphone app in order to use it.
-FoKo is a service that acts like a private Instagram, but instead of sharing company photos to the open Internet, it lets users share privately among the employees inside a company. You can share with individuals, groups or the entire company.
-When you sign up for FoKo, you need a company email and then you are automatically connected to everyone else who uses that domain, Suave explained.
-With this release, FoKo also announced the ability to share with people in your phone’s address book, meaning employees can now share photos with partners and clients as well people inside the company. Like Instagram, you can comment on photos you share, but if you share outside the company, you will receive a warning as a security precaution.
-He said they have gotten a lot of traction with visually oriented use cases like consumer packaging and retail. One of their customers, Whole Foods, is using it in-house and Sauve says they have 30 percent usage across the company at any given time, and 70 percent over an entire month, so it’s proving quite popular.
-But they have also seen less anticipated use cases like customer service people just using it as a social tool and sharing pictures of their workspaces or HR sharing pictures of company events. They’ve seen usage at old-school manufacturing companies too and these use cases have surprised them, Sauve said.
-He thinks the popularity of his product is driven by its simplicity. It just allows you to share photos and comment on them, and nothing else, whereas most enterprise social apps try to do a lot of things. He believes that single focus is driving the popularity of the product.
+foko enterprise photo sharing applications gives companies private instagr like experience announced new desktop version share items cad drawings  available smartphone
+up foko strictly smartphone app  founder eric sauve said customers demanding ability share pictures  available phone created desktop version lets users pictures larger screen and share items  available desktop
+it worth noting desktop version stand app smartphone app order use it
+foko service acts like private instagr  instead sharing company photos open internet lets users share privately  employees inside company share individuals groups entire company
+when sign foko need company email automatically connected  uses domain suave explained
+with release foko announced ability share people phone address book meaning employees share photos partners clients people inside company like instagr comment photos share  share outside company receive warning security precaution
+he said gotten lot traction visually oriented use cases like consumer packaging retail customers foods using house sauve says  percent usage company given time  percent entire month proving quite popular
+ seen anticipated use cases like customer service people just using social tool sharing pictures workspaces hr sharing pictures company events they’ve seen usage old school manufacturing companies use cases surprised sauve said
+he thinks popularity product driven simplicity just allows share photos comment  whereas most enterprise social apps try lot things believes single focus driving popularity product
  

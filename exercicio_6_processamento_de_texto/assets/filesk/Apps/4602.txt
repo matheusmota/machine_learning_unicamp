@@ -1,13 +1,13 @@
-At Google’s press event today, the company announced a number of new products and updates, including two new Nexus smartphones, two Chromecast devices, a new Android tablet and more, but one thing it kept under wraps was news of a notable new application arriving on the iOS platform: Google Maps now works on Apple Watch.
-Through an update to the Google Maps iOS app on the iTunes App Store, Google has quietly rolled out an Apple Watch version of its popular (and, even among Apple fans, often preferred) mapping application.
-The new Watch app offers a simpler version of Google Maps compared to what’s available on smartphones, as it’s designed to work more as a companion app to the richer, more feature-rich smartphone counterpart.
-On the Watch app, you can tap buttons to quickly get routes to saved locations, like “Home” or “Work.” In addition, when you pull up directions on your iPhone, these are immediately synced to Apple Watch so that they’re accessible when you launch the app on your smartwatch.
-The app supports all the modes of transportation you can view on your phone, including driving directions, walking, biking and transit.
-And the app will store a list of your most recent routes which you can tap on from beneath the “Home” and “Work” buttons. (This is the one feature you can use without having to pull out your phone.)
-However, unlike Apple’s included Maps application, Google’s app is limited to offering directions – there’s not an actual, full-color map included in the new app, which is disappointing. Instead, a blue directional arrow shows you which way to turn while offering guidance, including the distance to the next turn, in English.
-This is still a notable launch, however, not only because it brings Google’s detailed and accurate mapping resource to Apple Watch wearers, but also because it’s Google’s only second-ever app designed for the competing smartwatch platform.
-The first, “Google News & Weather,” was a fairly bare-bones application that felt more like Google was experimenting with building for Apple Watch and its related feature sets rather than a real attempt at developing something useful for Apple Watch owners. Google Maps, while still feeling a little underdeveloped, is definitely more appealing.
-With the launch of Google Maps for Apple Watch, the indication is that Google is now taking Apple’s platform more seriously. That could also mean that we may see other Google apps in the future coming to Apple Watch, including (hopefully) top apps like Gmail or Hangouts, for example.
-The updated version of Google Maps for iOS is live here on iTunes.
-In addition to the Apple Watch support, the smartphone app also now offers the ability to compare ETAs by mode of transportation, a way to call businesses and get directions from a list of places, a nearby transit widget for the iOS Notification Center, and more.
+at google press event today company announced number new products updates including new nexus smartphones chromecast devices new android tablet  thing kept wraps news notable new application arriving ios platform google maps works apple watch
+through update google maps ios app itunes app store google quietly rolled apple watch version popular (and  apple fans preferred mapping application
+the new watch app offers simpler version google maps compared available smartphones designed work companion app richer feature rich smartphone counterpart
+on watch app you can tap buttons quickly routes saved locations like home work addition pull directions iphone immediately synced apple watch accessible launch app smartwatch
+the app supports modes transportation view phone including driving directions walking biking transit
+and app store list recent routes tap beneath home work buttons (this feature use having pull phone
+however unlike apple included maps application google app limited offering directions  actual color map included new app disappointing instead blue directional arrow shows way turn offering guidance including distance turn english
+this notable launch because it brings google detailed accurate mapping resource apple watch wearers  google second app designed competing smartwatch platform
+the google news & weather fairly bare bones application felt like google experimenting building apple watch and related feature sets real attempt developing useful apple watch owners google maps feeling little underdeveloped definitely appealing
+with launch google maps apple watch indication google taking apple platform seriously mean google apps future coming apple watch including (hopefully apps like gmail hangouts example
+the updated version google maps ios live itunes
+in addition apple watch support smartphone app offers the ability compare etas mode transportation way businesses directions list places nearby transit widget ios notification center and more
 

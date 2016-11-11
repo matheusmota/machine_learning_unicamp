@@ -1,8 +1,8 @@
-Roomi, an app that wants to help New Yorkers find the perfect roommate, is today launching with $2 million in seed funding led by DCM Ventures. Great Oak Ventures, Sand Hill East, Jeff Dishner, Greg Kidd, Arihant Patni, Jeff Penney, and AngelList Consumer Fund all participated in the round, as well.
-Roomi works by letting users seeking roommates list their apartments on the app. Once they’ve snapped a few pictures and filled in some information about themselves, other users can browse the service to find a good apartment/roommate.
-Whenever a user is interested in a particular place, Roomi offers full-fledged messaging tools so that users can ask questions and set up times to see apartments.
-However, Roomi is different in that it asks for quite a bit of information up front, such as pet allergies, smoking habits, whether you are an early riser or night owl, etc. Essentially, all the things that determine your compatibility with a roommate are answered right from the get-go, so that no time is wasted on extra questions.
-Roomi is one of the only services (if not the only one) that takes a fully mobile-first approach to roommate matching online. The service vets and verifies each new users as they hop on the app through Facebook Connect.
-For now Roomi is free, but CEO and founder Ajay Yadav sees the potential to generate revenue through services such as paying rent online and ID and credit check verification.
-Roomi plans on using the funding to expand to Android (the app is iOS only for now), add new features and hire top talent.
-So far the company has 3,000 apartments listed in New York during the beta.
+roomi app wants help new yorkers perfect roommate today launching  million seed funding led dcm ventures great oak ventures sand hill east jeff dishner greg kidd arihant patni jeff penney angellist consumer fund participated round well
+roomi works letting users seeking roommates list apartments app they’ve snapped pictures filled information users browse service good apartment/roommate
+whenever user interested particular place roomi offers fledged messaging tools users ask questions set times apartments
+however roomi different asks quite bit information pet allergies smoking habits early riser night owl essentially things determine compatibility roommate answered right time wasted extra questions
+roomi services (if takes fully mobile approach roommate matching online service vets verifies new users hop app facebook connect
+for roomi free  ceo founder ajay yadav sees potential generate revenue services paying rent online id credit check verification
+roomi plans using funding expand android (the app ios add new features hire talent
+so far company  apartments listed new york beta

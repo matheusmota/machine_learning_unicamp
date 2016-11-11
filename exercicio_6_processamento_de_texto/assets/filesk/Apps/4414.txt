@@ -1,25 +1,25 @@
-Fixed, a mobile app that fights parking tickets and other traffic citations on users’ behalf, has had its parking ticket operations blocked in three of its top cities, San Francisco, Oakland and L.A. after the cities increased the measures they were taking to block Fixed from accessing their parking ticket websites.
-The company confirms it has suspended parking ticket operations in all three cities as of three weeks ago – a move impacting around 100,000 users. Going forward, Fixed will focus on its Traffic Ticket business instead, we’re told.
-The startup has had issues with the San Francisco Municipal Transportation Agency (SFMTA) for some time.
-The agency was never all that receptive to the service, and the way it automated the ticket contesting process for locals. Using its app, Fixed customers could snap a photo of their parking ticket using their phone’s camera, and then Fixed would check against a variety of common errors before writing a customized letter to the city on the user’s behalf. The app also cleverly tapped into Google Street View to check to see if the city had the proper signage in place in the area a ticket was received.
+fixed a mobile app fights parking tickets and traffic citations users behalf parking ticket operations blocked in three cities san francisco oakland la cities increased measures they taking block fixed accessing parking ticket websites
+the company confirms suspended parking ticket operations cities weeks ago  impacting around  users going forward fixed focus traffic ticket business instead told
+the startup has issues the san francisco municipal transportation agency (sfmta time
+the agency receptive service way automated ticket contesting process locals using its app fixed customers snap photo parking ticket using phone camera fixed check variety common errors writing customized letter city user behalf app cleverly tapped google street view check city proper signage place area ticket received
 
-Founder David Hegarty once noted that over half of tickets have an issue that would make them invalid, but the city didn’t tend to play by its own rules when arbitrating disputes. That made Fixed’s “win” rate only 20%-30% on tickets, as of earlier this year. (When the company won, it charged a success fee of 25% of the original fine – a reduction in what a customer would have otherwise paid.)
-However, even when customers didn’t beat their ticket, the app could help automate the payment without having to use a city’s often outdated website. A more recent addition, “Ticket Guardian,” handled tickets for you automatically and alerted customers to new ones by monitoring government websites.
-Of course, the cities haven’t been welcoming to an app that was aimed at helping locals not pay their tickets by automating the process of jumping through legal loopholes. When Fixed began faxing its submissions to SFMTA last year, the agency emailed the startup to stop using their fax machine. When Fixed pointed out that it was legal to do so, the agency simply shut off their fax.
-According to Hegarty, the three cities in question currently outsource the backend of their Ticketing Operations to Xerox, who started trying to block Fixed from their ticket websites around February or March of this year. Reportedly, the blocking was an explicit instruction from the SFMTA. Initially, the blocking was trivial, Hegarty says – just CAPTCHA plus IP blocking. It was easy enough to work around.
+founder david hegarty noted half tickets issue make invalid  city did tend play rules arbitrating disputes fixed win rate   tickets earlier year (when company won charged success fee  original fine  reduction customer paid
+however customers did beat ticket app help automate payment without having use a city outdated website recent addition ticket guardian handled tickets automatically alerted customers new ones monitoring government websites
+of course cities welcoming an app aimed helping locals pay tickets automating process jumping legal loopholes fixed began faxing submissions sfmta year agency emailed startup to stop using fax machine fixed pointed legal agency simply shut fax
+according hegarty cities question currently outsource backend ticketing operations xerox started trying block fixed ticket websites february march year reportedly blocking explicit instruction sfmta initially blocking trivial hegarty says  just captcha plus ip blocking easy work around
 
-But in August, Xerox began using a third-party organization to block Fixed from accessing the parking ticket site. While Fixed engineers could still work around the block, it now required an increased amount of engineering time and resources, and this also impacted Fixed’s customer service operations.
-For that reason, Fixed decided to end support for parking ticket assistance in these locations.
-“In September, we decided to pause our Parking Ticket service. All existing tickets in the system will continue to be processed, but we are not accepting new ones until we resolve this issue,” says Hegarty.
-“It’s unfortunate that the SFMTA decided to block our service. Over 60,000 parking tickets had been submitted to Fixed. Not only were we helping people beat their unfair parking tickets, but the alerts on our app were helping people pay their parking fines on time and avoid late fees,” he continues.
-“Parking Ticket Fines account for 15% of the SFMTA operating budget, and it looks like they objected to us providing some accountability to their process,” Hegarty adds.
-Though the company is still investigating its options, it has no plans to resume its Parking Ticket service at this time. Instead, Fixed’s new plan is to focus on its growing Traffic Ticket business, which it’s currently expanding outside of California.
-Any parking tickets still in Fixed’s system today will be handled fully, but it will no longer accept new customers. Anyone who submits a parking ticket through the app will now receive an email informing them of the shutdown.
-That email reads as follows:
-SFMTA was not available for immediate comment.
-Fixed is backed by $1.85 million in funding from Y Combinator, Merus Capital, Slow Ventures, Structure VC, Paul Buchheit, rapper Nas, Scott Banister, John Cobbs, Mark Randolph, Matt Humphries, Eric Wu, David King and others.
-Additional reporting: Drew Olanoff
-UPDATE: SFMTA was closed for the holiday on Monday, but has now provided a statement (10/13/15, 3 PM ET) –
-UPDATE 2: Fixed has provided us with an email it requested via the FOIA process which the company says do imply that there was direct conversation between the SFMTA and Xerox regarding Fixed. (10/14/15, 5 PM ET) –
-Fixed email
-UPDATE 3: Xerox has now released an official statement as well. (10/15/14, 4:45 PM ET) –
+but in august xerox began using a party organization block fixed from accessing parking ticket site fixed engineers work block required increased engineering time resources impacted fixed customer service operations
+for reason fixed decided end support parking ticket assistance locations
+in september decided pause parking ticket service existing tickets continue  processed  accepting new ones resolve issue says hegarty
+it unfortunate sfmta decided block service  parking tickets submitted fixed helping people beat unfair parking tickets  alerts app helping people pay parking fines time avoid late fees continues
+parking ticket fines account  sfmta operating budget looks like objected providing accountability process hegarty adds
+though company investigating options plans resume parking ticket service time instead fixed new plan focus growing traffic ticket business currently expanding outside california
+any parking tickets fixed today  handled fully  longer accept new customers  submits parking ticket app receive email informing shutdown
+that email reads follows
+sfmta available immediate comment
+fixed backed  million funding y combinator merus capital slow ventures structure vc paul buchheit rapper nas scott banister john cobbs mark randolph matt humphries eric wu david king others
+additional reporting drew olanoff
+update sfmta closed holiday monday  provided statement (//  pm et 
+update  fixed provided an email requested foia process company says do imply was direct conversation sfmta xerox regarding fixed (//  pm et 
+fixed email
+update  xerox released official statement (//  pm et 

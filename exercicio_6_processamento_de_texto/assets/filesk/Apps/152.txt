@@ -1,14 +1,14 @@
-Got iOS 10? Want to mess with your friends? A hilarious new iMessage App called Phoneys lets you prank others by sending stickers that look exactly like iMessage text bubbles. And thanks to the new layering feature in the updated version of iMessage, you can place these stickers – which say things like “My political views are totally wrong” or “I have terrible taste in music” – overtop your friend’s message to make it look like they texted these self-deprecating statements to you.
-Yep, you can actually put words in your friend’s mouth, then laugh while they try to figure out if they’ve lost their mind, or their phone has been hacked.
-Taking advantage of layering is what makes this new app so clever. In iOS 10, iMessage now lets you place stickers on top of incoming text messages, photos, GIFs or even other stickers. The idea is that you could react to a text with a sticker, you could decorate an incoming photo, or even take turns with friends making a sticker collage.
-However, not everyone is aware of how stickers work in iOS 10 just yet, which gives you time to enjoy an app like Phoneys.
-Here’s how it works. After downloading and installing Phoneys from the iMessage App Store, look for a text message you want to change. Scroll through the available “phoney” texts you want to replace that message with, and drag it on top of the original text.
-There are a number of fake texts to pick from, ranging from more generic statements, like “you’re so smart,” or “you’re hilarious,” to those that may be more useful in specific discussions, like “you make this parenting thing look easy,” or “the sports team I pull for sucks,” for example.
-For extra fun, just respond to the “phoney” text to continue the conversation, and watch as your friend reacts in confusion.
-Ha! 
-Phoneys’ creator Adam Howell, who works full-time as a remote employee for San Francisco-based Lithium, likes to develop apps in his free time. When iMessage stickers were announced this June at WWDC, he began working nights and weekends on his first pack, Guises.
-Following Guises’ launch, Howell began trying out ideas of what to build next, he says.
-“I noticed how you could completely cover up texts with stickers. I started joking with a friend that I could maybe make him say anything I wanted,” explains Howell. “So I made a couple quick stickers locally on my iPhone to test it out, and sure enough it worked.”
-After tweeting out the idea last week, Howell says he received such positive feedback that he decided to get to work.
-Now that Phoneys is live, Howell says he plans to release another set of stickers to expand the current collection some time next week, and he’s considering creating an app that will let people write their own “phoney” texts.
-The app is a $0.99 download on the iMessage App Store, but even if you only use it once, you’ll get your money’s worth.
+got ios  want to mess with friends hilarious new imessage app called phoneys lets prank sending stickers look exactly like imessage text bubbles thanks the new layering feature updated version imessage place these stickers  which say things like political views totally wrong i terrible taste music  overtop friend message to make look like texted self deprecating statements you
+yep actually words friend mouth then laugh try figure they’ve lost mind phone hacked
+taking advantage layering makes new app clever ios  imessage lets place stickers of incoming text messages photos gifs stickers idea react a text sticker decorate incoming photo turns friends making sticker collage
+however aware stickers work ios  just which gives time enjoy app like phoneys
+here works downloading installing phoneys imessage app store look text message want change scroll available phoney texts want replace message drag on top original text
+there number fake texts pick ranging generic statements like smart hilarious  useful specific discussions like make parenting thing look easy sports te i pull sucks example
+for extra fun just respond phoney text continue conversation watch as your friend reacts confusion
+ha! 
+phoneys creator ad howell works time remote employee san francisco based lithium likes develop apps free time imessage stickers were announced june wwdc began working nights weekends pack guises
+following guises launch howell began trying ideas build says
+i noticed completely cover texts stickers i started joking friend i make say i wanted explains howell i couple quick stickers locally iphone test sure worked
+after tweeting idea week howell says received such positive feedback decided to work
+now phoneys live howell says plans to release set stickers expand current collection time week considering creating app let people write phoney texts
+the app  download imessage app store  use you’ll money worth

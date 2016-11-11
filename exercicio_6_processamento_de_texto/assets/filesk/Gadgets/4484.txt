@@ -1,30 +1,30 @@
 
 
-A drone equipped to “sniff” Zigbee flew over an Austin neighborhood in early August and found almost 1,600 devices. It’s a sign of how ubiquitous these technologies have become, and how we use them every day — despite their vulnerabilities.
-The experiment in Austin mirrored the Google Street View incident in 2011, when Wi-Fi sniffers exposed our home Wi-Fi connections.
-As we connect more devices to our lives, I can’t help but wonder, can hackers hurt, hunt or poach our local food production systems?
-Imagine the future where cities are growing 30 percent of America’s food. It’s not crazy: States like Hawaii are headed in that direction, and Americans produced 40 percent of their own local food in Victory Gardens during WWII. Locally grown food makes sense: to improve food nutrition and taste, to reduce pesticide use and alleviate greenhouse gases. When there are flash floods, hurricanes or disasters elsewhere, America can stay food secure by growing locally. Plus, hipsters like to do it.
-Since 1969, America is actually a net importer of food — exporting $7 billion, importing $18 billion from countries like Mexico and China. In a climate and thereby resource-insecure future, growing food locally and in city warehouses by companies like BrightFarms in New York and AeroFarms in New Jersey will suddenly make a whole lot of sense to the masses.
-But know: all locally grown food done this way uses connected sensors to automate and optimize the processes.
-Because I see a future where every American city will be growing its own food, I’d like to know how connected gardens and small farms of the future can be built today to withstand hackers.
-Small-scale could simply mean keeping a small herb garden on your counter, but it also can mean growing an acre of food in a space as small as a shipping container or on your apartment roof in New York City.
-I turned to three tech geeks I know to paint the future about what hackers can hunt, hack and poach from your food.
-“Innovators,” says Andrew Erlick, director of hardware, design and technology at Indiegogo (previously Quirky), “should lean heavily on their online community in order to prevent any malicious attacks. When it comes to gardening, I’d envision a lot of collaborative learning taking place.
-“Depending on the climate, seed-type, fertilizer, time of year, nutrient etc. the community driven connected garden should be able to produce the optimum growing recommendations.
-“With this human element in mind, any sort of breach in security would be counterbalanced by thousands of watchful eyes. The database will be a living thing itself. If there is a breakdown in the process the combination of data-analysis and an ecosystem of gardeners should be able to correct the mishap, which in turn will lead to healthy growth,” Erlick explains.
-Luke Schantz, a New York tech evangelist formerly from the Blue Man Group, tells me that future food grown in cities will need “massive networks of sensors for monitoring the environmental conditions. And, “possibly some modern robotic scarecrows to keep out the rats, pigeons, squirrels and of course crows from feasting on or nesting in the urban agriculture.”
-How would he keep the hackers out?
-System design. The system could be decentralized. Each node in the system could have solar energy panel, battery, on-board sensors and a micro-controller that reports data back to the system but does not require network connectivity or commands from a master control program to operate. So, if the servers are hacked or given a disruption of service attack, each node of the system will keep functioning on its own.
-Data collection could be done with a system like Helium, where the reporting nodes are low-cost one-way radios. If the system had a master control agent or message cue, blockchain could be used to ensure that the control network is not compromised or hacked. This also could be used in updating the programing on each node in the system. This would ensure that corrupted updates or viruses were distributed to the system nodes (as the Stuxnet virus was distributed to the Iranian centrifuges).
-Avoid mono-cultures. It would be interesting to grow a wider variety of food types versus the mono-cultures of the [conventional] agro industry. These cultures are supposed to be compilations of the best of many genetic lines. It seems like the potential for a targeted attack or natural plight against the mono-culture could be a significant security flaw.
-Amichai Yifrach, CTO of flux, and a systems engineer for the military for 15 years, made me the most afraid. (Disclaimer: we work together at flux.)
-“Being a hacker myself,” says Yifrach, “I can concur that every wireless (more than wired) connection is susceptible to attacks. So the answer to the question ‘is the threat real?’ is yes.”
-He divides the threats into end-equipment attacks and server attacks as the main threats: DoS (denial of service) attacks in which the attacker does not do anything to your information, but prevents it from reaching the server, or an MITM (man in the middle) attack, in which the attacker gains access to the network and acts as a man-in-the-middle, pretending to be the Internet (the server) to the server, thus gaining access to the data packets flying between the connected device and the server.
-For all attacks, the basic threat analysis formula is the benefit of the attacker versus the effort (time and money) required for the attack. Some agtech user might have valuable data, such as secret grow recipes for unique strains of plants, user ID, anonymity of the user or data on revenue-based ag-tech businesses.
-If the above applies to your business, what can be done to protect yourself?
-Yifrach suggests to “hire a full-time experienced hacker in your team who will conduct constant monitoring and pen-testing (penetration testing) of your system and periodically patch if required. This way you can stay ahead in this cat and mouse game.”
-And observe these server-side protection techniques:
-“I would gladly demonstrate how a virus I can put in our cloud server can slowly crawl out of its cage and gradually give me control of the entire machine (hosting servers from other companies) and also to the entire cloud service provider infrastructure,” says Yifrach, who is against shared server solutions: “All I need is a motive, time and money. So the bigger you get, the more attractive you get for large organizations to get their hands on your data.”
-On the end-equipment side, Yifrach says CTOs can observe the following techniques:
-Yifrach, a white hat hacker says he “can demonstrate some things that will make you pale… and paranoid.”
-As we lay the foundations for more locally produced food (see Edenworks) we can’t ignore the threats and potential hackers. Don’t get pale or paranoid. Be prepared.
+a drone equipped sniff zigbee flew austin neighborhood in early august  devices sign ubiquitous technologies  use day  despite vulnerabilities
+the experiment austin mirrored google street view incident  wi fi sniffers exposed home wi fi connections
+as connect devices lives i ca help  wonder hackers hurt hunt poach local food production systems
+imagine future cities growing  percent america food crazy states like hawaii headed direction and americans produced  percent local food victory gardens wwii locally grown food makes sense improve food nutrition taste reduce pesticide use alleviate greenhouse gases when flash floods hurricanes disasters america stay food secure growing locally plus hipsters like it
+since  america actually net importer food  exporting  billion importing  billion countries like mexico china climate resource insecure future growing food locally city warehouses companies like brightfarms new york aerofarms in new jersey suddenly make lot sense masses
+ know locally grown food way uses connected sensors automate optimize processes
+because i future american city  growing food i’d like know connected gardens small farms future  built today withstand hackers
+small scale simply mean keeping small herb garden counter  can mean growing acre food space small shipping container apartment roof new york city
+i turned to three tech geeks i know paint future hackers hunt hack poach food
+innovators says andrew erlick director hardware design technology indiegogo (previously quirky lean heavily online community order prevent malicious attacks comes gardening i’d envision lot collaborative learning taking place
+depending climate seed type fertilizer time year nutrient community driven connected garden  able produce optimum growing recommendations
+with human element mind sort breach security  counterbalanced thousands watchful eyes database  living thing breakdown process combination data analysis ecosystem gardeners  able correct mishap turn lead healthy growth erlick explains
+luke schantz new york tech evangelist blue man group tells me that future food grown cities need massive networks sensors monitoring environmental conditions possibly modern robotic scarecrows to rats pigeons squirrels course crows feasting nesting urban agriculture
+how hackers out
+system design the  decentralized each node solar energy panel battery board sensors micro controller reports data  does require network connectivity commands master control progr operate servers hacked given disruption service attack node functioning own
+data collection could  like helium where reporting nodes low cost way radios if master control agent message cue blockchain  used ensure control network compromised hacked this could  used updating programing node ensure corrupted updates viruses distributed nodes (as stuxnet virus distributed iranian centrifuges
+avoid mono cultures  interesting grow wider variety food types versus mono cultures conventional agro industry cultures supposed be compilations of the best genetic lines like potential targeted attack natural plight mono culture  significant security flaw
+amichai yifrach cto flux systems engineer military  years afraid (disclaimer work flux
+being hacker says yifrach i concur wireless (more wired connection susceptible attacks answer question ‘is threat real’ yes
+he divides threats end equipment attacks server attacks main threats dos (denial service attacks attacker does information  prevents reaching server an mitm (man middle attack attacker gains access network acts man middle pretending  internet (the server server gaining access data packets flying connected device server
+for attacks basic threat analysis formula benefit attacker versus effort (time and money required attack agtech user valuable data secret grow recipes unique strains plants user id anonymity user data revenue based ag tech businesses
+if applies business what  protect yourself
+yifrach suggests hire time experienced hacker te conduct constant monitoring pen testing (penetration testing periodically patch required way stay ahead cat mouse game
+and observe server protection techniques
+i gladly demonstrate virus i cloud server slowly crawl cage gradually control entire machine (hosting servers companies entire cloud service provider infrastructure says yifrach shared server solutions all i need motive time money bigger attractive large organizations hands data
+on end equipment yifrach says ctos observe following techniques
+yifrach white hat hacker says demonstrate things make you pale… paranoid
+as we lay foundations locally produced food (see edenworks we ca ignore threats potential hackers do pale paranoid  prepared

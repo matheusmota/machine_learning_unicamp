@@ -1,6 +1,6 @@
-Microsoft has a number of upgrades coming for Windows 8.1 on August 12, but the company today announced in a blog post that the new features and tweaks don’t constitute an “Update 2” to the operating system.
-So what is coming in the non-Update 2 August release? Trackpad improvements, better SharePoint Online integration, and Wi-Fi API updates for external developers. Good stuff, but not on the same size-scale as Update 1.
-The new code will land via Windows Update, so you won’t have to do much to snag it. Just be around.
-Update 1 to Windows 8.1 was a large release, improving the boot preferences of the operating system, expanding device support, and also adding new user interface elements that made the platform far easier to use. It was big enough to warrant an “$Update_X”  tag.
-What Microsoft has planned for August does not. The company explains that by saying that it is committed to shipping updates more rapidly, and not saving up new code to release as a group, as with Update 1: ”
-This release is somewhat notable as it underscores Microsoft’s faster release strategy for non-numbered releases, which is to say smaller, incremental updates rather than platform-wide releases. If you use a Windows machine, in other words, you can expect your machine to improve month-by-month.
+microsoft number upgrades coming windows  august   company today announced blog post new features tweaks constitute update  operating system
+so coming non update  august release trackpad improvements better sharepoint online integration wi fi api updates external developers good stuff  size scale update 
+the new code land windows update wo to snag just  around
+update  windows  large release improving boot preferences operating expanding device support adding new user interface elements platform far easier use big warrant update_x  tag
+what microsoft planned august does company explains that saying committed shipping updates rapidly not saving new code release as group with update  
+this release somewhat notable underscores microsoft faster release strategy non numbered releases say smaller incremental updates platform wide releases use windows machine words expect machine improve month month

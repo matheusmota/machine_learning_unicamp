@@ -1,10 +1,10 @@
-Slack! The email killer! It’s going to kill email!
+slack! email killer! going kill email!
 
-Welp, not today.
-The team clearly listens to its users, as the company announced a new integration (for Standard and Plus plan customers) that’ll make them extremely happy. Email will probably never completely die; it’s how organizations communicate with the outside world. Now you can bring email into your Slack channels:
-If you don’t set this integration up correctly, your channels could turn into a clogged up shithole, so be sure to think about what emails you want to bring in and where you want them to be posted.
+welp today
+the te clearly listens users company announced new integration (for standard plus plan customers that’ll make extremely happy email probably completely die organizations communicate outside world bring email slack channels
+if set integration correctly channels turn clogged shithole  sure think emails want bring want  posted
 
-Click and the email will expand:
+click email expand
 
-Getting support tickets dropped right into a support channel means that your company can move into action faster. While you most certainly can’t reply to the email from within Slack, the alert alone is extremely valuable. What Slack is helping to kill is internal email, which is the bane of everyone’s existence at work.
-Slack the email killer? Not so much. Super flexible business communications tool? That’s more like it.
+getting support tickets dropped right support channel means company action faster certainly ca reply email slack alert extremely valuable slack helping kill internal email bane existence work
+slack email killer super flexible business communications tool like it

@@ -1,11 +1,11 @@
-Google first announced Android 6.0 Marshmallow at its I/O developer conference earlier this year. At the time, the new version of Android was still codenamed Android M. As part of its launch event for the new Nexus phones today, the company also announced when it plans to start rolling out Marshmallow to phones. The updated mobile operating system is now scheduled to roll out to the first batch of phones starting next week.
-As expected, Google’s own Nexus phones, tablets and the Nexus Player will be the first to receive the Android 6.0 update.
-The new version of Android won’t look like a huge update on the surface, but the company has made a number of interesting tweaks to its mobile operating system that should make using Android phones quite a bit easier.
-Android Marshmallow sports a new permissions system, for example, that will now ask users for permissions when they actually use the app instead of at install time, when they don’t even really know what the app does.
-Also new is a smart battery-saving mode (Google now calls it the ‘Doze’ mode) that will put the device into deep sleep when it’s left on a table for a long time, for example. This should extend your phones’ and tablets’ standby times significantly. Google says the Nexus 5 and 6 will see a 30 percent increase.
+google announced android  marshmallow i/o developer conference earlier year time new version android codenamed android m as launch event new nexus phones today company announced plans start rolling marshmallow phones updated mobile operating scheduled roll batch phones starting week
+as expected google nexus phones tablets nexus player  receive android  update
+the new version android wo look like huge update surface  company number interesting tweaks mobile operating make using android phones quite bit easier
+android marshmallow sports new permissions example ask users permissions actually use app instead install time really know app does
+also new smart battery saving mode (google calls ‘doze’ mode device deep sleep left table long time example extend phones tablets standby times significantly google says nexus    percent increase
 
-Google Now on Tap is another marquee feature of Android 6.0. Using this feature, you can now pull up relevant contextual info from virtually any app that runs on your phone.
-Say you’re watching a music video on YouTube. Just tap and hold the home button and Now on Tap will pop up with additional information about the artist.
-Other new features include built-in fingerprint scanner support, a new app drawer and numerous small changes to the way the phone handles memory and storage.
-As Google stressed today, the company tried to focus on fit and finish with this update.
+google tap marquee feature android  using feature pull relevant contextual info virtually app runs phone
+say watching music video youtu just tap hold home button tap pop additional information artist
+other new features include built fingerprint scanner support new app drawer numerous small changes way phone handles memory storage
+as google stressed today company tried focus fit finish update
 

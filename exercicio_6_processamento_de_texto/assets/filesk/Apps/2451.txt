@@ -1,7 +1,7 @@
-Co-founder Evan Doll is no longer at Flipboard, the company has confirmed to TechCrunch and has just announced in a blog post. He will be joining Redpoint Ventures as an entrepreneur-in-residence. His role as head of Flipboard’s head of client engineering will be taken over by Troy Brant, who has been handling the job lately.
-In addition to the blog post from CEO and co-founder Mike McCue, Doll has tweeted his own farewell.
-It looks like the departure is on fairly amicable terms: the internal memo published in the blog post mentions that it will toast Doll at the company’s Friday “Mock-o-Clock” meeting.
-Doll isn’t the only recent departure. Eric Feng, the company’s CTO, left earlier this week to re-join Kleiner Perkins Caufield & Byers. Feng spent 2 years at Flipboard before returning to the firm, which he left in 2011.
+co founder evan doll longer flipboard company has confirmed techcrunch just announced blog post  joining redpoint ventures entrepreneur residence role head flipboard head client engineering  taken troy brant handling job lately
+in addition blog post ceo founder mike mccue doll tweeted farewell
+it looks like departure fairly amicable terms internal memo published blog post mentions toast doll company friday mock o clock meeting
+doll recent departure eric feng company cto left earlier week join kleiner perkins caufield & byers feng spent  years flipboard returning firm left 
 
-At the time the company confirmed its funding round, Flipboard said it had 72 million monthly active users, with the vast majority of that coming from mobile devices. Earlier in July, it was reported that the company’s numbers had jumped 75 percent in the last six months to 70 million on the back of web-user growth. The company said it sees anywhere from 150,000 to 200,000 activations every day around the world.
-Before Flipboard, Doll was at Apple, where he was an engineer working on early models of the iPhone.
+at time company confirmed funding round flipboard said it had  million monthly active users vast majority coming mobile devices earlier july reported company numbers jumped  percent months  million web user growth company said sees   activations day world
+before flipboard doll apple engineer working early models iphone

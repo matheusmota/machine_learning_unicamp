@@ -1,9 +1,9 @@
-Giphy has launched its own app called Giphy + Messenger that integrates directly with Facebook Messenger.
-With the expansion of Facebook Messenger into its own developer platform, as announced today at F8, Giphy joins a few exclusive apps that will debut on the new platform. In other words, Facebook Messenger just got very Giphy.
-Giphy is a betaworks-backed GIF search engine that has raised more than $23.9 million in funding by transforming a searchable GIF database into its own platform, where publishers can utilize GIFs more easily and messenger apps (like Slack) can tap an API to offer GIFs directly within their own apps.
-With today’s launch, however, Giphy is building its app off of Facebook’s platform instead of the other way around.
-“We built out iOS and Android apps because they allow us to own and share our brand,” said COO Adam Leibsohn. “They’re also perfectly aligned with the platform ethos that Facebook and the Messenger team are building. And our apps make sure hundreds of millions of people get to know and love Giphy, all of our awesome GIF content and our GIF search.”
-Users who download the Giphy + Messenger app will be able to search through Giphy’s entire database, choose a particular GIF, and insert that GIF directly into Facebook Messenger with a single tap. Facebook Messenger Platform gives attribution to the apps that integrate with it, meaning that all Giphy GIFs in Facebook Messenger will have a little Giphy logo on the bottom.
-Giphy recently acquired Nutmeg, a Gif messenger app, as its first public step toward mobile. CEO and cofounder Alex Chung said at the time that the company would be launching its own mobile apps soon, so today’s launch with the Facebook Messenger Platform makes sense.
-Giphy + Messenger is exclusive to Facebook Messenger, but Chung says that there will be more Giphy apps that integrate with other platforms coming soon. And with the recent acquisition of Nutmeg, which lets people easily send GIFs in iMessage and SMS specifically, it wouldn’t be surprising to see Giphy more directly integrated with iMessage sometime in the near future, though Chung declined to comment on the specifics of future apps.
-Giphy + Messenger is available on both iOS and Android.
+giphy launched app called giphy + messenger integrates directly facebook messenger
+with expansion facebook messenger developer platform announced today f giphy joins exclusive apps new platform words facebook messenger just got giphy
+giphy betaworks backed gif search engine raised  million funding transforming searchable gif database platform publishers utilize gifs easily messenger apps (like slack tap api offer gifs directly apps
+with today launch giphy building app facebook platform instead way around
+we built ios android apps allow share brand said coo ad leibsohn perfectly aligned platform ethos facebook messenger te building apps make sure hundreds millions people know love giphy awesome gif content gif search
+users download giphy + messenger app  able search giphy entire database choose particular gif insert gif directly facebook messenger single tap facebook messenger platform gives attribution apps integrate meaning giphy gifs facebook messenger little giphy logo bottom
+giphy recently acquired nutmeg gif messenger app public step mobile ceo cofounder alex chung said time company  launching mobile apps soon today launch facebook messenger platform makes sense
+giphy + messenger exclusive facebook messenger  chung says  giphy apps integrate platforms coming soon recent acquisition nutmeg lets people easily send gifs imessage sms specifically  surprising giphy directly integrated imessage near future chung declined comment specifics future apps
+giphy + messenger available ios android

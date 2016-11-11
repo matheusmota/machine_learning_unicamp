@@ -1,16 +1,16 @@
-Google Photos wants to be home to all of your photos (and videos). Whether you have a thumb drive, CD, DVD or undeveloped film laying around, the team wants you to consider uploading them to the service. Why? Because that’s when they can make the “magic” happen.
-Right now, Google Photos will wade through all of your treasured visuals and turn them into animations and stories or drop effects on them. You get alerted on the web or through the apps via the Assistant. It’s a nice little notification to get that something has been created with zero effort.
+google photos wants  home photos (and videos thumb drive cd dvd undeveloped film laying te wants consider uploading service make magic happen
+right google photos wade treasured visuals turn animations stories drop effects alerted web apps assistant nice little notification created zero effort
 
-I chatted with the Product Lead for Google Photos Search, Chris Perry, about the latest automatic toy for Photos, “Rediscover This Day.” It does exactly what you think it’d do, brings up photos from say, three years ago, and lets you reminisce about the past (or piss you off…more on that later.) It’s available for the web and both Android and iOS apps.
-It’s kind of like Timehop and Facebook’s memories — but not really. It won’t bother you daily unless you had a worthwhile group of photos to show you.
-I asked Perry how they can make this interesting without it becoming annoying fast (which Timehop has for me), and he says:
+i chatted product lead google photos search chris perry latest automatic toy photos rediscover day does exactly think it’d brings photos say years ago lets reminisce past (or piss off…more later available web android ios apps
+it kind like timehop facebook memories   really wo bother daily unless worthwhile group photos you
+i asked perry make interesting annoying fast (which timehop says
 
 
-I’ve openly asked in the past, “what are we going to do with all of these photos?” and it’s a question that this product is aiming to answer. Perry explained that this particular feature saw the light of day because it was fun: “The biggest reason why I’ve been championing this feature is the amount of joy that I’ve gotten from my groupings.”
-I have over 20K pictures stored on Google Photos and it’s a service I visit once every few weeks, at best. Most of the reason for that is because I forget it exists, and I have to imagine that most of the other people who use the service would say the same.
-Dropping little hooks into the product to draw people back is pretty smart, especially when you’ve chose, as Google apparently has, to stop focusing on the social components of Google Photos. Sure, you can share a photo, animation or collection with someone, but it’s not the same as being tagged on Facebook or Instagram, which is retention candy.
-Speaking of sharing, Google Photos will now let you push an animation out to Facebook as a GIF and to Instagram and WhatsApp as a video. Again…just social enough to get by.
-The rediscover feature doesn’t come without its issues, though, mostly issues that follow Google Photos as it stands today. A cool part of Google Photos search is that you can search via people, places or things. It’s nifty to search for “dog” and then have every photo that has anything resemble a dog come back as a result.
-However, sometimes there are certain things, or people, that you’d rather not have come up in search or Google Photos spend time on animating. Say, ex-girlfriends of boyfriends, etc. You get the idea.
-Perry tells me that this is something on the team’s mind, but there are currently no features in place that let me exclude something that’s been grouped on Google Photos. That’s a problem with any “memory” feature or service, because you usually don’t know what’ll trigger you until it does. The feature is opt-out, but sadly not customizable.
-Nothing’s perfect, right? Anyways, what else am I going to do with all of the photos that I have?
+i’ve openly asked past going photos question product aiming answer perry explained particular feature saw light day fun biggest reason i’ve championing feature joy i’ve gotten groupings
+i k pictures stored google photos service i visit weeks best reason i forget exists i imagine people use service say same
+dropping little hooks product draw people pretty smart especially you’ve chose google apparently stop focusing social components google photos sure share photo animation collection  tagged facebook instagr retention candy
+speaking sharing google photos let push animation facebook gif instagr whatsapp video again…just social by
+the rediscover feature does come issues issues follow google photos stands today cool google photos search search people places things nifty search dog photo resemble dog come result
+however certain things people you’d come search google photos spend time animating say ex girlfriends boyfriends idea
+perry tells te mind  currently features place let exclude grouped google photos problem memory feature service usually know what’ll trigger does feature opt  sadly customizable
+nothing perfect right anyways   i going photos i have

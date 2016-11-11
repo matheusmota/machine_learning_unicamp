@@ -1,11 +1,11 @@
-If we’re ever to have things like smart contact lenses and permanent brain implants, one of the things we need to figure out is the power problem. Those devices need energy for collecting, processing and especially transmitting data — but that last one might not be a problem anymore, thanks to a new technique called interscatter communication.
-Producing a wireless signal that’s strong enough to be detected five or 10 feet away isn’t that costly energy-wise when you’ve got a big all-day battery you can recharge easily, like in a smartphone.
-But for tiny devices, especially those intended for use inside the body, power is a much more serious consideration. Their batteries are tiny and it’s not like you can just pull your pacemaker out and juice it up on your laptop. So anything that reduces power draw is welcome for the next generation of smart embedded devices.
+if things like smart contact lenses permanent brain implants things need figure power problem devices need energy collecting processing especially transmitting data    problem anymore thanks new technique called interscatter communication
+producing wireless signal strong  detected  feet away costly energy wise you’ve got big day battery recharge easily like smartphone
+ tiny devices especially intended use inside body power consideration batteries tiny like just pull pacemaker juice laptop reduces power draw welcome generation smart embedded devices
 
-To that end, three graduate students from UW’s electrical engineering program created a technique that eliminates the necessity to produce wireless signals at all. Instead, using interscatter, the device can essentially harvest and re-deploy signals it receives.
-It works like this: One device, say an earpiece, transmits a special “single-tone” signal carrying no data, in the Bluetooth frequency. The interscatter device receives this signal and allows it to bounce off its antenna — but not before it has manipulated it ever so slightly, re-encoding the blank signal as a Wi-Fi one. This altered transmission (really a sort of distorted reflection) can be picked up by a phone or laptop just like any other data over Wi-Fi.
+to end graduate students uw electrical engineering progr created technique eliminates necessity produce wireless signals instead using interscatter device essentially harvest deploy signals receives
+it works like device say earpiece transmits special single tone signal carrying data bluetooth frequency interscatter device receives signal allows bounce antenna   manipulated slightly encoding blank signal wi fi altered transmission (really sort distorted reflection  picked phone laptop just like data wi fi
 
-Cool, right? And the best part is, because that slight alteration of the received waves is all that requires power, it’s 10,000 times more efficient than producing that Wi-Fi signal itself, and 1,000 times more efficient than Bluetooth.
+cool right best slight alteration received waves requires power  times efficient producing wi fi signal  times efficient bluetooth
 
-One of the next steps in the project will be to miniaturize the technology further; so far, it’s been built on bulky FPGA boards, but once the design is finalized it could be shrunk down onto an ordinary integrated circuit board. But because the signals are standard, the other devices can be anything, from Apple Watches to Samsung Galaxy phones.
-The paper describing interscatter is by Vikram Iyer, Vamsi Talla, Bryce Kellogg and their professors, Shyamnath Gollakota and Joshua Smith; it will be presented August 22 at the SIGCOMM conference in Brazil.
+one steps project  miniaturize technology far built bulky fpga boards  design finalized  shrunk ordinary integrated circuit board  signals standard devices  apple watches samsung galaxy phones
+the paper describing interscatter vikr iyer vamsi talla bryce kellogg professors shyamnath gollakota joshua smith  presented august  sigcomm conference brazil
