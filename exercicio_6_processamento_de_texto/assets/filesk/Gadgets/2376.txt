@@ -1,12 +1,1 @@
-seven rounds betas  ios users reporting apple support forums bug affecting devices click links safari chrome mail messages notes app freezes crashes fix solve issues
-update apple says working software fix issue
-it looks like issue related universal links ios  apple introduced universal links brand new way handle links native apps app developers youtu register domain names open web links directly app bypassing safari
-that click youtubecom/somethingsomething link ios opens youtu app instead loading web page safari nifty feature app developers abuse it
-sergey roshchin published video demonstrating today bug ipad working fine  installs bookingcom app safari  unusable clicks link hangs crashes
-bookingcom associates app sorts domains  domains  precise mb worth domain deep link entries safari apps crash ios checks links universal link database database big tipster told voyages sncf app generates crashes ios  update voyages sncf does universal links app cause issue
-and bookingcom app updated march  release ios  safe assume changed ios  causing app crashes handling links
-the webkit te released huge update ios  os x  safari  contains changes hood universal link bug related webkit update  not
-either way encountering bug apple probably fix bug fix update meantime delete bookingcom app and… wait wo fix problems instantly ios checks universal links  iphone work tomorrow
-update deleting booking app  enough
-
-update bookingcom sent following statement
+seven round beta io user report appl support forum bug affect devic click link safari chrome mail messag note app freez crash fix solv issu updat appl say work softwar fix issu it look like issu relat univers link io appl introduc univers link brand new way handl link nativ app app develop youtu regist domain name open web link directli app bypass safari that click youtubecom/somethingsometh link io open youtu app instead load web page safari nifti featur app develop abus it sergey roshchin publish video demonstr today bug ipad work fine instal bookingcom app safari unus click link hang crash bookingcom associ app sort domain domain precis mb worth domain deep link entri safari app crash io check link univers link databas databas big tipster told voyag sncf app gener crash io updat voyag sncf doe univers link app caus issu and bookingcom app updat march releas io safe assum chang io caus app crash handl link the webkit te releas huge updat io os x safari contain chang hood univers link bug relat webkit updat not either way encount bug appl probabl fix bug fix updat meantim delet bookingcom app and… wait wo fix problem instantli io check univers link iphon work tomorrow updat delet book app enough updat bookingcom sent follow statement

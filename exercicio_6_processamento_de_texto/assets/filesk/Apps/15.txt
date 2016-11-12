@@ -1,8 +1,1 @@
-with android experiments google giving freedom experiment quirky little apps interesting technologies  really real purpose latest experimental projects sprayscape vr camera app android probably quite expect read words vr camera app
-
-unlike similar apps including google cardboard camera sprayscape does simply capture  degree sphere just point phone tap screen spray faces places  canvas google describes it
-when try app it not immediately obvious finger screen you blurry image bit weird  oddly fun too
-once you’ve captured  degree photo collage share photos rest world link
-the app uses cardboard sdk read gyroscope data natc unity plugin control camera google published app code github want build similar app use google code done
-if want try download app here
-
+with android experi googl give freedom experi quirki littl app interest technolog realli real purpos latest experiment project sprayscap vr camera app android probabl quit expect read word vr camera app unlik similar app includ googl cardboard camera sprayscap doe simpli captur degre sphere just point phone tap screen spray face place canva googl describ it when tri app it not immedi obviou finger screen you blurri imag bit weird oddli fun too onc you’v captur degre photo collag share photo rest world link the app use cardboard sdk read gyroscop data natc uniti plugin control camera googl publish app code github want build similar app use googl code done if want tri download app here

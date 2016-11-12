@@ -1,18 +1,1 @@
-
-
-people just excitement lately apple app store google play platform air hopelessness surrounds mobile app ecosystem obvious demoralizing
-when i published app platforms (an app automatically monitored fuel economy driving i spent week obsessively checking download counts dreams grandeur dreams course came fruition time publish it  discovered
-i echoed sentiment post year the lack app discoverability harms developers things help  post captured low odds app achieve success genuine impact broken app discovery mobile ecosystem
-to illustrate ecosystem impact i dug apple app store data provided friends at mighty signal and mixrank charts
-first set context let look average number apps released year complete year app store   new apps released month fast forward   new apps released month far be accelerating
-despite more apps released month help surface new apps means developers having harder time getting app directly translates fewer downloads you plot average number ratings app year released historically ratings good proxy number downloads
-
-in  average number ratings app was  times as high  means apps released  downloaded  times today ouch
-what impact developers easier build app today versus early days similar work reward just does exist anymore this drives dramatic increase app abandonment
-
-if app updated months chances actively worked i categorized abandoned abandoned apps i took time difference update release date determine long app actively worked gives app lifetime graph
-as average developers released app  actively worked years abandoning apps released   abandoned months developers churning app store faster leaving abandoned apps behind
-it easy graveyard fills using abandonment rate applying quantity new apps released
-
-
-i know apple aware issue doing help developers rise noise let cross fingers hope way form of  improvements app store search and  rumored app store promoted search results
+peopl just excit late appl app store googl play platform air hopeless surround mobil app ecosystem obviou demor when i publish app platform ( an app automat monitor fuel economi drive i spent week obsess check download count dream grandeur dream cours came fruition time publish it discov i echo sentiment post year the lack app discover harm develop thing help post captur low odd app achiev success genuin impact broken app discoveri mobil ecosystem to illustr ecosystem impact i dug appl app store data provid friend at mighti signal and mixrank chart first set context let look averag number app releas year complet year app store new app releas month fast forward new app releas month far be acceler despit more app releas month help surfac new app mean develop have harder time get app directli translat fewer download you plot averag number rate app year releas histor rate good proxi number download in averag number rate app wa time as high mean app releas download time today ouch what impact develop easier build app today versu earli day similar work reward just doe exist anymor thi drive dramat increas app abandon if app updat month chanc activ work i categor abandon abandon app i took time differ updat releas date determin long app activ work give app lifetim graph as averag develop releas app activ work year abandon app releas abandon month develop churn app store faster leav abandon app behind it easi graveyard fill use abandon rate appli quantiti new app releas i know appl awar issu do help develop rise nois let cross finger hope way form of improv app store search and rumor app store promot search result

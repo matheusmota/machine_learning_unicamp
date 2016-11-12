@@ -12,9 +12,12 @@ Created on Wed Nov  9 14:33:33 2016
 # Loading the libraries
 import numpy as np
 import pandas as pd
-import os
+#import os
 import zipfile
 import urllib.request
+
+from nltk.stem.snowball import PorterStemmer
+from nltk.tokenize import word_tokenize
 
 
 # ------------------------------- Getting Data -------------------------------
@@ -139,6 +142,10 @@ for directory in directories:
                 content = content.replace(stop_word, ' ')
                 
             # Steming
+            stemmer = PorterStemmer()
+            words = word_tokenize(content)
+            stem_words = [stemmer.stem(w) for w in words]
+            content = " ".join(stem_words)
             
             # write the preprocessed content
             outputFile.write(content)

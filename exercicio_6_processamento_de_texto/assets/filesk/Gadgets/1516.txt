@@ -1,12 +1,1 @@
-when really need signal pluto direct connection  possible oh sure big project like new horizons make sure line clear listening   routine updates neptune orbiter power starved comet lander delay/disruption tolerant networking just got big installation international space station
-what dtn glad asked protocol suite  resilient face huge interruptions connectivity  example entire planet star passes nodes network big problem today  eventually  more probes satellites orbiters begin crowd big empty
-
-a dtn powered network uses store forward technique breaks communications chunks  transferred independent reassembled they’ve arrived going bit like bittorrent gets pieces compared traditional downloads start beginning end end
-it useful tool situations connectivity unreliable myriad reasons occur space radiation power failure obstruction lander gets  minutes sun day send data packages piecemeal instead waiting batteries charge stay online hours send thing
-how video illustration
-
-the iss recently added dtn telescience resource kit making satellite piece nasa says eventually form solar scale internet
-dtn little star power nasa collaborated vint cerf optimistic possibilities protocol suite
-
-yes internet things reached boundaries small planet large solar system
-dtn major collaboration  organizations implementations  available open source code read scroll nasa post contributors listed
+when realli need signal pluto direct connect possibl oh sure big project like new horizon make sure line clear listen routin updat neptun orbit power starv comet lander delay/disrupt toler network just got big instal intern space station what dtn glad ask protocol suit resili face huge interrupt connect exampl entir planet star pass node network big problem today eventu more probe satellit orbit begin crowd big empti a dtn power network use store forward techniqu break commun chunk transfer independ reassembl they’v arriv go bit like bittorr get piec compar tradit download start begin end end it use tool situat connect unreli myriad reason occur space radiat power failur obstruct lander get minut sun day send data packag piecem instead wait batteri charg stay onlin hour send thing how video illustr the iss recent ad dtn telesci resourc kit make satellit piec nasa say eventu form solar scale internet dtn littl star power nasa collabor vint cerf optimist possibl protocol suit ye internet thing reach boundari small planet larg solar system dtn major collabor organ implement avail open sourc code read scroll nasa post contributor list

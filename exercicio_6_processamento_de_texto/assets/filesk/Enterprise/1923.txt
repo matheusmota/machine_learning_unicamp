@@ -1,14 +1,1 @@
-unbabel startup backed y combinator combines human editing machine learning online translation platform announced new feature today called smartcheck
-the consists translation service built intelligent translation engine translators sign work customers looking translators search language business skills forth platform currently supports  languages  language pairs spanish english
-the smart comes translation actually learns translations happening begins recognize translation patterns sees particular way translating phrase learn correct way saying  essentially learning correct not
-so time gets smarter better it monitors behavior editors reports common translation mistakes communityunbabel ceo vasco pedro told techcrunch
-the customer pays word price goal unbabel translators translate  words hour translators paid hour faster unbabel makes best ways speed process while reducing errors
-that goal new smartcheck feature
-the new feature helps translators translation process pointing possible errors  offering helpful hints correct problem
-
-as translator types translation gives hints highlights areas need work pedro explained
-this  simple spelling issue telling translator avoid subjective words writing style line customer
-the learns hints monitoring translator work inside translation engine point human machine parts begin align
-the company currently  translators platform  customers july best month surpassing  monthly revenue time according pedro
-it process moving subscription model customers pay fixed rate certain number translated words
-the company participated y combinator winter  class raised m
+unbabel startup back y combin combin human edit machin learn onlin translat platform announc new featur today call smartcheck the consist translat servic built intellig translat engin translat sign work custom look translat search languag busi skill forth platform current support languag languag pair spanish english the smart come translat actual learn translat happen begin recogn translat pattern see particular way translat phrase learn correct way say essenti learn correct not so time get smarter better it monitor behavior editor report common translat mistak communityunbabel ceo vasco pedro told techcrunch the custom pay word price goal unbabel translat translat word hour translat paid hour faster unbabel make best way speed process while reduc error that goal new smartcheck featur the new featur help translat translat process point possibl error offer help hint correct problem as translat type translat give hint highlight area need work pedro explain thi simpl spell issu tell translat avoid subject word write style line custom the learn hint monitor translat work insid translat engin point human machin part begin align the compani current translat platform custom juli best month surpass monthli revenu time accord pedro it process move subscript model custom pay fix rate certain number translat word the compani particip y combin winter class rais m

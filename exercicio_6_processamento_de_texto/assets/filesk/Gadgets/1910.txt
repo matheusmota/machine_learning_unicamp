@@ -1,15 +1,1 @@
-every year i/o google atap division responsible turning company crazier ideas products organizes small keynote year company offered updates number projects including project soli its attempt building small radar sensor translate hand movements digital signals building new user interfaces wearables
-after year i/o demo te focused bringing project developers shipped developer kit  developers year te said encouraged developers used sensor built object recognition tools musical instruments more
-the early kit really usable controlled environment used power sensor small did need fully powered desktop laptop run it
-
-that obviously useful te challenged run smartwatch te redesigned chip infineon reduce power consumption  times    w footprint x smaller
-radar typically takes lot computational power  new version now x efficient run  frames second
-with work te able build soli smartwatch (and time!
-
-this means interact watch touching  use basic gestures interact demo atap te showed scroll messages pretty amazing precision just holding hand watch closer away use virtual dial gesture interact watch face  basically just like use analog watch
-the atap te noted means information screen simply account finger covering watch face
-the te noted soli just meant smartwatches working harman jbl brand te worked building prototype speakers built soli radar allows control speaker sensor to a distance  meters control speaker distance too
-
-to seed development community atap going launch new beta quality dev kit developers year
-sadly unclear we’ll first products project soli technology arrive stores  just like atap worked levi bringing project jacquard smart fabrics market likely soli well
-
+everi year i/o googl atap divis respons turn compani crazier idea product organ small keynot year compani offer updat number project includ project soli it attempt build small radar sensor translat hand movement digit signal build new user interfac wearabl after year i/o demo te focus bring project develop ship develop kit develop year te said encourag develop use sensor built object recognit tool music instrument more the earli kit realli usabl control environ use power sensor small did need fulli power desktop laptop run it that obvious use te challeng run smartwatch te redesign chip infineon reduc power consumpt time w footprint x smaller radar typic take lot comput power new version now x effici run frame second with work te abl build soli smartwatch ( and time ! thi mean interact watch touch use basic gestur interact demo atap te show scroll messag pretti amaz precis just hold hand watch closer away use virtual dial gestur interact watch face basic just like use analog watch the atap te note mean inform screen simpli account finger cover watch face the te note soli just meant smartwatch work harman jbl brand te work build prototyp speaker built soli radar allow control speaker sensor to a distanc meter control speaker distanc too to seed develop commun atap go launch new beta qualiti dev kit develop year sadli unclear we’ll first product project soli technolog arriv store just like atap work levi bring project jacquard smart fabric market like soli well

@@ -1,11 +1,1 @@
-i know supposed  talking flappy bird  i think justified bring appears research paper games like flappy bird hard  frustrating turns controls fundamentally bad
-that come surprise   angry birds neko atsume work fine  action games mobile tend suffer unresponsive controls turns blame developer much
-researchers aalto university finland probably dying  millionth time flappy bird pledging way justify failure scientifically new paper number factors combine make controls unreliable
-we finally explain games require accurate timing annoyingly hard touchscreens said author antti oulasvirta news release accompanying paper
-
-first users precisely control high hold finger case physical button maintain physical contact introduces variability timing
-second timing sensor event uncertain player ca reliably tell touchscreen actually register touch finger makes slightest contact passes threshold variability introduced
-
-there solutions minimizing regularizing latency thing  good practice making touch events place certain touch maximum threshold reliability accuracy increased error rates dropped  percent finger height  unfortunately does appear  solution that
-at we’ve got better handle problem stick real buttons can
-the paper oulasvirta byungjoo lee  presented association computing machinery computer human interaction conference month
+i know suppos talk flappi bird i think justifi bring appear research paper game like flappi bird hard frustrat turn control fundament bad that come surpris angri bird neko atsum work fine action game mobil tend suffer unrespons control turn blame develop much research aalto univers finland probabl die millionth time flappi bird pledg way justifi failur scientif new paper number factor combin make control unreli we final explain game requir accur time annoyingli hard touchscreen said author antti oulasvirta news releas accompani paper first user precis control high hold finger case physic button maintain physic contact introduc variabl time second time sensor event uncertain player ca reliabl tell touchscreen actual regist touch finger make slightest contact pass threshold variabl introduc there solut minim regular latenc thing good practic make touch event place certain touch maximum threshold reliabl accuraci increas error rate drop percent finger height unfortun doe appear solut that at we’v got better handl problem stick real button can the paper oulasvirta byungjoo lee present associ comput machineri comput human interact confer month

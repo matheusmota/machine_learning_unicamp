@@ -1,5 +1,1 @@
-today apple wwdc  conference apple svp craig federighi announced major update apple internet things platform homekit big news apple built dedicated app control devices person home
-this let homeowners use app control lights view doorbell cams open garage doors more this big
-apple launched homekit ios   internet things marketplace exploded apps devices solutions ties homekit home like good step goal
-now home homekit enabled devices lights thermostats garage doors  controlled single app app supports mass actions allowing user hit single button activate series devices hit say i’m leaving home app turn lights turn thermostat set alarm
-the new app hit ipad apple watch too
+today appl wwdc confer appl svp craig federighi announc major updat appl internet thing platform homekit big news appl built dedic app control devic person home thi let homeown use app control light view doorbel cam open garag door more thi big appl launch homekit io internet thing marketplac explod app devic solut tie homekit home like good step goal now home homekit enabl devic light thermostat garag door control singl app app support mass action allow user hit singl button activ seri devic hit say i’m leav home app turn light turn thermostat set alarm the new app hit ipad appl watch too

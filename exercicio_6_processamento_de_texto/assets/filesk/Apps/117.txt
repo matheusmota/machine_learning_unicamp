@@ -1,9 +1,1 @@
-mightytv app helps figure watch available android
-the startup led admeld founder brian adams presents users stack movie tv recommendations swipe tinder style you’ve seen say liked influence recommendations you seen appealing save watch list
-the app connected streaming services like netflix hbo recommend things fit overlap taste user
-the android app look familiar users mightytv iphone app  adams said comes extra bells whistles notably word cloud company calls mq showing users favorite genres actors based swiping data
-adams told company rebuilt machine learning technology uses try understand taste individual users  described hybrid approach combines genre based strategies for recommending movies (eg liked war movie like collaborative filtering based user ratings
-
-
-mightytv releasing total number users downloaded app launched april  sounds like users doing healthy swiping  adams said  average number swipes week (and mind recommendations point app swiping just way there
-mightytv recently raised additional  million bringing total funding  million
+mightytv app help figur watch avail android the startup led admeld founder brian adam present user stack movi tv recommend swipe tinder style you’v seen say like influenc recommend you seen appeal save watch list the app connect stream servic like netflix hbo recommend thing fit overlap tast user the android app look familiar user mightytv iphon app adam said come extra bell whistl notabl word cloud compani call mq show user favorit genr actor base swipe data adam told compani rebuilt machin learn technolog use tri understand tast individu user describ hybrid approach combin genr base strategi for recommend movi ( eg like war movi like collabor filter base user rate mightytv releas total number user download app launch april sound like user do healthi swipe adam said averag number swipe week ( and mind recommend point app swipe just way there mightytv recent rais addit million bring total fund million

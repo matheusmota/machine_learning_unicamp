@@ -1,10 +1,1 @@
-fabric twitter toolkit developers build apps platform launched october twitter flight developer conference announced toolkit getting nice goodies
-+ developers using fabric billion mobile devices
-
-the idea twitter wants very structured way help developers launch grow make money apps leverage twitter platform instead wild west is
-the te said today
-stripe founder patrick collison took stage twitter flight today talk important integration said drops barriers developers try payments using stripe
-the company known easy integration  drops activation time  minutes fabric cannonical platform mobile apps develop want  collison continued
-sounds good good company adding new partners app developers weave apps stripe aws optimizely nuance gameanalytics mapbox appsee pubnub nice array options storage payments
-these  available developers coming months
-
+fabric twitter toolkit develop build app platform launch octob twitter flight develop confer announc toolkit get nice goodi + develop use fabric billion mobil devic the idea twitter want veri structur way help develop launch grow make money app leverag twitter platform instead wild west is the te said today stripe founder patrick collison took stage twitter flight today talk import integr said drop barrier develop tri payment use stripe the compani known easi integr drop activ time minut fabric cannon platform mobil app develop want collison continu sound good good compani ad new partner app develop weav app stripe aw optim nuanc gameanalyt mapbox appse pubnub nice array option storag payment these avail develop come month

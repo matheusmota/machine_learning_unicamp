@@ -1,12 +1,1 @@
-confide app lets send self destructing messages transitioning desktop
-confide launched  months ago mobile app ios android offering users chance send messages readable words time user tapped certain words message appear disappear user finger moved entire message
-once user chose reply exit message disappeared forever
-now functionality coming desktop mac windows native application
-founder ceo jon brod told techcrunch desktop functionality  plan
-we want offer private self destructing messages platforms devices said brod days needs privacy want  ubiquitous platform level secure private communication
-with desktop version app biggest challenges developing software eliminate ability screenshots messages mac users try screenshot confide message simply blank gray screen true windows file black screen instead
-confide mobile app recently introduced apple watch app said notifications wo  hitting devices time instead confide recognize actively using desktop app and/or mobile app send notifications appropriate destination read message desktop confide send delayed notification phone make sure receive message
-just case confide mobile desktop app allows users send files photos viewable portion time
-the main difference mobile desktop received desktop messages self destruct reply message sent mobile received messages self destruct soon hit reply button
-confide currently available  different languages  countries
-if want learn confide desktop hit website here
+confid app let send self destruct messag transit desktop confid launch month ago mobil app io android offer user chanc send messag readabl word time user tap certain word messag appear disappear user finger move entir messag onc user chose repli exit messag disappear forev now function come desktop mac window nativ applic founder ceo jon brod told techcrunch desktop function plan we want offer privat self destruct messag platform devic said brod day need privaci want ubiquit platform level secur privat commun with desktop version app biggest challeng develop softwar elimin abil screenshot messag mac user tri screenshot confid messag simpli blank gray screen true window file black screen instead confid mobil app recent introduc appl watch app said notif wo hit devic time instead confid recogn activ use desktop app and/or mobil app send notif appropri destin read messag desktop confid send delay notif phone make sure receiv messag just case confid mobil desktop app allow user send file photo viewabl portion time the main differ mobil desktop receiv desktop messag self destruct repli messag sent mobil receiv messag self destruct soon hit repli button confid current avail differ languag countri if want learn confid desktop hit websit here
