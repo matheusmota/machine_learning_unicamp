@@ -18,6 +18,7 @@ import urllib.request
 
 from nltk.stem.snowball import PorterStemmer
 from nltk.tokenize import word_tokenize
+#from nltk.corpus import stopwords
 
 
 # ------------------------------- Getting Data -------------------------------
@@ -52,7 +53,7 @@ zip_ref.close()
 df_categories = pd.read_csv(url_categories, 
                             header= None, 
                             names= ['file', 'category'],
-                            skiprows = 0,
+                            skiprows = [0],
                             delimiter = " " )
 
 # ---------------------------- Pre-processing the data -----------------------
@@ -109,13 +110,13 @@ stop_words = [" a ", " about ", " above ", " above ", " across ", " after ", " a
               " whose ", " why ", " will ", " with ", " within ", " without ", " would ", 
               " yet ", " you ", " your ", " yours ", " yourself ", " yourselves ", " the "]
 
-# Iterate over the directories
+# Iterate over the directories to clean the dataset
 for directory in directories:
     # for filename in os.listdir(os.getcwd()):
     for filename in np.ravel(df_categories['file'].loc[df_categories['category'] == directory]):
 
         # Setting up the relative path for the file
-        filename = directories[directory] + filename + '.txt'
+        filename = directories[directory] + str(filename) + '.txt'
         
         # Open the file and read the content
         with open(filename, "r") as inputFile:
@@ -138,8 +139,10 @@ for directory in directories:
             content = content.replace('-', ' ')
             
             # Remove stop words
+            # content = [w for w in content if not w in stopwords.words("english")]
             for stop_word in stop_words:
                 content = content.replace(stop_word, ' ')
+                
                 
             # Steming
             stemmer = PorterStemmer()
@@ -149,4 +152,55 @@ for directory in directories:
             
             # write the preprocessed content
             outputFile.write(content)
+            
+                        
+# The words in all documents
+word_list = []
+
+# Iterate over the directories to find the words in all the documents
+for directory in directories:
+    for filename in np.ravel(df_categories['file'].loc[df_categories['category'] == directory]):
+
+        # Setting up the relative path for the file
+        filename = directories[directory] + str(filename) + '.txt'
         
+        # Open the file and read the content
+        with open(filename, "r") as inputFile:
+            content = inputFile.read()
+            
+            # Getting the word of the text in array format
+            words = content.split()
+            
+            word_list.extend(words)
+            word_list = list(set(word_list))
+            
+print("# of Words: ", len(word_list)) # 30,940
+print("# of Documents: ", df_categories.shape[0]) # 5,000
+print("----------------------------------------")
+
+
+# Bags of words and term frequency matrix
+# 2 arrays, each one with 30,940 columns and 5,000 rows
+# Storing data in int32 => 30,940 * 5,000 * 2 * 4 bytes ~ 1.2376 GB RAM
+
+bag_of_words = np.zeros(shape=(df_categories.shape[0], len(word_list)))
+tf_matrix = np.zeros(shape=(df_categories.shape[0], len(word_list)))
+
+# Iterate over the directories to do bag of words and TF matrix
+for directory in directories:
+    for filename in np.ravel(df_categories['file'].loc[df_categories['category'] == directory]):
+
+        # Setting up the relative path for the file
+        file_name = directories[directory] + str(filename) + '.txt'
+        
+        # Open the file and read the content
+        with open(file_name, "r") as inputFile:
+            content = inputFile.read()
+            
+            # Getting the word of the text in array format
+            words = content.split()
+            
+            for w in words:
+                word_index = word_list.index(w)
+                bag_of_words[filename - 1][word_index] = 1
+                tf_matrix[filename - 1][word_index] = tf_matrix[filename - 1][word_index] + 1
