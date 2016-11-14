@@ -20,6 +20,10 @@ from nltk.stem.snowball import PorterStemmer
 from nltk.tokenize import word_tokenize
 #from nltk.corpus import stopwords
 
+from sklearn.model_selection import train_test_split
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.linear_model import LogisticRegression
+
 
 # ------------------------------- Getting Data -------------------------------
 
@@ -174,8 +178,8 @@ for directory in directories:
             word_list.extend(words)
             word_list = list(set(word_list))
             
-print("# of Words: ", len(word_list)) # 30,940
-print("# of Documents: ", df_categories.shape[0]) # 5,000
+print("Número de palavras: ", len(word_list)) # 30,940
+print("Número de documentos: ", df_categories.shape[0]) # 5,000
 print("----------------------------------------")
 
 
@@ -204,3 +208,63 @@ for directory in directories:
                 word_index = word_list.index(w)
                 bag_of_words[filename - 1][word_index] = 1
                 tf_matrix[filename - 1][word_index] = tf_matrix[filename - 1][word_index] + 1
+            
+            
+            
+                
+# ------------------------- Multiclass classificator --------------------------
+
+
+# Classes dataframe
+df_classes = np.ravel(df_categories['category'])
+
+# Split the dataset 4000 for training and 1000 for testing randomically
+# We need at least 1.2376 GB RAM more to split the data
+
+# Split Bag of Words in test and train data
+BW_train, BW_test, BW_categories_train, BW_categories_test = train_test_split(
+    bag_of_words, df_classes, test_size=0.2, random_state=1992)
+    
+# Split Term Frequency Matrix in test and train data
+TF_train, TF_test, TF_categories_train, TF_categories_test = train_test_split(
+    tf_matrix, df_classes, test_size=0.2, random_state=1992)
+    
+# Naive Bayes on the Bag of Words
+clf_naive_bayes = MultinomialNB()
+clf_naive_bayes.fit(BW_train, BW_categories_train)
+score_nb_bw = clf_naive_bayes.score(BW_test, BW_categories_test)
+
+# Naive Bayes on the Term Frequency Matrix 
+# Reusing the classifier to optimize memory
+clf_naive_bayes = MultinomialNB()
+clf_naive_bayes.fit(TF_train, TF_categories_train)
+score_nb_tf = clf_naive_bayes.score(TF_test, TF_categories_test)
+
+# Changing C value in Logistic Regression to prevent regularization
+param_C=10000
+
+# Improving the performance using parallelization
+n_jobs = 3
+
+# Logistic Regression on the Bag of Words
+clf_lr = LogisticRegression(C = param_C, n_jobs = n_jobs)
+clf_lr.fit(BW_train, BW_categories_train)
+score_lr_bw = clf_lr.score(BW_test, BW_categories_test)
+
+# Logistic Regression on the Term Frequency Matrix 
+# Reusing the classifier to optimize memory
+clf_lr = LogisticRegression(C = param_C, n_jobs = n_jobs)
+clf_lr.fit(TF_train, TF_categories_train)
+score_lr_tf = clf_lr.score(TF_test, TF_categories_test)
+
+print('Acurácia de Naive Bayes em Bag of Words: ', score_nb_bw)
+print('Acurácia de Naive Bayes em Term Frequency Matrix: ', score_nb_tf)
+print('Acurácia de Logistic Regression em Bag of Words: ', score_lr_bw)
+print('Acurácia de Logistic Regression em Term Frequency Matrix: ', score_lr_tf)
+print('----------------------------------------------------------------------')
+
+
+
+# -------------- Multiclass classificator using a PCA in the data -------------
+
+
