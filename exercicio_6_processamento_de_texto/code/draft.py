@@ -20,9 +20,12 @@ from nltk.stem.snowball import PorterStemmer
 from nltk.tokenize import word_tokenize
 #from nltk.corpus import stopwords
 
+from sklearn.decomposition import PCA
 from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.linear_model import LogisticRegression
+from sklearn.svm import SVC
+from sklearn.ensemble import RandomForestClassifier
 
 
 # ------------------------------- Getting Data -------------------------------
@@ -257,6 +260,7 @@ clf_lr = LogisticRegression(C = param_C, n_jobs = n_jobs)
 clf_lr.fit(TF_train, TF_categories_train)
 score_lr_tf = clf_lr.score(TF_test, TF_categories_test)
 
+# Results
 print('Acurácia de Naive Bayes em Bag of Words: ', score_nb_bw)
 print('Acurácia de Naive Bayes em Term Frequency Matrix: ', score_nb_tf)
 print('Acurácia de Logistic Regression em Bag of Words: ', score_lr_bw)
@@ -267,4 +271,25 @@ print('----------------------------------------------------------------------')
 
 # -------------- Multiclass classificator using a PCA in the data -------------
 
+variance_percentage_pca = 0.99
 
+# PCA in Term Frequency matrix
+pca = PCA(n_components = variance_percentage_pca)
+pca.fit(TF_train)
+params_reduced_train = pca.transform(TF_train)
+params_reduced_test = pca.transform(TF_test)
+
+# SVM Classifier 
+clf_svm = SVC()
+clf_svm.fit(params_reduced_train, TF_categories_train)
+score_svm = clf_svm.score(params_reduced_test, TF_categories_test)
+
+# Random Forest Classifier
+clf_rf = RandomForestClassifier()
+clf_rf.fit(params_reduced_train, TF_categories_train)
+score_rf = clf_rf.score(params_reduced_test, TF_categories_test)
+
+print('Classificação em Term Frequency Matrix com dados de dimensionalidade reduzida por PCA')
+print('Acurácia SVM: ', score_svm)
+print('Acurácia SVM: ', score_rf)
+print('-------------------------------------------------------------------------------------')
