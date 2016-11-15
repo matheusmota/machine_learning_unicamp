@@ -279,7 +279,7 @@ pca.fit(TF_train)
 params_reduced_train = pca.transform(TF_train)
 params_reduced_test = pca.transform(TF_test)
 
-# SVM Classifier 
+# SVM Classifier with RBF kernel
 clf_svm = SVC()
 clf_svm.fit(params_reduced_train, TF_categories_train)
 score_svm = clf_svm.score(params_reduced_test, TF_categories_test)
@@ -289,7 +289,7 @@ clf_rf = RandomForestClassifier()
 clf_rf.fit(params_reduced_train, TF_categories_train)
 score_rf = clf_rf.score(params_reduced_test, TF_categories_test)
 
-print('Classificação em Term Frequency Matrix com dados de dimensionalidade reduzida por PCA')
+print('Classificação em TF Matrix com dados de dimensionalidade reduzida por PCA')
 print('Acurácia SVM: ', score_svm)
-print('Acurácia SVM: ', score_rf)
-print('-------------------------------------------------------------------------------------')
+print('Acurácia Random Forest: ', score_rf)
+print('-------------------------------------------------------------------------')
