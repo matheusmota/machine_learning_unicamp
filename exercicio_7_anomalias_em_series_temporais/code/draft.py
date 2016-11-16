@@ -10,8 +10,11 @@ Created on Tue Nov 15 14:01:19 2016
 """
 
 # Loading the libraries
+import math
 import numpy as np
 import pandas as pd
+
+import matplotlib.pyplot as plt
 
 
 # ------------------------------- Getting Data -------------------------------
@@ -22,8 +25,74 @@ url_serie_3 = 'http://www.ic.unicamp.br/~wainer/cursos/2s2016/ml/serie3.csv'
 url_serie_4 = 'http://www.ic.unicamp.br/~wainer/cursos/2s2016/ml/serie4.csv'
 url_serie_5 = 'http://www.ic.unicamp.br/~wainer/cursos/2s2016/ml/serie5.csv'
 
-df_serie_1 = pd.read_csv(url_serie_1, header= True)
-df_serie_2 = pd.read_csv(url_serie_2, header= True)
-df_serie_3 = pd.read_csv(url_serie_3, header= True)
-df_serie_4 = pd.read_csv(url_serie_4, header= True)
-df_serie_5 = pd.read_csv(url_serie_5, header= True)
+df_serie_1 = pd.read_csv(url_serie_1, header= 0)
+df_serie_2 = pd.read_csv(url_serie_2, header= 0)
+df_serie_3 = pd.read_csv(url_serie_3, header= 0)
+df_serie_4 = pd.read_csv(url_serie_4, header= 0)
+df_serie_5 = pd.read_csv(url_serie_5, header= 0)
+
+# ------------------------- Pre-processing the data --------------------------
+
+ts1 = np.ravel(df_serie_1['value'])
+ts2 = np.ravel(df_serie_2['value'])
+ts3 = np.ravel(df_serie_3['value'])
+ts4 = np.ravel(df_serie_4['value'])
+ts5 = np.ravel(df_serie_5['value'])
+
+# ------------------------------ Algorithm -------- --------------------------
+
+# Creates the descriptor (mean, standard deviation)
+# ts: a vector of Time Series
+# N: the length of the subsequence considered
+def get_descriptor(ts, N):
+    
+    mean = []
+    std = []    
+    M = len(ts)
+    print(M)
+    
+    for i in range(0, M - N + 1 ):
+        mean.append(np.mean(ts[i:i + N]))
+        std.append(np.std(ts[i:i + N]))
+        
+    return[mean, std]
+
+# Matches each descriptor against others to find similarities based on
+# pertecentage, i.e. for each descriptor we assume that there is a similarity 
+# if the mean and stardard deviation does not change more than a percentage
+# compared with other descriptor. Finally, we count the number of similar 
+# descriptors and those with less similarities are anomalies
+def match_descriptors(mean, std, p_limit = 0.1):
+    
+    K = len(mean)
+    match_vector = []
+    
+    for i in range(0, K):
+        counter = 0
+        for j in range(0, K):
+            p_mean = 0
+            p_std = 0
+            
+            if(mean[i] != 0):
+                p_mean = math.fabs(mean[i] - mean[j])/mean[i]
+            
+            if(std[i] != 0):
+                p_std = math.fabs(std[i] - std[j])/std[i]
+                
+            if(p_mean < p_limit and p_std < p_limit):
+                counter = counter + 1
+                
+        match_vector.append(counter)
+    
+    return match_vector
+            
+            
+descriptor = get_descriptor(ts1, 150)
+mean = descriptor[0]
+std = descriptor[1]
+
+match_descriptor = match_descriptors(mean, std, 0.005)
+
+plt.plot(match_descriptor)
+plt.ylabel('Descritor')
+plt.show()
