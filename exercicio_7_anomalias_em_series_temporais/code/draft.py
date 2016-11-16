@@ -47,9 +47,8 @@ ts5 = np.ravel(df_serie_5['value'])
 def get_descriptor(ts, N):
     
     mean = []
-    std = []    
+    std = []
     M = len(ts)
-    print(M)
     
     for i in range(0, M - N + 1 ):
         mean.append(np.mean(ts[i:i + N]))
@@ -73,25 +72,22 @@ def match_descriptors(mean, std, p_limit = 0.1):
             p_mean = 0
             p_std = 0
             
-            if(mean[i] != 0):
-                p_mean = math.fabs(mean[i] - mean[j])/mean[i]
-            
-            if(std[i] != 0):
-                p_std = math.fabs(std[i] - std[j])/std[i]
-                
-            if(p_mean < p_limit and p_std < p_limit):
+            # I'm assming a gaussian distribution here
+            if(mean[j] <= (mean[i] + 2*std[i]) and mean[j] >= (mean[i] - 2*std[i])):
                 counter = counter + 1
+            
                 
         match_vector.append(counter)
     
     return match_vector
-            
-            
-descriptor = get_descriptor(ts1, 150)
-mean = descriptor[0]
-std = descriptor[1]
 
-match_descriptor = match_descriptors(mean, std, 0.005)
+
+            
+#descriptor = get_descriptor(ts4, 2)
+#mean = descriptor[0]
+#std = descriptor[1]
+
+#match_descriptor = match_descriptors(mean, std)
 
 plt.plot(match_descriptor)
 plt.ylabel('Descritor')
