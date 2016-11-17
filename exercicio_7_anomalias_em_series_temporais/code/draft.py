@@ -52,11 +52,7 @@ def get_descriptor(ts, N):
     
     for i in range(0, M - N + 1 ):
         mean.append(np.mean(ts[i:i + N]))
-        q75, q25 = np.percentile(ts[i:i + N], [75 ,25])
-        iqr = q75 - q25
-        x = ts[i:i + N]
-        data_clean = np.where(np.logical_and(x>=q25, x<=q75))
-        std.append(np.std(data_clean))        
+        std.append(np.std(ts[i:i + N]))        
         
     return[mean, std]
 
@@ -77,6 +73,7 @@ def match_descriptors(mean, std, p_limit = 2):
             p_std = 0
             
             # I'm assming a gaussian distribution here
+            # p_limit = 2 => 95% of confidence
             if(mean[j] <= (mean[i] + std[i] * p_limit) and mean[j] >= (mean[i] - std[i] * p_limit)):
                 counter = counter + 1
             
@@ -86,36 +83,36 @@ def match_descriptors(mean, std, p_limit = 2):
     return match_vector
 
 
+def find_N(ts):
+    
+    mean = np.mean(ts)
+    subsequence_arr = []
+    subsequence_length = 0
+
+    for value in ts:
+        if value > mean:
+            subsequence_length = subsequence_length + 1
+        elif subsequence_length > 0:
+            subsequence_arr.append(subsequence_length)
+            subsequence_length = 0
             
-#descriptor = get_descriptor(ts4, 2)
-#mean = descriptor[0]
-#std = descriptor[1]
+    return np.amax(subsequence_arr)
+    
 
-#match_descriptor = match_descriptors(mean, std)
-ts = ts1
-fft_simetric_vector = np.fft.fft(ts)
-L = len(fft_simetric_vector)
-fft_vector = fft_simetric_vector[2:L/2] # Gambiarra
-magnitude = [math.sqrt(x.real**2 + x.imag**2) for x in fft_vector]
-index_max_fft = np.argmax(magnitude)
-sample_rate = 1 # Hz
-max_freq = (index_max_fft + 2)*sample_rate/len(ts)
-wavelength = math.floor(sample_rate/max_freq)
 
-print('Maximum Frequency:', max_freq)
-print('Wavelength:', wavelength)
+            
+
+ts = ts5
+wavelength = math.floor(find_N(ts))
+
+print(wavelength)
 
 descriptor = get_descriptor(ts, wavelength)
 mean = descriptor[0]
 std = descriptor[1]
 
-#match_descriptor = match_descriptors(mean, std)
+match_descriptor = match_descriptors(mean, std)
 
-plt.plot(std)
+plt.plot(match_descriptor)
 plt.ylabel('Descritor')
 plt.show()
-
-# Juan you should try with the median and count how many points are above the
-# median before falling. You should do a mean of the number of points in 
-# each subsequence and select it as N. Maybe using the standard deviation to 
-# increase it.
