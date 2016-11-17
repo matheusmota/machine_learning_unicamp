@@ -86,21 +86,36 @@ def match_descriptors(mean, std, p_limit = 2):
 def find_N(ts):
     
     mean = np.mean(ts)
-    subsequence_arr = []
-    subsequence_length = 0
+    subseq_up_arr = []
+    subseq_down_arr = []
+    subseq_up_length = 0
+    subseq_down_length = 0
 
     for value in ts:
         if value > mean:
-            subsequence_length = subsequence_length + 1
-        elif subsequence_length > 0:
-            subsequence_arr.append(subsequence_length)
-            subsequence_length = 0
-            
-    return np.amax(subsequence_arr)
+            subseq_up_length = subseq_up_length + 1
+            if subseq_down_length > 0:
+                subseq_down_arr.append(subseq_down_length)
+                subseq_down_length = 0
+        else:
+            subseq_down_length = subseq_down_length + 1
+            if subseq_up_length > 0:
+                subseq_up_arr.append(subseq_up_length)
+                subseq_up_length = 0
     
-
-
-            
+    subseq_up_max = np.amax(subseq_up_arr)
+    subseq_down_max = np.amax(subseq_down_arr)
+    subseq_relationship = subseq_down_max / subseq_up_max
+    wavelength = 0
+    
+    if(subseq_relationship > 3  and subseq_relationship < 5):
+        wavelength = subseq_down_max - subseq_up_max
+    else:
+        wavelength = subseq_up_max
+        
+    
+    return wavelength
+      
 
 ts = ts5
 wavelength = math.floor(find_N(ts))
