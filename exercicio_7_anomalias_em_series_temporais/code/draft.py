@@ -82,7 +82,12 @@ def match_descriptors(mean, std, p_limit = 2):
     
     return match_vector
 
-
+# This function finds the size of the subsequence in the time series,
+# counting the number of points in sequence above the mean, and also counting
+# the number of points in sequence below the mean. We calculate the max 
+# sequence for points above and below the mean and based on that we 
+# choose the max sequence above or the substraction between max sequence
+# below and max sequence above.
 def find_N(ts):
     
     mean = np.mean(ts)
@@ -115,19 +120,40 @@ def find_N(ts):
         
     
     return wavelength
-      
+    
+# Takes the time serie and find a wavelength to execute an anomaly detection
+# Finally, it plots the time serie and the anomaly
+def show_anomaly(ts):
+    
+    ts_length = len(ts)
+    wavelength = math.floor(find_N(ts))
 
-ts = ts5
-wavelength = math.floor(find_N(ts))
+    descriptor = get_descriptor(ts, wavelength)
+    mean = descriptor[0]
+    std = descriptor[1]
 
-print(wavelength)
+    match_descriptor = match_descriptors(mean, std)
+    anomaly_index = np.argmin(match_descriptor)
+    
+    # This is hacky just to make visible the anomaly in the pĺot
+    # because in some case the anomaly size is so little it can't be
+    # plotted
+    if(wavelength < 10):
+        wavelength = 10
+    
 
-descriptor = get_descriptor(ts, wavelength)
-mean = descriptor[0]
-std = descriptor[1]
+    plt.plot(range(0,ts_length), ts, '#ff5722', 
+             range(anomaly_index,(anomaly_index + wavelength)),
+             ts[range(anomaly_index,(anomaly_index + wavelength))],
+             '#009688')
+    plt.ylabel('Index')
+    plt.ylabel('Value')
+    plt.show()
+    
+# ------------------------- Testing the Algorithm ----------------------------
 
-match_descriptor = match_descriptors(mean, std)
-
-plt.plot(match_descriptor)
-plt.ylabel('Descritor')
-plt.show()
+show_anomaly(ts1)
+show_anomaly(ts2)
+show_anomaly(ts3)
+show_anomaly(ts4)
+show_anomaly(ts5)
